@@ -1745,7 +1745,7 @@ Gieo thêm hy vọng, điệu nhạc này chớ buồn làm gì
 Với những thứ không quan trọng, anh sẽ lấy tay gạt đi
 Suy nghĩ làm gì cho tốn thời gian`,
 
-  "assets/artists/mck/audio/31 - N0L4B3L ft Thành Draw, RPT Orijinn.mp3": `[Verse 1: RPT MCK]
+  "assets/artists/mck/audio/31 - N0L4B3L ft Thành Draw, RPT Orijinn.mp3": `[Verse 1: RPT MCK]
 Cảm giác tao đã biết quá nhiều nên tao không rap được tiếp
 Đã hai năm kể từ lần cuối anh em tao trượt tuyết
 Ngắm nhìn ngành công nghiệp và những sản phẩm đã được chiết
