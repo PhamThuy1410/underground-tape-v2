@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="UNDERGRND — Multi-artist underground hip-hop platform" />
+  <title>UNDERGRND — Mixtape Platform</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Anton:wght@400&family=Permanent+Marker&family=JetBrains+Mono:wght@400;600&family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- GRAIN OVERLAY -->
+  <div class="grain-overlay"></div>
+  <div class="scanline-overlay"></div>
+
+  <!-- ARTIST SELECTOR -->
+  <div id="artistSelector" class="artist-selector">
+    <div class="artist-selector__inner">
+      <h1 class="artist-selector__title">UNDERGRND</h1>
+      <p class="artist-selector__subtitle">Select Artist</p>
+      <div class="artist-selector__grid" id="artistGrid"></div>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <main id="mainContent" class="main-content" style="display: none;">
+    <!-- HEADER -->
+    <header class="header">
+      <button class="header__back" id="backBtn">← Back</button>
+      <div class="header__content">
+        <img id="artistHero" class="header__image" src="" alt="Artist" />
+        <div class="header__info">
+          <h1 id="artistName" class="header__name"></h1>
+          <p id="artistBio" class="header__bio"></p>
+          <div class="header__links" id="artistLinks"></div>
+        </div>
+      </div>
+    </header>
+
+    <!-- TRACKLIST -->
+    <section class="tracklist-section">
+      <h2 class="section-title">Tracks</h2>
+      <ol id="trackList" class="tracklist"></ol>
+    </section>
+
+    <!-- VIDEOS (optional) -->
+    <section id="videosSection" class="videos-section" style="display: none;">
+      <h2 class="section-title">Music Videos</h2>
+      <div id="videosSelf" class="videos-grid"></div>
+    </section>
+  </main>
+
+  <!-- FIXED PLAYER DECK -->
+  <div class="deck" id="deck">
+    <!-- VISUALIZER -->
+    <div class="deck__viz">
+      <canvas id="visualizer" width="120" height="50"></canvas>
+    </div>
+
+    <!-- METADATA -->
+    <div class="deck__meta">
+      <div class="deck__artist" id="deckArtist">—</div>
+      <div class="deck__title" id="deckTitle">Select a track</div>
+    </div>
+
+    <!-- CONTROLS -->
+    <div class="deck__controls">
+      <button class="deck__btn" id="prevBtn" aria-label="Previous">
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <polygon points="19 20 9 12 19 4" />
+          <line x1="5" y1="19" x2="5" y2="5" stroke="currentColor" stroke-width="2" />
+        </svg>
+      </button>
+      
+      <button class="deck__btn deck__btn--play" id="playBtn" aria-label="Play/Pause">
+        <svg id="playIcon" viewBox="0 0 24 24" fill="currentColor">
+          <polygon points="5 3 19 12 5 21" />
+        </svg>
+        <svg id="pauseIcon" viewBox="0 0 24 24" fill="currentColor" style="display: none;">
+          <rect x="6" y="4" width="4" height="16" />
+          <rect x="14" y="4" width="4" height="16" />
+        </svg>
+      </button>
+      
+      <button class="deck__btn" id="nextBtn" aria-label="Next">
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <polygon points="5 4 15 12 5 20" />
+          <line x1="19" y1="19" x2="19" y2="5" stroke="currentColor" stroke-width="2" />
+        </svg>
+      </button>
+
+      <button class="deck__btn" id="lyricsBtn" aria-label="Lyrics">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
+        </svg>
+      </button>
+    </div>
+
+    <!-- SEEKBAR -->
+    <div class="deck__seekbar">
+      <input type="range" id="seekBar" class="seek-input" min="0" max="100" value="0" />
+      <div class="seek-time">
+        <span id="timeCurrent">0:00</span> / <span id="timeDuration">0:00</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- LYRICS MODAL -->
+  <div id="lyricsModal" class="modal" style="display: none;">
+    <div class="modal__backdrop"></div>
+    <div class="modal__content">
+      <button class="modal__close" id="lyricsCloseBtn">&times;</button>
+      <h2 id="lyricsTitle" class="modal__title"></h2>
+      <div id="lyricsBody" class="modal__body"></div>
+    </div>
+  </div>
+
+  <!-- VIDEO MODAL -->
+  <div id="videoModal" class="modal modal--video" style="display: none;">
+    <div class="modal__backdrop"></div>
+    <div class="modal__content modal__content--video">
+      <button class="modal__close" id="videoCloseBtn">&times;</button>
+      <video id="videoPlayer" class="video-player" controls></video>
+    </div>
+  </div>
+
+  <!-- AUDIO ELEMENT -->
+  <audio id="audioEl" crossorigin="anonymous"></audio>
+
+  <!-- SCRIPTS -->
+  <script src="js/config.js"></script>
+  <script src="js/lyrics.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

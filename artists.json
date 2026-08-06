@@ -1,0 +1,60 @@
+{
+  "artists": [
+    {
+      "id": "mck",
+      "name": "MCK",
+      "fullName": "MCK",
+      "bio": "Underground rapper Việt Nam, founder UNDERGRND — mixtape vol.01",
+      "year": 2024,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com",
+        "instagram": "https://instagram.com"
+      },
+      "color": "#c81e3a",
+      "heroImage": "assets/artists/mck/hero.webp"
+    },
+    {
+      "id": "obito",
+      "name": "OBITO",
+      "fullName": "OBITO",
+      "bio": "Underground rapper Việt Nam, known for experimental sounds & conscious lyrics",
+      "year": 2016,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com",
+        "instagram": "https://instagram.com"
+      },
+      "color": "#7c3aed",
+      "heroImage": "assets/artists/obito/hero.webp"
+    },
+    {
+      "id": "wxrdie",
+      "name": "WXRDIE",
+      "fullName": "WXRDIE",
+      "bio": "Underground producer & rapper, blending trap & lo-fi aesthetics",
+      "year": 2018,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com",
+        "instagram": "https://instagram.com"
+      },
+      "color": "#06b6d4",
+      "heroImage": "assets/artists/wxrdie/hero.webp"
+    },
+    {
+      "id": "dangrangto",
+      "name": "DANGRANGTO",
+      "fullName": "DANGRANGTO",
+      "bio": "Underground rapper Việt Nam, storyteller with raw, authentic vibes",
+      "year": 2017,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com",
+        "instagram": "https://instagram.com"
+      },
+      "color": "#f97316",
+      "heroImage": "assets/artists/dangrangto/hero.webp"
+    }
+  ]
+}
