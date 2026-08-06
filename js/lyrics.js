@@ -1775,13 +1775,7 @@ Mày đã quá rén rồi, chân run, ngực mày khép
 Chính mày chọn vị trí này nên đâu còn chỗ để nép
 "Sự thịnh vượng, ghét tiếng ồn", lấy giấy ra mà chép
 Nhìn mày gào lên để lấy sự chú ý, khung cảnh quá là đẹp
-You might also like
-Rapper Lè Nhè
-Hustlang Robber
-Tây Thi
-RPT MCK
-Dưa Chua
-RPT MCK
+
 [Chorus: RPT MCK]
 Uh, cho những hư ảo này tan dần
 Chính điện phảng phất mùi nhang trầm
