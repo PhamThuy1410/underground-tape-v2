@@ -11,7 +11,7 @@ window.TRACKS_MCK = [
     "order": 1
   },
   {
-    "src": "assets/artists/mck/audio/2- IDK.mp3",
+    "src": "assets/artists/mck/audio/2 - IDK.mp3",
     "title": "IDK",
     "feat": "",
     "order": 2
