@@ -994,9 +994,9 @@ body {
 }
 
 .artist-selector__subtitle::after {
-  content: "VOL. 02 / 04 ARTISTS";
+  content: "VOL. 04 / 04 ARTISTS";
   color: var(--accent-yellow);
-  font-size: 0.68rem;
+  font-size: 1 rem;
 }
 
 .artist-selector__grid {
@@ -1102,11 +1102,12 @@ body {
 
 @media (max-width: 560px) {
   .artist-selector {
-    padding: 1.5rem 1rem 11rem;
+    padding: 2.5rem 1rem 11rem;
   }
 
   .artist-selector__title {
-    font-size: clamp(3.8rem, 19vw, 5.6rem);
+    font-size: clamp(3.8rem, 19vw, 3.8rem);
+    line-height: 0.85;
   }
 
   .artist-selector__subtitle {
