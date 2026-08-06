@@ -33,6 +33,54 @@ window.TRACKS_DANGRANGTO = [
     "title": "vùng vẫy",
     "feat": "ZEXZEX",
     "order": 5
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/6 - baby anh đợi có lâu.mp3",
+    "title": "baby anh đợi có lâu",
+    "feat": "",
+    "order": 6
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/7 - bolero buồn.mp3",
+    "title": "bolero buồn",
+    "feat": "",
+    "order": 7
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/8 - tốt cho anh.mp3",
+    "title": "tốt cho anh",
+    "feat": "",
+    "order": 8
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/9 - một ly.mp3",
+    "title": "một ly",
+    "feat": "",
+    "order": 9
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/10 - đánh rơi.mp3",
+    "title": "đánh rơi",
+    "feat": "",
+    "order": 10
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/11 - quenvaonhau.mp3",
+    "title": "quenvaonhau",
+    "feat": "",
+    "order": 11
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/12 - món quà.mp3",
+    "title": "món quà",
+    "feat": "",
+    "order": 12
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/13 - đắm say trong tình yêu.mp3",
+    "title": "đắm say trong tình yêu",
+    "feat": "",
+    "order": 13
   }
 ].map((t) => ({
   ...t,
