@@ -1,6 +1,6 @@
 // ========== GLOBAL STATE ==========
 let allArtists = [];
-let currentArtistId = "mck";
+let currentArtistId = null;
 let currentArtistData = null;
 let currentIndex = -1;
 let isSeeking = false;
@@ -52,7 +52,10 @@ async function init() {
   renderArtistSelector();
   
   const urlArtist = getUrlParam("artist");
-  selectArtist(urlArtist || "mck");
+  if (urlArtist && allArtists.find(a => a.id === urlArtist)) {
+    selectArtist(urlArtist);
+  }
+  // Nếu không có URL param, ở lại homepage
   
   setupEventListeners();
   setupVisualizer();
