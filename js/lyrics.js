@@ -13,7 +13,7 @@ const LYRICS = {
   // MCK tracks
   "assets/artists/mck/audio/1 - Elegie.mp3": ``,
 
-  "assets/artists/mck/audio/2- IDK.mp3": `[Intro]
+  "assets/artists/mck/audio/2 - IDK.mp3": `[Intro]
 Ah, ah, ah, ah, ah, ah, ah
 Ah, ah, ah, ah, ah, ah, ah
 
