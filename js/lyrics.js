@@ -1846,4 +1846,240 @@ Ma l'occhio del cielo nulla può nascondere`,
   // DANGRANGTO tracks
   "assets/artists/dangrangto/audio/1 - Track Title.mp3": "",
   "assets/artists/dangrangto/audio/2 - Track Title.mp3": "",
+
+  // HUSTLANG ROBBER tracks
+  "assets/artists/hustlangrobber/audio/1 - Track Title.mp3": "",
+  "assets/artists/hustlangrobber/audio/2 - Track Title.mp3": "",
+
+  // HIEUTHUHAI tracks
+  "assets/artists/hieuthuhai/audio/1 - Anh Nên Đi Khỏi Đây.mp3": "",
+  "assets/artists/hieuthuhai/audio/2 - Hết Yêu.mp3": `[Intro]
+(Ah, ah)
+(Hey, Kewtiie)
+
+[Verse 1]
+Hah, chẳng biết phải nói từ đâu
+Vì con tim anh từ lâu đã khác với những ngày đầu, ooh, ooh-ooh-ooh
+Lời yêu trao qua đầu môi như thoáng mây bay mà thôi
+Chẳng có rung động như trước
+
+[Pre-Chorus]
+Nhiều lần cố nghĩ nhưng anh không thể nào hiểu được chính mình
+Đừng buồn quá nhé, khi nắng mai lên mọi chuyện sẽ qua (Ooh-ooh)
+Lòng này nào muốn thấy em đau nhưng tim anh đây lại vô tình
+Là do anh sai nên mình phải xa
+
+[Chorus]
+Chẳng một ai có thể biết con tim của anh đâu mất rồi (Hey yeah)
+Ngày nào còn hứa sẽ mãi không để em lẻ loi (Loi-oi-oi-oi)
+Chẳng hề cố ý cho em nhận lại kết thúc tồi
+Cũng không phải do anh tương tư thêm một ai đâu
+
+[Post-Chorus]
+Chỉ là vì anh hết yêu, là hết yêu (Hết yêu)
+Anh không xứng để ở đây, kế bên em (Hah)
+Là vì con tim của anh đâu mất rồi
+Cũng sẽ có một người khác tốt hơn anh
+Là vì anh hết yêu
+
+[Verse 2]
+Hah
+Hoo-ooh-ooh-ooh-ooh
+Hm-mm-mm
+Ah, eh, yeah
+Chẳng thể giấu bao tâm tư trong lòng đâu
+Đừng cố để níu kéo, con tim không thể nào khâu
+Và có những cảm xúc hai ta không nên đào sâu (What?)
+Chỉ là anh đây đã không còn chờ mong những lúc môi mình gần kề (Ah)
+Anh sai, ừ anh không chối (Không chối)
+Buông đôi tay anh đi và tìm một tình yêu mới (Na-na)
+Baby girl, don't cry, là vì anh thế thôi (Thế thôi)
+Mình đành xa nhau ờ trên đường đời (Yeah)
+Em sẽ quên (Quên)
+Quên gương mặt anh, quên cả tên (Huh)
+Sẽ có một ai luôn đặt em lên ở trên (Yeah)
+Every night cho em bờ vai nguyên cả đêm
+Mỗi ngày năm mươi lời khen như ngày xưa anh đã nên, ah
+Gió đâu còn vương như ngày đó
+Tiếc cho ngày sau không thể bước chung đường
+Mong cơn mưa rào sẽ ngừng rơi trên lối em thường về
+
+[Pre-Chorus]
+Nhiều lần cố nghĩ nhưng anh không thể nào hiểu được chính mình
+Đừng buồn quá nhé khi nắng mai lên mọi chuyện sẽ qua (Ooh-ooh)
+Lòng này nào muốn thấy em đau nhưng tim anh đây lại vô tình
+Là do anh sai nên mình phải xa (Y-yeah-eh-eh)
+[Chorus]
+Chẳng một ai có thể biết con tim của anh đâu mất rồi (đâu mất rồi)
+Ngày nào còn hứa sẽ mãi không để em lẻ loi (Loi-oi-oi-oi)
+Chẳng hề cố ý cho em nhận lại kết thúc tồi
+Cũng không phải do anh tương tư thêm một ai đâu
+
+[Post-Chorus]
+Chỉ là vì anh hết yêu, là hết yêu (đã hết yêu)
+Anh không xứng để ở đây, kế bên em (Kế-kế-kế bên em)
+Là vì con tim của anh (Của anh) đâu mất rồi
+Cũng sẽ có một người khác tốt hơn anh
+Là vì anh hết yêu, ooh, hoh
+Na-na-na-na-na-na-na
+Y-yeah-eh, y-yeah-eh-eh-eh-eh-eh-heh, oh-oh-oh
+
+[Outro]
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu`,
+
+  "assets/artists/hieuthuhai/audio/4 - Người Im Lặng Gặp Người Hay Nói.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1]
+Anh muốn thấy em cười, ah
+Túi Chanel trên người, ayy
+Tay toàn là Tiffany, ayy
+Nói đi bất cứ gì, babe
+Anh đều có thể đem tặng em đó, baby
+Đem điều em mộng mơ bình phương nó, baby
+Nhưng tình yêu thì cứ để nó thế này đi
+Tim anh không thể lớn hơn được
+
+[Pre-Chorus]
+Nhớ ngày xưa từng mong mình sẽ là tình yêu chóng vánh
+Dập dìu như sóng đánh, nhanh chóng trôi qua (Oh-oh-oh-oh)
+Anh thì chưa chuẩn bị để mà thật lòng nghiêm túc
+Với thật nhiều cảm xúc mới chen giữa đôi ta (Oh-oh-oh-oh)
+Cứ như lún sâu trong nụ cười em
+Chẳng thể bước đi khỏi nơi đây (Ooh-ooh)
+Giờ anh chỉ muốn ở bên em thôi
+
+[Chorus]
+Anh mong là anh sẽ không thay đổi, ah
+Người im lặng gặp người hay nói, ah
+Không bên cạnh ai quá lâu giống như này đâu (Yêu em)
+Nên mong là hai trái tim sẽ không phải đau
+Chưa từng yêu một ai nhiều như thế (Woah), ah
+Từng cố bỏ đi nhưng đâu dễ (Woah)
+Nếu thế giới kia có mong chúng ta chia đôi
+Sẽ luôn có anh phía sau cùng em
+Thề không để gì phải đổi thay
+
+[Verse 2]
+Hah, gọi là "Anh yêu" đi
+Hôm nay em không vui thì cầm tiền anh tiêu đi (Oh-oh)
+Bao nhiêu câu này dành cho em không thôi
+Vì bật nhạc anh lên nghe toàn là "Hey, cutie"
+Cho em bờ vai để mà ôm lấy, môi hơi bị khô đang cần hôn đấy
+Baby leo lên xe qua nhà anh như mọi hôm đấy, coi chừng bị trông thấy
+Bao lâu nay chụp chung nhưng anh và em chưa bao giờ đăng, chỉ lưu ở trong máy thôi
+Baby ơi, em y như truyện tranh, anh là bài hát không lời (Oh)
+Trao cho anh vòng tay vì trời gió đông ời
+Khi mà anh không còn fame liệu còn em ở trong đời? (Ah-ah)
+Kể từ khi gặp em anh đã bớt rong chơi
+Bao câu thơ tràn ra và nó mãi không vơi
+Mai sau không còn nhau thì đừng khóc em ơi
+Vì tình yêu ta trao còn lại ở ông trời, yah
+
+[Pre-Chorus]
+Nhớ ngày xưa từng mong mình sẽ là tình yêu chóng vánh
+Dập dìu như sóng đánh, nhanh chóng trôi qua (Oh-oh-oh-oh)
+Anh thì chưa chuẩn bị để mà thật lòng nghiêm túc
+Với thật nhiều cảm xúc mới chen giữa đôi ta (Oh-oh-oh-oh)
+Cứ như lún sâu trong nụ cười em
+Chẳng thể bước đi khỏi nơi đây (Oh-oh-oh)
+Giờ anh chỉ muốn ở bên em thôi
+
+[Chorus]
+Anh mong là anh sẽ không thay đổi (Oh), ah
+Người im lặng gặp người hay nói (Ooh-ooh), ah
+Không bên cạnh ai quá lâu giống như này đâu (Yêu em)
+Nên mong là hai trái tim sẽ không phải đau (Yeah-yeah)
+Chưa từng yêu một ai nhiều như thế (Woah), ah
+Từng cố bỏ đi nhưng đâu dễ (Woah)
+Nếu thế giới kia có mong chúng ta chia đôi
+Sẽ luôn có anh phía sau cùng em
+Thề không để gì phải đổi thay
+(Gì phải đổi thay)
+(Gì phải đổi thay, yeah-eh-eh, oh-oh-oh-oh-oh)
+[Chorus]
+Anh mong là anh sẽ không thay đổi, huh
+Người im lặng gặp người hay nói, huh (Oh)
+Không bên cạnh ai quá lâu giống như này đâu
+Nên mong là hai trái tim sẽ không phải đau (Yeah-yeah)
+Chưa từng yêu một ai nhiều như thế (Woah), ah
+Từng cố bỏ đi nhưng đâu dễ (Woah)
+Nếu thế giới kia có mong chúng ta chia đôi
+Sẽ luôn có anh phía sau cùng em (Oh-oh)
+Thề không để gì phải đổi thay
+
+[Outro]
+(Eh, eh, eh, yeah, uh)
+(Eh, eh, eh, yeah)
+(Eh, eh, eh, yeah)
+(Eh, eh, eh, yeah, oh, oh)`,
+
+  "assets/artists/hieuthuhai/audio/9 - Đâu Có Ai Nhìn.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1]
+Ooh, baby girl, cho anh lạc trong mắt em
+Mau ôm anh đi vì bầu trời ngoài kia tối đen, yah (Yah)
+Ta đâu cần nói hết tất cả nghĩ suy trong đầu (Ooh-ooh-ooh)
+Cho volume tivi lên to tí đi (To tí đi)
+Nơi không ai nghe và mình thì đâu thấy gì
+Ooh-woh, hoh, hoh-oh-oh, oh-oh
+
+[Chorus]
+Đừng giả vờ chi nữa
+Vì đâu có ai đang nhìn đâu (Đâu)
+Anh biết em không hề giống như này (Như này)
+Em giấu đi điều gì đằng sau lớp áo ngây thơ?
+Chỉ một mình anh biết
+Vì đâu có ai đang nhìn đâu, ooh-woh-oh (Ooh-woh-oh)
+Hãy trao hết đi tất cả thứ em còn
+Vì chỉ cần một phút bước khỏi nơi đây là mình giống như chưa từng quen
+
+[Verse 2]
+Son trên môi (Huh), hàng mi kia cong (Oh)
+Hôm nay đông, vậy thì em đi lên, họ nhận ra em không? (Oh-oh)
+Hai chân em thì đặt lên trên bàn
+Ôm anh đi như là trong đêm đông
+Don't be shy, trên người em hơi nồng
+Nhưng mà sau đêm nay bao vân tay anh đã in trên
+Biết là mình sai nhưng mà sao trong lòng anh không thể ngưng được (Yeah, yeah)
+Hông em trên gối, bao nụ hôn lên trên môi cứ đến liên tục
+Nhìn sâu trong em, anh cứ rơi vào, chẳng còn biết nơi nào
+Cần chi quan tâm những gì kéo theo phía sau
+
+[Chorus]
+Đừng giả vờ chi nữa (Nữa)
+Vì đâu có ai đang nhìn đâu (Đâu)
+Anh biết em không hề giống như này
+Em giấu đi điều gì đằng sau lớp áo ngây thơ?
+Chỉ một mình anh biết (Biết-biết-biết-biết)
+Vì đâu có ai đang nhìn đâu, ooh-woh-oh (Woh-woh-oh-oh)
+Hãy trao hết đi tất cả thứ em còn
+Vì chỉ cần một phút bước khỏi nơi đây là mình giống như chưa từng quen
+
+[Refrain]
+Giống như chưa từng
+Giống như chưa từng quen
+Oh-oh-oh-oh-oh, oh-oh
+Oh, oh, oh
+Hoo-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ooh-oh
+
+[Chorus]
+Đừng giả vờ chi nữa (Nữa)
+Vì đâu có ai đang nhìn đâu (Đâu)
+Anh biết em không hề giống như này
+Em giấu đi điều gì đằng sau lớp áo ngây thơ?
+Chỉ một mình anh biết (Biết-biết-biết)
+Vì đâu có ai đang nhìn đâu (Hoh-hoh-hoh)
+Hãy trao hết đi tất cả thứ em còn
+Vì chỉ cần một phút bước khỏi nơi đây
+Là mình giống như chưa từng quen`,
 };
