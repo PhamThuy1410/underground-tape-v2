@@ -30,7 +30,6 @@ const prevBtn = document.getElementById("prevBtn");
 const nextBtn = document.getElementById("nextBtn");
 const lyricsBtn = document.getElementById("lyricsBtn");
 const seekBar = document.getElementById("seekBar");
-const visualizer = document.getElementById("visualizer");
 
 const deckArtist = document.getElementById("deckArtist");
 const deckTitle = document.getElementById("deckTitle");
@@ -58,7 +57,6 @@ async function init() {
   // Nếu không có URL param, ở lại homepage
   
   setupEventListeners();
-  setupVisualizer();
   setupAudioContext();
 }
 
@@ -277,44 +275,8 @@ function formatTime(sec) {
 function updateSeekFill() {
   const pct = audioEl.duration ? (audioEl.currentTime / audioEl.duration) * 100 : 0;
   seekBar.style.setProperty("--seek-pct", `${pct}%`);
+  seekBar.value = audioEl.currentTime; // ← Thay: dùng thời gian thật, không phải pct
   timeCurrent.textContent = formatTime(audioEl.currentTime);
-}
-
-// ========== VISUALIZER ==========
-function setupVisualizer() {
-  const ctx = visualizer.getContext("2d");
-  if (!ctx) return;
-
-  function draw() {
-    if (!analyser || !dataArray) {
-      requestAnimationFrame(draw);
-      return;
-    }
-
-    analyser.getByteFrequencyData(dataArray);
-
-    const w = visualizer.width;
-    const h = visualizer.height;
-    const bars = dataArray.length / 2;
-    const barWidth = w / bars;
-
-    ctx.fillStyle = "rgba(10, 10, 10, 0.3)";
-    ctx.fillRect(0, 0, w, h);
-
-    ctx.fillStyle = "#e63946";
-
-    for (let i = 0; i < bars; i++) {
-      const val = dataArray[i * 2] || 0;
-      const barHeight = (val / 255) * h;
-      const x = i * barWidth;
-      const y = h - barHeight;
-      ctx.fillRect(x, y, barWidth - 1, barHeight);
-    }
-
-    requestAnimationFrame(draw);
-  }
-
-  draw();
 }
 
 // ========== WEB AUDIO ==========
@@ -402,10 +364,10 @@ function setupEventListeners() {
 
   seekBar.addEventListener("input", () => {
     isSeeking = true;
-    audioEl.currentTime = (Number(seekBar.value) / 100) * audioEl.duration;
+    audioEl.currentTime = Number(seekBar.value); // ← Thay: seekBar.value = duration (không chia 100)
     updateSeekFill();
   });
-
+  
   seekBar.addEventListener("change", () => {
     isSeeking = false;
   });
