@@ -460,9 +460,10 @@ body {
 }
 
 .deck__meta {
-  display: grid;
-  grid-template-columns: 1fr minmax(0, 1fr) 1fr;
+  display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: var(--spacing-md);
   min-width: 0;
 }
 
@@ -477,13 +478,13 @@ body {
 }
 
 .deck__title {
-  grid-column: 2;
   font-size: 0.9rem;
   font-weight: 600;
   color: var(--text-primary);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  flex: 1;
   text-align: center;
 }
 
@@ -491,7 +492,9 @@ body {
   display: flex;
   gap: var(--spacing-xs);
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  margin-right:1020px;
 }
 
 .deck__btn {
