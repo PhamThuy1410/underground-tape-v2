@@ -1745,6 +1745,102 @@ Gieo thêm hy vọng, điệu nhạc này chớ buồn làm gì
 Với những thứ không quan trọng, anh sẽ lấy tay gạt đi
 Suy nghĩ làm gì cho tốn thời gian`,
 
+  "assets/artists/mck/audio/31 - N0L4B3L ft Thành Draw, RPT Orijinn.mp3": `[Verse 1: RPT MCK]
+Cảm giác tao đã biết quá nhiều nên tao không rap được tiếp
+Đã hai năm kể từ lần cuối anh em tao trượt tuyết
+Ngắm nhìn ngành công nghiệp và những sản phẩm đã được chiết
+Tao thấy mọi thứ đang bão hòa và những con quái vật đã ngủ thiếp
+Nhắm mắt lại để không thấy sự thật quá khủng khiếp
+Hip-hop sẽ tự chết mà chẳng cần ai phải giết
+Thằng nào từng ở trên đỉnh cao, tao nghĩ là chúng mày biết
+Cố cứu lấy âm nhạc là một nỗ lực không cần thiết
+Chúng nó cứ bảo tao, "Thằng này đúng là điên"
+Tao đặt một câu hỏi, uh, "Tại sao lại không nhở?"
+Ba mươi viên đạn này chỉ cần trúng là xuyên
+Đừng hỏi tại sao lúc đấy nghành nhạc lại không thở, hah
+
+[Interlude: RPT MCK]
+No label
+"Địa ngục chưa bỏ không, thề chưa thành Phật quả"
+"Chúng sinh khi độ hết, mới chứng đạo Bồ-đề"
+
+[Verse 2: RPT MCK]
+Huh, tao chỉ mong sao mấy cái thằng cu cháu lớn thành chú rồi phát lại phong bao
+Tao không thấy Phật ở ngoài, tao có Phật ở trong tao
+Trên đỉnh cao mà tay chân mày toàn gông và xích
+Thì đứng ở đấy làm gì cho bọn kền kền châm và chích
+Cao thủ đã quen đòn của bọn tiểu nhân công và kích
+Tao vẫn là tao, bọn lứa sau trông mà thích
+Mày đã quá rén rồi, chân run, ngực mày khép
+Chính mày chọn vị trí này nên đâu còn chỗ để nép
+"Sự thịnh vượng, ghét tiếng ồn", lấy giấy ra mà chép
+Nhìn mày gào lên để lấy sự chú ý, khung cảnh quá là đẹp
+You might also like
+Rapper Lè Nhè
+Hustlang Robber
+Tây Thi
+RPT MCK
+Dưa Chua
+RPT MCK
+[Chorus: RPT MCK]
+Uh, cho những hư ảo này tan dần
+Chính điện phảng phất mùi nhang trầm
+Sự thật trong tay tao đang cầm
+Chẳng còn tiếng nói nữa
+
+[Verse 3: RPT Orijinn]
+(What?)
+Âm thanh này vang ra, tràn qua loa là gây nổ
+Lưu Ka vừa băng qua, ông ba mươi về xây tổ
+Năm năm, từ tay không, bàn tay tao dựng cơ đồ
+R-P-T-G-A-N-G, for the fam, no label
+Under hay là mainstream, toàn là chuyên gia bịa mõm
+Kick bass đập văng ra như là thiên la địa võng
+Trapstar cần thăng hoa, chỉ cần đôi ba bình bóng
+Rapper giờ say hi làm fan hơi bị hẫng
+Tao là người trần mắt thịt nhưng mà đố bọn đần mày bắt kịp
+Em yêu muốn được tác nghiệp sau vài lần thằng bố mày ngắt nhịp
+Ba cái văn xe ôm để lòe trẻ con tốt nhất nên cất đi
+Bật lại bài này lên nghe nếu mày vẫn chưa hiểu rõ cái vấn đề
+Lời đồn đại trong vách, mồm họ đi mách, đôi tai thường nghe
+Trầm hương đen phảng phất, hảo hán chẳng chấp dăm ba lời khè
+Đứng trên đỉnh núi tuyết, ngắm nhìn, nuối tiếc, đấm ba đường K
+Còn một khi đã rap thì mày phải rap cho ra vấn đề, ah
+Âm thanh này vang ra, tràn qua loa là gây nổ
+Lưu Ka vừa băng qua, ông ba mươi về xây tổ
+Năm năm, từ tay không, bàn tay tao dựng cơ đồ
+R-P-T-G-A-N-G, for the fam, no label
+[Chorus: RPT MCK]
+Uh, cho những hư ảo này tan dần
+Chính điện phảng phất mùi nhang trầm
+Sự thật trong tay tao đang cầm
+Chẳng còn tiếng nói nữa
+
+[Verse 4: THANHDRAW]
+Cambiare come le nuvole nel cielo
+Mấy con vợ thay đổi như gió vậy
+Ma l'occhio del cielo nulla può nascondere
+Đừng trách sao tao không tin được
+Đến từ hư vô, tao ngoài luồng giả vờ như mù, câm, điếc
+"Đầu chưa rơi xuống đất", muốn dẹp loạn cát cứ như Trần Thủ Độ
+Con quỷ ở trong tao thì thầm, "Cảnh này đúng là nhu nhược phết"
+Tiền, tài, tình, tù, tội, tao thấy hết, chỉ là chưa tới lượt quyết
+Quá tham, con quá tham, mong ơn trên được xóa tội
+Cừu bỏ đói lâu ngày cũng trở thành sói, trách con quá tham
+Vào sinh ra tử? Mong anh em bỏ qua cho
+Tự dẫm chân lên lời mình nói, anh chỉ muốn làm con cá to
+Đây rồi, thấy rồi, đến lượt anh lấy rồi
+Bỏ lại hết ân tình trăm năm, anh trèo lên đấy ngồi
+Xấp tiền dày, anh xài xả láng, kiếm lại chả mấy hồi
+Uhm, thời cơ đến, ai lo người đấy thôi
+Thiên hạ thay đổi, âu cũng vì đám giai nhân thủ thế
+Ranh giới mong manh, nghệ thuật trào phúng cũng chỉ như trò hề
+Lí tưởng cao cả cũng chỉ để thay nhau dẫm chân mòn đế
+Tìm được người thay thế, vứt mẹ chiếc ghế mà quay đầu về (Vứt)
+[Outro: Chi de Pheénix]
+Cambiare come le nuvole nel cielo
+Ma l'occhio del cielo nulla può nascondere`,
+
   // OBITO tracks
   "assets/artists/obito/audio/1 - Track Title.mp3": "",
   "assets/artists/obito/audio/2 - Track Title.mp3": "",
