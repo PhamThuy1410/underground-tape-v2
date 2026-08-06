@@ -55,6 +55,34 @@
       },
       "color": "#f97316",
       "heroImage": "assets/artists/dangrangto/hero.webp"
+    },
+    {
+      "id": "hustlangrobber",
+      "name": "HUSTLANG ROBBER",
+      "fullName": "Hustlang Robber",
+      "bio": "Blending drill, trap, and raw street energy, Hustlang Robber delivers aggressive flows with an unmistakable underground style.",
+      "year": 2019,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com/hustlangrobber",
+        "instagram": "https://instagram.com/hustlangrobber"
+      },
+      "color": "#16a34a",
+      "heroImage": "assets/artists/hustlangrobber/hero.webp"
+    },
+    {
+      "id": "hieuthuhai",
+      "name": "HIEUTHUHAI",
+      "fullName": "Trần Minh Hiếu",
+      "bio": "One of Vietnam's leading rap artists, HIEUTHUHAI combines smooth flows, infectious melodies, and polished pop-rap production.",
+      "year": 2020,
+      "links": {
+        "spotify": "https://open.spotify.com/artist/5zW4n8aM5K0k0P6wQq3O2X",
+        "soundcloud": "https://soundcloud.com/hieuthuhai",
+        "instagram": "https://instagram.com/hieuthuhai"
+      },
+      "color": "#facc15",
+      "heroImage": "assets/artists/hieuthuhai/hero.webp"
     }
   ]
 }
