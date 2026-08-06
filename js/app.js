@@ -328,6 +328,8 @@ let isSeeking = false;
     const pct = audioEl.duration
       ? (audioEl.currentTime / audioEl.duration) * 100
       : 0;
+
+    seekBar.value = String(pct);
     seekBar.style.setProperty("--seek-pct", `${pct}%`);
     timeCurrent.textContent = formatTime(audioEl.currentTime);
   }
@@ -486,7 +488,8 @@ let isSeeking = false;
     });
 
     audioEl.addEventListener("loadedmetadata", () => {
-      seekBar.max = audioEl.duration;
+      seekBar.value = "0";
+      seekBar.style.setProperty("--seek-pct", "0%");
       timeDuration.textContent = formatTime(audioEl.duration);
     });
 
