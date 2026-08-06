@@ -6,11 +6,11 @@ let isVisualizerSetup = false;
   "use strict";
 
   // ========== STATE ==========
-  let allArtists = [];
-  let currentArtistId = "mck";
-  let currentArtistData = null;
-  let currentIndex = -1;
-  let isSeeking = false;
+let allArtists = [];
+let currentArtistId = null;
+let currentArtistData = null;
+let currentIndex = -1;
+let isSeeking = false;
 
   // ========== DOM SELECTORS ==========
   const artistSelector = document.getElementById("artistSelector");
@@ -56,10 +56,9 @@ let isVisualizerSetup = false;
     renderArtistSelector();
 
     const urlArtist = getUrlParam("artist");
-    if (urlArtist && allArtists.find((a) => a.id === urlArtist)) {
-      selectArtist(urlArtist);
-    } else {
-      selectArtist("mck");
+
+    if (urlArtist && allArtists.find(a => a.id === urlArtist)) {
+        selectArtist(urlArtist);
     }
 
     setupEventListeners();

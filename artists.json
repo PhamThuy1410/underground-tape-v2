@@ -3,13 +3,13 @@
     {
       "id": "mck",
       "name": "MCK",
-      "fullName": "MCK",
-      "bio": "Underground rapper Việt Nam, founder UNDERGRND — mixtape vol.01",
-      "year": 2024,
+      "fullName": "Nghiêm Vũ Hoàng Long",
+      "bio": "Rapper, singer-songwriter người Việt Nam, nổi bật với melodic rap, trap và phong cách giàu cảm xúc; được biết đến rộng rãi qua Rap Việt mùa 1.",
+      "year": 2018,
       "links": {
-        "spotify": "https://open.spotify.com",
-        "soundcloud": "https://soundcloud.com",
-        "instagram": "https://instagram.com"
+        "spotify": "https://open.spotify.com/artist/6cVZ3w2bKfY7m2x5Yx8kQZ",
+        "soundcloud": "https://soundcloud.com/mck-rapper",
+        "instagram": "https://instagram.com/mckayyy"
       },
       "color": "#c81e3a",
       "heroImage": "assets/artists/mck/hero.webp"
@@ -17,13 +17,13 @@
     {
       "id": "obito",
       "name": "OBITO",
-      "fullName": "OBITO",
-      "bio": "Underground rapper Việt Nam, known for experimental sounds & conscious lyrics",
-      "year": 2016,
+      "fullName": "Lý Quốc Phong",
+      "bio": "Rapper Việt Nam đến từ Châu Đốc, An Giang, được biết đến với màu sắc melodic rap, storytelling và những ca khúc giàu cảm xúc.",
+      "year": 2017,
       "links": {
         "spotify": "https://open.spotify.com",
-        "soundcloud": "https://soundcloud.com",
-        "instagram": "https://instagram.com"
+        "soundcloud": "https://soundcloud.com/qu-c-phong-620808305",
+        "instagram": "https://instagram.com/youngtobieedasick"
       },
       "color": "#7c3aed",
       "heroImage": "assets/artists/obito/hero.webp"
@@ -31,13 +31,13 @@
     {
       "id": "wxrdie",
       "name": "WXRDIE",
-      "fullName": "WXRDIE",
-      "bio": "Underground producer & rapper, blending trap & lo-fi aesthetics",
-      "year": 2018,
+      "fullName": "Phạm Nam Hải",
+      "bio": "Rapper kiêm songwriter người Hà Nội, bắt đầu từ underground với nghệ danh Word và được biết đến với trap, fast flow cùng màu sắc hip-hop hiện đại.",
+      "year": 2017,
       "links": {
         "spotify": "https://open.spotify.com",
-        "soundcloud": "https://soundcloud.com",
-        "instagram": "https://instagram.com"
+        "soundcloud": "https://soundcloud.com/wxrdie",
+        "instagram": "https://instagram.com/wxrdie"
       },
       "color": "#06b6d4",
       "heroImage": "assets/artists/wxrdie/hero.webp"
@@ -45,13 +45,13 @@
     {
       "id": "dangrangto",
       "name": "DANGRANGTO",
-      "fullName": "DANGRANGTO",
-      "bio": "Underground rapper Việt Nam, storyteller with raw, authentic vibes",
+      "fullName": "Trần Hải Đăng",
+      "bio": "Rapper Việt Nam đến từ Vĩnh Phúc, nổi bật với storytelling, melodic rap và cách viết lời giàu chất tự sự; được biết đến rộng rãi qua Rap Việt 2024.",
       "year": 2017,
       "links": {
         "spotify": "https://open.spotify.com",
-        "soundcloud": "https://soundcloud.com",
-        "instagram": "https://instagram.com"
+        "soundcloud": "https://soundcloud.com/khongphaidangdau",
+        "instagram": "https://instagram.com/dangrangto"
       },
       "color": "#f97316",
       "heroImage": "assets/artists/dangrangto/hero.webp"
