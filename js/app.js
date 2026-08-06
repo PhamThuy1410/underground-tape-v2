@@ -1,7 +1,3 @@
-// ========== GLOBAL WEB AUDIO ==========
-let audioCtx, analyser, source, dataArray;
-let isVisualizerSetup = false;
-
 (() => {
   "use strict";
 
@@ -27,15 +23,12 @@ let isSeeking = false;
   const videosSection = document.getElementById("videosSection");
   const videosSelf = document.getElementById("videosSelf");
 
-  const deck = document.getElementById("deck");
   const audioEl = document.getElementById("audioEl");
   const playBtn = document.getElementById("playBtn");
   const prevBtn = document.getElementById("prevBtn");
   const nextBtn = document.getElementById("nextBtn");
   const lyricsBtn = document.getElementById("lyricsBtn");
   const seekBar = document.getElementById("seekBar");
-  const visualizer = document.getElementById("visualizer");
-
   const deckArtist = document.getElementById("deckArtist");
   const deckTitle = document.getElementById("deckTitle");
   const timeCurrent = document.getElementById("timeCurrent");
@@ -62,7 +55,6 @@ let isSeeking = false;
     }
 
     setupEventListeners();
-    setupVisualizer();
   }
 
   // ========== LOAD ARTISTS & PLAYLISTS ==========
@@ -346,46 +338,6 @@ let isSeeking = false;
     });
   }
 
-  // ========== VISUALIZER ==========
-  function setupVisualizer() {
-    const ctx = visualizer.getContext("2d");
-    if (!ctx) return;
-
-    function draw() {
-      if (!analyser || !dataArray) {
-        requestAnimationFrame(draw);
-        return;
-      }
-
-      analyser.getByteFrequencyData(dataArray);
-
-      const w = visualizer.width;
-      const h = visualizer.height;
-      const bars = Math.floor(dataArray.length / 2);
-      const barWidth = w / bars;
-
-      ctx.fillStyle = "rgba(10, 10, 10, 0.3)";
-      ctx.fillRect(0, 0, w, h);
-
-      ctx.fillStyle = "#e63946";
-      ctx.globalAlpha = 0.8;
-
-      for (let i = 0; i < bars; i++) {
-        const val = dataArray[i * 2] || 0;
-        const barHeight = (val / 255) * h;
-        const x = i * barWidth;
-        const y = h - barHeight;
-
-        ctx.fillRect(x, y, barWidth - 1, barHeight);
-      }
-
-      ctx.globalAlpha = 1;
-      requestAnimationFrame(draw);
-    }
-
-    draw();
-  }
-
   // ========== MEDIA SESSION ==========
   function updateMediaSession(track) {
     if (!navigator.mediaSession) return;
@@ -519,32 +471,6 @@ let isSeeking = false;
       navigator.mediaSession.setActionHandler("nexttrack", playNext);
     }
   }
-
-  // ========== SETUP WEB AUDIO ==========
-  function setupAudioContext() {
-    if (isVisualizerSetup) return;
-
-    try {
-      const AudioContext = window.AudioContext || window.webkitAudioContext;
-      audioCtx = new AudioContext();
-      analyser = audioCtx.createAnalyser();
-      source = audioCtx.createMediaElementSource(audioEl);
-
-      source.connect(analyser);
-      analyser.connect(audioCtx.destination);
-
-      analyser.fftSize = 64;
-      dataArray = new Uint8Array(analyser.frequencyBinCount);
-
-      isVisualizerSetup = true;
-      console.log("✅ Web Audio setup OK");
-    } catch (err) {
-      console.warn("Web Audio not supported:", err);
-    }
-  }
-
-  document.addEventListener("click", setupAudioContext, { once: true });
-  document.addEventListener("touchstart", setupAudioContext, { once: true });
 
   // ========== START ==========
   init();

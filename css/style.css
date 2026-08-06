@@ -459,24 +459,6 @@ body {
   gap: var(--spacing-xs);
 }
 
-.deck__viz {
-  width: 100%;
-  height: 40px;
-  background: rgba(230, 57, 70, 0.08);
-  border: 1px solid rgba(230, 57, 70, 0.2);
-  border-radius: 4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
-
-canvas {
-  width: 100%;
-  height: 100%;
-  display: block;
-}
-
 .deck__meta {
   display: flex;
   gap: var(--spacing-sm);
