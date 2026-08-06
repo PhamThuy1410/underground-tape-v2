@@ -192,7 +192,7 @@ function renderVideos() {
 }
 
 // ========== PLAYBACK ==========
-function playTrack(idx) {
+async function playTrack(idx) {
   const tracks = getPlaylistForArtist(currentArtistId);
   if (!tracks[idx]) return;
 
@@ -201,10 +201,12 @@ function playTrack(idx) {
 
   audioEl.pause();
   audioEl.src = track.src;
-  
-  setTimeout(() => {
-    audioEl.play().catch(err => console.warn("Play error:", err));
-  }, 50);
+    
+  if (audioCtx && audioCtx.state === "suspended") {
+    await audioCtx.resume();
+  }
+
+  audioEl.play().catch(err => console.warn("Play error:", err));
 
   updateTracklistUI();
   updateDeckMetadata();
