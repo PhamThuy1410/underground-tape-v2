@@ -5,6 +5,9 @@ let currentArtistData = null;
 let currentIndex = -1;
 let isSeeking = false;
 
+// Track durations map
+let trackDurations = {};
+
 // Web Audio
 let audioCtx, analyser, source, dataArray;
 let isVisualizerSetup = false;
@@ -157,7 +160,7 @@ function renderTracklist() {
         <div class="track-item__title">${track.title}</div>
         <div class="track-item__artist">${track.artist}</div>
       </div>
-      <span class="track-item__duration">0:00</span>
+      <span class="track-item__duration" data-track-src="${track.src}">0:00</span>
     </li>
   `).join("");
 
@@ -165,6 +168,38 @@ function renderTracklist() {
     const item = e.target.closest(".track-item");
     if (item) playTrack(Number(item.dataset.index));
   });
+
+  // Load duration cho tất cả track
+  loadAllTrackDurations(tracks);
+}
+
+// Load duration cho tất cả track
+async function loadAllTrackDurations(tracks) {
+  for (let track of tracks) {
+    if (!trackDurations[track.src]) {
+      loadTrackDuration(track.src);
+    } else {
+      // Update UI nếu đã có duration
+      const durationEl = document.querySelector(`[data-track-src="${track.src}"]`);
+      if (durationEl) {
+        durationEl.textContent = formatTime(trackDurations[track.src]);
+      }
+    }
+  }
+}
+
+// Load duration của 1 track
+function loadTrackDuration(trackSrc) {
+  const audio = new Audio();
+  audio.addEventListener("loadedmetadata", () => {
+    trackDurations[trackSrc] = audio.duration;
+    // Update UI
+    const durationEl = document.querySelector(`[data-track-src="${trackSrc}"]`);
+    if (durationEl) {
+      durationEl.textContent = formatTime(audio.duration);
+    }
+  });
+  audio.src = trackSrc;
 }
 
 function renderVideos() {
@@ -207,6 +242,14 @@ async function playTrack(idx) {
   }
 
   audioEl.play().catch(err => console.warn("Play error:", err));
+
+  // Nếu chưa có duration, load nó
+  if (!trackDurations[track.src]) {
+    loadTrackDuration(track.src);
+  } else {
+    seekBar.max = trackDurations[track.src];
+    timeDuration.textContent = formatTime(trackDurations[track.src]);
+  }
 
   updateTracklistUI();
   updateDeckMetadata();
