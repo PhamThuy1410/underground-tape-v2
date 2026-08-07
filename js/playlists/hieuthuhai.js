@@ -29,40 +29,46 @@ window.TRACKS_HIEUTHUHAI = [
     "order": 4
   },
   {
-    "src": "assets/artists/hieuthuhai/audio/5 - Nước Mắt Cá Sấu.mp3",
-    "title": "Nước Mắt Cá Sấu",
+    "src": "assets/artists/hieuthuhai/audio/5 - Sắp Nổi Tiếng 2.mp3",
+    "title": "Sắp Nổi Tiếng 2",
     "feat": "",
     "order": 5
   },
   {
-    "src": "assets/artists/hieuthuhai/audio/6 - Sắp Nổi Tiếng 2.mp3",
-    "title": "Sắp Nổi Tiếng 2",
-    "feat": "",
+    "src": "assets/artists/hieuthuhai/audio/6 - Vacheron Louie V ft Hustlang Robber.mp3",
+    "title": "Vacheron Louie V",
+    "feat": "Hustlang Robber",
     "order": 6
   },
   {
-    "src": "assets/artists/hieuthuhai/audio/7 - Vacheron Louie V ft Hustlang Robber.mp3",
-    "title": "Vacheron Louie V",
-    "feat": "Hustlang Robber",
+    "src": "assets/artists/hieuthuhai/audio/7 - Đáng Lý Anh Nên Yêu Em Hơn ft HURRYKNG.mp3",
+    "title": "Đáng Lý Anh Nên Yêu Em Hơn",
+    "feat": "HURRYKNG",
     "order": 7
   },
   {
-    "src": "assets/artists/hieuthuhai/audio/8 - Đáng Lý Anh Nên Yêu Em Hơn.mp3",
-    "title": "Đáng Lý Anh Nên Yêu Em Hơn",
+    "src": "assets/artists/hieuthuhai/audio/8 - Đâu Có Ai Nhìn.mp3",
+    "title": "Đâu Có Ai Nhìn",
     "feat": "",
     "order": 8
   },
   {
-    "src": "assets/artists/hieuthuhai/audio/9 - Đâu Có Ai Nhìn.mp3",
-    "title": "Đâu Có Ai Nhìn",
+    "src": "assets/artists/hieuthuhai/audio/9 - Đâu Cần Gì Hơn.mp3",
+    "title": "Đâu Cần Gì Hơn",
     "feat": "",
     "order": 9
   },
   {
-    "src": "assets/artists/hieuthuhai/audio/10 - Đâu Cần Gì Hơn.mp3",
-    "title": "Đâu Cần Gì Hơn",
+    "src": "assets/artists/hieuthuhai/audio/10 - Dạo Gần Đây Anh Thấy Anh Không Bằng Ai Hết.mp3",
+    "title": "Dạo Gần Đây Anh Thấy Anh Không Bằng Ai Hết",
     "feat": "",
     "order": 10
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/11 - Chờ Tới Khi Anh Về ft Hoàng Tôn.mp3",
+    "title": "Chờ Tới Khi Anh Về",
+    "feat": "Hoàng Tôn",
+    "order": 11
   }
 ].map((t) => ({
   ...t,
