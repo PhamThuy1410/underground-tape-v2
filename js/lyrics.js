@@ -1844,7 +1844,74 @@ Ma l'occhio del cielo nulla può nascondere`,
   "assets/artists/wxrdie/audio/2 - Track Title.mp3": "",
 
   // DANGRANGTO tracks
-  "assets/artists/dangrangto/audio/1 - Track Title.mp3": "",
+  "assets/artists/dangrangto/audio/1 - xương rồng.mp3": `[Intro]
+Oh, oh
+Huh
+Hmm
+
+[Verse 1]
+Chắc em không lộng lẫy, kiêu sa tựa hoa hồng
+Chắc em không gần gũi, trên thân toàn gai nhọn
+Chắc hương thơm chẳng vấn vương bao người xiêu lòng
+Điều gì khiến cho ai từng đến bên em rồi cũng sẽ chọn đi?
+Thế gian kia tàn nhẫn coi em là xương rồng
+Vậy thì có hay không một người sẽ tới đây?
+Nắm lấy tay em khi vừa thức dậy
+Ôm lấy em thật chặt vào lúc này, baby
+Một người chịu đi tưới mát chiếc cây khô cằn
+Dù là cỏ lạ và hoa thơm kéo tới đây vô vàn
+Mặc kệ trời nắng cháy rát ở nơi sa mạc
+Và mặc kệ là nhiều gai đâm nhưng vẫn luôn chọn cố gắng
+Vì mình cần được yêu cũng giống như xương rồng
+Cần phải đón lấy chút sương mai để nở lên hoa hồng
+Chờ một người đặc biệt để sà vào lòng thật lâu
+Làm dịu bao cơn đau em thường cất giấu
+
+[Chorus]
+Em đừng khóc
+Ai sẽ lau đi hết nước mắt em long lanh?
+Mạnh mẽ lắm cũng sẽ có khi mong manh
+Nắng cháy da nhưng trong lòng trăm đợt sóng đánh
+Bởi vì vết thương lòng
+Đâm sâu, em trở thành chiếc xương rồng
+Quay đi, em bỏ lại mình của ngày xưa
+Không cho ai làm tổn thương em nữa
+
+[Interlude]
+Huh-uh, huh-uh, huh, yeah
+Đừng lo lắng nhé, dựa vai anh
+Huh, huh-uh-uh, huh-uh
+
+[Verse 2]
+Cứ tin anh, baby, đã có anh đây rồi
+Chẳng sao đâu, cơn đau sẽ qua thật nhanh thôi
+Nép lên vai và cho anh thêm một cơ hội
+Và tháng năm sau này để anh cầm tay dẫn lối
+Có ai trót đi ngang để nơi em tiêu điều
+Để lại lớp gai đâm em khoác lên vai mình khi yêu
+Cứa lên anh như trăm con dao kia sắc lẹm
+Vì giọt lệ hằn sâu trong mắt em
+
+[Chorus]
+Em đừng khóc
+Anh sẽ lau đi hết nước mắt em long lanh
+Mạnh mẽ lắm cũng sẽ có khi em mong manh
+Nắng cháy da nhưng trong lòng trăm đợt sóng đánh
+Bởi vì vết thương lòng
+Đâm sâu, em trở thành chiếc xương rồng
+Theo anh đi tìm lại mình của ngày xưa
+Không cho ai làm tổn thương em nữa
+
+[Outro]
+Cứ tin anh, baby, đã có anh đây rồi mà
+Chẳng sao đâu, cơn đau sẽ qua thật nhanh thôi
+Nép lên vai và cho anh thêm một cơ hội
+Tháng năm sau này để anh cầm tay dẫn lối
+Có ai trót đi ngang để nơi em tiêu điều
+Để lại lớp gai đâm em khoác lên vai mình khi yêu
+Cứa lên anh như trăm con dao kia sắc lẹm
+Những cơn đau để anh được chịu đựng cùng em`,
+
   "assets/artists/dangrangto/audio/2 - Track Title.mp3": "",
 
   // HUSTLANG ROBBER tracks
