@@ -1836,7 +1836,90 @@ Cambiare come le nuvole nel cielo
 Ma l'occhio del cielo nulla può nascondere`,
 
   // OBITO tracks
-  "assets/artists/obito/audio/1 - Track Title.mp3": "",
+  "assets/artists/obito/audio/17 - Đánh Đổi.mp3": `[Intro: Obito]
+If I had ten thousand tongues
+I couldn't tell all that the Lord has done for me
+So I'll keep on singing, praise
+Yeah, it's hard to say but I gotta tell the truth
+youngto, yeah, yeah
+
+[Verse: Obito]
+Tao đánh đổi màn đêm yên giấc viết những bài nhạc hay nhất cuộc đời (Ah)
+Di sản là nguồn cảm hứng, fan theo răm rắp, nhạc tao thuộc lời (Yah)
+Trên bàn tiệc của tiên và quỷ, tao là thằng duy nhất được mời
+Mọi thứ đổ dồn hết vào tao như kiểu tao là một ván cược hời
+Tao là đứa con của Mặt Trăng, mang năng lượng Mặt Trời
+Cuộc đời xoay tao như trực thăng, vẫn vượt lên như thể gặp thời
+Tao không vứt đi bản chất tao như mấy thằng khác để ví được lời (Grrah)
+Nếu mày cũng mặt nặng mài nhẹ vì không đồng ý thì thôi được rồi, ah
+Shout out cho anh Sea, lời chúc phúc bay trên bầu trời (Yes)
+Em mong anh hãy nói với mẹ, "Cuộc sống con giờ đã đỡ cực rồi"
+Hai anh em đã đổ nước mắt, nhiều câu chuyện về những người tồi
+Sự đánh đổi này vẫn luôn đẹp như thể ngày xưa chơi cất nhà chồi
+Fuck it, woah, đêm đông lạnh giữa trời Hà Nội
+Flow tao chảy cùng những niềm đau như thể đang châm thêm mực vào ngòi (Ah)
+Chuỗi hành trình cùng nhiều câu hỏi, ai là cá còn ai là mồi?
+Mọi thứ đều luôn có mặt tối nhưng liệu mày có sẵn sàng đánh đổi?
+Ngắm nhìn cả thế giới từ xa, damn, it's cold (Damn, it's cold)
+Nếu mày hỏi tao ác hay thiện, man, I don't know (I don't know)
+Chắc đây vốn đã là cái giá cho bao lần đau
+Sự đánh đổi này cho tao thấy mọi thứ đã không như ngày đầu (Yeah, yeah)
+Ngắm nhìn cả thế giới từ xa, damn, it's cold (Damn, it's cold)
+Nếu mày hỏi tao ác hay thiện, man, I don't know (I don't know)
+Chắc đây vốn đã là cái giá cho bao lần đau
+Sự đánh đổi này cho tao thấy mọi thứ đã không như ngày đầu
+
+[Outro: Obito]
+It's a fair trade, telling all the truth
+It's a fair trade, ain't none pussy in the way
+It's a fair trade, fuck you if you fake it
+It's a fucking fair trade, hoe
+
+[Part II]
+
+[Intro: Obito]
+I wanna know
+That I wanna know how I feel
+Wanna know how I feel
+How I feel in my heart
+My heart, my heart
+Ah, ah, ah (Let's get it)
+Ah, ah, ah (Hoe)
+Youngto, youngto, youngto, youngto, youngto, youngto (Brr, brr; yah)
+
+[Verse 1: Obito]
+2020 và tao nổi như hiện tượng nhưng không chìm vào trong đấy để rồi chết như thằng ngu
+Ba năm đánh đổi để tu thân trong hoạ đời rồi biết đâu là thật giả, tâm tao nhàn như tiều phu (Yeah)
+Đảo mắt quan sát như diều hâu đang đi lượn, im lặng và cười nhếch với drama và ruồi bu
+2023 lời tao bắn như cái máy mà còn đéo trượt phát nào, sự đánh đổi đó thằng cu
+Trò đời quăng tao vào địa ngục (Bitch), cho tao biết mặt trái của whole game (Ooh)
+Cho tao bài hit, cho fame, xong nó lấy đi tất cả sau bao đêm
+Tao vẫn vươn từ dưới đáy đi lên (Chyah), bật và đòi lại bằng được, no shame
+Chiêm nghiệm và mài dũa thâu đêm, giờ tinh khiết và óng ánh như blue gem
+Không tìm thấy tao, tao bận đi tu luyện, câu chuyện của tao có đủ để hay hơn tụi mày
+Tu xong dù thành tiên hay là thành quỷ, vẫn ẩn khỏi radar, thân vẫn đóng lớp bụi dày
+Rất nhiều thằng trẻ là trường hợp giống như tao nhưng bị nghề này nó dập xong tâm lý ở dưới đáy
+Tao thoát được tệ nạn, thoát được cảnh vung dao, tao đánh đổi tất cả để chân chạy đến được đây, hoe
+[Verse 2: RPT MCK]
+Trên cao
+Tao biết là tao vẫn đang chính là tao, khi mà chơi chán, yah, peacе, I'm out (I'm out)
+Đôi khi rất là cô đơn, tao lấy hết sự cô đơn tao lấp vào trong bank account (Ching-ching)
+Như là Pacquiao, Manny Pacquiao shadow box trên nền Vinahouse (Vina)
+Vẫn chưa thấy thằng nào nhanh hơn tao
+Thác đổ, thác đổ, flow tao dồn xuống như là K50
+Ở dưới toàn núi đồi, núi đồi
+Bỏ mẹ rồi úi dồi úi dồi (youngtobieedasick; MCK, MCK, MCK, MCK), chyah
+Cẩn thận không bị cuốn vào, cuốn vào
+Anh là mỏ, mm, ối người muốn đào
+Anh về rồi, cúi người xuống nào
+
+[Outro: RPT MCK]
+I don't know what the fuck they'd bе talking about, cuh
+She's crazy
+He's crazy
+Phong Ly, Phong Ly, Phong Ly, Phong Ly (Ngô Phảng Phất)
+(youngtobieedasick)
+MCK, MCK, MCK, MCK`,
   "assets/artists/obito/audio/2 - Track Title.mp3": "",
 
   // WXRDIE tracks
