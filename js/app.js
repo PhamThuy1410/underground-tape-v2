@@ -51,16 +51,83 @@ const videoPlayer = document.getElementById("videoPlayer");
 // ========== INIT ==========
 async function init() {
   await loadArtists();
+  
+  // Register Service Worker
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js").then((reg) => {
+      console.log("✅ Service Worker registered");
+    }).catch((err) => {
+      console.log("SW registration failed:", err);
+    });
+  }
+
   renderArtistSelector();
   
   const urlArtist = getUrlParam("artist");
   if (urlArtist && allArtists.find(a => a.id === urlArtist)) {
     selectArtist(urlArtist);
+  } else {
+    // Restore previous playback state nếu không có URL param
+    restorePlaybackState();
   }
-  // Nếu không có URL param, ở lại homepage
   
   setupEventListeners();
   setupAudioContext();
+}
+
+// ========== PLAYBACK STATE PERSISTENCE ==========
+function savePlaybackState() {
+  if (!currentArtistId || currentIndex === -1) return;
+
+  const state = {
+    artistId: currentArtistId,
+    trackIndex: currentIndex,
+    currentTime: audioEl.currentTime,
+    isPlaying: !audioEl.paused,
+    timestamp: Date.now()
+  };
+
+  try {
+    localStorage.setItem("playbackState", JSON.stringify(state));
+  } catch (err) {
+    console.warn("Failed to save playback state:", err);
+  }
+}
+
+async function restorePlaybackState() {
+  try {
+    const stored = localStorage.getItem("playbackState");
+    if (!stored) return;
+
+    const state = JSON.parse(stored);
+    
+    // Check nếu artist tồn tại
+    if (!allArtists.find(a => a.id === state.artistId)) return;
+
+    // Select artist
+    selectArtist(state.artistId);
+
+    // Wait một chút để tracklist render xong
+    await new Promise(resolve => setTimeout(resolve, 300));
+
+    // Play track
+    playTrack(state.trackIndex);
+
+    // Restore time
+    setTimeout(() => {
+      audioEl.currentTime = state.currentTime;
+      
+      if (state.isPlaying) {
+        audioEl.play().catch(err => console.warn("Auto-play failed:", err));
+      } else {
+        audioEl.pause();
+      }
+    }, 100);
+
+    console.log("✅ Playback state restored");
+  } catch (err) {
+    console.warn("Failed to restore playback state:", err);
+  }
 }
 
 // ========== LOAD ARTISTS ==========
@@ -399,6 +466,9 @@ function setupEventListeners() {
     artistSelector.style.display = "flex";
     currentIndex = -1;
     
+    // Clear playback state
+    localStorage.removeItem("playbackState");
+    
     // Reset URL khi back
     window.history.replaceState(null, "", window.location.pathname);
   });
@@ -420,11 +490,13 @@ function setupEventListeners() {
   audioEl.addEventListener("play", () => {
     document.getElementById("playIcon").style.display = "none";
     document.getElementById("pauseIcon").style.display = "block";
+    savePlaybackState();
   });
 
   audioEl.addEventListener("pause", () => {
     document.getElementById("playIcon").style.display = "block";
     document.getElementById("pauseIcon").style.display = "none";
+    savePlaybackState();
   });
 
   audioEl.addEventListener("loadedmetadata", () => {
@@ -432,8 +504,16 @@ function setupEventListeners() {
     timeDuration.textContent = formatTime(audioEl.duration);
   });
 
+  // Throttle save state - mỗi 5 giây save 1 lần
+  let lastSaveTime = 0;
   audioEl.addEventListener("timeupdate", () => {
     if (!isSeeking) updateSeekFill();
+    
+    const now = Date.now();
+    if (now - lastSaveTime > 5000) {
+      savePlaybackState();
+      lastSaveTime = now;
+    }
   });
 
   audioEl.addEventListener("ended", playNext);
