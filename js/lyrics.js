@@ -68,10 +68,7 @@ Có ai trót đi ngang để nơi em tiêu điều
 Để lại lớp gai đâm em khoác lên vai mình khi yêu
 Cứa lên anh như trăm con dao kia sắc lẹm
 Những cơn đau để anh được chịu đựng cùng em`,
-  "assets/artists/dangrangto/audio/10 - đánh rơi.mp3": ``,
-  "assets/artists/dangrangto/audio/11 - quenvaonhau.mp3": ``,
-  "assets/artists/dangrangto/audio/12 - món quà.mp3": ``,
-  "assets/artists/dangrangto/audio/13 - đắm say trong tình yêu.mp3": ``,
+
   "assets/artists/dangrangto/audio/2 - My lil bitch ft TeuYungBoy.mp3": ``,
   "assets/artists/dangrangto/audio/3 - cây màu đen ft MR LANH, LWKI.mp3": ``,
   "assets/artists/dangrangto/audio/4 - buổi sáng Khương Đình ft BIG WIND.mp3": ``,
@@ -79,7 +76,11 @@ Những cơn đau để anh được chịu đựng cùng em`,
   "assets/artists/dangrangto/audio/6 - baby anh đợi có lâu.mp3": ``,
   "assets/artists/dangrangto/audio/7 - bolero buồn.mp3": ``,
   "assets/artists/dangrangto/audio/8 - tốt cho anh.mp3": ``,
-  "assets/artists/dangrangto/audio/9 - một ly.mp3": ``,
+  "assets/artists/dangrangto/audio/9 - một ly.mp3": ``,  
+  "assets/artists/dangrangto/audio/10 - đánh rơi.mp3": ``,
+  "assets/artists/dangrangto/audio/11 - quenvaonhau.mp3": ``,
+  "assets/artists/dangrangto/audio/12 - món quà.mp3": ``,
+  "assets/artists/dangrangto/audio/13 - đắm say trong tình yêu.mp3": ``,
   // -------------------------------------HIEUTHUHAI-----------------------------------------
   // ---------------------------------------------------------------------------------
   "assets/artists/hieuthuhai/audio/1 - Anh Nên Đi Khỏi Đây.mp3": `[Intro]
@@ -3658,6 +3659,14 @@ Tắc tíc, tắc tiếng lòng chờ ai, chờ cơn mộng huyền`,
   // -------------------------------------WXRDIE-----------------------------------------
   // ------------------------------------------------------------------------------------
   "assets/artists/wxrdie/audio/1 - 29.mp3": ``,
+  "assets/artists/wxrdie/audio/2 - Anh Freestyle.mp3": ``,
+  "assets/artists/wxrdie/audio/3 - Băng Qua Cầu Giấy.mp3": ``,
+  "assets/artists/wxrdie/audio/4 - Bởi Vì.mp3": ``,
+  "assets/artists/wxrdie/audio/5 - Ca Khúc Cuối.mp3": ``,
+  "assets/artists/wxrdie/audio/6 - Cả 2.mp3": ``,
+  "assets/artists/wxrdie/audio/7 - Get Money.mp3": ``,
+  "assets/artists/wxrdie/audio/8 - Gia Tài.mp3": ``,
+  "assets/artists/wxrdie/audio/9 - Lonely Stonie.mp3": ``,
   "assets/artists/wxrdie/audio/10 - Lâu Đài.mp3": ``,
   "assets/artists/wxrdie/audio/11 - Lối Sống.mp3": ``,
   "assets/artists/wxrdie/audio/12 - Mời Em.mp3": ``,
@@ -3668,12 +3677,4 @@ Tắc tíc, tắc tiếng lòng chờ ai, chờ cơn mộng huyền`,
   "assets/artists/wxrdie/audio/17 - Tim Anh Ghen.mp3": ``,
   "assets/artists/wxrdie/audio/18 - Trở Về.mp3": ``,
   "assets/artists/wxrdie/audio/19 - Đau Đầu.mp3": ``,
-  "assets/artists/wxrdie/audio/2 - Anh Freestyle.mp3": ``,
-  "assets/artists/wxrdie/audio/3 - Băng Qua Cầu Giấy.mp3": ``,
-  "assets/artists/wxrdie/audio/4 - Bởi Vì.mp3": ``,
-  "assets/artists/wxrdie/audio/5 - Ca Khúc Cuối.mp3": ``,
-  "assets/artists/wxrdie/audio/6 - Cả 2.mp3": ``,
-  "assets/artists/wxrdie/audio/7 - Get Money.mp3": ``,
-  "assets/artists/wxrdie/audio/8 - Gia Tài.mp3": ``,
-  "assets/artists/wxrdie/audio/9 - Lonely Stonie.mp3": ``
 };

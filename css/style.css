@@ -243,14 +243,6 @@ body {
   margin-top: var(--spacing-lg);
 }
 
-.header__image {
-  width: 100%;
-  aspect-ratio: 1;
-  object-fit: cover;
-  border-radius: 8px;
-  border: 1px solid var(--accent-red);
-}
-
 .header__info {
   padding-top: var(--spacing-sm);
 }
@@ -815,9 +807,14 @@ body {
 }
 
 .header__image {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: center 15%;  /* kéo lên, thấy được đầu */
   border: 1px solid rgba(255, 64, 85, 0.6);
   border-radius: 18px;
-  box-shadow: 12px 12px 0 rgba(255, 64, 85, 0.18), 0 16px 35px rgba(0, 0, 0, 0.35);
+  box-shadow: 12px 12px 0 rgba(255, 64, 85, 0.18), 
+              0 16px 35px rgba(0, 0, 0, 0.35);
 }
 
 .header__info {
