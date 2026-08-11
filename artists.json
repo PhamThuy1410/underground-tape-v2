@@ -83,6 +83,21 @@
       },
       "color": "#facc15",
       "heroImage": "assets/artists/hieuthuhai/hero.webp"
+    },
+    {
+    "id": "tinhhasayhi",
+    "name": "TINH HÀ SAY HI",
+    "fullName": "TINH HÀ SAY HI",
+    "bio": "TINH HÀ SAY HI is a Vietnamese music reality show and the latest addition to the Say Hi entertainment universe. Premiering in 2026, the show brings together 24 male artists who compete, collaborate, create new music, and deliver high-energy performances through a series of challenges and stages. The program combines modern pop, hip-hop, R&B, and contemporary Vietnamese music with elaborate choreography and large-scale stage productions.",
+    "year": 2026,
+    "links": {
+    "spotify": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh",
+    "youtube": "https://www.youtube.com/@VieChannel",
+    "facebook": "https://www.facebook.com/tinhhasayhi",
+    "vieon": "https://vieon.vn/"
+    },
+    "color": "#facc15",
+    "heroImage": "assets/artists/tinhhasayhi/hero.webp"
     }
   ]
 }

@@ -1,18 +1,920 @@
-/* =========================================================
-   lyrics.js v2 — Multi-artist lyrics
-   
-   Cách sử dụng:
-   - Key: "assets/artists/[artist-id]/audio/[filename].mp3"
-   - Value: lời bài hát (text hoặc HTML)
-   - Để trống nếu chưa có lời
-   
-   User sẽ điền lời sau khi có file mp3 thực tế
-   ========================================================= */
-
 const LYRICS = {
-  // MCK tracks
-  "assets/artists/mck/audio/1 - Elegie.mp3": ``,
+  // -------------------------------------DANGRANGTO-----------------------------------------
+  // ----------------------------------------------------------------------------------------
+  "assets/artists/dangrangto/audio/1 - xương rồng.mp3": `[Intro]
+Oh, oh
+Huh
+Hmm
 
+[Verse 1]
+Chắc em không lộng lẫy, kiêu sa tựa hoa hồng
+Chắc em không gần gũi, trên thân toàn gai nhọn
+Chắc hương thơm chẳng vấn vương bao người xiêu lòng
+Điều gì khiến cho ai từng đến bên em rồi cũng sẽ chọn đi?
+Thế gian kia tàn nhẫn coi em là xương rồng
+Vậy thì có hay không một người sẽ tới đây?
+Nắm lấy tay em khi vừa thức dậy
+Ôm lấy em thật chặt vào lúc này, baby
+Một người chịu đi tưới mát chiếc cây khô cằn
+Dù là cỏ lạ và hoa thơm kéo tới đây vô vàn
+Mặc kệ trời nắng cháy rát ở nơi sa mạc
+Và mặc kệ là nhiều gai đâm nhưng vẫn luôn chọn cố gắng
+Vì mình cần được yêu cũng giống như xương rồng
+Cần phải đón lấy chút sương mai để nở lên hoa hồng
+Chờ một người đặc biệt để sà vào lòng thật lâu
+Làm dịu bao cơn đau em thường cất giấu
+
+[Chorus]
+Em đừng khóc
+Ai sẽ lau đi hết nước mắt em long lanh?
+Mạnh mẽ lắm cũng sẽ có khi mong manh
+Nắng cháy da nhưng trong lòng trăm đợt sóng đánh
+Bởi vì vết thương lòng
+Đâm sâu, em trở thành chiếc xương rồng
+Quay đi, em bỏ lại mình của ngày xưa
+Không cho ai làm tổn thương em nữa
+
+[Interlude]
+Huh-uh, huh-uh, huh, yeah
+Đừng lo lắng nhé, dựa vai anh
+Huh, huh-uh-uh, huh-uh
+
+[Verse 2]
+Cứ tin anh, baby, đã có anh đây rồi
+Chẳng sao đâu, cơn đau sẽ qua thật nhanh thôi
+Nép lên vai và cho anh thêm một cơ hội
+Và tháng năm sau này để anh cầm tay dẫn lối
+Có ai trót đi ngang để nơi em tiêu điều
+Để lại lớp gai đâm em khoác lên vai mình khi yêu
+Cứa lên anh như trăm con dao kia sắc lẹm
+Vì giọt lệ hằn sâu trong mắt em
+
+[Chorus]
+Em đừng khóc
+Anh sẽ lau đi hết nước mắt em long lanh
+Mạnh mẽ lắm cũng sẽ có khi em mong manh
+Nắng cháy da nhưng trong lòng trăm đợt sóng đánh
+Bởi vì vết thương lòng
+Đâm sâu, em trở thành chiếc xương rồng
+Theo anh đi tìm lại mình của ngày xưa
+Không cho ai làm tổn thương em nữa
+
+[Outro]
+Cứ tin anh, baby, đã có anh đây rồi mà
+Chẳng sao đâu, cơn đau sẽ qua thật nhanh thôi
+Nép lên vai và cho anh thêm một cơ hội
+Tháng năm sau này để anh cầm tay dẫn lối
+Có ai trót đi ngang để nơi em tiêu điều
+Để lại lớp gai đâm em khoác lên vai mình khi yêu
+Cứa lên anh như trăm con dao kia sắc lẹm
+Những cơn đau để anh được chịu đựng cùng em`,
+  "assets/artists/dangrangto/audio/10 - đánh rơi.mp3": ``,
+  "assets/artists/dangrangto/audio/11 - quenvaonhau.mp3": ``,
+  "assets/artists/dangrangto/audio/12 - món quà.mp3": ``,
+  "assets/artists/dangrangto/audio/13 - đắm say trong tình yêu.mp3": ``,
+  "assets/artists/dangrangto/audio/2 - My lil bitch ft TeuYungBoy.mp3": ``,
+  "assets/artists/dangrangto/audio/3 - cây màu đen ft MR LANH, LWKI.mp3": ``,
+  "assets/artists/dangrangto/audio/4 - buổi sáng Khương Đình ft BIG WIND.mp3": ``,
+  "assets/artists/dangrangto/audio/5 - vùng vẫy ft ZEXZEX.mp3": ``,
+  "assets/artists/dangrangto/audio/6 - baby anh đợi có lâu.mp3": ``,
+  "assets/artists/dangrangto/audio/7 - bolero buồn.mp3": ``,
+  "assets/artists/dangrangto/audio/8 - tốt cho anh.mp3": ``,
+  "assets/artists/dangrangto/audio/9 - một ly.mp3": ``,
+  // -------------------------------------HIEUTHUHAI-----------------------------------------
+  // ---------------------------------------------------------------------------------
+  "assets/artists/hieuthuhai/audio/1 - Anh Nên Đi Khỏi Đây.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1]
+Anh có một người (Anh có một người)
+Một người luôn bên anh, yêu thứ anh làm (Yêu thứ anh làm)
+Cả hai không hay giận nhau lúc hai, ba giờ
+Và không ai phải ghen tuông, nghi ngờ, yeah, oh-oh
+Giờ đây chắc em đâu còn buồn
+Nhìn người bên em như có thể sẽ làm lành tổn thương
+Thế nhưng anh vẫn chưa quên bao ngày bên nhau, dù biết sẽ không nên, hoo-ooh-ooh
+
+[Chorus]
+Vì đâu ngờ sẽ nhớ em nhiều như này
+Từng ngày đêm bóng hình em đang bủa vây
+Giờ anh đứng đây
+Nhìn người khác ôm em ở trong tay
+Dù lòng biết là phải buông tay của em rồi
+Vì bên anh đâu thể khiến đôi môi em cười
+Nhìn người mà khóe mi cay (Cay)
+Thôi thì anh nên đi khỏi đây
+
+[Verse 2]
+(Huh-ooh-ooh-ooh-ooh)
+Đôi lúc anh từng, yah (đôi lúc anh từng, yah)
+Sợ rằng em không tìm ai tốt hơn được, yah (Tốt hơn được)
+Thấy em nơi xa cười vui, chắc anh sai rồi (Sai rồi)
+Cầm trong tay một hạnh phúc rất mới (Ooh-ooh)
+Vẫn nhớ ngày em nhìn anh, trên đôi mi em ướt (Mi em ướt)
+Giờ em muốn đi thật xa, nơi nào không thấy anh (Không thấy anh)
+Nhiều mùa thu đã qua, em có hay vô tình nhớ tới anh không?
+Huh-ooh-ooh
+
+[Chorus]
+Vì đâu ngờ sẽ nhớ em nhiều như này
+Từng ngày đêm bóng hình em đang bủa vây
+Giờ anh đứng đây
+Nhìn người khác ôm em ở trong tay
+Dù lòng biết là phải buông tay của em rồi
+Vì bên anh đâu thể khiến đôi môi em cười
+Nhìn người mà khóe mi cay (Cay)
+Thôi thì anh nên đi khỏi đây
+Vì đâu ngờ sẽ nhớ em nhiều như này (Nhiều như này)
+Từng ngày đêm bóng hình em đang bủa vây (Bủa vây)
+Giờ anh đứng đây (Đứng đây)
+Nhìn người khác ôm em ở trong tay
+Dù lòng biết là phải buông tay của em rồi
+Vì bên anh đâu thể khiến đôi môi em cười
+Nhìn người mà khóe mi cay
+Thôi thì anh nên đi khỏi đây (Khỏi đây)`,
+
+  "assets/artists/hieuthuhai/audio/2 - Hết Yêu.mp3": `[Intro]
+(Ah, ah)
+(Hey, Kewtiie)
+
+[Verse 1]
+Hah, chẳng biết phải nói từ đâu
+Vì con tim anh từ lâu đã khác với những ngày đầu, ooh, ooh-ooh-ooh
+Lời yêu trao qua đầu môi như thoáng mây bay mà thôi
+Chẳng có rung động như trước
+
+[Pre-Chorus]
+Nhiều lần cố nghĩ nhưng anh không thể nào hiểu được chính mình
+Đừng buồn quá nhé, khi nắng mai lên mọi chuyện sẽ qua (Ooh-ooh)
+Lòng này nào muốn thấy em đau nhưng tim anh đây lại vô tình
+Là do anh sai nên mình phải xa
+
+[Chorus]
+Chẳng một ai có thể biết con tim của anh đâu mất rồi (Hey yeah)
+Ngày nào còn hứa sẽ mãi không để em lẻ loi (Loi-oi-oi-oi)
+Chẳng hề cố ý cho em nhận lại kết thúc tồi
+Cũng không phải do anh tương tư thêm một ai đâu
+
+[Post-Chorus]
+Chỉ là vì anh hết yêu, là hết yêu (Hết yêu)
+Anh không xứng để ở đây, kế bên em (Hah)
+Là vì con tim của anh đâu mất rồi
+Cũng sẽ có một người khác tốt hơn anh
+Là vì anh hết yêu
+
+[Verse 2]
+Hah
+Hoo-ooh-ooh-ooh-ooh
+Hm-mm-mm
+Ah, eh, yeah
+Chẳng thể giấu bao tâm tư trong lòng đâu
+Đừng cố để níu kéo, con tim không thể nào khâu
+Và có những cảm xúc hai ta không nên đào sâu (What?)
+Chỉ là anh đây đã không còn chờ mong những lúc môi mình gần kề (Ah)
+Anh sai, ừ anh không chối (Không chối)
+Buông đôi tay anh đi và tìm một tình yêu mới (Na-na)
+Baby girl, don't cry, là vì anh thế thôi (Thế thôi)
+Mình đành xa nhau ờ trên đường đời (Yeah)
+Em sẽ quên (Quên)
+Quên gương mặt anh, quên cả tên (Huh)
+Sẽ có một ai luôn đặt em lên ở trên (Yeah)
+Every night cho em bờ vai nguyên cả đêm
+Mỗi ngày năm mươi lời khen như ngày xưa anh đã nên, ah
+Gió đâu còn vương như ngày đó
+Tiếc cho ngày sau không thể bước chung đường
+Mong cơn mưa rào sẽ ngừng rơi trên lối em thường về
+
+[Pre-Chorus]
+Nhiều lần cố nghĩ nhưng anh không thể nào hiểu được chính mình
+Đừng buồn quá nhé khi nắng mai lên mọi chuyện sẽ qua (Ooh-ooh)
+Lòng này nào muốn thấy em đau nhưng tim anh đây lại vô tình
+Là do anh sai nên mình phải xa (Y-yeah-eh-eh)
+[Chorus]
+Chẳng một ai có thể biết con tim của anh đâu mất rồi (đâu mất rồi)
+Ngày nào còn hứa sẽ mãi không để em lẻ loi (Loi-oi-oi-oi)
+Chẳng hề cố ý cho em nhận lại kết thúc tồi
+Cũng không phải do anh tương tư thêm một ai đâu
+
+[Post-Chorus]
+Chỉ là vì anh hết yêu, là hết yêu (đã hết yêu)
+Anh không xứng để ở đây, kế bên em (Kế-kế-kế bên em)
+Là vì con tim của anh (Của anh) đâu mất rồi
+Cũng sẽ có một người khác tốt hơn anh
+Là vì anh hết yêu, ooh, hoh
+Na-na-na-na-na-na-na
+Y-yeah-eh, y-yeah-eh-eh-eh-eh-eh-heh, oh-oh-oh
+
+[Outro]
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu
+Là vì anh hết yêu`,
+
+  "assets/artists/hieuthuhai/audio/3 - Nước Mắt Cá Sấu.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1]
+Sao đêm hôm qua em không bắt máy?
+Em đi bên ai? Qua đêm ở đâu? Yeah (Đâu? Yeah)
+Anh mong em tự mình nói ra ngay (Ra ngay)
+Cho em hay là anh đã biết
+Hey, nước mắt cá sấu chẳng thể cứu lấy, anh quăng va li em ra khỏi đây, cam kết với em
+Dù có lúc anh nghĩ nếu có chia tay, sẽ tại anh đã thay đổi
+
+[Pre-Chorus]
+Anh sẽ tìm người thay thế được ngay thôi (Oh-oh)
+Và em sẽ phải mau hối hận, em ơi (Oh-oh)
+Người yêu em như anh sẽ không có đâu, trên trời rơi xuống (Eh-yeah)
+
+[Chorus]
+Người làm hết tất cả vì em
+Dù là máu rơi cũng chỉ vì em
+Nhận hết lỗi lầm là vì em
+Em còn mong chờ điều gì nữa?
+Chỉ một câu nói "Yêu mình anh"
+Theo như nghĩa đen, cho em tim của anh
+Sẽ chẳng có ai yêu bằng anh
+Nhưng mà ngoài buồn phiền và những dối trá
+Em đã cho anh được gì?
+
+[Verse 2]
+Phải chi biết kết cục như thế, yeah, I'll be cheating, uh
+Em có biết đó là ngoài kia, bao cô gái đang chờ anh mỗi đêm?
+Ooh-ooh-ooh-ooh-ooh, yeah
+Chỉ để cho em vui, anh đã block hết tất cả những cô mà em không ưa
+Nhưng hình như nhiêu đây dollar không đủ để cho lòng em thôi đong đưa
+Anh cũng đã cố, baby, yêu em thật tốt, baby
+Thật sự đã nghĩ hơi nhiều cho em rồi
+
+[Pre-Chorus]
+Anh sẽ tìm người thay thế được ngay thôi (Oh-oh)
+Và em sẽ phải mau hối hận, em ơi (Oh-oh)
+Người yêu em như anh sẽ không có đâu, trên trời rơi xuống (Ah-ah)
+
+[Chorus]
+Người làm hết tất cả vì em
+Dù là máu rơi cũng chỉ vì em
+Nhận hết lỗi lầm là vì em
+Em còn mong chờ điều gì nữa?
+Chỉ một câu nói "Yêu mình anh"
+Theo như nghĩa đen, cho em tim của anh
+Sẽ chẳng có ai yêu bằng anh
+Nhưng mà ngoài buồn phiền và những dối trá
+Em đã cho anh được gì?
+
+[Bridge]
+Cuối cùng chỉ toàn là dối lừa
+Từ nay chắc anh đây không dám tin ai nhiều thế đâu (Ooh-ooh-ooh)
+Anh không thể ngờ (Không thể) bạn bè xung quanh em che giấu cho (Giấu cho)
+Em ngừng yêu anh nhưng anh là người sau cùng được biết (Yeah-yeah-yeah-yeah)
+[Chorus]
+Người làm hết tất cả vì em
+Dù là máu rơi cũng chỉ vì em (Yeah-yeah-yeah-yeah) (Chỉ vì em)
+Nhận hết lỗi lầm là vì em
+Em còn mong chờ điều gì nữa? (Hey!)
+Chỉ một câu nói "Yêu mình anh"
+Theo như nghĩa đen, cho em tim của anh (Yeah-yeah)
+Sẽ chẳng có ai yêu em bằng anh (Aah-yeah-aah)
+Nhưng mà ngoài buồn phiền và những dối trá
+Em đã cho anh được gì?
+
+[Outro]
+Uh, uh
+Yeah-yeah-yeah, ah
+Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+(Em đã cho anh được gì?)`,
+
+  "assets/artists/hieuthuhai/audio/4 - Người Im Lặng Gặp Người Hay Nói.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1]
+Anh muốn thấy em cười, ah
+Túi Chanel trên người, ayy
+Tay toàn là Tiffany, ayy
+Nói đi bất cứ gì, babe
+Anh đều có thể đem tặng em đó, baby
+Đem điều em mộng mơ bình phương nó, baby
+Nhưng tình yêu thì cứ để nó thế này đi
+Tim anh không thể lớn hơn được
+
+[Pre-Chorus]
+Nhớ ngày xưa từng mong mình sẽ là tình yêu chóng vánh
+Dập dìu như sóng đánh, nhanh chóng trôi qua (Oh-oh-oh-oh)
+Anh thì chưa chuẩn bị để mà thật lòng nghiêm túc
+Với thật nhiều cảm xúc mới chen giữa đôi ta (Oh-oh-oh-oh)
+Cứ như lún sâu trong nụ cười em
+Chẳng thể bước đi khỏi nơi đây (Ooh-ooh)
+Giờ anh chỉ muốn ở bên em thôi
+
+[Chorus]
+Anh mong là anh sẽ không thay đổi, ah
+Người im lặng gặp người hay nói, ah
+Không bên cạnh ai quá lâu giống như này đâu (Yêu em)
+Nên mong là hai trái tim sẽ không phải đau
+Chưa từng yêu một ai nhiều như thế (Woah), ah
+Từng cố bỏ đi nhưng đâu dễ (Woah)
+Nếu thế giới kia có mong chúng ta chia đôi
+Sẽ luôn có anh phía sau cùng em
+Thề không để gì phải đổi thay
+
+[Verse 2]
+Hah, gọi là "Anh yêu" đi
+Hôm nay em không vui thì cầm tiền anh tiêu đi (Oh-oh)
+Bao nhiêu câu này dành cho em không thôi
+Vì bật nhạc anh lên nghe toàn là "Hey, cutie"
+Cho em bờ vai để mà ôm lấy, môi hơi bị khô đang cần hôn đấy
+Baby leo lên xe qua nhà anh như mọi hôm đấy, coi chừng bị trông thấy
+Bao lâu nay chụp chung nhưng anh và em chưa bao giờ đăng, chỉ lưu ở trong máy thôi
+Baby ơi, em y như truyện tranh, anh là bài hát không lời (Oh)
+Trao cho anh vòng tay vì trời gió đông ời
+Khi mà anh không còn fame liệu còn em ở trong đời? (Ah-ah)
+Kể từ khi gặp em anh đã bớt rong chơi
+Bao câu thơ tràn ra và nó mãi không vơi
+Mai sau không còn nhau thì đừng khóc em ơi
+Vì tình yêu ta trao còn lại ở ông trời, yah
+
+[Pre-Chorus]
+Nhớ ngày xưa từng mong mình sẽ là tình yêu chóng vánh
+Dập dìu như sóng đánh, nhanh chóng trôi qua (Oh-oh-oh-oh)
+Anh thì chưa chuẩn bị để mà thật lòng nghiêm túc
+Với thật nhiều cảm xúc mới chen giữa đôi ta (Oh-oh-oh-oh)
+Cứ như lún sâu trong nụ cười em
+Chẳng thể bước đi khỏi nơi đây (Oh-oh-oh)
+Giờ anh chỉ muốn ở bên em thôi
+
+[Chorus]
+Anh mong là anh sẽ không thay đổi (Oh), ah
+Người im lặng gặp người hay nói (Ooh-ooh), ah
+Không bên cạnh ai quá lâu giống như này đâu (Yêu em)
+Nên mong là hai trái tim sẽ không phải đau (Yeah-yeah)
+Chưa từng yêu một ai nhiều như thế (Woah), ah
+Từng cố bỏ đi nhưng đâu dễ (Woah)
+Nếu thế giới kia có mong chúng ta chia đôi
+Sẽ luôn có anh phía sau cùng em
+Thề không để gì phải đổi thay
+(Gì phải đổi thay)
+(Gì phải đổi thay, yeah-eh-eh, oh-oh-oh-oh-oh)
+[Chorus]
+Anh mong là anh sẽ không thay đổi, huh
+Người im lặng gặp người hay nói, huh (Oh)
+Không bên cạnh ai quá lâu giống như này đâu
+Nên mong là hai trái tim sẽ không phải đau (Yeah-yeah)
+Chưa từng yêu một ai nhiều như thế (Woah), ah
+Từng cố bỏ đi nhưng đâu dễ (Woah)
+Nếu thế giới kia có mong chúng ta chia đôi
+Sẽ luôn có anh phía sau cùng em (Oh-oh)
+Thề không để gì phải đổi thay
+
+[Outro]
+(Eh, eh, eh, yeah, uh)
+(Eh, eh, eh, yeah)
+(Eh, eh, eh, yeah)
+(Eh, eh, eh, yeah, oh, oh)`,
+
+  "assets/artists/hieuthuhai/audio/5 - Sắp Nổi Tiếng 2.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1]
+Chớp mắt cũng đã bảy, tám năm và tao vẫn là tao, sắp nổi tiếng
+Nhìn lại con đường cũng đã đi khá xa mà đôi khi vẫn thấy mình còn chưa ra khỏi giếng
+Vết sẹo không phải nói về tổn thương, nó nói thằng đàn ông này giỏi chiến
+Đã qua cái ngày mỗi ngày viết một verse, tao phải cố hơn nữa, một verse vào mỗi tiếng
+Khi nó thấy danh tiếng tao đang lên, nào là được buff, nào là ăn hên
+Cầm nhiều tiền book bài được đăng lên, mỗi ngày một chút, ý chí tao lại tăng thêm
+Tất cả nó đều mong cho tao thua thì lại càng chứng minh sự thật tao đang thắng
+Nên từng lời ác ý và tiêu cực cứ để tao nếm nó giống như là vang trắng, damn
+Huh, hai mươi lăm tuổi nhưng tao bước vào phòng họp như một người cổ đông
+Tất cả những điều mà tao nói vài năm trước đều đã thành sự thật rồi, thằng nào cười nữa không?
+Khi mày đã có quá nhiều người yêu mày thì chỉ có một cách để đi ngược số đông
+Ám ảnh với việc bị từ chối nên nhìn vào bản hợp đồng giờ tao thấy có tới mười số không
+Ngày trước không tự tin, bây giờ phải học lại khiêm tốn
+Vào nghề vài năm cũng đã biết quá nhiều, nhưng phải học ngây thơ như đứa trẻ lên bốn
+Chỉ có sự thật nằm ở trên môi tao, ngước nhìn lên trời mới biết đang hơi cao
+Đôi khi tao vẫn phải lên mạng và tìm đọc bình luận chửi, như một cách để trị bệnh ngôi sao (Sao)
+
+[Chorus]
+Nhìn thẳng xuống dưới tao chỉ thấy mấy thằng nghĩ nó ở trên tao (Trên tao)
+Ghét tao tới nỗi mày phải nghĩ rằng mọi thứ đó là hên sao?
+Tao biết là chỉ có một vài thằng thôi, đứng sau hàng ngàn cái acc clone đang réo tên tao
+Cây to gió lớn thì phải đành thôi, có những cái giá mày phải trả khi ở trên cao (Khi ở trên cao)
+Nhìn thẳng xuống dưới tao chỉ thấy mấy thằng nghĩ nó ở trên tao (Trên tao)
+Ghét tao tới nỗi mày phải nghĩ rằng mọi thứ đó là hên sao?
+Tao biết là chỉ có một vài thằng thôi, đứng sau hàng ngàn cái acc clone đang réo tên tao
+Cây to gió lớn thì phải đành thôi, có những cái giá mày phải trả khi ở trên cao (Trên cao)
+
+[Verse 2]
+Có mặt và tạo dáng mấy tấm hình nhận về hơn 500, nhưng mà đừng quên
+Anh đã làm điều đó miễn phí trước đó hơn năm năm
+Cũng đã từng xuất hiện ở trên thảm đỏ, nhưng mà không được đọc lên, giống y như âm câm
+Từ nhỏ là tao đã tự hứa những ngày sau
+Không hạt mưa nào làm ướt áo ba mẹ tao dù có là mưa lâm râm
+Highs and lows
+Luôn luôn biết là tao sẽ có nó, nếu không nhanh thì lâu
+Ông trời đã không đặt kim cương trong lòng đất nếu mà biết con người ta sẽ không ai đào sâu
+Mấy thằng hề tao đã động vào đâu, nhảy dựng cả lên như màn hư cảm ứng
+Thành tích của tao nó nói ai cũng làm được, tao đã trở nên quá giỏi trong việc truyền cảm hứng
+Dấu hiệu của một đứa con xa nhà đó chính là nó sẽ càng ngày càng sợ những cuộc gọi giữa đêm
+Xung quanh tao vẫn là nhiêu đó gương mặt cũ
+Nhưng giờ khác ở một chỗ nguyên một đội có name
+Sức nặng của vương miệng là quá lớn nên hãy suy nghĩ thật kĩ trước khi quyết định muốn đội nó lên
+Mặc đẹp, lương cao, nổi tiếng còn biết buồn, giờ mày thử tưởng tượng cuộc đời tụi nó xem
+Huh, tao cần nhiều album, nhiều CD
+Thêm nhiều tiền, thêm nhiều milly, gia đình chỉ gặp tao ở trên TV
+Ăn thêm được nhiều nhưng mà hunger nhiều y xì
+Cuộc đời của tao xưa nay chưa bao giờ easy
+Hay là tao làm nhìn quá dễ nên mày—
+Nên mày tưởng mọi thứ đó là easy (Đó là easy)
+
+[Chorus]
+Nhìn thẳng xuống dưới tao chỉ thấy mấy thằng nghĩ nó ở trên tao (Trên tao)
+Ghét tao tới nỗi mày phải nghĩ rằng mọi thứ đó là hên sao?
+Tao biết là chỉ có một vài thằng thôi, đứng sau hàng ngàn cái acc clone đang réo tên tao
+Cây to gió lớn thì phải đành thôi, có những cái giá mày phải trả khi ở trên cao (Khi ở trên cao)
+Nhìn thẳng xuống dưới tao chỉ thấy mấy thằng nghĩ nó ở trên tao (Trên tao)
+Ghét tao tới nỗi mày phải nghĩ rằng mọi thứ đó là hên sao?
+Tao biết là chỉ có một vài thằng thôi, đứng sau hàng ngàn cái acc clone đang réo tên tao
+Cây to gió lớn thì phải đành thôi, có những cái giá mày phải trả khi ở trên cao (Khi ở trên cao)`,
+
+
+  "assets/artists/hieuthuhai/audio/6 - Vacheron Louie V ft Hustlang Robber.mp3": `[Intro: HIEUTHUHAI]
+Yeah, oh-oh-oh
+(Hey, Kewtiie)
+
+[Chorus: HIEUTHUHAI]
+H-O-T, nhạc và tên như gió lào (Hey)
+Villa khu an ninh, đường này cua hơi khó vào
+Vacheron, Louis V, vàng và cam anh tô vào
+Vậy mày đang ở xó nào? (Hey, yeah)
+Vậy mày đang ở xó nào, huh? (Yeah)
+
+[Verse 1: HIEUTHUHAI]
+Bọn diều hâu đang cố đào (Huh)
+Ngân hàng fame và nhiều tên đang cố bào
+Mày nhân 100 thì nhiều khi ra số tao (Số tao)
+Quá nhiều thằng đằng sau và tụi nó đang cố gào
+I keep it real (It real, it real)
+Anh đi vào store và mua thường không hỏi giá bao nhiêu (Nah)
+Tiền to, nhạc hay và fan thì luôn là thứ tao yêu (Yêu)
+Dù bay thật cao anh em từ lâu vẫn luôn bằng nhau
+Không quan tâm tạp âm và không ngoái lại đằng sau
+Huh, họ tò mò bao nhiêu tiền anh đã kiếm
+Từ ngày vượt qua 50T, anh đã ngừng đếm (Đếm)
+Cuộc đời này khác xa, nên tao không mong cho ai sẽ hiểu được đâu (Hey)
+
+[Chorus: HIEUTHUHAI, Hustlang Robber]
+H-O-T, nhạc và tên như gió lào (Huh)
+Villa khu an ninh, đường này cua hơi khó vào
+Vacheron, Louis V, vàng và cam anh tô vào (Hey)
+Mày kêu tên anh, vậy mày đang ở xó nào? (Hey, yeah)
+H-O-T, nhạc và tên như gió lào (Hey, yeah)
+Villa khu an ninh, đường này cua hơi khó vào
+Vacheron, Louis V, vàng và cam anh tô vào
+Vậy mày đang ở xó nào? (Hey, yeah)
+Vậy mày đang ở xó nào? (Hey, way, uh)
+
+[Verse 2: Hustlang Robber]
+Đất này có Thổ Công, còn dưới sông nó có Hà Bá, yah
+Chắc họ ghét tao lắm khi trên tay hai mươi viên cà rá, yah
+Robber đã mất chất, không phải là anh mà là tụi nó, yah (Yo)
+Mua được hết những thứ anh đã mơ ước từ khi còn nhỏ, yeah
+Với tao bảng xếp hạng thì nó chính là ngôi nhà thứ hai
+Making mumble rap muốn làm như tao, khun khap mai dai
+Hip-hop ở trong tim, yeah, do it 'til I die, yeah
+Thằng em tao nhất quyết nó không khai, yeah
+Nổi tiếng cứ nổi tiếng, tao worldwide, yeah
+Rap fan nói "May quá, anh ấy vẫn rap không nghe rõ chữ"
+Nhiều thằng phản bội tao rồi lại quỳ gối xin tao tha thứ
+Gang gang all my life nhưng anh em tao biết cách cư xử
+Comeback cùng HIEUTHUHAI, money and fame, tôi yêu phụ nữ
+[Chorus: HIEUTHUHAI, Hustlang Robber]
+H-O-T, nhạc và tên như gió lào (What? Hú)
+Villa khu an ninh, đường này cua hơi khó vào (What?)
+Vacheron, Louis V, vàng và cam anh tô vào (Hey)
+Mày kêu tên anh, vậy mày đang ở xó nào? (Hey, yeah)
+H-O-T, nhạc và tên như gió lào (Hey, yeah)
+Villa khu an ninh, đường này cua hơi khó vào (Okay)
+Vacheron, Louis V, vàng và cam anh tô vào
+Vậy mày đang ở xó nào? (Hey, yeah)
+Vậy mày đang ở xó nào? (Ye)
+(Hey, Kewtiie)`,
+
+  "assets/artists/hieuthuhai/audio/7 - Đáng Lý Anh Nên Yêu Em Hơn ft HURRYKNG.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Chorus: HIEUTHUHAI]
+Đáng lý anh nên yêu em hơn? (Huh)
+Babe, ý em là sao? (Sao?)
+Anh bay hơn năm nghìn cây chỉ để được nghe câu nói đó?
+Người từng nhận lỗi thay cho em, ôm nỗi đau thay em
+Quên mất anh là ai, chỉ để được vui, hài lòng em
+Anh chỉ cần một người nào đó yêu anh, không cần gì ở anh
+Như ta từng yêu ngày trước đây
+Tình yêu của em bây giờ dành cho thứ trong tay anh có mà thôi
+Y-yeah-y-yeah-eh-eh
+
+[Verse 1: HIEUTHUHAI]
+Đã có những lúc tất cả thời gian trong anh chỉ xoay quanh em
+Khi cơn mưa rơi hay là trời đầy giông, em luôn có tay anh bên
+Anh đâu muốn thấy em phải chờ lâu nên là anh phải đi nhanh lên
+Cũng chẳng thể khiến cho bầu trời kia xanh thêm, yeah-eh
+Làm sao để ta bên nhau mà lại không thấy trái tim nặng nề?
+Ngày ta gặp vài giây thôi, vậy mà lại quên hết đi bao bộn bề, ah
+Em thì đâu quan tâm cảm xúc của anh là gì
+Làm như có mỗi anh làm sai, vì (Yeah)
+
+[Pre-Chorus: HIEUTHUHAI]
+Ooh, baby, oh-oh-oh (Oh-oh-oh)
+Là do anh quá yêu thế nên em như này
+Đúng ra anh phải nói câu này
+
+[Chorus: HIEUTHUHAI]
+Đáng lý anh nên yêu em hơn? (Huh)
+Babe, ý em là sao? (Sao?)
+Anh bay hơn năm nghìn cây chỉ để được nghe câu nói đó?
+Người từng nhận lỗi thay cho em (Em), ôm nỗi đau thay em (Oh)
+Quên mất anh là ai, chỉ để được vui, hài lòng em
+Anh chỉ cần một người nào đó yêu anh, không cần gì ở anh
+Như ta từng yêu ngày trước đây
+Tình yêu của em bây giờ dành cho thứ trong tay anh có mà thôi
+Y-yeah-y-yeah-eh-eh
+
+[Verse 2: HURRYKNG & HIEUTHUHAI]
+Em muốn anh hai tư giờ ở bên
+Anniversary anh không hề quên
+Cho em tất cả những gì em kể tên (Huh, huh, huh)
+Chỉ cần nói là Gucci hay Chanel
+Anh cũng đã né đi hết tất cả model
+Luôn nhắc tên em trên tờ L'O
+Đưa hết cho em luôn cả password
+Anh chả có ai đâu mà chuyện trò
+Giờ em còn muốn gì? Em nói đi (Em nói đi)
+Anh chả màng thời gian để mà làm những chuyện khác khi еm nói không happy, yeah
+Còn em muốn tiến tới để bên cạnh một người mới, anh không sao đâu, cứ go (Go)
+Anh cũng đã đâu còn cách và anh không cần oán trách khi đã biết mình đứng đâu, yeah
+[Pre-Chorus: HURRYKNG]
+Hoo-ah, hoo-ah
+Là do anh quá yêu thế nên еm như này
+Đúng ra anh phải nói câu này
+
+[Chorus: HIEUTHUHAI]
+Đáng lý anh nên yêu em hơn? (Huh)
+Babe, ý em là sao? (Sao?)
+Anh bay hơn năm nghìn cây chỉ để được nghe câu nói đó?
+Người từng nhận lỗi thay cho em (Em), ôm nỗi đau thay em (Yeah-eh)
+Quên mất anh là ai, chỉ để được vui, hài lòng em
+Anh chỉ cần một người nào đó yêu anh, không cần gì ở anh
+Như ta từng yêu ngày trước đây
+Tình yêu của em bây giờ dành cho thứ trong tay anh có mà thôi
+Y-yeah-y-yeah-eh-eh
+
+[Outro: HIEUTHUHAI]
+Oh-oh-oh-oh
+Y-yeah-y-yeah-eh-eh
+Oh-oh-oh-oh
+Y-yeah-y-yeah-eh-eh`,
+
+  "assets/artists/hieuthuhai/audio/8 - Đâu Có Ai Nhìn.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1]
+Ooh, baby girl, cho anh lạc trong mắt em
+Mau ôm anh đi vì bầu trời ngoài kia tối đen, yah (Yah)
+Ta đâu cần nói hết tất cả nghĩ suy trong đầu (Ooh-ooh-ooh)
+Cho volume tivi lên to tí đi (To tí đi)
+Nơi không ai nghe và mình thì đâu thấy gì
+Ooh-woh, hoh, hoh-oh-oh, oh-oh
+
+[Chorus]
+Đừng giả vờ chi nữa
+Vì đâu có ai đang nhìn đâu (Đâu)
+Anh biết em không hề giống như này (Như này)
+Em giấu đi điều gì đằng sau lớp áo ngây thơ?
+Chỉ một mình anh biết
+Vì đâu có ai đang nhìn đâu, ooh-woh-oh (Ooh-woh-oh)
+Hãy trao hết đi tất cả thứ em còn
+Vì chỉ cần một phút bước khỏi nơi đây là mình giống như chưa từng quen
+
+[Verse 2]
+Son trên môi (Huh), hàng mi kia cong (Oh)
+Hôm nay đông, vậy thì em đi lên, họ nhận ra em không? (Oh-oh)
+Hai chân em thì đặt lên trên bàn
+Ôm anh đi như là trong đêm đông
+Don't be shy, trên người em hơi nồng
+Nhưng mà sau đêm nay bao vân tay anh đã in trên
+Biết là mình sai nhưng mà sao trong lòng anh không thể ngưng được (Yeah, yeah)
+Hông em trên gối, bao nụ hôn lên trên môi cứ đến liên tục
+Nhìn sâu trong em, anh cứ rơi vào, chẳng còn biết nơi nào
+Cần chi quan tâm những gì kéo theo phía sau
+
+[Chorus]
+Đừng giả vờ chi nữa (Nữa)
+Vì đâu có ai đang nhìn đâu (Đâu)
+Anh biết em không hề giống như này
+Em giấu đi điều gì đằng sau lớp áo ngây thơ?
+Chỉ một mình anh biết (Biết-biết-biết-biết)
+Vì đâu có ai đang nhìn đâu, ooh-woh-oh (Woh-woh-oh-oh)
+Hãy trao hết đi tất cả thứ em còn
+Vì chỉ cần một phút bước khỏi nơi đây là mình giống như chưa từng quen
+
+[Refrain]
+Giống như chưa từng
+Giống như chưa từng quen
+Oh-oh-oh-oh-oh, oh-oh
+Oh, oh, oh
+Hoo-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ooh-oh
+
+[Chorus]
+Đừng giả vờ chi nữa (Nữa)
+Vì đâu có ai đang nhìn đâu (Đâu)
+Anh biết em không hề giống như này
+Em giấu đi điều gì đằng sau lớp áo ngây thơ?
+Chỉ một mình anh biết (Biết-biết-biết)
+Vì đâu có ai đang nhìn đâu (Hoh-hoh-hoh)
+Hãy trao hết đi tất cả thứ em còn
+Vì chỉ cần một phút bước khỏi nơi đây
+Là mình giống như chưa từng quen`,
+
+  "assets/artists/hieuthuhai/audio/9 - Đâu Cần Gì Hơn.mp3": `[Intro]
+(WOKEUP)
+(Hey, Kewtiie)
+Yeah
+Yeah, uh
+What?
+
+[Verse 1]
+Bao nhiêu lâu rồi chưa đặt chân về nhà (Huh)
+Đang tìm thêm triệu đô dành khi về già (Millionaire-naire)
+Đêm ngày trong phòng thu, đang đi ca ba
+Khi xưa bao lời họ nói anh không thể nào mà đi được xa (Xa)
+Gần đâu năm năm trôi qua (Qua)
+Anh vẫn okay lah (Okay lah)
+They ain't cap (Yeah, yeah)
+Mấy thằng chê anh đang ngồi ngáp (Hah, hah)
+Anh đã mua đâu hai, ba căn chỉ bằng rap (Rap)
+Còn mày mơ ngày được viral, cách tụi nó gây điểm nhấn, chỉ là táp-táp-táp
+Yah, hai mươi nhân cho tám (Ey), đường to, nằm ở ngay trung tâm (Gah)
+Cái tên mày không thể bán vé (Huh), nằm mơ à mà ta chung mâm
+Đường lên đỉnh không thấy dấu chân mày, thật lòng khuyên là nên đi phun xăm
+Mấy thằng hay nhắc tên anh ngày trước, giờ này thì có khi đang không nơi dung thân
+Anh đâu còn chơi trong sân, bay trên trời như là không quân (Hey)
+Bạn trai của mấy em ghét khi anh tặng con ***, yeah, anh như Song Luân (Woo)
+Nhạc một set khi bước chân ra stage siêu căng, sorry, làm cho em bong gân
+Ở ngoài kia họ ăn mừng trước khi mà banh anh đang lăn trong chân
+
+[Pre-Chorus]
+Nghĩ ở trên poster anh thèm center thật sao? (Real)
+Fan ở dưới hét tên, xong rồi catxe thật cao (Yeah)
+Chỉ muốn thứ đó thôi, đứng đâu cũng chả quan trọng (Shoo-shoo-shoo)
+Chỉ cần thứ đó thôi nên là anh
+
+[Chorus]
+Đâu cần gì hơn (Huh)
+Xung quanh giống y trong tranh
+Tay, wimbledon (Ay, ay)
+Cayman cứ lao đi nhanh
+Hình xăm ở trên vai mang theo tất cả âm thanh
+Hit không biết bao nhiêu lần (Yeah, ah)
+Hit không biết bao nhiêu lần (Yeah, ah)
+Đâu cần gì hơn (Cần gì hơn)
+Fan vẫn đang vây quanh
+Tay, wimbledon (Wimbledon)
+Cayman lao đi nhanh
+Hình xăm ở trên vai mang theo tất cả âm thanh
+Cayman cứ lao đi nhanh (Huh, huh)
+Cayman cứ lao đi nhanh (Huh, huh)
+
+[Verse 2]
+Đi, đi
+Có quá nhiều hoá đơn, hợp đồng cần ký, ký
+Bếp và nội thất đang được nhập từ Ý, Ý
+Rót thêm vào trong ly (Okay)
+Rót thêm vào trong ly, anh đâu có thời gian đâu mà để suy
+Anh đâu cần
+Anh giống như mối nguy, có hơi nhiều thằng đòi - anh
+Không sống như giấc mơ của anh thì thôi đừng khuyên anh (No)
+Dripping, nên khắp nơi anh đi đều trơn trượt (Trơn trượt)
+Good life, anh cũng không thể nào đòi hơn được
+Không thể nào đòi hơn được
+Không thể nào đòi hơn được
+Không thể nào đòi hơn được
+Huh
+[Pre-Chorus]
+Nghĩ ở trên poster anh thèm center thật sao? (Real)
+Fan ở dưới hét tên, xong rồi catxe thật cao (Yeah)
+Chỉ muốn thứ đó thôi, đứng đâu cũng chả quan trọng (Shoo-shoo-shoo)
+Chỉ cần thứ đó thôi nên là anh
+
+[Chorus]
+Đâu cần gì hơn (Huh)
+Xung quanh giống y trong tranh
+Tay, wimbledon (Ay, ay)
+Cayman cứ lao đi nhanh
+Hình xăm ở trên vai mang theo tất cả âm thanh
+Hit không biết bao nhiêu lần (Yeah, ah)
+Hit không biết bao nhiêu lần (Yeah, woo)
+Đâu cần gì hơn (Cần gì hơn)
+Fan vẫn đang vây quanh
+Tay, wimbledon (Wimbledon)
+Cayman lao đi nhanh
+Hình xăm ở trên vai mang thеo tất cả âm thanh
+Cayman cứ lao đi nhanh (Huh, huh)
+Cayman cứ lao đi nhanh đi (Huh, huh)`,
+
+  "assets/artists/hieuthuhai/audio/10 - Dạo Gần Đây Anh Thấy Anh Không Bằng Ai Hết.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1]
+Hôm nay anh phải làm gì?
+Khi nắng lên, chẳng còn ai ở bên để làm cho trái tim ngừng lầm lì (Sao?)
+Bao nỗi đau này chẳng thể hơn nữa đâu, điều gì đằng sau tới luôn một lần đi
+Cố gắng để làm chi?
+Nếu không có ai thèm nghe, vậy thì bao lời anh viết ra làm gì? (No-oh-oh)
+Anh đã có mọi thứ mình từng ngắm
+Yeah, cũng không tuyệt vời lắm
+Áo hoodie và trùm lấy, không để cho người nào thấy vì em
+Từ ngày em đi xa, nắng mai đâu còn chiếu xuyên qua vào nơi này
+
+[Pre-Chorus]
+Ừ, nhiều người biết nhưng đâu ai hiểu anh đâu
+Nhìn cuộc đời vút qua, không sao nói nên câu
+Bầu trời ngày trước kia, giờ đâu thể nắm gọn trong tay
+
+[Chorus]
+Dạo gần đây anh thấy anh không bằng ai hết (Ai hết)
+Tiền anh cũng đã có nhưng cuối cùng ai đếm? (Ai đếm?)
+Ngồi một mình trong góc cô đơn ở hai bên
+Thức trắng cũng được hai đêm
+Và đôi mắt anh cũng đã khô rồi
+Điều mà em mong muốn anh không thể đem tới (Tới, yeah)
+Đường anh đi phía trước y như màn đêm tối (Na-na-na, yeah-yeah)
+Người như anh không thể có được tình yêu đâu
+Cứ quay lưng đi, đừng, đừng ai thấy anh đây ở trong lúc này
+Thật khó cho ai để yêu anh
+
+[Verse 2]
+Đôi khi anh thích đứng dưới cơn mưa
+Luôn ưu tư, chẳng thể giống như xưa
+Đôi vai anh nó cứ kéo lên nhau
+Thức trắng hết đêm thâu, cố viết thêm câu, yah
+Ngoài trời mưa đang rơi
+Bao nhiêu lâu từ ngày ta chia đôi
+Làm mình nghĩ suy thêm về những thứ ta sai trong cuộc đời (Oh-oh-oh-oh)
+Và nụ cười anh cố để níu lấy, giờ đây đã không thành
+Phải làm gì để thấy được vô tư từng ngày nào ở trong anh (Ah-ah-ah-ah)
+Chẳng còn nhìn về nhiều thứ xa xôi
+Chỉ mong niềm vui ngày mai trong lòng ta, không trở nên quá xa vời
+
+[Pre-Chorus]
+Ừ, nhiều người biết (Biết) nhưng (Nhưng) đâu ai hiểu anh đâu
+Nhìn cuộc đời vút (Vút) qua (Qua), không sao nói nên câu
+Bầu trời ngày trước (Trước) kia (Kia), giờ đâu thể nắm gọn trong tay
+
+[Chorus]
+Dạo gần đây anh thấy anh không bằng ai hết (Ai hết)
+Tiền anh cũng đã có nhưng cuối cùng ai đếm? (Ai đếm?)
+Ngồi một mình trong góc cô đơn ở hai bên
+Thức trắng cũng được hai đêm
+Và đôi mắt anh cũng đã khô rồi
+Điều mà em mong muốn anh không thể đem tới (Tới, yeah)
+Đường anh đi phía trước y như màn đêm tối (Na-na-na, yeah-yeah)
+Người như anh không thể có được tình yêu đâu
+Cứ quay lưng đi, đừng, đừng ai thấy anh đây ở trong lúc này
+Thật khó cho ai để yêu anh
+[Outro]
+(Oh, oh, oh, oh) Y-yeh-yeh-y-yeh
+(Oh, oh, oh, oh) Ah, y-yeh-eh-eh-eh
+Thật khó cho ai để yêu anh, yeah
+Heh-y-yeah-eh-eh-eh
+Thật khó cho ai để yêu anh
+(Dạo gần đây anh thấy anh không bằng ai hết)
+(Tiền anh cũng đã có nhưng cuối cùng ai đếm)
+(Ngồi một mình trong góc cô đơn ở hai bên)
+(Thức trắng cũng được hai đêm)
+(Và đôi mắt anh cũng đã khô rồi)
+(Điều mà em mong muốn anh không thể đem tới)
+(Đường anh đi phía trước y như màn đêm tối)
+(Người như anh không thể có được tình yêu đâu)
+(Cứ quay lưng đi, đừng, đừng ai thấy anh đây ở trong lúc này)
+(Thật khó cho ai để yêu anh)`,
+
+  "assets/artists/hieuthuhai/audio/11 - Chờ Tới Khi Anh Về ft Hoàng Tôn.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1: HIEUTHUHAI]
+Khi anh đi xa mới thấy đêm này thật dài
+Chẳng còn em và giọng nói đi đến tai
+Những tấm hình em hay gửi qua bằng điện thoại
+Làm anh không muốn ở đây đến sáng mai
+Quên đi cuộc vui, anh chỉ mong được về nhà
+Mười giờ tối khi làm xong chắc đến hai
+Nhiều người nổi tiếng anh còn không để ý ai (Ai)
+Hình nào được up cũng phải tắt đi đếm like
+Baby, not you
+Nhiều cảm xúc trong anh chẳng thể giấu đi đâu
+F- studio, anh chỉ muốn bên nhau
+Gối lên tay, nằm lên suốt đêm thâu
+Baby đánh răng chung vào khi sáng hôm sau
+Những khi cô đơn gọi anh đến bên nhanh
+Dù nghĩa bóng hay đen, em luôn nằm ở trên anh
+Mắt ta trao nhau, cần gì nói thêm đâu
+Ta đâu phải quan tâm đến mọi thứ xung quanh
+Baby, em phải xứng với anh và diamond (Diamond)
+Nơi mà ta nằm lên có silk và linen (Linen)
+Sẽ bù đắp từng phút, từng giây những khi mà em chờ
+Mình còn có cả đêm mà
+
+[Pre-Chorus: HIEUTHUHAI]
+Baby, em phải xứng với anh và diamond (Diamond)
+Nơi mà ta nằm lên có silk và linen (Linen)
+Sẽ bù đắp từng phút, từng giây những khi mà em chờ (Hah-ah-ah-hah)
+Mình còn có cả đêm mà
+
+[Chorus: HIEUTHUHAI]
+Chờ, chờ tới khi anh về
+Leo lên giường đi, chờ tới khi anh về (Ooh-oh-oh-oh)
+Chờ, chờ tới khi anh về
+Chỉ mình em khiến cho anh mê (Mê)
+Chờ, chờ tới khi anh về
+Ánh mắt của em hãy chỉ để cho anh thôi
+Những buổi tối nơi hai ta hay chung đôi
+Leo lên giường đi, chờ tới khi anh về
+Baby ơi, baby ơi, baby ơi (Oh-oh)
+Baby ơi, baby ơi, baby ơi (Oh-oh-oh-oh)
+Chờ, chờ tới khi anh về
+Leo lên giường đi, chờ tới khi anh về (Ooh-oh-oh-oh)
+Chờ, chờ tới khi anh về
+Chỉ mình em khiến cho anh mê (Mê)
+Chờ, chờ tới khi anh về
+Ánh mắt của em hãy chỉ để cho anh thôi
+Những buổi tối nơi hai ta hay chung đôi
+Leo lên giường đi, chờ tới khi anh về
+[Verse 2: Hoàng Tôn]
+Yeah, khi anh bước về nhà và ngọn đèn vàng bật sáng lên (Ooh-oh)
+Có chiếc gối ôm và bầy thú nhồi bông nằm sát bên (Ooh-oh)
+Xung quanh bốn bức tường chỉ có mình anh và ván game
+Anh đã ước rằng là em đến đây xua tan bóng đêm
+Cho buồn đau dần trôi nhẹ đi để anh không suy (Anh không suy)
+Cho lệ không còn vương làm hoen ướt trên lông mi nàng
+Spoil người với những thứ tốt nhất vì em xứng đáng
+Chẳng cần thế giới hay ai chứng giám
+Vứt đi hết vệ tinh xung quanh
+Baby, anh chỉ muốn người ở cạnh bên anh
+Đêm nay chắc có lẽ chẳng cần đi đâu nhanh
+Hay là khui champagne và nâng ly
+Tắt hết máy móc, cần gì bận tâm chi
+Deadline có đến, tạm quên đi, yeah-yeah-yeah
+
+[Chorus: Hoàng Tôn]
+Baby, em phải xứng với anh và diamond
+Những hư danh ngoài kia nào đâu có ai cần, ah
+F- studio, anh chỉ muốn bên nhau
+Gối lên tay, anh nằm đây suốt đêm thâu
+Chẳng đi đâu, chỉ cần ở trên nhau, babe
+
+[Chorus: Both & HIEUTHUHAI]
+Chờ, chờ tới khi anh về
+Leo lên giường đi, chờ tới khi anh về (Ooh-oh-oh-oh)
+Chờ, chờ tới khi anh về
+Chỉ mình em khiến cho anh mê (Mê)
+Chờ, chờ tới khi anh về
+Ánh mắt của em hãy chỉ để cho anh thôi (Thôi)
+Những buổi tối nơi hai ta hay chung đôi
+Leo lên giường đi, chờ tới khi anh về
+Baby ơi, baby ơi, baby ơi
+Baby ơi, baby ơi, baby ơi
+[Outro: HIEUTHUHAI, Both]
+Chờ, chờ tới khi anh về
+Leo lên giường đi, chờ tới khi anh về
+Chờ, chờ tới khi anh về
+Chỉ mình em khiến cho anh mê
+Chờ, chờ tới khi anh về
+Ánh mắt của em hãy chỉ để cho anh thôi
+Những buổi tối nơi hai ta hay chung đôi
+Leo lên giường đi, chờ tới khi anh về`,
+  // -------------------------------------HUSTLANG ROBBER-----------------------------------------
+  // ---------------------------------------------------------------------------------------------
+  "assets/artists/hustlangrobber/audio/1 - 1TINHYEU ft Young Puppy.mp3": ``,
+  "assets/artists/hustlangrobber/audio/10 - QUA TỪNG KHUNG HÌNH ft Ngắn.mp3": ``,
+  "assets/artists/hustlangrobber/audio/11 - Rapper Lè Nhè.mp3": ``,
+  "assets/artists/hustlangrobber/audio/12 - Slatt ON.mp3": ``,
+  "assets/artists/hustlangrobber/audio/13 - Take It Off.mp3": ``,
+  "assets/artists/hustlangrobber/audio/14 - Xuôi Chèo Mát Mái.mp3": ``,
+  "assets/artists/hustlangrobber/audio/2 - Cartier Rings.mp3": ``,
+  "assets/artists/hustlangrobber/audio/3 - Có Nhiều Đêm Anh Buồn.mp3": ``,
+  "assets/artists/hustlangrobber/audio/4 - Dear Love.mp3": ``,
+  "assets/artists/hustlangrobber/audio/5 - His Story.mp3": ``,
+  "assets/artists/hustlangrobber/audio/6 - IKIGAI.mp3": ``,
+  "assets/artists/hustlangrobber/audio/7 - King Vamp.mp3": ``,
+  "assets/artists/hustlangrobber/audio/8 - Muốn Anh Đau ft WINNO.mp3": ``,
+  "assets/artists/hustlangrobber/audio/9 - MỘT TÂM HỒN BÌNH THẢN.mp3": ``,
+  // -------------------------------------MCK-----------------------------------------
+  // ---------------------------------------------------------------------------------
+  "assets/artists/mck/audio/1 - Elegie.mp3": ``,
   "assets/artists/mck/audio/2 - IDK.mp3": `[Intro]
 Ah, ah, ah, ah, ah, ah, ah
 Ah, ah, ah, ah, ah, ah, ah
@@ -1835,7 +2737,16 @@ Tìm được người thay thế, vứt mẹ chiếc ghế mà quay đầu về
 Cambiare come le nuvole nel cielo
 Ma l'occhio del cielo nulla può nascondere`,
 
-  // OBITO tracks
+  // -------------------------------------OBITO-----------------------------------------
+  // -----------------------------------------------------------------------------------
+  "assets/artists/obito/audio/1 - Xuất Phát Điểm.mp3": ``,
+  "assets/artists/obito/audio/10 - Simple Love.mp3": ``,
+  "assets/artists/obito/audio/11 - Soju Love.mp3": ``,
+  "assets/artists/obito/audio/12 - Sài Gòn ơi.mp3": ``,
+  "assets/artists/obito/audio/13 - Track 06.mp3": ``,
+  "assets/artists/obito/audio/14 - When You Look At Me.mp3": ``,
+  "assets/artists/obito/audio/15 - dư âm.mp3": ``,
+  "assets/artists/obito/audio/16 - nước.mp3": ``,
   "assets/artists/obito/audio/17 - Đánh Đổi.mp3": `[Intro: Obito]
 If I had ten thousand tongues
 I couldn't tell all that the Lord has done for me
@@ -1920,900 +2831,45 @@ He's crazy
 Phong Ly, Phong Ly, Phong Ly, Phong Ly (Ngô Phảng Phất)
 (youngtobieedasick)
 MCK, MCK, MCK, MCK`,
-  "assets/artists/obito/audio/2 - Track Title.mp3": "",
-
-  // WXRDIE tracks
-  "assets/artists/wxrdie/audio/1 - Track Title.mp3": "",
-  "assets/artists/wxrdie/audio/2 - Track Title.mp3": "",
-
-  // DANGRANGTO tracks
-  "assets/artists/dangrangto/audio/1 - xương rồng.mp3": `[Intro]
-Oh, oh
-Huh
-Hmm
-
-[Verse 1]
-Chắc em không lộng lẫy, kiêu sa tựa hoa hồng
-Chắc em không gần gũi, trên thân toàn gai nhọn
-Chắc hương thơm chẳng vấn vương bao người xiêu lòng
-Điều gì khiến cho ai từng đến bên em rồi cũng sẽ chọn đi?
-Thế gian kia tàn nhẫn coi em là xương rồng
-Vậy thì có hay không một người sẽ tới đây?
-Nắm lấy tay em khi vừa thức dậy
-Ôm lấy em thật chặt vào lúc này, baby
-Một người chịu đi tưới mát chiếc cây khô cằn
-Dù là cỏ lạ và hoa thơm kéo tới đây vô vàn
-Mặc kệ trời nắng cháy rát ở nơi sa mạc
-Và mặc kệ là nhiều gai đâm nhưng vẫn luôn chọn cố gắng
-Vì mình cần được yêu cũng giống như xương rồng
-Cần phải đón lấy chút sương mai để nở lên hoa hồng
-Chờ một người đặc biệt để sà vào lòng thật lâu
-Làm dịu bao cơn đau em thường cất giấu
-
-[Chorus]
-Em đừng khóc
-Ai sẽ lau đi hết nước mắt em long lanh?
-Mạnh mẽ lắm cũng sẽ có khi mong manh
-Nắng cháy da nhưng trong lòng trăm đợt sóng đánh
-Bởi vì vết thương lòng
-Đâm sâu, em trở thành chiếc xương rồng
-Quay đi, em bỏ lại mình của ngày xưa
-Không cho ai làm tổn thương em nữa
-
-[Interlude]
-Huh-uh, huh-uh, huh, yeah
-Đừng lo lắng nhé, dựa vai anh
-Huh, huh-uh-uh, huh-uh
-
-[Verse 2]
-Cứ tin anh, baby, đã có anh đây rồi
-Chẳng sao đâu, cơn đau sẽ qua thật nhanh thôi
-Nép lên vai và cho anh thêm một cơ hội
-Và tháng năm sau này để anh cầm tay dẫn lối
-Có ai trót đi ngang để nơi em tiêu điều
-Để lại lớp gai đâm em khoác lên vai mình khi yêu
-Cứa lên anh như trăm con dao kia sắc lẹm
-Vì giọt lệ hằn sâu trong mắt em
-
-[Chorus]
-Em đừng khóc
-Anh sẽ lau đi hết nước mắt em long lanh
-Mạnh mẽ lắm cũng sẽ có khi em mong manh
-Nắng cháy da nhưng trong lòng trăm đợt sóng đánh
-Bởi vì vết thương lòng
-Đâm sâu, em trở thành chiếc xương rồng
-Theo anh đi tìm lại mình của ngày xưa
-Không cho ai làm tổn thương em nữa
-
-[Outro]
-Cứ tin anh, baby, đã có anh đây rồi mà
-Chẳng sao đâu, cơn đau sẽ qua thật nhanh thôi
-Nép lên vai và cho anh thêm một cơ hội
-Tháng năm sau này để anh cầm tay dẫn lối
-Có ai trót đi ngang để nơi em tiêu điều
-Để lại lớp gai đâm em khoác lên vai mình khi yêu
-Cứa lên anh như trăm con dao kia sắc lẹm
-Những cơn đau để anh được chịu đựng cùng em`,
-
-  "assets/artists/dangrangto/audio/2 - Track Title.mp3": "",
-
-  // HUSTLANG ROBBER tracks
-  "assets/artists/hustlangrobber/audio/1 - Track Title.mp3": "",
-  "assets/artists/hustlangrobber/audio/2 - Track Title.mp3": "",
-
-  // HIEUTHUHAI tracks
-  "assets/artists/hieuthuhai/audio/1 - Anh Nên Đi Khỏi Đây.mp3": `[Intro]
-(Hey, Kewtiie)
-
-[Verse 1]
-Anh có một người (Anh có một người)
-Một người luôn bên anh, yêu thứ anh làm (Yêu thứ anh làm)
-Cả hai không hay giận nhau lúc hai, ba giờ
-Và không ai phải ghen tuông, nghi ngờ, yeah, oh-oh
-Giờ đây chắc em đâu còn buồn
-Nhìn người bên em như có thể sẽ làm lành tổn thương
-Thế nhưng anh vẫn chưa quên bao ngày bên nhau, dù biết sẽ không nên, hoo-ooh-ooh
-
-[Chorus]
-Vì đâu ngờ sẽ nhớ em nhiều như này
-Từng ngày đêm bóng hình em đang bủa vây
-Giờ anh đứng đây
-Nhìn người khác ôm em ở trong tay
-Dù lòng biết là phải buông tay của em rồi
-Vì bên anh đâu thể khiến đôi môi em cười
-Nhìn người mà khóe mi cay (Cay)
-Thôi thì anh nên đi khỏi đây
-
-[Verse 2]
-(Huh-ooh-ooh-ooh-ooh)
-Đôi lúc anh từng, yah (đôi lúc anh từng, yah)
-Sợ rằng em không tìm ai tốt hơn được, yah (Tốt hơn được)
-Thấy em nơi xa cười vui, chắc anh sai rồi (Sai rồi)
-Cầm trong tay một hạnh phúc rất mới (Ooh-ooh)
-Vẫn nhớ ngày em nhìn anh, trên đôi mi em ướt (Mi em ướt)
-Giờ em muốn đi thật xa, nơi nào không thấy anh (Không thấy anh)
-Nhiều mùa thu đã qua, em có hay vô tình nhớ tới anh không?
-Huh-ooh-ooh
-
-[Chorus]
-Vì đâu ngờ sẽ nhớ em nhiều như này
-Từng ngày đêm bóng hình em đang bủa vây
-Giờ anh đứng đây
-Nhìn người khác ôm em ở trong tay
-Dù lòng biết là phải buông tay của em rồi
-Vì bên anh đâu thể khiến đôi môi em cười
-Nhìn người mà khóe mi cay (Cay)
-Thôi thì anh nên đi khỏi đây
-Vì đâu ngờ sẽ nhớ em nhiều như này (Nhiều như này)
-Từng ngày đêm bóng hình em đang bủa vây (Bủa vây)
-Giờ anh đứng đây (Đứng đây)
-Nhìn người khác ôm em ở trong tay
-Dù lòng biết là phải buông tay của em rồi
-Vì bên anh đâu thể khiến đôi môi em cười
-Nhìn người mà khóe mi cay
-Thôi thì anh nên đi khỏi đây (Khỏi đây)`,
-
-  "assets/artists/hieuthuhai/audio/2 - Hết Yêu.mp3": `[Intro]
-(Ah, ah)
-(Hey, Kewtiie)
-
-[Verse 1]
-Hah, chẳng biết phải nói từ đâu
-Vì con tim anh từ lâu đã khác với những ngày đầu, ooh, ooh-ooh-ooh
-Lời yêu trao qua đầu môi như thoáng mây bay mà thôi
-Chẳng có rung động như trước
-
-[Pre-Chorus]
-Nhiều lần cố nghĩ nhưng anh không thể nào hiểu được chính mình
-Đừng buồn quá nhé, khi nắng mai lên mọi chuyện sẽ qua (Ooh-ooh)
-Lòng này nào muốn thấy em đau nhưng tim anh đây lại vô tình
-Là do anh sai nên mình phải xa
-
-[Chorus]
-Chẳng một ai có thể biết con tim của anh đâu mất rồi (Hey yeah)
-Ngày nào còn hứa sẽ mãi không để em lẻ loi (Loi-oi-oi-oi)
-Chẳng hề cố ý cho em nhận lại kết thúc tồi
-Cũng không phải do anh tương tư thêm một ai đâu
-
-[Post-Chorus]
-Chỉ là vì anh hết yêu, là hết yêu (Hết yêu)
-Anh không xứng để ở đây, kế bên em (Hah)
-Là vì con tim của anh đâu mất rồi
-Cũng sẽ có một người khác tốt hơn anh
-Là vì anh hết yêu
-
-[Verse 2]
-Hah
-Hoo-ooh-ooh-ooh-ooh
-Hm-mm-mm
-Ah, eh, yeah
-Chẳng thể giấu bao tâm tư trong lòng đâu
-Đừng cố để níu kéo, con tim không thể nào khâu
-Và có những cảm xúc hai ta không nên đào sâu (What?)
-Chỉ là anh đây đã không còn chờ mong những lúc môi mình gần kề (Ah)
-Anh sai, ừ anh không chối (Không chối)
-Buông đôi tay anh đi và tìm một tình yêu mới (Na-na)
-Baby girl, don't cry, là vì anh thế thôi (Thế thôi)
-Mình đành xa nhau ờ trên đường đời (Yeah)
-Em sẽ quên (Quên)
-Quên gương mặt anh, quên cả tên (Huh)
-Sẽ có một ai luôn đặt em lên ở trên (Yeah)
-Every night cho em bờ vai nguyên cả đêm
-Mỗi ngày năm mươi lời khen như ngày xưa anh đã nên, ah
-Gió đâu còn vương như ngày đó
-Tiếc cho ngày sau không thể bước chung đường
-Mong cơn mưa rào sẽ ngừng rơi trên lối em thường về
-
-[Pre-Chorus]
-Nhiều lần cố nghĩ nhưng anh không thể nào hiểu được chính mình
-Đừng buồn quá nhé khi nắng mai lên mọi chuyện sẽ qua (Ooh-ooh)
-Lòng này nào muốn thấy em đau nhưng tim anh đây lại vô tình
-Là do anh sai nên mình phải xa (Y-yeah-eh-eh)
-[Chorus]
-Chẳng một ai có thể biết con tim của anh đâu mất rồi (đâu mất rồi)
-Ngày nào còn hứa sẽ mãi không để em lẻ loi (Loi-oi-oi-oi)
-Chẳng hề cố ý cho em nhận lại kết thúc tồi
-Cũng không phải do anh tương tư thêm một ai đâu
-
-[Post-Chorus]
-Chỉ là vì anh hết yêu, là hết yêu (đã hết yêu)
-Anh không xứng để ở đây, kế bên em (Kế-kế-kế bên em)
-Là vì con tim của anh (Của anh) đâu mất rồi
-Cũng sẽ có một người khác tốt hơn anh
-Là vì anh hết yêu, ooh, hoh
-Na-na-na-na-na-na-na
-Y-yeah-eh, y-yeah-eh-eh-eh-eh-eh-heh, oh-oh-oh
-
-[Outro]
-Là vì anh hết yêu
-Là vì anh hết yêu
-Là vì anh hết yêu
-Là vì anh hết yêu
-Là vì anh hết yêu
-Là vì anh hết yêu
-Là vì anh hết yêu
-Là vì anh hết yêu`,
-
-  "assets/artists/hieuthuhai/audio/3 - Nước Mắt Cá Sấu.mp3": `[Intro]
-(Hey, Kewtiie)
-
-[Verse 1]
-Sao đêm hôm qua em không bắt máy?
-Em đi bên ai? Qua đêm ở đâu? Yeah (Đâu? Yeah)
-Anh mong em tự mình nói ra ngay (Ra ngay)
-Cho em hay là anh đã biết
-Hey, nước mắt cá sấu chẳng thể cứu lấy, anh quăng va li em ra khỏi đây, cam kết với em
-Dù có lúc anh nghĩ nếu có chia tay, sẽ tại anh đã thay đổi
-
-[Pre-Chorus]
-Anh sẽ tìm người thay thế được ngay thôi (Oh-oh)
-Và em sẽ phải mau hối hận, em ơi (Oh-oh)
-Người yêu em như anh sẽ không có đâu, trên trời rơi xuống (Eh-yeah)
-
-[Chorus]
-Người làm hết tất cả vì em
-Dù là máu rơi cũng chỉ vì em
-Nhận hết lỗi lầm là vì em
-Em còn mong chờ điều gì nữa?
-Chỉ một câu nói "Yêu mình anh"
-Theo như nghĩa đen, cho em tim của anh
-Sẽ chẳng có ai yêu bằng anh
-Nhưng mà ngoài buồn phiền và những dối trá
-Em đã cho anh được gì?
-
-[Verse 2]
-Phải chi biết kết cục như thế, yeah, I'll be cheating, uh
-Em có biết đó là ngoài kia, bao cô gái đang chờ anh mỗi đêm?
-Ooh-ooh-ooh-ooh-ooh, yeah
-Chỉ để cho em vui, anh đã block hết tất cả những cô mà em không ưa
-Nhưng hình như nhiêu đây dollar không đủ để cho lòng em thôi đong đưa
-Anh cũng đã cố, baby, yêu em thật tốt, baby
-Thật sự đã nghĩ hơi nhiều cho em rồi
-
-[Pre-Chorus]
-Anh sẽ tìm người thay thế được ngay thôi (Oh-oh)
-Và em sẽ phải mau hối hận, em ơi (Oh-oh)
-Người yêu em như anh sẽ không có đâu, trên trời rơi xuống (Ah-ah)
-
-[Chorus]
-Người làm hết tất cả vì em
-Dù là máu rơi cũng chỉ vì em
-Nhận hết lỗi lầm là vì em
-Em còn mong chờ điều gì nữa?
-Chỉ một câu nói "Yêu mình anh"
-Theo như nghĩa đen, cho em tim của anh
-Sẽ chẳng có ai yêu bằng anh
-Nhưng mà ngoài buồn phiền và những dối trá
-Em đã cho anh được gì?
-
-[Bridge]
-Cuối cùng chỉ toàn là dối lừa
-Từ nay chắc anh đây không dám tin ai nhiều thế đâu (Ooh-ooh-ooh)
-Anh không thể ngờ (Không thể) bạn bè xung quanh em che giấu cho (Giấu cho)
-Em ngừng yêu anh nhưng anh là người sau cùng được biết (Yeah-yeah-yeah-yeah)
-[Chorus]
-Người làm hết tất cả vì em
-Dù là máu rơi cũng chỉ vì em (Yeah-yeah-yeah-yeah) (Chỉ vì em)
-Nhận hết lỗi lầm là vì em
-Em còn mong chờ điều gì nữa? (Hey!)
-Chỉ một câu nói "Yêu mình anh"
-Theo như nghĩa đen, cho em tim của anh (Yeah-yeah)
-Sẽ chẳng có ai yêu em bằng anh (Aah-yeah-aah)
-Nhưng mà ngoài buồn phiền và những dối trá
-Em đã cho anh được gì?
-
-[Outro]
-Uh, uh
-Yeah-yeah-yeah, ah
-Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
-(Em đã cho anh được gì?)`,
-
-  "assets/artists/hieuthuhai/audio/4 - Người Im Lặng Gặp Người Hay Nói.mp3": `[Intro]
-(Hey, Kewtiie)
-
-[Verse 1]
-Anh muốn thấy em cười, ah
-Túi Chanel trên người, ayy
-Tay toàn là Tiffany, ayy
-Nói đi bất cứ gì, babe
-Anh đều có thể đem tặng em đó, baby
-Đem điều em mộng mơ bình phương nó, baby
-Nhưng tình yêu thì cứ để nó thế này đi
-Tim anh không thể lớn hơn được
-
-[Pre-Chorus]
-Nhớ ngày xưa từng mong mình sẽ là tình yêu chóng vánh
-Dập dìu như sóng đánh, nhanh chóng trôi qua (Oh-oh-oh-oh)
-Anh thì chưa chuẩn bị để mà thật lòng nghiêm túc
-Với thật nhiều cảm xúc mới chen giữa đôi ta (Oh-oh-oh-oh)
-Cứ như lún sâu trong nụ cười em
-Chẳng thể bước đi khỏi nơi đây (Ooh-ooh)
-Giờ anh chỉ muốn ở bên em thôi
-
-[Chorus]
-Anh mong là anh sẽ không thay đổi, ah
-Người im lặng gặp người hay nói, ah
-Không bên cạnh ai quá lâu giống như này đâu (Yêu em)
-Nên mong là hai trái tim sẽ không phải đau
-Chưa từng yêu một ai nhiều như thế (Woah), ah
-Từng cố bỏ đi nhưng đâu dễ (Woah)
-Nếu thế giới kia có mong chúng ta chia đôi
-Sẽ luôn có anh phía sau cùng em
-Thề không để gì phải đổi thay
-
-[Verse 2]
-Hah, gọi là "Anh yêu" đi
-Hôm nay em không vui thì cầm tiền anh tiêu đi (Oh-oh)
-Bao nhiêu câu này dành cho em không thôi
-Vì bật nhạc anh lên nghe toàn là "Hey, cutie"
-Cho em bờ vai để mà ôm lấy, môi hơi bị khô đang cần hôn đấy
-Baby leo lên xe qua nhà anh như mọi hôm đấy, coi chừng bị trông thấy
-Bao lâu nay chụp chung nhưng anh và em chưa bao giờ đăng, chỉ lưu ở trong máy thôi
-Baby ơi, em y như truyện tranh, anh là bài hát không lời (Oh)
-Trao cho anh vòng tay vì trời gió đông ời
-Khi mà anh không còn fame liệu còn em ở trong đời? (Ah-ah)
-Kể từ khi gặp em anh đã bớt rong chơi
-Bao câu thơ tràn ra và nó mãi không vơi
-Mai sau không còn nhau thì đừng khóc em ơi
-Vì tình yêu ta trao còn lại ở ông trời, yah
-
-[Pre-Chorus]
-Nhớ ngày xưa từng mong mình sẽ là tình yêu chóng vánh
-Dập dìu như sóng đánh, nhanh chóng trôi qua (Oh-oh-oh-oh)
-Anh thì chưa chuẩn bị để mà thật lòng nghiêm túc
-Với thật nhiều cảm xúc mới chen giữa đôi ta (Oh-oh-oh-oh)
-Cứ như lún sâu trong nụ cười em
-Chẳng thể bước đi khỏi nơi đây (Oh-oh-oh)
-Giờ anh chỉ muốn ở bên em thôi
-
-[Chorus]
-Anh mong là anh sẽ không thay đổi (Oh), ah
-Người im lặng gặp người hay nói (Ooh-ooh), ah
-Không bên cạnh ai quá lâu giống như này đâu (Yêu em)
-Nên mong là hai trái tim sẽ không phải đau (Yeah-yeah)
-Chưa từng yêu một ai nhiều như thế (Woah), ah
-Từng cố bỏ đi nhưng đâu dễ (Woah)
-Nếu thế giới kia có mong chúng ta chia đôi
-Sẽ luôn có anh phía sau cùng em
-Thề không để gì phải đổi thay
-(Gì phải đổi thay)
-(Gì phải đổi thay, yeah-eh-eh, oh-oh-oh-oh-oh)
-[Chorus]
-Anh mong là anh sẽ không thay đổi, huh
-Người im lặng gặp người hay nói, huh (Oh)
-Không bên cạnh ai quá lâu giống như này đâu
-Nên mong là hai trái tim sẽ không phải đau (Yeah-yeah)
-Chưa từng yêu một ai nhiều như thế (Woah), ah
-Từng cố bỏ đi nhưng đâu dễ (Woah)
-Nếu thế giới kia có mong chúng ta chia đôi
-Sẽ luôn có anh phía sau cùng em (Oh-oh)
-Thề không để gì phải đổi thay
-
-[Outro]
-(Eh, eh, eh, yeah, uh)
-(Eh, eh, eh, yeah)
-(Eh, eh, eh, yeah)
-(Eh, eh, eh, yeah, oh, oh)`,
-
-  "assets/artists/hieuthuhai/audio/5 - Sắp Nổi Tiếng 2.mp3": `[Intro]
-(Hey, Kewtiie)
-
-[Verse 1]
-Chớp mắt cũng đã bảy, tám năm và tao vẫn là tao, sắp nổi tiếng
-Nhìn lại con đường cũng đã đi khá xa mà đôi khi vẫn thấy mình còn chưa ra khỏi giếng
-Vết sẹo không phải nói về tổn thương, nó nói thằng đàn ông này giỏi chiến
-Đã qua cái ngày mỗi ngày viết một verse, tao phải cố hơn nữa, một verse vào mỗi tiếng
-Khi nó thấy danh tiếng tao đang lên, nào là được buff, nào là ăn hên
-Cầm nhiều tiền book bài được đăng lên, mỗi ngày một chút, ý chí tao lại tăng thêm
-Tất cả nó đều mong cho tao thua thì lại càng chứng minh sự thật tao đang thắng
-Nên từng lời ác ý và tiêu cực cứ để tao nếm nó giống như là vang trắng, damn
-Huh, hai mươi lăm tuổi nhưng tao bước vào phòng họp như một người cổ đông
-Tất cả những điều mà tao nói vài năm trước đều đã thành sự thật rồi, thằng nào cười nữa không?
-Khi mày đã có quá nhiều người yêu mày thì chỉ có một cách để đi ngược số đông
-Ám ảnh với việc bị từ chối nên nhìn vào bản hợp đồng giờ tao thấy có tới mười số không
-Ngày trước không tự tin, bây giờ phải học lại khiêm tốn
-Vào nghề vài năm cũng đã biết quá nhiều, nhưng phải học ngây thơ như đứa trẻ lên bốn
-Chỉ có sự thật nằm ở trên môi tao, ngước nhìn lên trời mới biết đang hơi cao
-Đôi khi tao vẫn phải lên mạng và tìm đọc bình luận chửi, như một cách để trị bệnh ngôi sao (Sao)
-
-[Chorus]
-Nhìn thẳng xuống dưới tao chỉ thấy mấy thằng nghĩ nó ở trên tao (Trên tao)
-Ghét tao tới nỗi mày phải nghĩ rằng mọi thứ đó là hên sao?
-Tao biết là chỉ có một vài thằng thôi, đứng sau hàng ngàn cái acc clone đang réo tên tao
-Cây to gió lớn thì phải đành thôi, có những cái giá mày phải trả khi ở trên cao (Khi ở trên cao)
-Nhìn thẳng xuống dưới tao chỉ thấy mấy thằng nghĩ nó ở trên tao (Trên tao)
-Ghét tao tới nỗi mày phải nghĩ rằng mọi thứ đó là hên sao?
-Tao biết là chỉ có một vài thằng thôi, đứng sau hàng ngàn cái acc clone đang réo tên tao
-Cây to gió lớn thì phải đành thôi, có những cái giá mày phải trả khi ở trên cao (Trên cao)
-
-[Verse 2]
-Có mặt và tạo dáng mấy tấm hình nhận về hơn 500, nhưng mà đừng quên
-Anh đã làm điều đó miễn phí trước đó hơn năm năm
-Cũng đã từng xuất hiện ở trên thảm đỏ, nhưng mà không được đọc lên, giống y như âm câm
-Từ nhỏ là tao đã tự hứa những ngày sau
-Không hạt mưa nào làm ướt áo ba mẹ tao dù có là mưa lâm râm
-Highs and lows
-Luôn luôn biết là tao sẽ có nó, nếu không nhanh thì lâu
-Ông trời đã không đặt kim cương trong lòng đất nếu mà biết con người ta sẽ không ai đào sâu
-Mấy thằng hề tao đã động vào đâu, nhảy dựng cả lên như màn hư cảm ứng
-Thành tích của tao nó nói ai cũng làm được, tao đã trở nên quá giỏi trong việc truyền cảm hứng
-Dấu hiệu của một đứa con xa nhà đó chính là nó sẽ càng ngày càng sợ những cuộc gọi giữa đêm
-Xung quanh tao vẫn là nhiêu đó gương mặt cũ
-Nhưng giờ khác ở một chỗ nguyên một đội có name
-Sức nặng của vương miệng là quá lớn nên hãy suy nghĩ thật kĩ trước khi quyết định muốn đội nó lên
-Mặc đẹp, lương cao, nổi tiếng còn biết buồn, giờ mày thử tưởng tượng cuộc đời tụi nó xem
-Huh, tao cần nhiều album, nhiều CD
-Thêm nhiều tiền, thêm nhiều milly, gia đình chỉ gặp tao ở trên TV
-Ăn thêm được nhiều nhưng mà hunger nhiều y xì
-Cuộc đời của tao xưa nay chưa bao giờ easy
-Hay là tao làm nhìn quá dễ nên mày—
-Nên mày tưởng mọi thứ đó là easy (Đó là easy)
-
-[Chorus]
-Nhìn thẳng xuống dưới tao chỉ thấy mấy thằng nghĩ nó ở trên tao (Trên tao)
-Ghét tao tới nỗi mày phải nghĩ rằng mọi thứ đó là hên sao?
-Tao biết là chỉ có một vài thằng thôi, đứng sau hàng ngàn cái acc clone đang réo tên tao
-Cây to gió lớn thì phải đành thôi, có những cái giá mày phải trả khi ở trên cao (Khi ở trên cao)
-Nhìn thẳng xuống dưới tao chỉ thấy mấy thằng nghĩ nó ở trên tao (Trên tao)
-Ghét tao tới nỗi mày phải nghĩ rằng mọi thứ đó là hên sao?
-Tao biết là chỉ có một vài thằng thôi, đứng sau hàng ngàn cái acc clone đang réo tên tao
-Cây to gió lớn thì phải đành thôi, có những cái giá mày phải trả khi ở trên cao (Khi ở trên cao)`,
-
-
-  "assets/artists/hieuthuhai/audio/6 - Vacheron Louie V ft Hustlang Robber.mp3": `[Intro: HIEUTHUHAI]
-Yeah, oh-oh-oh
-(Hey, Kewtiie)
-
-[Chorus: HIEUTHUHAI]
-H-O-T, nhạc và tên như gió lào (Hey)
-Villa khu an ninh, đường này cua hơi khó vào
-Vacheron, Louis V, vàng và cam anh tô vào
-Vậy mày đang ở xó nào? (Hey, yeah)
-Vậy mày đang ở xó nào, huh? (Yeah)
-
-[Verse 1: HIEUTHUHAI]
-Bọn diều hâu đang cố đào (Huh)
-Ngân hàng fame và nhiều tên đang cố bào
-Mày nhân 100 thì nhiều khi ra số tao (Số tao)
-Quá nhiều thằng đằng sau và tụi nó đang cố gào
-I keep it real (It real, it real)
-Anh đi vào store và mua thường không hỏi giá bao nhiêu (Nah)
-Tiền to, nhạc hay và fan thì luôn là thứ tao yêu (Yêu)
-Dù bay thật cao anh em từ lâu vẫn luôn bằng nhau
-Không quan tâm tạp âm và không ngoái lại đằng sau
-Huh, họ tò mò bao nhiêu tiền anh đã kiếm
-Từ ngày vượt qua 50T, anh đã ngừng đếm (Đếm)
-Cuộc đời này khác xa, nên tao không mong cho ai sẽ hiểu được đâu (Hey)
-
-[Chorus: HIEUTHUHAI, Hustlang Robber]
-H-O-T, nhạc và tên như gió lào (Huh)
-Villa khu an ninh, đường này cua hơi khó vào
-Vacheron, Louis V, vàng và cam anh tô vào (Hey)
-Mày kêu tên anh, vậy mày đang ở xó nào? (Hey, yeah)
-H-O-T, nhạc và tên như gió lào (Hey, yeah)
-Villa khu an ninh, đường này cua hơi khó vào
-Vacheron, Louis V, vàng và cam anh tô vào
-Vậy mày đang ở xó nào? (Hey, yeah)
-Vậy mày đang ở xó nào? (Hey, way, uh)
-
-[Verse 2: Hustlang Robber]
-Đất này có Thổ Công, còn dưới sông nó có Hà Bá, yah
-Chắc họ ghét tao lắm khi trên tay hai mươi viên cà rá, yah
-Robber đã mất chất, không phải là anh mà là tụi nó, yah (Yo)
-Mua được hết những thứ anh đã mơ ước từ khi còn nhỏ, yeah
-Với tao bảng xếp hạng thì nó chính là ngôi nhà thứ hai
-Making mumble rap muốn làm như tao, khun khap mai dai
-Hip-hop ở trong tim, yeah, do it 'til I die, yeah
-Thằng em tao nhất quyết nó không khai, yeah
-Nổi tiếng cứ nổi tiếng, tao worldwide, yeah
-Rap fan nói "May quá, anh ấy vẫn rap không nghe rõ chữ"
-Nhiều thằng phản bội tao rồi lại quỳ gối xin tao tha thứ
-Gang gang all my life nhưng anh em tao biết cách cư xử
-Comeback cùng HIEUTHUHAI, money and fame, tôi yêu phụ nữ
-[Chorus: HIEUTHUHAI, Hustlang Robber]
-H-O-T, nhạc và tên như gió lào (What? Hú)
-Villa khu an ninh, đường này cua hơi khó vào (What?)
-Vacheron, Louis V, vàng và cam anh tô vào (Hey)
-Mày kêu tên anh, vậy mày đang ở xó nào? (Hey, yeah)
-H-O-T, nhạc và tên như gió lào (Hey, yeah)
-Villa khu an ninh, đường này cua hơi khó vào (Okay)
-Vacheron, Louis V, vàng và cam anh tô vào
-Vậy mày đang ở xó nào? (Hey, yeah)
-Vậy mày đang ở xó nào? (Ye)
-(Hey, Kewtiie)`,
-
-  "assets/artists/hieuthuhai/audio/7 - Đáng Lý Anh Nên Yêu Em Hơn ft HURRYKNG.mp3": `[Intro]
-(Hey, Kewtiie)
-
-[Chorus: HIEUTHUHAI]
-Đáng lý anh nên yêu em hơn? (Huh)
-Babe, ý em là sao? (Sao?)
-Anh bay hơn năm nghìn cây chỉ để được nghe câu nói đó?
-Người từng nhận lỗi thay cho em, ôm nỗi đau thay em
-Quên mất anh là ai, chỉ để được vui, hài lòng em
-Anh chỉ cần một người nào đó yêu anh, không cần gì ở anh
-Như ta từng yêu ngày trước đây
-Tình yêu của em bây giờ dành cho thứ trong tay anh có mà thôi
-Y-yeah-y-yeah-eh-eh
-
-[Verse 1: HIEUTHUHAI]
-Đã có những lúc tất cả thời gian trong anh chỉ xoay quanh em
-Khi cơn mưa rơi hay là trời đầy giông, em luôn có tay anh bên
-Anh đâu muốn thấy em phải chờ lâu nên là anh phải đi nhanh lên
-Cũng chẳng thể khiến cho bầu trời kia xanh thêm, yeah-eh
-Làm sao để ta bên nhau mà lại không thấy trái tim nặng nề?
-Ngày ta gặp vài giây thôi, vậy mà lại quên hết đi bao bộn bề, ah
-Em thì đâu quan tâm cảm xúc của anh là gì
-Làm như có mỗi anh làm sai, vì (Yeah)
-
-[Pre-Chorus: HIEUTHUHAI]
-Ooh, baby, oh-oh-oh (Oh-oh-oh)
-Là do anh quá yêu thế nên em như này
-Đúng ra anh phải nói câu này
-
-[Chorus: HIEUTHUHAI]
-Đáng lý anh nên yêu em hơn? (Huh)
-Babe, ý em là sao? (Sao?)
-Anh bay hơn năm nghìn cây chỉ để được nghe câu nói đó?
-Người từng nhận lỗi thay cho em (Em), ôm nỗi đau thay em (Oh)
-Quên mất anh là ai, chỉ để được vui, hài lòng em
-Anh chỉ cần một người nào đó yêu anh, không cần gì ở anh
-Như ta từng yêu ngày trước đây
-Tình yêu của em bây giờ dành cho thứ trong tay anh có mà thôi
-Y-yeah-y-yeah-eh-eh
-
-[Verse 2: HURRYKNG & HIEUTHUHAI]
-Em muốn anh hai tư giờ ở bên
-Anniversary anh không hề quên
-Cho em tất cả những gì em kể tên (Huh, huh, huh)
-Chỉ cần nói là Gucci hay Chanel
-Anh cũng đã né đi hết tất cả model
-Luôn nhắc tên em trên tờ L'O
-Đưa hết cho em luôn cả password
-Anh chả có ai đâu mà chuyện trò
-Giờ em còn muốn gì? Em nói đi (Em nói đi)
-Anh chả màng thời gian để mà làm những chuyện khác khi еm nói không happy, yeah
-Còn em muốn tiến tới để bên cạnh một người mới, anh không sao đâu, cứ go (Go)
-Anh cũng đã đâu còn cách và anh không cần oán trách khi đã biết mình đứng đâu, yeah
-[Pre-Chorus: HURRYKNG]
-Hoo-ah, hoo-ah
-Là do anh quá yêu thế nên еm như này
-Đúng ra anh phải nói câu này
-
-[Chorus: HIEUTHUHAI]
-Đáng lý anh nên yêu em hơn? (Huh)
-Babe, ý em là sao? (Sao?)
-Anh bay hơn năm nghìn cây chỉ để được nghe câu nói đó?
-Người từng nhận lỗi thay cho em (Em), ôm nỗi đau thay em (Yeah-eh)
-Quên mất anh là ai, chỉ để được vui, hài lòng em
-Anh chỉ cần một người nào đó yêu anh, không cần gì ở anh
-Như ta từng yêu ngày trước đây
-Tình yêu của em bây giờ dành cho thứ trong tay anh có mà thôi
-Y-yeah-y-yeah-eh-eh
-
-[Outro: HIEUTHUHAI]
-Oh-oh-oh-oh
-Y-yeah-y-yeah-eh-eh
-Oh-oh-oh-oh
-Y-yeah-y-yeah-eh-eh`,
-
-  "assets/artists/hieuthuhai/audio/8 - Đâu Có Ai Nhìn.mp3": `[Intro]
-(Hey, Kewtiie)
-
-[Verse 1]
-Ooh, baby girl, cho anh lạc trong mắt em
-Mau ôm anh đi vì bầu trời ngoài kia tối đen, yah (Yah)
-Ta đâu cần nói hết tất cả nghĩ suy trong đầu (Ooh-ooh-ooh)
-Cho volume tivi lên to tí đi (To tí đi)
-Nơi không ai nghe và mình thì đâu thấy gì
-Ooh-woh, hoh, hoh-oh-oh, oh-oh
-
-[Chorus]
-Đừng giả vờ chi nữa
-Vì đâu có ai đang nhìn đâu (Đâu)
-Anh biết em không hề giống như này (Như này)
-Em giấu đi điều gì đằng sau lớp áo ngây thơ?
-Chỉ một mình anh biết
-Vì đâu có ai đang nhìn đâu, ooh-woh-oh (Ooh-woh-oh)
-Hãy trao hết đi tất cả thứ em còn
-Vì chỉ cần một phút bước khỏi nơi đây là mình giống như chưa từng quen
-
-[Verse 2]
-Son trên môi (Huh), hàng mi kia cong (Oh)
-Hôm nay đông, vậy thì em đi lên, họ nhận ra em không? (Oh-oh)
-Hai chân em thì đặt lên trên bàn
-Ôm anh đi như là trong đêm đông
-Don't be shy, trên người em hơi nồng
-Nhưng mà sau đêm nay bao vân tay anh đã in trên
-Biết là mình sai nhưng mà sao trong lòng anh không thể ngưng được (Yeah, yeah)
-Hông em trên gối, bao nụ hôn lên trên môi cứ đến liên tục
-Nhìn sâu trong em, anh cứ rơi vào, chẳng còn biết nơi nào
-Cần chi quan tâm những gì kéo theo phía sau
-
-[Chorus]
-Đừng giả vờ chi nữa (Nữa)
-Vì đâu có ai đang nhìn đâu (Đâu)
-Anh biết em không hề giống như này
-Em giấu đi điều gì đằng sau lớp áo ngây thơ?
-Chỉ một mình anh biết (Biết-biết-biết-biết)
-Vì đâu có ai đang nhìn đâu, ooh-woh-oh (Woh-woh-oh-oh)
-Hãy trao hết đi tất cả thứ em còn
-Vì chỉ cần một phút bước khỏi nơi đây là mình giống như chưa từng quen
-
-[Refrain]
-Giống như chưa từng
-Giống như chưa từng quen
-Oh-oh-oh-oh-oh, oh-oh
-Oh, oh, oh
-Hoo-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
-Oh-ooh-oh
-
-[Chorus]
-Đừng giả vờ chi nữa (Nữa)
-Vì đâu có ai đang nhìn đâu (Đâu)
-Anh biết em không hề giống như này
-Em giấu đi điều gì đằng sau lớp áo ngây thơ?
-Chỉ một mình anh biết (Biết-biết-biết)
-Vì đâu có ai đang nhìn đâu (Hoh-hoh-hoh)
-Hãy trao hết đi tất cả thứ em còn
-Vì chỉ cần một phút bước khỏi nơi đây
-Là mình giống như chưa từng quen`,
-
-  "assets/artists/hieuthuhai/audio/9 - Đâu Cần Gì Hơn.mp3": `[Intro]
-(WOKEUP)
-(Hey, Kewtiie)
-Yeah
-Yeah, uh
-What?
-
-[Verse 1]
-Bao nhiêu lâu rồi chưa đặt chân về nhà (Huh)
-Đang tìm thêm triệu đô dành khi về già (Millionaire-naire)
-Đêm ngày trong phòng thu, đang đi ca ba
-Khi xưa bao lời họ nói anh không thể nào mà đi được xa (Xa)
-Gần đâu năm năm trôi qua (Qua)
-Anh vẫn okay lah (Okay lah)
-They ain't cap (Yeah, yeah)
-Mấy thằng chê anh đang ngồi ngáp (Hah, hah)
-Anh đã mua đâu hai, ba căn chỉ bằng rap (Rap)
-Còn mày mơ ngày được viral, cách tụi nó gây điểm nhấn, chỉ là táp-táp-táp
-Yah, hai mươi nhân cho tám (Ey), đường to, nằm ở ngay trung tâm (Gah)
-Cái tên mày không thể bán vé (Huh), nằm mơ à mà ta chung mâm
-Đường lên đỉnh không thấy dấu chân mày, thật lòng khuyên là nên đi phun xăm
-Mấy thằng hay nhắc tên anh ngày trước, giờ này thì có khi đang không nơi dung thân
-Anh đâu còn chơi trong sân, bay trên trời như là không quân (Hey)
-Bạn trai của mấy em ghét khi anh tặng con ***, yeah, anh như Song Luân (Woo)
-Nhạc một set khi bước chân ra stage siêu căng, sorry, làm cho em bong gân
-Ở ngoài kia họ ăn mừng trước khi mà banh anh đang lăn trong chân
-
-[Pre-Chorus]
-Nghĩ ở trên poster anh thèm center thật sao? (Real)
-Fan ở dưới hét tên, xong rồi catxe thật cao (Yeah)
-Chỉ muốn thứ đó thôi, đứng đâu cũng chả quan trọng (Shoo-shoo-shoo)
-Chỉ cần thứ đó thôi nên là anh
-
-[Chorus]
-Đâu cần gì hơn (Huh)
-Xung quanh giống y trong tranh
-Tay, wimbledon (Ay, ay)
-Cayman cứ lao đi nhanh
-Hình xăm ở trên vai mang theo tất cả âm thanh
-Hit không biết bao nhiêu lần (Yeah, ah)
-Hit không biết bao nhiêu lần (Yeah, ah)
-Đâu cần gì hơn (Cần gì hơn)
-Fan vẫn đang vây quanh
-Tay, wimbledon (Wimbledon)
-Cayman lao đi nhanh
-Hình xăm ở trên vai mang theo tất cả âm thanh
-Cayman cứ lao đi nhanh (Huh, huh)
-Cayman cứ lao đi nhanh (Huh, huh)
-
-[Verse 2]
-Đi, đi
-Có quá nhiều hoá đơn, hợp đồng cần ký, ký
-Bếp và nội thất đang được nhập từ Ý, Ý
-Rót thêm vào trong ly (Okay)
-Rót thêm vào trong ly, anh đâu có thời gian đâu mà để suy
-Anh đâu cần
-Anh giống như mối nguy, có hơi nhiều thằng đòi - anh
-Không sống như giấc mơ của anh thì thôi đừng khuyên anh (No)
-Dripping, nên khắp nơi anh đi đều trơn trượt (Trơn trượt)
-Good life, anh cũng không thể nào đòi hơn được
-Không thể nào đòi hơn được
-Không thể nào đòi hơn được
-Không thể nào đòi hơn được
-Huh
-[Pre-Chorus]
-Nghĩ ở trên poster anh thèm center thật sao? (Real)
-Fan ở dưới hét tên, xong rồi catxe thật cao (Yeah)
-Chỉ muốn thứ đó thôi, đứng đâu cũng chả quan trọng (Shoo-shoo-shoo)
-Chỉ cần thứ đó thôi nên là anh
-
-[Chorus]
-Đâu cần gì hơn (Huh)
-Xung quanh giống y trong tranh
-Tay, wimbledon (Ay, ay)
-Cayman cứ lao đi nhanh
-Hình xăm ở trên vai mang theo tất cả âm thanh
-Hit không biết bao nhiêu lần (Yeah, ah)
-Hit không biết bao nhiêu lần (Yeah, woo)
-Đâu cần gì hơn (Cần gì hơn)
-Fan vẫn đang vây quanh
-Tay, wimbledon (Wimbledon)
-Cayman lao đi nhanh
-Hình xăm ở trên vai mang thеo tất cả âm thanh
-Cayman cứ lao đi nhanh (Huh, huh)
-Cayman cứ lao đi nhanh đi (Huh, huh)`,
-
-  "assets/artists/hieuthuhai/audio/10 - Dạo Gần Đây Anh Thấy Anh Không Bằng Ai Hết.mp3": `[Intro]
-(Hey, Kewtiie)
-
-[Verse 1]
-Hôm nay anh phải làm gì?
-Khi nắng lên, chẳng còn ai ở bên để làm cho trái tim ngừng lầm lì (Sao?)
-Bao nỗi đau này chẳng thể hơn nữa đâu, điều gì đằng sau tới luôn một lần đi
-Cố gắng để làm chi?
-Nếu không có ai thèm nghe, vậy thì bao lời anh viết ra làm gì? (No-oh-oh)
-Anh đã có mọi thứ mình từng ngắm
-Yeah, cũng không tuyệt vời lắm
-Áo hoodie và trùm lấy, không để cho người nào thấy vì em
-Từ ngày em đi xa, nắng mai đâu còn chiếu xuyên qua vào nơi này
-
-[Pre-Chorus]
-Ừ, nhiều người biết nhưng đâu ai hiểu anh đâu
-Nhìn cuộc đời vút qua, không sao nói nên câu
-Bầu trời ngày trước kia, giờ đâu thể nắm gọn trong tay
-
-[Chorus]
-Dạo gần đây anh thấy anh không bằng ai hết (Ai hết)
-Tiền anh cũng đã có nhưng cuối cùng ai đếm? (Ai đếm?)
-Ngồi một mình trong góc cô đơn ở hai bên
-Thức trắng cũng được hai đêm
-Và đôi mắt anh cũng đã khô rồi
-Điều mà em mong muốn anh không thể đem tới (Tới, yeah)
-Đường anh đi phía trước y như màn đêm tối (Na-na-na, yeah-yeah)
-Người như anh không thể có được tình yêu đâu
-Cứ quay lưng đi, đừng, đừng ai thấy anh đây ở trong lúc này
-Thật khó cho ai để yêu anh
-
-[Verse 2]
-Đôi khi anh thích đứng dưới cơn mưa
-Luôn ưu tư, chẳng thể giống như xưa
-Đôi vai anh nó cứ kéo lên nhau
-Thức trắng hết đêm thâu, cố viết thêm câu, yah
-Ngoài trời mưa đang rơi
-Bao nhiêu lâu từ ngày ta chia đôi
-Làm mình nghĩ suy thêm về những thứ ta sai trong cuộc đời (Oh-oh-oh-oh)
-Và nụ cười anh cố để níu lấy, giờ đây đã không thành
-Phải làm gì để thấy được vô tư từng ngày nào ở trong anh (Ah-ah-ah-ah)
-Chẳng còn nhìn về nhiều thứ xa xôi
-Chỉ mong niềm vui ngày mai trong lòng ta, không trở nên quá xa vời
-
-[Pre-Chorus]
-Ừ, nhiều người biết (Biết) nhưng (Nhưng) đâu ai hiểu anh đâu
-Nhìn cuộc đời vút (Vút) qua (Qua), không sao nói nên câu
-Bầu trời ngày trước (Trước) kia (Kia), giờ đâu thể nắm gọn trong tay
-
-[Chorus]
-Dạo gần đây anh thấy anh không bằng ai hết (Ai hết)
-Tiền anh cũng đã có nhưng cuối cùng ai đếm? (Ai đếm?)
-Ngồi một mình trong góc cô đơn ở hai bên
-Thức trắng cũng được hai đêm
-Và đôi mắt anh cũng đã khô rồi
-Điều mà em mong muốn anh không thể đem tới (Tới, yeah)
-Đường anh đi phía trước y như màn đêm tối (Na-na-na, yeah-yeah)
-Người như anh không thể có được tình yêu đâu
-Cứ quay lưng đi, đừng, đừng ai thấy anh đây ở trong lúc này
-Thật khó cho ai để yêu anh
-[Outro]
-(Oh, oh, oh, oh) Y-yeh-yeh-y-yeh
-(Oh, oh, oh, oh) Ah, y-yeh-eh-eh-eh
-Thật khó cho ai để yêu anh, yeah
-Heh-y-yeah-eh-eh-eh
-Thật khó cho ai để yêu anh
-(Dạo gần đây anh thấy anh không bằng ai hết)
-(Tiền anh cũng đã có nhưng cuối cùng ai đếm)
-(Ngồi một mình trong góc cô đơn ở hai bên)
-(Thức trắng cũng được hai đêm)
-(Và đôi mắt anh cũng đã khô rồi)
-(Điều mà em mong muốn anh không thể đem tới)
-(Đường anh đi phía trước y như màn đêm tối)
-(Người như anh không thể có được tình yêu đâu)
-(Cứ quay lưng đi, đừng, đừng ai thấy anh đây ở trong lúc này)
-(Thật khó cho ai để yêu anh)`,
-
-  "assets/artists/hieuthuhai/audio/11 - Chờ Tới Khi Anh Về ft Hoàng Tôn.mp3": `[Intro]
-(Hey, Kewtiie)
-
-[Verse 1: HIEUTHUHAI]
-Khi anh đi xa mới thấy đêm này thật dài
-Chẳng còn em và giọng nói đi đến tai
-Những tấm hình em hay gửi qua bằng điện thoại
-Làm anh không muốn ở đây đến sáng mai
-Quên đi cuộc vui, anh chỉ mong được về nhà
-Mười giờ tối khi làm xong chắc đến hai
-Nhiều người nổi tiếng anh còn không để ý ai (Ai)
-Hình nào được up cũng phải tắt đi đếm like
-Baby, not you
-Nhiều cảm xúc trong anh chẳng thể giấu đi đâu
-F- studio, anh chỉ muốn bên nhau
-Gối lên tay, nằm lên suốt đêm thâu
-Baby đánh răng chung vào khi sáng hôm sau
-Những khi cô đơn gọi anh đến bên nhanh
-Dù nghĩa bóng hay đen, em luôn nằm ở trên anh
-Mắt ta trao nhau, cần gì nói thêm đâu
-Ta đâu phải quan tâm đến mọi thứ xung quanh
-Baby, em phải xứng với anh và diamond (Diamond)
-Nơi mà ta nằm lên có silk và linen (Linen)
-Sẽ bù đắp từng phút, từng giây những khi mà em chờ
-Mình còn có cả đêm mà
-
-[Pre-Chorus: HIEUTHUHAI]
-Baby, em phải xứng với anh và diamond (Diamond)
-Nơi mà ta nằm lên có silk và linen (Linen)
-Sẽ bù đắp từng phút, từng giây những khi mà em chờ (Hah-ah-ah-hah)
-Mình còn có cả đêm mà
-
-[Chorus: HIEUTHUHAI]
-Chờ, chờ tới khi anh về
-Leo lên giường đi, chờ tới khi anh về (Ooh-oh-oh-oh)
-Chờ, chờ tới khi anh về
-Chỉ mình em khiến cho anh mê (Mê)
-Chờ, chờ tới khi anh về
-Ánh mắt của em hãy chỉ để cho anh thôi
-Những buổi tối nơi hai ta hay chung đôi
-Leo lên giường đi, chờ tới khi anh về
-Baby ơi, baby ơi, baby ơi (Oh-oh)
-Baby ơi, baby ơi, baby ơi (Oh-oh-oh-oh)
-Chờ, chờ tới khi anh về
-Leo lên giường đi, chờ tới khi anh về (Ooh-oh-oh-oh)
-Chờ, chờ tới khi anh về
-Chỉ mình em khiến cho anh mê (Mê)
-Chờ, chờ tới khi anh về
-Ánh mắt của em hãy chỉ để cho anh thôi
-Những buổi tối nơi hai ta hay chung đôi
-Leo lên giường đi, chờ tới khi anh về
-[Verse 2: Hoàng Tôn]
-Yeah, khi anh bước về nhà và ngọn đèn vàng bật sáng lên (Ooh-oh)
-Có chiếc gối ôm và bầy thú nhồi bông nằm sát bên (Ooh-oh)
-Xung quanh bốn bức tường chỉ có mình anh và ván game
-Anh đã ước rằng là em đến đây xua tan bóng đêm
-Cho buồn đau dần trôi nhẹ đi để anh không suy (Anh không suy)
-Cho lệ không còn vương làm hoen ướt trên lông mi nàng
-Spoil người với những thứ tốt nhất vì em xứng đáng
-Chẳng cần thế giới hay ai chứng giám
-Vứt đi hết vệ tinh xung quanh
-Baby, anh chỉ muốn người ở cạnh bên anh
-Đêm nay chắc có lẽ chẳng cần đi đâu nhanh
-Hay là khui champagne và nâng ly
-Tắt hết máy móc, cần gì bận tâm chi
-Deadline có đến, tạm quên đi, yeah-yeah-yeah
-
-[Chorus: Hoàng Tôn]
-Baby, em phải xứng với anh và diamond
-Những hư danh ngoài kia nào đâu có ai cần, ah
-F- studio, anh chỉ muốn bên nhau
-Gối lên tay, anh nằm đây suốt đêm thâu
-Chẳng đi đâu, chỉ cần ở trên nhau, babe
-
-[Chorus: Both & HIEUTHUHAI]
-Chờ, chờ tới khi anh về
-Leo lên giường đi, chờ tới khi anh về (Ooh-oh-oh-oh)
-Chờ, chờ tới khi anh về
-Chỉ mình em khiến cho anh mê (Mê)
-Chờ, chờ tới khi anh về
-Ánh mắt của em hãy chỉ để cho anh thôi (Thôi)
-Những buổi tối nơi hai ta hay chung đôi
-Leo lên giường đi, chờ tới khi anh về
-Baby ơi, baby ơi, baby ơi
-Baby ơi, baby ơi, baby ơi
-[Outro: HIEUTHUHAI, Both]
-Chờ, chờ tới khi anh về
-Leo lên giường đi, chờ tới khi anh về
-Chờ, chờ tới khi anh về
-Chỉ mình em khiến cho anh mê
-Chờ, chờ tới khi anh về
-Ánh mắt của em hãy chỉ để cho anh thôi
-Những buổi tối nơi hai ta hay chung đôi
-Leo lên giường đi, chờ tới khi anh về`,
+  "assets/artists/obito/audio/2 - 1000 Ánh Mắt.mp3": ``,
+  "assets/artists/obito/audio/3 - Đầu Đường Xó Chợ ft. Lăng LD.mp3": ``,
+  "assets/artists/obito/audio/4 - Biên Giới Long Bình.mp3": ``,
+  "assets/artists/obito/audio/5 - BUSINESS MODE.mp3": ``,
+  "assets/artists/obito/audio/6 - Lost.mp3": ``,
+  "assets/artists/obito/audio/7 - Panorama.mp3": ``,
+  "assets/artists/obito/audio/8 - Phong Long.mp3": ``,
+  "assets/artists/obito/audio/9 - Shay Nắnggg.mp3": ``,
+  // -------------------------------------TINH HÀ SAY HI-----------------------------------------
+  // --------------------------------------------------------------------------------------------
+  "assets/artists/tinhhasayhi/audio/1 - THẾ GIỚI CỦA ANH ft Dương Domic & buitruonglinh & CONGB & WEAN & Vận Toàn.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/10 - SECRET ft Quang Hùng MasterD & Cody Nam Võ & CongB & Wren Evans.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/2 - CÔ ĐƠN ANH CŨNG VUI ft WEAN & DILLAN & KIMLONG & Xuân Định KY.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/3 - CÓ GÌ ĐÂU MÀ CAY ft CAPTAIN BOY & CoolKid & IVAN & XUÂN ĐỊNH KY & LEONSASH.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/4 - MẤT LA BÀN ft Pháp Kiều & Thể Thiên & VƯƠNG BÌNH & DANG HONG HAI & TORYSAX.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/5 - MƯA VỘI PHÓNG ft Wren Evans & Ali Hoàng Dương & Cody Nam Võ & HYO & 2PILLZ.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/6 - 50 CUỘC GỌI NHỠ ft CoolKid & Quang Hùng MasterD & Cody Nam Võ & Jaysonlei.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/7 - IM ĐỢI NGƯỜI ANH THƯƠNG ft Wren Evans & CAPTAIN BOY & IVAN & Thể Thiên.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/8 - XOAY VÒNG ft HURRYKNG & JSOL & VƯƠNG BÌNH & CONGB.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/9 - MRT ft XUÂN ĐỊNH KY & buitruonglinh & CAPTAIN BOY & HYO.mp3": ``,
+  // -------------------------------------WXRDIE-----------------------------------------
+  // ------------------------------------------------------------------------------------
+  "assets/artists/wxrdie/audio/1 - 29.mp3": ``,
+  "assets/artists/wxrdie/audio/10 - Lâu Đài.mp3": ``,
+  "assets/artists/wxrdie/audio/11 - Lối Sống.mp3": ``,
+  "assets/artists/wxrdie/audio/12 - Mời Em.mp3": ``,
+  "assets/artists/wxrdie/audio/13 - Nu Cep.mp3": ``,
+  "assets/artists/wxrdie/audio/14 - Pray For.mp3": ``,
+  "assets/artists/wxrdie/audio/15 - Thèn Chóa.mp3": ``,
+  "assets/artists/wxrdie/audio/16 - Thíc Qé.mp3": ``,
+  "assets/artists/wxrdie/audio/17 - Tim Anh Ghen.mp3": ``,
+  "assets/artists/wxrdie/audio/18 - Trở Về.mp3": ``,
+  "assets/artists/wxrdie/audio/19 - Đau Đầu.mp3": ``,
+  "assets/artists/wxrdie/audio/2 - Anh Freestyle.mp3": ``,
+  "assets/artists/wxrdie/audio/3 - Băng Qua Cầu Giấy.mp3": ``,
+  "assets/artists/wxrdie/audio/4 - Bởi Vì.mp3": ``,
+  "assets/artists/wxrdie/audio/5 - Ca Khúc Cuối.mp3": ``,
+  "assets/artists/wxrdie/audio/6 - Cả 2.mp3": ``,
+  "assets/artists/wxrdie/audio/7 - Get Money.mp3": ``,
+  "assets/artists/wxrdie/audio/8 - Gia Tài.mp3": ``,
+  "assets/artists/wxrdie/audio/9 - Lonely Stonie.mp3": ``
 };
