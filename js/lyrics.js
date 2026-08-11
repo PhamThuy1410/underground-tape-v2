@@ -2841,17 +2841,873 @@ MCK, MCK, MCK, MCK`,
   "assets/artists/obito/audio/9 - Shay Nắnggg.mp3": ``,
   // -------------------------------------TINH HÀ SAY HI-----------------------------------------
   // --------------------------------------------------------------------------------------------
-  "assets/artists/tinhhasayhi/audio/1 - THẾ GIỚI CỦA ANH ft Dương Domic & buitruonglinh & CONGB & WEAN & Vận Toàn.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/10 - SECRET ft Quang Hùng MasterD & Cody Nam Võ & CongB & Wren Evans.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/2 - CÔ ĐƠN ANH CŨNG VUI ft WEAN & DILLAN & KIMLONG & Xuân Định KY.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/3 - CÓ GÌ ĐÂU MÀ CAY ft CAPTAIN BOY & CoolKid & IVAN & XUÂN ĐỊNH KY & LEONSASH.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/4 - MẤT LA BÀN ft Pháp Kiều & Thể Thiên & VƯƠNG BÌNH & DANG HONG HAI & TORYSAX.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/5 - MƯA VỘI PHÓNG ft Wren Evans & Ali Hoàng Dương & Cody Nam Võ & HYO & 2PILLZ.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/6 - 50 CUỘC GỌI NHỠ ft CoolKid & Quang Hùng MasterD & Cody Nam Võ & Jaysonlei.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/7 - IM ĐỢI NGƯỜI ANH THƯƠNG ft Wren Evans & CAPTAIN BOY & IVAN & Thể Thiên.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/8 - XOAY VÒNG ft HURRYKNG & JSOL & VƯƠNG BÌNH & CONGB.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/9 - MRT ft XUÂN ĐỊNH KY & buitruonglinh & CAPTAIN BOY & HYO.mp3": ``,
-  "assets/artists/tinhhasayhi/audio/11 - MỘNG DUYÊN ft Quang Hùng MasterD & JSOL & Sơn.K & Song Luân & EMIL VERGO.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/1 - THẾ GIỚI CỦA ANH ft Dương Domic & buitruonglinh & CONGB & WEAN & Vận Toàn.mp3": `[Verse 1: buitruonglinh]
+Trở về ngày ôm bao mơ mộng trong tim
+Thoáng chốc bỗng trở nên lặng im
+Để cho anh thấy được lúc ấy, thế giới trong anh tựa như sáng lên
+Khi em vừa đến đây
+Cả cơn giông bỗng hóa, mưa tạnh mây tan
+Chỉ vì một câu nói: “Rằng em sẽ ở bên cạnh anh cho đến cuối cùng, ôm nhẹ cơn đau"
+
+[Pre-Chorus: CONGB]
+Vì anh chôn sâu nhiều ưu phiền trong mắt
+Con tim còn mang đầy vết cắt
+Từng đêm lẻ loi chờ mong
+Vượt ngàn tâm tư mây giăng kín u sầu, chỉ còn anh với em
+
+[Chorus: Dương Domic, CONGB & buitruonglinh]
+Khi anh buông cả thế giới, em mang nụ cười đến với
+Đợi anh như mơ, êm đềm như thơ
+Là em đã sưởi ấm hy vọng trong trái tim anh
+Cho ta thêm một thế giới, cùng nhau
+Đan chặt từng ước ao, cảm xúc dâng trào
+Anh đã tin vào tình yêu, giây phút ấy rực rỡ hơn bao điều
+
+[Verse 2: WEAN, CONGB, buitruonglinh, CONGB & Dương Domic]
+Mưa còn rơi ở bên ngoài hiên, họ kêu mình điên vì do đêm ngày ca hát
+Chỉ một mình mình ngồi yên nghe tiếng chim, anh feel nhạc (La-la)
+Tìm về một vùng bình yên nơi không có chút ưu phiền
+Nếu như anh không phiền em, thôi mời bé sang nơi đây cùng anh chơi
+Nhìn hạt sương (Ooh-ah) ban mai kia long lanh (Ban mai, ooh-ah), mắt em kiêu sa và lấp lánh (Lấp lánh)
+Trọn đời về được cùng anh đi khắp muôn nơi trong lành
+Và cứ thế khúc hát đó cho tình yêu đôi ta chắp cánh
+Xin người luôn giữ mãi một giấc mơ
+You might also like
+MVP (MƯA VỘI PHÓNG)
+Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
+CÓ GÌ ĐÂU MÀ CAY
+Tinh Hà "Say Hi", Captain (VNM), CoolKid (VNM), AIVAN (아이반) (KOR) & Xuân Định K.Y
+MỘNG DUYÊN
+Tinh Hà "Say Hi", Quang Hùng MasterD, JSOL (VNM), Song Luân & Sơn K (VNM)
+[Pre-Chorus: Dương Domic]
+Vì anh chôn sâu nhiều ưu phiền trong mắt
+Con tim còn mang đầy vết cắt
+Từng đêm lẻ loi chờ mong
+Một ngày không mang tâm tư trĩu u sầu, bên cạnh em
+
+[Chorus: buitruonglinh, Dương Domic & CONGB]
+Khi anh buông cả thế giới, em mang nụ cười đến với
+Đợi anh như mơ, êm đềm như thơ
+Là em đã sưởi ấm hy vọng trong trái tim anh
+Cho ta thêm một thế giới, cùng nhau
+Đan chặt từng ước ao, cảm xúc dâng trào
+Anh đã tin vào tình yêu, giây phút ấy rực rỡ hơn bao điều
+
+[Rap: WEAN, Dương Domic & WEAN]
+Yeah, woah
+Quá nhiều lần buồn phiền, buồn phiền
+Đôi khi anh buông đi mất nụ cười thật hiền
+Đôi chân đôi tay anh đây đang cuốn tìm vào đồng tiền
+Đôi khi bên trong con tim anh đây toàn là điều xấu xí
+Đến một ngày mình tìm được nàng
+Baby anh vui như thấy mình tìm được một cục vàng
+Con tim anh đây như đang kêu vang lên
+Anh đang kêu vang lên
+
+[Chorus: All, CONGB & Dương Domic]
+Khi anh buông cả thế giới, em mang nụ cười đến với
+Đợi anh như mơ, êm đềm như thơ
+Là em đã sưởi ấm hy vọng trong trái tim anh
+Cho ta thêm một thế giới, cùng nhau
+Đan chặt từng ước ao, cảm xúc dâng trào
+Anh đã tin vào tình yêu, (Tình yêu) giây phút ấy rực rỡ hơn bao điều
+[Outro: WEAN]
+Yeah I know, too many things wanna bring me down
+But you make me proud of myself, and believe in myself`,
+  "assets/artists/tinhhasayhi/audio/2 - CÔ ĐƠN ANH CŨNG VUI ft WEAN & DILLAN & KIMLONG & Xuân Định KY.mp3": `[Chorus: KIMLONG]
+Để em bước đi hôm nay, có khi sẽ tốt hơn ở đây
+Chỉ cần thấy em luôn vui, dẫu cho cô đơn anh nhận lấy
+Chẳng phải vì hết yêu, chỉ là quá nhiều điều làm
+Mình chẳng như trước có lẽ đến đây nên thôi
+Chỉ cần người bình yên hơn, thì cô đơn anh cũng vui
+
+[Verse 1: Xuân Định K.Y & DILLAN]
+Ah, sẽ ổn mà, sẽ tốt mà
+Baby ơi xin em đừng lo về những thứ anh trải qua
+Có những lúc chẳng con tin vào bản thân mình
+Anh chỉ mong sao cho ngày mai trời sáng hơn
+Hàng triệu hàng trăm lý do kéo đến nơi bên anh ngồi
+Giày vò giằng xé con tim anh khi thấy em cùng người mới
+Giờ anh như con thuyền mãi lênh đênh, sóng vỗ cứ mãi chênh vênh
+Đã xa bờ, mà chẳng ai ngóng tin chờ
+Xé nháp đi cuộc tình đôi ta
+Sẽ khác đi câu chuyện hôm qua
+Để ngày hôm nay, anh xin ngủ vùi nơi đây
+
+[Pre-Chorus: DILLAN]
+Và nếu không thuộc về nhau
+Thì thôi, anh xin làm người cô đơn
+You might also like
+XOAY VÒNG
+Tinh Hà "Say Hi", HURRYKNG, CONGB (콩비), JSOL (VNM) & Vương Bình
+IDNAT (IM ĐỢI NGƯỜI ANH THƯƠNG)
+Tinh Hà "Say Hi", Wren Evans, Captain (VNM), IVAN (Chen Mingxuan) & Thể Thiên
+50 CUỘC GỌI NHỠ
+Tinh Hà "Say Hi", CoolKid (VNM), Cody (Võ Đình Nam), JAYSONLEI & Quang Hùng MasterD
+[Chorus: Xuân Định K.Y]
+Để em bước đi hôm nay, có khi sẽ tốt hơn ở đây (Sẽ tốt hơn ở đây)
+Chỉ cần thấy em luôn vui, dẫu cho cô đơn anh nhận lấy
+Chẳng phải vì hết yêu, chỉ là quá nhiều điều làm
+Mình chẳng như trước có lẽ đến đây nên thôi
+Chỉ cần người bình yên hơn, thì cô đơn anh cũng vui
+
+[Verse 2: WEAN]
+Anh nhìn gương, không là ai và một kẻ thua cuộc
+Riêng mình anh con xe đi vòng quanh cùng nụ cười lem luốc
+Hai giờ đêm anh lại quen tìm một hàng ven đường
+Không phải vì đói, anh chỉ muốn nghe họ hỏi "Anh đang cần gì?"
+Luôn đến đúng lúc để nhìn mọi thứ thuộc về người khác
+Nghĩ mình đặc biệt, cho đến khi em nhìn anh như một kẻ hèn nhát
+Đây là lần thứ bốn mươi sáu replay lại bài nhạc này
+Nhìn phản chiếu trong gương đi, con chim lạc bầy
+Cô đơn anh cũng vui mà em, đơn côi đây anh cũng vui mà em
+Sao đâu, bao lâu thấy anh dần quen
+Không tin, thì baby tới đây mà xem
+Anh thà cô đơn hơn người cô đơn là em
+Anh thà cô đơn hơn người cô đơn là em
+Và anh thà cô đơn hơn người cô đơn là em
+Anh thà cô đơn hơn người cô đơn là em (Yo)
+Oh baby girl yeah, I'm just a loser
+Cô đơn nhưng anh vui thì cũng chỉ là một cái cớ
+Người như anh luôn bơ vơ cô đơn thì cần gì đâu phải nghi ngờ
+'Cause baby I'm just a loser
+[Pre-Chorus: KIMLONG]
+Và nếu không thuộc về nhau
+Thì thôi, anh xin làm người cô đơn
+
+[Chorus: DILLAN]
+Để em bước đi hôm nay, có khi sẽ tốt hơn ở đây
+Chỉ cần thấy em luôn vui, dẫu cho cô đơn anh nhận lấy
+Chẳng phải vì hết yêu, chỉ là quá nhiều điều làm
+Mình chẳng như trước có lẽ đến đây nên thôi
+Chỉ cần người bình yên hơn, thì cô đơn anh cũng vui
+
+[Bridge: Xuân Định K.Y & KIMLONG]
+Từ lâu anh đã quen không còn ai, bên cạnh anh nữa rồi
+Khi mà con tim theo thời gian, ai cũng sẽ khác thôi
+Chẳng còn gieo xuống nơi đây hy vọng, như cá bơi ngược dòng
+Chỉ xát muối cho lòng, mà cơn đau cứ xoay vòng
+Tập quen cô đơn kéo về mỗi tối
+Chấp nhận điều em chẳng còn nơi đây nữa rồi
+Baby, baby! Xin em hãy cứ đi, wooh-ooh-ooh-ooh-ooh-ooh
+
+[Chorus: All, WEAN, Xuân Định K.Y & KIMLONG]
+(Nhìn em bước đi hôm nay, có khi sẽ tốt hơn ở đây)
+Hoh
+Để em bước đi hôm nay, có khi sẽ tốt hơn ở đây (Câu yêu thương từ ngày mà em quay lưng rời đi)
+Chỉ cần thấy em luôn vui, dẫu cho cô đơn anh nhận lấy
+Chẳng phải vì hết yêu, chỉ là quá nhiều điều làm
+Mình chẳng như trước được nữa
+Chỉ mong sao em được bình yên mãi thôi
+Cô đơn anh cũng vui
+(I'm okay, cô đơn thì anh cũng vui)
+(Nhưng mà, nếu có em thì chắc sẽ vui hơn)
+[Outro: All]
+Vạn vật đổi thay thế mà nơi đây
+Còn vẹn nguyên những tiếng yêu
+Bầu trời trong xanh thế mà sao anh, thiếu nàng
+Một lần xa nhau chẳng hẹn lần sau
+Để vạn lần day dứt khôn nguôi
+Làm người cô đơn để nhìn cô ấy vui hơn`,
+  "assets/artists/tinhhasayhi/audio/3 - CÓ GÌ ĐÂU MÀ CAY ft CAPTAIN BOY & CoolKid & IVAN & XUÂN ĐỊNH KY & LEONSASH.mp3": `[Intro: CAPTAIN BOY & CoolKid]
+CAPTAIN BOY bay tới đây, yeah
+Lại là DG House, CoolKidnevasleep
+
+[Verse 1: Xuân Định K.Y, IVAN, CoolKid & CAPTAIN BOY]
+Vươn lên từ bùn lầy, có những lúc tác phong chưa được ngay ngắn
+Thân trai tự vùng dậy, xây nên sự nghiệp từ bàn tay trắng
+Vấp ngã, chẳng động đậy, lắm lúc nghĩ sao mà cuộc đời cay đắng
+Nhưng đã qua rồi, bởi vì có em là may mắn
+Có lúc chới với giữa dòng người, lòng hoài nghi tiêu cực rất nhiều
+Có lúc anh hét lên thật to, bao phiền lo chẳng ai thấu hiểu
+Một kẻ thất bại, những năm rất dài (Nhưng mà)
+Giờ đã khác khâu lại tim tan nát, mượn câu hát như là lời hồi đáp
+Dành cho những ai còn tin tưởng, giọt nước mắt nhẹ rơi ở phim trường
+Chứng kiến anh trên, đoạn đường dài phía trước
+Dẫu sóng lớn cuốn mất lâu đài niềm tin anh nặn bằng đôi tay
+Vỡ nát thì xây lại, vẫn đứng ở đây này
+Để chẳng còn nhấp trên môi vị cay
+
+[Chorus: Xuân Định K.Y]
+Huh-huh, K.Y
+Yeah we out the ghetto, just making our way (Way)
+Nếu mà chơi thì chơi cho nét luôn, có gì đâu mà cay (Cay)
+Team anh gọi là best luôn, có gì đâu mà cay (Whoa)
+So what you gonna say? What you gonna say, ah? (Okay)
+You might also like
+MVP (MƯA VỘI PHÓNG)
+Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
+THẾ GIỚI CỦA ANH
+Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
+MỘNG DUYÊN
+Tinh Hà "Say Hi", Quang Hùng MasterD, JSOL (VNM), Song Luân & Sơn K (VNM)
+[Verse 2: CoolKid & CAPTAIN BOY]
+Hai trăm billions là mục tiêu ở trong đầu anh
+Sống vì nền công nghiệp nhưng không bị trói bởi mấy tờ màu xanh (Hey)
+Cùng với K.Y, CAPTAIN, IVAN, SGN dạo quanh
+Kể cả có thua cũng là vua trên thế thắng (Vroom), lướt đi không cần phanh (Grah)
+Thà ngã trên chân của anh còn hơn là đứng thẳng trên đôi giày của người khác (That's right)
+Bây giờ hoặc không khi nào khác, DGB teach you how to we rap (Oh)
+Max ping vòng này anh gọi là fact, bởi vì khát khao cho nên tìm đủ mọi cách
+Drop now trận này hit thêm một track, I'mma pop star, đến và kiếm thêm respect (Uh)
+'Alo, anh đếm từ một đến bốn bảo mấy cái đội khác kiếm cái hang mà trốn đi em ơi
+Đừng dọa cho bọn anh top cuối vì bọn anh cũng từ cái top cuối mà lao lên đây thôi
+Vô danh tiểu tốt mà đá cả bàn cờ vì bọn anh hiểu vấn đề của nước đi
+Bé có thể gọi anh là ông Hoàng nhưng mà là: "Ông Hoàng Đức Duy"
+Ngố ơi là ngố, giải cái đề bài khó ơi là khó
+Cả đội cả đội chiến như con gà chọi, bọn anh đến chơi, phố ơi là phố
+Cho mấy chú hiểu như nào mới gọi là cay (Haha, à cay à?), ép anh vào thế nhưng mà thế nào lại hay (Á hay á?)
+Lên xe xỏ chân vào giày, đừng bao giờ đố mấy anh em dân tộc Tày (Oh)
+
+[Chorus: CoolKid, Xuân Định K.Y & CAPTAIN BOY]
+Yeah we out the ghetto, just making our way (Way)
+Nếu mà chơi thì chơi cho nét luôn, có gì đâu mà cay
+Team anh gọi là best luôn, có gì đâu mà cay
+So what you gonna say? (Huh) What you gonna say? (Brr)
+Yeah we out the ghetto, just making our way
+Nếu mà chơi thì chơi cho nét luôn, có gì đâu mà cay
+Team anh gọi là best luôn, có gì đâu mà cay
+So what you gonna say? What you gonna say, yeah?
+[Verse 3: IVAN]
+Back with my bros, that's how it is
+Ain't nothing change, yeah we the real deal
+We're the diamonds, moving timeless
+Feel the highness, we're about to start a riot
+Moving tight with the flow, run it up for a show
+Whole squad on that razzle-dazzle, raggle-taggle
+Turn a little spark into a full blown hassle, yeah
+Unpredictable, minimal, original, we standing in the scene all day
+Bao hoài nghi này, bay hết vô đây, come and get it, bay hết vô đây
+Fast forward, see through it when you get the taste of the L's boy
+Bad news for the opps, boy, funny how the tables turn, boy, shh
+
+[Verse 4: Xuân Định K.Y]
+Ah, tính tình tang tang, melody quyện tiếng đàn
+Xúc cảm dần leo thang khơi mở mọi giác quan
+Nâng chén đêm say đưa anh em mình lên mây (Ah-ah-ah)
+Danh vọng trao tay anh em ta phải giữ lấy
+
+[Guitar Solo]
+
+[Chorus: All, Xuân Định K.Y, CAPTAIN BOY, CoolKid]
+Yeah we out the ghetto, just making our way (Way)
+Nếu mà chơi thì chơi cho nét luôn, có gì đâu mà cay (Cay)
+Team anh gọi là best luôn, có gì đâu mà cay (Wow)
+So what you gonna say? What you gonna say? (Brr)
+Yeah we out the ghetto, just making our way (Oh)
+Nếu mà chơi thì chơi cho nét luôn, có gì đâu mà cay
+Team anh gọi là best luôn, có gì đâu mà cay
+So what you gonna say? What you gonna say, yeah?`,
+  "assets/artists/tinhhasayhi/audio/4 - MẤT LA BÀN ft Pháp Kiều & Thể Thiên & VƯƠNG BÌNH & DANG HONG HAI & TORYSAX.mp3": `[Chorus: Vương Bình]
+Nếu cả trái đất trong anh ngừng xoay
+Chẳng thấy nắng Đông trôi về Tây
+Anh vẫn đứng nơi đây dù tìm không thấy được
+Em lang thang ở chốn thiên đàng, cố níu lấy tương lai dở dang
+Có tất cả nhưng tim lại mất la bàn
+
+[Verse 1: Đặng Hồng Hải & Thể Thiên]
+Tìm được ở đâu một người ở sau, cùng ngồi viết tên nhau
+Từng là của nhau, giờ lại chẳng còn nhau
+Nhìn vào mắt môi, gượng cười thế thôi
+Đồng hồ cứ đang trôi
+Giật mình giữa đêm, nhìn lại chẳng còn em
+
+[Refrain: Pháp Kiều]
+Sa mạc cằn khô, đại dương mênh mông
+Bắc Nam Đông Tây, em ở đâu?
+
+[Chorus: Pháp Kiều & Thể Thiên]
+Nếu cả trái đất trong anh ngừng xoay
+Chẳng thấy nắng Đông trôi về Tây
+Anh vẫn đứng nơi đây dù tìm không thấy được
+Em lang thang ở chốn thiên đàng, cố níu lấy tương lai dở dang
+Có tất cả nhưng tim lại mất la bàn
+You might also like
+MVP (MƯA VỘI PHÓNG)
+Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
+THẾ GIỚI CỦA ANH
+Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
+CÓ GÌ ĐÂU MÀ CAY
+Tinh Hà "Say Hi", Captain (VNM), CoolKid (VNM), AIVAN (아이반) (KOR) & Xuân Định K.Y
+[Post-Chorus: Vương Bình & Đặng Hồng Hải]
+Nếu khó nói khó nói thành lời, nói cho anh nghe đi dấu nặng lời
+Chẳng thể nói, khó nói rồi lạc mất nhau
+Baby, nếu khó nói khó nói thành lời, nói cho anh nghe đi dấu nặng lời
+Chẳng thể nói, khó nói rồi lạc mất nhau
+
+[Verse 2: Thể Thiên & Pháp Kiều]
+Phải làm sao để em về với anh, phải làm gì để em nhìn thấy
+Từ ngày em bỏ đi anh quay cuồng
+Cầu xin em trao anh một cơ hội lần cuối
+Lâu đài tình ái anh đâu, để khiến anh sầu
+My heart it slow down, khi sóng xô vào
+Giờ ý em sao, đế ý em nào, dù có trong chiêm bao cũng
+Đừng làm buổi tối bủa vây
+Xung quanh là một vài cô gái trông mặt say men
+Có khi em hiểu lầm là vì là câu nói đùa bay
+Ly bia em cầm ngược mà nước không giọt nào trên tay
+Lầm lì dù biết mình sai, để em đi một lần là đoạn kết ngay ở đây
+Cho thấy anh luôn tồi
+Và rồi lời nói bằng không, cố ấy đi hàng vạn dặm thiên lý
+Để anh không bằng lòng
+
+[Chorus: Đặng Hồng Hải]
+Nếu cả trái đất trong anh ngừng xoay
+Chẳng thấy nắng Đông trôi về Tây
+Anh vẫn đứng nơi đây dù tìm không thấy được em
+Lang thang ở chốn thiên đàng, cố níu lấy tương lai dở dang
+Có tất cả nhưng tim lại mất la bàn
+[Post-Chorus: Vương Bình]
+Nếu khó nói khó nói thành lời, nói cho anh nghe đi dấu nặng lời
+Chẳng thể nói, khó nói rồi lạc mất nhau
+Baby, nếu khó nói khó nói thành lời, nói cho anh nghe đi dấu nặng lời
+Chẳng thể nói, khó nói rồi lạc mất nhau
+
+[Bridge: Vương Bình]
+Là nơi buồm xuôi gió, trôi đi mãi ở đâu vẫn cứ đi tìm
+Ngoài khơi, anh chẳng ra tới, em chơi với biết có đến nơi
+
+[Instrumental Break]
+
+[Post-Chorus: All]
+Nếu khó nói khó nói thành lời, nói cho anh nghe đi dấu nặng lời
+Chẳng thể nói, khó nói rồi lạc mất nhau
+Baby, nếu khó nói khó nói thành lời, nói cho anh nghe đi dấu nặng lời
+Chẳng thể nói, khó nói rồi lạc mất nhau
+
+[Refrain: Thể Thiên, Đặng Hồng Hải, Pháp Kiều & Vương Bình]
+Sa mạc cằn khô, đại dương mênh mông
+Bắc Nam Đông Tây, em ở đâu?
+Sa mạc cằn khô, đại dương mênh mông
+Bắc Nam Đông Tây, em ở đâu?`,
+  "assets/artists/tinhhasayhi/audio/5 - MƯA VỘI PHÓNG ft Wren Evans & Ali Hoàng Dương & Cody Nam Võ & HYO & 2PILLZ.mp3": `[Verse 1: HYO]
+Mưa nhẹ rơi màn đêm
+Mình anh phóng qua nơi em
+Từng hàng cây từng con phố
+Chờ anh chút thôi đừng vội buông tay khi chưa gặp nốt đêm nay
+
+[Pre-Chorus: Wren Evans]
+Ooh-wah-oh-ah, lỡ mai ta quay lại làm bạn thì người có tiếc điều gì không?
+Vì giờ này anh không thể quay lưng đi với những yêu thương trong lòng
+Đội cơn mưa lòng anh nôn nóng
+
+[Chorus: Cody Nam Võ & Ali Hoàng Dương]
+Người còn định dỗi anh đến bao giờ, xuống đây đi anh chờ
+Lòng không yên mỗi khi thấy em thờ ơ
+Người vờn anh trong những lo sợ, ngổn ngang những nghi ngờ
+Mình mập mờ với nhau đến khi nào, hé ra cho anh vào
+Đừng mặc anh dưới mưa buồn rơi ướt áo
+Lỡ sau hôm nay ta quên nhau thì sao
+
+[Verse 2: HYO & Wren Evans]
+Đối với anh thì, (Yeah-eh-eh) dăm ba hạt mưa này
+Cũng không lạnh bằng một lần em im lặng (Ooh-woah-oh-oh)
+Anh có thể băng qua cả một vùng mây đen (Ah-ah-ah)
+Chỉ để được thấy em
+Vượt khó để có câu trả lời, vì cảm xúc kia đã buông lơi
+Thành phố mưa rơi thật yên bình vậy mà lòng anh như vỡ đôi
+Người nói hai ta là ngang hàng, thực tế anh luôn nhận thua
+Nàng ngập ngừng cho anh tình yêu mong manh như sương đêm dây dưa, ooh-woah-oh-ah-ah
+Trời lạnh cần vòng tay nàng, ah
+Tiện đường tìm bờ môi nàng, ah
+Và nếu em trao anh quyền được yêu em trong phút giây này
+Có sao không khi giờ anh xin người hãy nhìn anh thêm chút thôi
+You might also like
+THẾ GIỚI CỦA ANH
+Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
+CÓ GÌ ĐÂU MÀ CAY
+Tinh Hà "Say Hi", Captain (VNM), CoolKid (VNM), IVAN (Chen Mingxuan) & Xuân Định K.Y
+MẤT LA BÀN
+Tinh Hà "Say Hi", Pháp Kiều, DANG HONG HAI, Thể Thiên & Vương Bình
+[Pre-Chorus: Cody Nam Võ]
+Oh-ooh-ah, lỡ mai ta quay lại làm bạn thì người có tiếc điều gì không?
+Vì giờ này anh không thể quay lưng đi với những yêu thương trong lòng
+Từng hạt mưa cứ xuyên vào tim anh tự lúc nào
+
+[Chorus: Wren Evans & HYO]
+Người còn định dỗi anh đến bao giờ, xuống đây đi anh chờ
+Lòng không yên mỗi khi thấy em thờ ơ
+Người vờn anh trong những lo sợ, ngổn ngang những nghi ngờ
+Mình mập mờ với nhau đến khi nào, hé ra cho anh vào
+Đừng mặc anh dưới mưa buồn rơi ướt áo
+Lỡ sau hôm nay ta quên nhau thì sao
+
+[Bridge: Ali Hoàng Dương]
+Trong cơn mưa vội phóng
+Thầm ước ao em đang trông ngóng
+Dẫu màn đêm như muốn níu anh lại
+Nhưng tình yêu không nhanh sẽ phai
+Nếu yêu em là điều dại dột thì con tim anh muốn sai
+
+[Break: Wren Evans]
+(Người còn định dỗi anh đến bao giờ)
+(Dỗi anh đến bao giờ, dỗi-dỗi)
+(Mình mập mờ với nhau đến khi nào)
+(Hé-hé-hé ra cho anh vào)
+(Nào, nào)
+(Người còn định dỗi anh đến bao giờ)
+[Chorus: Ali Hoàng Dương, HYO, Cody Nam Võ & Wren Evans]
+Người còn định dỗi anh đến bao giờ, xuống đây đi anh chờ
+Lòng không yên mỗi khi thấy em thờ ơ
+Người vờn anh trong những lo sợ, ngổn ngang những nghi ngờ (Ah)
+Mình mập mờ với nhau đến khi nào, hé ra cho anh vào
+Đừng mặc anh dưới mưa buồn rơi ướt áo
+Lỡ sau hôm nay ta quên nhau thì sao`,
+  "assets/artists/tinhhasayhi/audio/6 - 50 CUỘC GỌI NHỠ ft CoolKid & Quang Hùng MasterD & Cody Nam Võ & Jaysonlei.mp3": `[Verse 1: JAYSONLEI & Cody Nam Võ]
+Chỉ khi thức trắng mới biết đêm dài
+Để nỗi nhớ nhân một thành hai
+Vệt ký ức kia lăn dài mãi, woah-hoh
+Nếu lúc đó anh không buông tay, liệu kết cục có ổn hơn?Nếu lúc đó ta không lung lay để giữ trọn vẹn từ thương
+Thương thì ai chẳng thương mà buông thì vẫn phải buông
+Vì số phận thường chẳng như ta muốn, hah-ah
+
+[Chorus: Quang Hùng MasterD & CoolKid]
+Là hàng triệu nỗi nhớ anh đem chôn giấu trong nơi màn đêm (Woah-ooh-woah)
+Là từng cuộc gọi nhỡ không ai bắt máy, năm mươi lần đếm
+Với anh đáng sợ đó là khi nghe tiếng chuông reo
+Sợ là nỗi buồn bấy lâu nay mang theo, lại liên hồi rung lên
+Giờ chỉ mình anh đếm thôi, chạy bao lâu mới đến nơi?
+Để kịp hẹn cùng hạnh phúc bấy lâu anh chẳng dám đối diện
+Năm mươi cuộc gọi giờ thay cho đáp án cuối cùng
+Chọn khóc thay cho cười, chọn kết thúc một nỗi đau
+
+[Verse 2: Quang Hùng MasterD, CoolKid & Cody Nam Võ]
+Nỗi nhớ trong anh là bao nhiêu? (Bao nhiêu?)
+Năm mươi cuộc gọi là bao nhiêu (Woah-oh)
+Suốt đêm thinking about you
+Chỉ là chắc có lẽ duyên ta nay đi ngược chiều
+Đau thay anh cứ mãi bị lừa gạt mà đâu hay
+Giờ đành thôi vứt kỷ niệm xưa trong đám cháy (DG Boy)
+Buồn vì con tim anh từng đã trao trọn mà giờ phải chọn cô đơn (You)
+Tưởng chừng dừng lại thì sẽ bớt đau lòng vùi mình trong con sóng lớn
+Off the phone không nghe một câu, giữ lấy đi baby, anh chẳng cần đâu
+Thứ đã chết là tình yêu ta ngày đầu
+Nghìn điều buồn sầu anh vội thả vào mưa ngâu (Hah-ah-ah-hah)
+You might also like
+CÔ ĐƠN ANH CŨNG VUI
+Tinh Hà "Say Hi", WEAN, Dillan Hoàng Phan, KIMLONG & Xuân Định K.Y
+IDNAT (IM ĐỢI NGƯỜI ANH THƯƠNG)
+Tinh Hà "Say Hi", Wren Evans, CAPTAIN, AIVAN (아이반) (KOR) & Thể Thiên
+XOAY VÒNG
+Tinh Hà "Say Hi", HURRYKNG, CONGB (콩비), JSOL (VNM) & Vương Bình
+[Chorus: JAYSONLEI & Cody Nam Võ]
+Là hàng triệu nỗi nhớ anh đem chôn giấu sau nơi màn đêm (Hah)
+Là từng cuộc gọi nhỡ không ai bắt máy, năm mươi lần đếm
+Với anh đáng sợ đó là khi nghe tiếng chuông reo
+Sợ là nỗi buồn bấy lâu nay mang theo, lại liên hồi rung lên, woah-hoh
+Giờ chỉ mình anh đếm thôi, chạy bao lâu mới đến nơi?
+Để kịp hẹn cùng hạnh phúc bấy lâu anh chẳng dám đối diện
+Năm mươi cuộc gọi giờ thay cho đáp án cuối cùng
+Chọn khóc thay cho cười, chọn kết thúc một nỗi đau
+
+[Bridge: Quang Hùng MasterD, JAYSONLEI, Cody Nam Võ & CoolKid]
+Oh-hoh, ooh-woah-ooh-woah-ooh-woah-hoh (Hey)
+Hằn sâu trong tim anh năm mươi nhát khâu
+Cô đơn và anh chẳng còn khác nhau
+Ghi vào giấy vì anh sợ khi nào đấy mình quên đi
+Ngược dòng ký ức, tìm hình bóng em (Bóng em)
+Rồi chính anh lại vụn vỡ nhìn người tan biến, ah-hah
+Năm mươi nó cũng chẳng là bao nhiêu
+Với tổn thương này chẳng là bao nhiêu, oh-woah
+
+[Chorus: Quang Hùng MasterD, CoolKid, JAYSONLEI & Cody Nam Võ]
+Là hàng triệu nỗi nhớ anh đem chôn giấu trong nơi màn đêm
+Là từng cuộc gọi nhỡ không ai bắt máy, năm mươi lần đếm
+Với anh đáng sợ đó là khi nghe tiếng chuông reo
+Sợ là nỗi buồn bấy lâu nay mang theo, lại liên hồi rung lên, woah-hoh
+Giờ chỉ mình anh đếm thôi, chạy bao lâu mới đến nơi?
+Để kịp hẹn cùng hạnh phúc bấy lâu anh chẳng dám đối diện
+Năm mươi cuộc gọi giờ thay cho đáp án cuối cùng
+Chọn khóc thay cho cười, chọn kết thúc một nỗi đau`,
+  "assets/artists/tinhhasayhi/audio/7 - IM ĐỢI NGƯỜI ANH THƯƠNG ft Wren Evans & CAPTAIN BOY & IVAN & Thể Thiên.mp3": `[Verse 1: Wren Evans]
+Im (Uh-huh, shh)
+Muốn nói hết cho em nhưng thôi
+Những ước muốn bên nhau xa xôi, sao kẹt lại ở đôi môi, ooh-woah-ooh-woah
+Có lẽ anh sai rồi, cố níu nhưng anh sợ
+Biết đâu em sẽ thôi đợi chờ mình lại nằm mơ nhưng nhờ, hoh-oh
+
+[Pre-Chorus: Thể Thiên & CAPTAIN BOY]
+Có đôi lúc không muốn nhưng phải dừng lại (Hah-hah)
+Có đôi lúc ta feel so good (Hah-hah)
+Bởi vì con tim đâu thể hiểu được
+Liệu có thể trao tình yêu thay lời nói? (Captain tới đây)
+
+[Chorus: CAPTAIN BOY]
+Tình là thế vô tình là thế
+Vì anh lặng thinh, mà em chẳng thấy anh đang nhìn em
+Tình là thế vô tình lặng im
+Im đợi người anh thương
+
+[Verse 2: IVAN, CAPTAIN BOY & Thể Thiên]
+Ooh girl, my days ain't feel the same when you're not here
+I don't wanna say too much, I just want to give you all my life
+This is for real, I fear I got to let you know (Listen girl)
+Bé yêu ơi, Ivan đợi, chỉ cần em nói ra câu trả lời
+Cứ gieo mưa, tới bên hiên để phá vỡ không gian bình yên
+Oh baby, I feel so lonely
+Can you say it with me? With me, with me, wooh-hah
+You might also like
+MVP (MƯA VỘI PHÓNG)
+Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
+50 CUỘC GỌI NHỠ
+Tinh Hà "Say Hi", CoolKid (VNM), Cody (Võ Đình Nam), JAYSONLEI & Quang Hùng MasterD
+XOAY VÒNG
+Tinh Hà "Say Hi", HURRYKNG, CONGB (콩비), JSOL (VNM) & Vương Bình
+[Pre-Chorus: Wren Evans]
+Có đôi lúc không muốn nhưng phải dừng lại (Ooh-ooh-ooh)
+Có đôi lúc ta feel so good (Yeah-eh-hah-ah)
+Bởi vì con tim đâu thể hiểu được (Ooh-woah-oh-oh-oh)
+Liệu có thể trao tình yêu thay lời nói?
+
+[Chorus: Thể Thiên]
+Tình là thế vô tình là thế
+Vì anh lặng thinh, mà em chẳng thấy anh đang nhìn em
+Tình là thế vô tình lặng im
+Im đợi người anh thương
+
+[Post-Chorus: Wren Evans & IVAN]
+Baby anh phải lặng im, ah-ah-ah-ooh-ah-ah-ah
+Che đi con tim nặng tình và bao lời yêu chưa kịp nói
+Baby anh phải lặng im, ah-ah-ah-ooh-ah-ah-ah
+Baby anh phải lặng im, im-im-im
+
+[Bridge: CAPTAIN BOY]
+Chỉ là vài phút giây, anh nhận ra lúc này
+Rằng mai lỡ vỡ tan va chạm không gian
+Anh vẫn im để chờ, dẫu có bao nghi ngờ
+
+[Chorus: Wren Evans, Thể Thiên, CAPTAIN BOY & IVAN]
+Tình là thế vô tình là thế
+Vì anh lặng thinh, mà em chẳng thấy anh đang nhìn em
+Tình là thế vô tình lặng im
+Im đợi người anh thương
+[Post-Chorus: Thể Thiên & Wren Evans]
+Baby anh phải lặng im, ah-ah-ah-ah-ah-ah-hah
+Che đi con tim nặng tình và bao lời yêu chưa kịp nói
+Baby anh phải lặng im, ah-ah-ah-ah-ah-ah-ah
+Baby anh phải lặng im, im-im-im
+Im (Uh-huh, shh)
+
+[Outro: All]
+Chớ có nghĩ anh đang vô tâm
+Chớ có nghĩ anh không yêu em
+Không hề lạnh lùng như thế, heh
+Chẳng phải anh muốn đâu
+Im lặng chỉ muốn nghe em, nghe người mãi`,
+  "assets/artists/tinhhasayhi/audio/8 - XOAY VÒNG ft HURRYKNG & JSOL & VƯƠNG BÌNH & CONGB.mp3": `[Intro]
+(Alright, Kado)
+
+[Verse 1: HURRYKNG]
+I will die in your arms again
+Mỗi lần tim em thấy đau lại tìm về nơi anh
+Cũng chỉ quanh những lý do quen thuộc
+Bờ vai đây chỉ để mi người vội khô nhanh
+
+[Pre-Chorus: CONGB]
+Đã bao nhiêu lần anh nhận ra, trái tim lạnh căm em ngày qua
+Đến bên và ôm anh từ xa trong anh lại thôi những vụn vỡ
+Cứ quay mặt đi, nói năng đâu thêm một lời chi
+Dấy lên trong anh những hoài nghi, rồi quay về như chưa từng bước đi
+
+[Chorus: JSOL & Vương Bình]
+Phải xoay vòng xoay vòng xoay vòng đến bao giờ
+Chạy theo ngay sau mà sao em cứ xa mờ
+Buông anh nơi chơi vơi để những mong chờ
+Chôn anh trong bao đêm cô đơn anh chỉ ước đây là mơ
+Nên thôi đừng nhìn anh nữa
+Vì anh biết anh lại chìm vào mắt em
+Thôi đừng ôm anh nữa, ah-ah
+Vì đôi tay đó sẽ khiến anh yếu mềm, yếu thêm, lại yêu em
+You might also like
+50 CUỘC GỌI NHỠ
+Tinh Hà "Say Hi", CoolKid (VNM), Cody (Võ Đình Nam), JAYSONLEI & Quang Hùng MasterD
+IDNAT (IM ĐỢI NGƯỜI ANH THƯƠNG)
+Tinh Hà "Say Hi", Wren Evans, CAPTAIN, AIVAN (아이반) (KOR) & Thể Thiên
+CÔ ĐƠN ANH CŨNG VUI
+Tinh Hà "Say Hi", WEAN, Dillan Hoàng Phan, KIMLONG & Xuân Định K.Y
+[Verse 2: HURRYKNG, JSOL & Vương Bình]
+(Anh vừa tỉnh giấc sau những gió giông phía xa chân trời)
+Một mình không quen, hai mươi tư giờ anh cầm tay em
+Em sợ mây đen, đưa tay lên ô che ngay bên
+Đêm em say thêm, đường về nhà như vừa thay tên
+Kêu than sao không một ai bên, vậy anh là ai sao em thật hay quên
+
+[Pre-Chorus: Vương Bình & HURRYKNG]
+Anh nhận ra, trái tim lạnh căm bao ngày qua
+Đến bên và ôm anh từ xa trong anh lại thôi những vụn vỡ
+Cứ quay mặt đi (Mặt đi), nói năng đâu thêm một lời chi (Lời chi)
+Dấy lên trong anh những hoài nghi, rồi quay về như chưa từng bước đi
+
+[Chorus: CONGB & HURRYKNG]
+Phải xoay vòng xoay vòng xoay vòng đến bao giờ
+Chạy theo ngay sau mà sao em cứ xa mờ
+Buông anh nơi chơi vơi để những mong chờ
+Chôn anh trong bao đêm cô đơn anh chỉ ước đây là mơ
+Nên thôi đừng nhìn anh nữa
+Bởi vì anh biết anh lại chìm vào mắt em
+Thôi đừng ôm anh nữa, ah-ah-ah
+Vì đôi tay đó sẽ khiến anh yếu mềm, yếu thêm, lại yêu em
+
+[Bridge: Vương Bình, JSOL & CONGB]
+Yêu em, nhưng anh phải chơi ở trong vòng xoay này đến bao giờ
+Yêu em, yêu em, nhưng anh phải chơi ở trong vòng xoay này đến bao giờ
+Có nhau nhưng một người lẻ loi
+Mỗi anh phải chịu từng đắng cay này thôi
+Em không chịu buông tay, xin anh quay về ngay cạnh em đi
+Em sẽ không thể yêu ai được nữa
+[Verse 3: All]
+Vậy thì okay I'm running back to you again (Ooh-wooh)
+I'm running back to you again (To you)
+Baby don't worry, I be running running
+Be right back to you right now
+
+[Chorus: All, HURRYKNG]
+Phải xoay vòng xoay vòng xoay vòng đến bao giờ
+(Xoay, xoay, xoay, xoay, xoay, xoay)
+
+[Hook: All, JSOL]
+Đừng nhìn anh nữa
+Đừng nhìn anh nữa
+Đừng nhìn anh nữa em à
+Đừng nhìn anh nữa
+Đừng nhìn anh nữa
+Đừng nhìn anh nữa
+Ta vẫn trong một vòng xoay`,
+  "assets/artists/tinhhasayhi/audio/9 - MRT ft XUÂN ĐỊNH KY & buitruonglinh & CAPTAIN BOY & HYO.mp3": `[Verse 1: CAPTAIN BOY]
+Từng là lời hứa của cả thanh xuân
+Sao giờ nói quên là quên?
+Anh ngồi xóa đi biệt danh ta đã đặt tên
+Mình từng cho nhau là cả thế giới
+Nhưng giờ thế giới ấy ở đâu?
+Chỉ còn thấy nhau, ở cuối ga trên đoàn tàu
+
+[Pre-Chorus: buitruonglinh]
+Mặt trời dần xa khỏi nơi này
+Là nơi mà ta từng yêu rất đậm sâu
+Chỉ một câu nói mà chẳng thể quay đầu
+Giữ trong tim này một cơn đau, rằng ngày mai ta sẽ không bên nhau
+
+[Chorus: Xuân Định K.Y & CAPTAIN BOY]
+Cả đời này anh nợ em lời xin lỗi, khi tình yêu dần lạc lối
+Anh biết anh chẳng giữ được đâu
+Anh không muốn thêm một lần nhìn em khóc
+Nên anh sẽ tự mình mang theo bao tiếc nuối
+Đoàn tàu lăn bánh chia đôi cả thế giới, hai người hai khoảng trời mới
+Mong cho em về nơi ánh dương ngập tràn
+Có lẽ quá muộn màng, ta đã lỡ lạc nhau thật rồi
+
+[Verse 2: HYO, Xuân Định K.Y & CAPTAIN BOY]
+Nước mắt em cũng đã tuôn rơi thay cho câu trả lời, anh biết đã quá muộn rồi
+Khi trạm ga tàu đi thật xa nơi cả hai từng qua, chẳng còn gì giữa chúng ta
+Tiếc nuối anh đành mang, đánh mất duyên trời ban
+Nếu có lỡ mai sau gặp lại, ta có thể gặp lại trong mơ
+Nhìn lại từng khung kính, bỗng thấy nỗi nhớ cứ kéo đến anh với những ký ức
+Chuyện tình mình rẽ đôi, anh không thể lau giọt buồn
+Vương đọng trên mi em rơi, tới đây thôi
+Anh tập quen từ lâu niềm đau để biết đường cho lần sau, quá đủ rồi
+Đến một chân trời mới và chấp nhận với niềm đau mà thôi, ooh-ooh
+
+[Pre-Chorus: Xuân Định K.Y]
+Mặt trời dần xa khỏi nơi này (Này)
+Là nơi mà ta từng yêu rất đậm sâu, hooh-ooh
+Chỉ một câu nói mà chẳng thể quay đầu
+Giữ trong tim này một cơn đau, rằng ngày mai ta sẽ không bên nhau, oh-woah
+
+[Chorus: HYO, buitruonglinh & CAPTAIN BOY]
+Cả đời này anh nợ em lời xin lỗi, khi tình yêu dần lạc lối
+Anh biết anh chẳng giữ được đâu (Anh không thể giữ)
+Anh không muốn thêm một lần nhìn em khóc
+Nên anh sẽ tự mình mang theo bao tiếc nuối (Bao tiếc nuối)
+Đoàn tàu lăn bánh chia đôi cả thế giới, hai người hai khoảng trời mới
+Mong cho em về nơi ánh dương ngập tràn
+Có lẽ quá muộn màng, ta đã lỡ lạc nhau thật rồi
+
+[Bridge: All, HYO, CAPTAIN BOY, Xuân Định K.Y]
+Hoh-ooh-woah
+Những ký ức hôm nay trong anh phải đặt ở lại đây thôi ()
+Hoh-ooh-woah
+Phải làm sao để anh thức giấc? (Thức giấc, thức giấc)
+Dù anh đã cố gắng nhắm mắt nuốt thật chặt nỗi đau, hoh
+Quay về nơi tình yêu bắt đầu, chẳng thể gặp (Gặp) lại (Lại) nhau (Nhau) nữa đâu (Wooh-hooh)
+
+[Chorus: CAPTAIN BOY, buitruonglinh, HYO & Xuân Định K.Y]
+(Cả đời này anh nợ em lời xin lỗi)
+Cả đời này anh nợ em lời xin lỗi, khi tình yêu dần lạc lối
+Anh biết anh chẳng giữ được đâu, woah-oh
+Anh không muốn thêm một lần nhìn em khóc
+Nên anh sẽ tự mình mang theo bao tiếc nuối
+Đoàn tàu lăn bánh chia đôi cả thế giới, hai người hai khoảng trời mới
+Mong cho em về nơi ánh dương ngập tràn
+Có lẽ quá muộn màng, ta đã lỡ lạc nhau thật rồi
+[Outro: All]
+Khi nắng đã dừng tắt, hãy cứ để thời gian trả lời`,
+  "assets/artists/tinhhasayhi/audio/10 - SECRET ft Quang Hùng MasterD & Cody Nam Võ & CongB & Wren Evans.mp3": `[Verse 1: CONGB & Cody Nam Võ]
+Kể từ khi gặp em (Em), trí nhớ hơi bị kém (Kém)
+Những món ăn thân quen sao nay bỗng dưng chẳng thèm? (Thèm)
+Dù bụng đói cồn cào, lại chẳng thể nói lời nào
+Vì gu em không thích người quá cao
+Mà anh chẳng hề cao (Cao), tính nóng hơi bị láo (Quá láo)
+Nói những câu tào lao khi em nói câu xin chào
+Vậy thì theo anh đến một nơi, không có biển khơi
+Chỉ có vườn với trái cây mà thôi
+
+[Pre-Chorus: Quang Hùng MasterD]
+Vườn anh có trái dưa, trái dâu, trái thơm, trái nho, có luôn banana
+Nhưng thiếu đi trái tim của một người (Một người)
+Lòng anh như gió đông giữa trời đêm, mong thấy em khi bình minh lên, oh-hoh
+
+[Chorus: Quang Hùng MasterD & CONGB]
+Tình đầu ngây thơ mà em, đúng không? (Đúng không?)
+Còn chưa nắm tay, chưa về tới phòng (Tới phòng)
+Mình còn trông ngóng biết nhiều về nhau
+Đêm đến ta lại ngắm sao, làm sao mở lòng? (Mở lòng)
+Chẳng phải em muốn được anh ghé tai? (Tai)
+Thầm thì vài câu suốt bao đêm dài (Dài)
+Trời cao có thấu nỗi lòng tận mây xanh?
+Nói em nghe bí mật của anh
+
+[Verse 2: Wren Evans]
+Nói hết bí mật thì có yêu không? (Uh, uh-huh)
+Muốn thấy bí mật hay em muốn nghe bằng lời nói?
+Đến đây với anh, trăm nghe không bằng một lần thấy
+Ai rồi cũng phải yêu rồi đấy, baby, ooh-ooh (Ah, ooh-ooh)
+Phải làm sao để gặp my baby?
+Muốn yêu em chân thành vì anh đâu muốn yêu theo phong trào mà bae (Ah-ah)
+Em quen anh chân thành, làm một bộ phim hai ta đóng vai người yêu (Ah-hah)
+Rất muốn ai đó có thể nói ra hết sự thật rằng anh thương em rất nhiều
+Giờ này nếu thắc mắc em qua bên
+
+[Pre-Chorus: Cody Nam Võ]
+Vườn anh có trái dưa, trái dâu, trái thơm, trái nho, có luôn banana
+Nhưng thiếu đi trái tim của một người
+Lòng anh như gió đông giữa trời đêm, mong thấy em khi bình minh lên (Ow!)
+
+[Chorus: Cody Nam Võ & Quang Hùng MasterD]
+Tình đầu ngây thơ mà em, đúng không?
+Còn chưa nắm tay, chưa về tới phòng (Tới phòng)
+Mình còn trông ngóng biết nhiều về nhau
+Đêm đến ta lại ngắm sao, làm sao mở lòng?
+Chẳng phải em muốn được anh ghé tai? (Ghé tai)
+Thầm thì vài câu suốt bao đêm dài (Dài)
+Trời cao có thấu nỗi lòng tận mây xanh?
+Nói em nghe bí mật của anh
+[Refrain: CONGB & Wren Evans]
+Từng chút, từng chút, từng chút lại gần bí mật của anh
+Đếm từng phút, từng phút lại gần bí mật của anh, (Của anh-anh) của anh, (Anh-anh) của anh, ah-no-hooh-ah-hooh-hah (Ooh-hah)
+Từng chút, từng chút, từng chút lại gần bí mật của anh
+Đếm từng phút, từng phút lại gần bí mật của anh, của anh, của anh
+
+[Verse 3: Cody Nam Võ, CONGB & Quang Hùng MasterD]
+"Baby à, anh đã nói là em trao cho anh trái tim, sao lại là trái bơ đó hả?"
+"Ây da thiệt là buồn quá đi đó mà, CONGB dô"
+Vậy người có muốn mình tay nắm tay? (Nắm tay)
+Tình anh đã trao không cần giãi bày (Giãi bày)
+Nụ cười em sáng hơn mặt trăng đang lên
+Chiếu sâu vào trái tim, anh không đỡ được (Đỡ được)
+Tặng nàng bài thơ dù không có hay (Có hay)
+Chỉ mong em hiểu lấy tâm tư này (Tư này)
+Trời cao có thấu nỗi lòng tận mây xanh?
+Nói em nghe bí mật của anh
+
+[Chorus: Wren Evans & Cody Nam Võ]
+Tình đầu ngây thơ mà em, đúng không?
+Còn chưa nắm tay, chưa về tới phòng
+Mình còn trông ngóng biết nhiều về nhau
+Đêm đến ta lại ngắm sao, làm sao mở lòng? (Mở lòng)
+Chẳng phải em muốn được anh ghé tai (Ghé tai)
+Thầm thì vài câu suốt bao đêm dài
+Trời cao có thấu nỗi lòng tận mây xanh?
+Nói em nghe bí mật của anh`,
+  "assets/artists/tinhhasayhi/audio/11 - MỘNG DUYÊN ft Quang Hùng MasterD & JSOL & Sơn.K & Song Luân & EMIL VERGO.mp3": `[Intro]
+(Hino in your mind-mind)
+
+[Verse 1: Quang Hùng MasterD & Song Luân]
+Duyên trời cho mình gặp nhau giữa nhân gian
+Nhưng nợ đời đành đoạn đôi ta lỡ làng
+Từng là vạn lời yêu cũng hoá tro tàn
+Ôm vấn vương lưu lạc mộng trần trái ngang
+
+[Pre-Chorus: Song Luân & Quang Hùng MasterD]
+Chén rượu ta từng nếm, chắt thành nỗi đau từng đêm
+Chẳng thể nào ngừng đếm từng hồi ức khó quên
+Con thuyền vẫn đợi bến, biết ai nhớ, ai đợi mong
+Thiên lý tương ngộ năng huyễn duyên ly mộng
+Hah-ah-ah-ah-ah-ah-ah-ah, ngóng trông bóng hình ai đã dần phai
+Hah-ah-ah-ah-ah-ah-ah-ah-ah-ah, nỗi buồn ai hay
+
+[Chorus: Sơn.K & JSOL]
+Mộng duyên giữa đôi ta, như cánh hoa nở trong đêm trăng tà
+Tình yêu đến bên ta, nhưng chóng phai ngỡ như đoá Quỳnh Hoa
+Là tiên nữ nơi đâu, hương sắc theo dấu ta đến tiêu sầu
+Ngả nghiêng xiêu lòng say đắm muốn ngắm nhìn thật lâu
+Mộng duyên suốt năm canh, mong dáng ai muốn buông chẳng nỡ đành
+Gà gáy suốt đêm thanh, như cũng đang thấu cho nỗi lòng anh
+Ngày cứ thế trôi nhanh, lưu luyến ai mải mê đến hiu quạnh
+Hồn ta như lạc trong chốn nhân gian này
+Chẳng mong có ai thấu được lòng anh
+You might also like
+MVP (MƯA VỘI PHÓNG)
+Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
+CÓ GÌ ĐÂU MÀ CAY
+Tinh Hà "Say Hi", Captain (VNM), CoolKid (VNM), IVAN (Chen Mingxuan) & Xuân Định K.Y
+THẾ GIỚI CỦA ANH
+Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
+[Post-Chorus: All]
+Khắc xuất, khắc xuất, nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ cơn mộng huyền
+
+[Verse 2: Quang Hùng MasterD & Song Luân]
+Đông Tây Nam Bắc, em giờ nơi đâu?
+Không gian chia cắt, sao mình xa nhau?
+Nhật Nguyệt tương khắc, anh chẳng buông đâu
+Anh thua em chắc, no-no
+Phong sương phủ kín khuất lối chàng
+Vượt ngàn hải lý ta kiếm nàng
+Gian nan bão tố cũng chẳng màng, hah-ah
+
+[Pre-Chorus: Sơn.K & JSOL]
+Chén rượu ta từng nếm, chắt thành nỗi đau từng đêm
+Chẳng thể nào ngừng đếm từng hồi ức khó quên
+Con thuyền vẫn đợi bến, biết ai nhớ ai đợi mong
+Thiên lý tương ngộ năng huyễn duyên ly mộng
+Hah-hah-hah-hah-ah-ah-ah-ah, ngóng trông bóng hình ai đã dần phai
+Hoh-oh-oh-oh-hoh-oh-oh-oh-oh-hah, nỗi buồn ai hay
+
+[Chorus: Quang Hùng MasterD & Song Luân]
+Mộng duyên giữa đôi ta, như cánh hoa nở trong đêm trăng tà
+Tình yêu đến bên ta, nhưng chóng phai ngỡ như đoá Quỳnh Hoa
+Là tiên nữ nơi đâu, hương sắc theo dấu ta đến tiêu sầu
+Ngả nghiêng xiêu lòng say đắm muốn ngắm nhìn thật lâu
+Mộng duyên suốt năm canh, mong dáng ai muốn buông chẳng nỡ đành
+Gà gáy suốt đêm thanh, như cũng đang thấu cho nỗi lòng anh
+Ngày cứ thế trôi nhanh lưu luyến ai mải mê đến hiu quạnh
+Hồn ta như lạc trong chốn nhân gian này
+Chẳng mong có ai thấu được lòng anh
+[Post-Chorus: All]
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ cơn mộng huyền
+
+[Instrumental Break]
+
+[Chorus: Sơn.K & JSOL]
+Mộng duyên giữa đôi ta, như cánh hoa nở trong đêm trăng tà
+Tình yêu đến bên ta, nhưng chóng phai ngỡ như đoá Quỳnh Hoa
+Là tiên nữ nơi đâu, hương sắc theo dấu ta đến tiêu sầu
+Ngả nghiêng xiêu lòng say đắm muốn ngắm nhìn thật lâu
+
+[Post-Chorus: All & JSOL]
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai, chờ cơn mộng huyền`,
 
   // -------------------------------------WXRDIE-----------------------------------------
   // ------------------------------------------------------------------------------------
