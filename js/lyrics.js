@@ -2851,6 +2851,8 @@ MCK, MCK, MCK, MCK`,
   "assets/artists/tinhhasayhi/audio/7 - IM ĐỢI NGƯỜI ANH THƯƠNG ft Wren Evans & CAPTAIN BOY & IVAN & Thể Thiên.mp3": ``,
   "assets/artists/tinhhasayhi/audio/8 - XOAY VÒNG ft HURRYKNG & JSOL & VƯƠNG BÌNH & CONGB.mp3": ``,
   "assets/artists/tinhhasayhi/audio/9 - MRT ft XUÂN ĐỊNH KY & buitruonglinh & CAPTAIN BOY & HYO.mp3": ``,
+  "assets/artists/tinhhasayhi/audio/11 - MỘNG DUYÊN ft Quang Hùng MasterD & JSOL & Sơn.K & Song Luân & EMIL VERGO.mp3": ``,
+
   // -------------------------------------WXRDIE-----------------------------------------
   // ------------------------------------------------------------------------------------
   "assets/artists/wxrdie/audio/1 - 29.mp3": ``,

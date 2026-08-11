@@ -63,6 +63,12 @@ window.TRACKS_TINHHASAYHI = [
     "title": "SECRET",
     "feat": "Quang Hùng MasterD & Cody Nam Võ & CongB & Wren Evans",
     "order": 10
+  },
+  {
+    "src": "assets/artists/tinhhasayhi/audio/11 - MỘNG DUYÊN ft Quang Hùng MasterD & JSOL & Sơn.K & Song Luân & EMIL VERGO.mp3",
+    "title": "MỘNG DUYÊN",
+    "feat": "Quang Hùng MasterD & JSOL & Sơn.K & Song Luân & EMIL VERGO",
+    "order": 11
   }
 ].map((t) => ({
   ...t,
