@@ -27,3 +27,5 @@ build/
 
 # Video files (optional)
 # assets/artists/*/video/*.mp4
+.vercel
+.env*
