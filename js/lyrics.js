@@ -2872,13 +2872,7 @@ Nhìn hạt sương (Ooh-ah) ban mai kia long lanh (Ban mai, ooh-ah), mắt em k
 Trọn đời về được cùng anh đi khắp muôn nơi trong lành
 Và cứ thế khúc hát đó cho tình yêu đôi ta chắp cánh
 Xin người luôn giữ mãi một giấc mơ
-You might also like
-MVP (MƯA VỘI PHÓNG)
-Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
-CÓ GÌ ĐÂU MÀ CAY
-Tinh Hà "Say Hi", Captain (VNM), CoolKid (VNM), AIVAN (아이반) (KOR) & Xuân Định K.Y
-MỘNG DUYÊN
-Tinh Hà "Say Hi", Quang Hùng MasterD, JSOL (VNM), Song Luân & Sơn K (VNM)
+
 [Pre-Chorus: Dương Domic]
 Vì anh chôn sâu nhiều ưu phiền trong mắt
 Con tim còn mang đầy vết cắt
@@ -2937,13 +2931,7 @@ Sẽ khác đi câu chuyện hôm qua
 [Pre-Chorus: DILLAN]
 Và nếu không thuộc về nhau
 Thì thôi, anh xin làm người cô đơn
-You might also like
-XOAY VÒNG
-Tinh Hà "Say Hi", HURRYKNG, CONGB (콩비), JSOL (VNM) & Vương Bình
-IDNAT (IM ĐỢI NGƯỜI ANH THƯƠNG)
-Tinh Hà "Say Hi", Wren Evans, Captain (VNM), IVAN (Chen Mingxuan) & Thể Thiên
-50 CUỘC GỌI NHỠ
-Tinh Hà "Say Hi", CoolKid (VNM), Cody (Võ Đình Nam), JAYSONLEI & Quang Hùng MasterD
+
 [Chorus: Xuân Định K.Y]
 Để em bước đi hôm nay, có khi sẽ tốt hơn ở đây (Sẽ tốt hơn ở đây)
 Chỉ cần thấy em luôn vui, dẫu cho cô đơn anh nhận lấy
@@ -3034,13 +3022,7 @@ Yeah we out the ghetto, just making our way (Way)
 Nếu mà chơi thì chơi cho nét luôn, có gì đâu mà cay (Cay)
 Team anh gọi là best luôn, có gì đâu mà cay (Whoa)
 So what you gonna say? What you gonna say, ah? (Okay)
-You might also like
-MVP (MƯA VỘI PHÓNG)
-Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
-THẾ GIỚI CỦA ANH
-Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
-MỘNG DUYÊN
-Tinh Hà "Say Hi", Quang Hùng MasterD, JSOL (VNM), Song Luân & Sơn K (VNM)
+
 [Verse 2: CoolKid & CAPTAIN BOY]
 Hai trăm billions là mục tiêu ở trong đầu anh
 Sống vì nền công nghiệp nhưng không bị trói bởi mấy tờ màu xanh (Hey)
@@ -3122,13 +3104,7 @@ Chẳng thấy nắng Đông trôi về Tây
 Anh vẫn đứng nơi đây dù tìm không thấy được
 Em lang thang ở chốn thiên đàng, cố níu lấy tương lai dở dang
 Có tất cả nhưng tim lại mất la bàn
-You might also like
-MVP (MƯA VỘI PHÓNG)
-Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
-THẾ GIỚI CỦA ANH
-Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
-CÓ GÌ ĐÂU MÀ CAY
-Tinh Hà "Say Hi", Captain (VNM), CoolKid (VNM), AIVAN (아이반) (KOR) & Xuân Định K.Y
+
 [Post-Chorus: Vương Bình & Đặng Hồng Hải]
 Nếu khó nói khó nói thành lời, nói cho anh nghe đi dấu nặng lời
 Chẳng thể nói, khó nói rồi lạc mất nhau
@@ -3212,13 +3188,7 @@ Trời lạnh cần vòng tay nàng, ah
 Tiện đường tìm bờ môi nàng, ah
 Và nếu em trao anh quyền được yêu em trong phút giây này
 Có sao không khi giờ anh xin người hãy nhìn anh thêm chút thôi
-You might also like
-THẾ GIỚI CỦA ANH
-Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
-CÓ GÌ ĐÂU MÀ CAY
-Tinh Hà "Say Hi", Captain (VNM), CoolKid (VNM), IVAN (Chen Mingxuan) & Xuân Định K.Y
-MẤT LA BÀN
-Tinh Hà "Say Hi", Pháp Kiều, DANG HONG HAI, Thể Thiên & Vương Bình
+
 [Pre-Chorus: Cody Nam Võ]
 Oh-ooh-ah, lỡ mai ta quay lại làm bạn thì người có tiếc điều gì không?
 Vì giờ này anh không thể quay lưng đi với những yêu thương trong lòng
@@ -3283,13 +3253,7 @@ Tưởng chừng dừng lại thì sẽ bớt đau lòng vùi mình trong con s�
 Off the phone không nghe một câu, giữ lấy đi baby, anh chẳng cần đâu
 Thứ đã chết là tình yêu ta ngày đầu
 Nghìn điều buồn sầu anh vội thả vào mưa ngâu (Hah-ah-ah-hah)
-You might also like
-CÔ ĐƠN ANH CŨNG VUI
-Tinh Hà "Say Hi", WEAN, Dillan Hoàng Phan, KIMLONG & Xuân Định K.Y
-IDNAT (IM ĐỢI NGƯỜI ANH THƯƠNG)
-Tinh Hà "Say Hi", Wren Evans, CAPTAIN, AIVAN (아이반) (KOR) & Thể Thiên
-XOAY VÒNG
-Tinh Hà "Say Hi", HURRYKNG, CONGB (콩비), JSOL (VNM) & Vương Bình
+
 [Chorus: JAYSONLEI & Cody Nam Võ]
 Là hàng triệu nỗi nhớ anh đem chôn giấu sau nơi màn đêm (Hah)
 Là từng cuộc gọi nhỡ không ai bắt máy, năm mươi lần đếm
@@ -3346,13 +3310,7 @@ Bé yêu ơi, Ivan đợi, chỉ cần em nói ra câu trả lời
 Cứ gieo mưa, tới bên hiên để phá vỡ không gian bình yên
 Oh baby, I feel so lonely
 Can you say it with me? With me, with me, wooh-hah
-You might also like
-MVP (MƯA VỘI PHÓNG)
-Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
-50 CUỘC GỌI NHỠ
-Tinh Hà "Say Hi", CoolKid (VNM), Cody (Võ Đình Nam), JAYSONLEI & Quang Hùng MasterD
-XOAY VÒNG
-Tinh Hà "Say Hi", HURRYKNG, CONGB (콩비), JSOL (VNM) & Vương Bình
+
 [Pre-Chorus: Wren Evans]
 Có đôi lúc không muốn nhưng phải dừng lại (Ooh-ooh-ooh)
 Có đôi lúc ta feel so good (Yeah-eh-hah-ah)
@@ -3418,13 +3376,7 @@ Nên thôi đừng nhìn anh nữa
 Vì anh biết anh lại chìm vào mắt em
 Thôi đừng ôm anh nữa, ah-ah
 Vì đôi tay đó sẽ khiến anh yếu mềm, yếu thêm, lại yêu em
-You might also like
-50 CUỘC GỌI NHỠ
-Tinh Hà "Say Hi", CoolKid (VNM), Cody (Võ Đình Nam), JAYSONLEI & Quang Hùng MasterD
-IDNAT (IM ĐỢI NGƯỜI ANH THƯƠNG)
-Tinh Hà "Say Hi", Wren Evans, CAPTAIN, AIVAN (아이반) (KOR) & Thể Thiên
-CÔ ĐƠN ANH CŨNG VUI
-Tinh Hà "Say Hi", WEAN, Dillan Hoàng Phan, KIMLONG & Xuân Định K.Y
+
 [Verse 2: HURRYKNG, JSOL & Vương Bình]
 (Anh vừa tỉnh giấc sau những gió giông phía xa chân trời)
 Một mình không quen, hai mươi tư giờ anh cầm tay em
@@ -3645,13 +3597,7 @@ Gà gáy suốt đêm thanh, như cũng đang thấu cho nỗi lòng anh
 Ngày cứ thế trôi nhanh, lưu luyến ai mải mê đến hiu quạnh
 Hồn ta như lạc trong chốn nhân gian này
 Chẳng mong có ai thấu được lòng anh
-You might also like
-MVP (MƯA VỘI PHÓNG)
-Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
-CÓ GÌ ĐÂU MÀ CAY
-Tinh Hà "Say Hi", Captain (VNM), CoolKid (VNM), IVAN (Chen Mingxuan) & Xuân Định K.Y
-THẾ GIỚI CỦA ANH
-Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
+
 [Post-Chorus: All]
 Khắc xuất, khắc xuất, nhập tình như mộng duyên
 Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
