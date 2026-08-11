@@ -102,19 +102,20 @@ body {
   min-height: max-content;
 }
 
-.artist-selector__title {
+/* .artist-selector__title {
   font-family: var(--font-display);
-  font-size: clamp(2.5rem, 8vw, 4.5rem);
+  font-size: clamp(4rem, 10vw, 9rem);
   font-weight: 700;
-  letter-spacing: -2px;
-  margin-bottom: var(--spacing-sm);
+  letter-spacing: 0.05em;
+  margin-bottom: 0;
   text-align: center;
-  background: linear-gradient(135deg, var(--accent-red), var(--accent-yellow));
+  background: linear-gradient(100deg, #ffffff 0%, #ffffff 42%, var(--accent-yellow) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   width: 100%;
-}
+  line-height: 0.78;
+} */
 
 .artist-selector__subtitle {
   font-size: 1.125rem;
@@ -964,15 +965,18 @@ body {
 }
 
 .artist-selector__title {
-  width: 100%;
-  margin: 0;
+  font-family: var(--font-display);
   font-size: clamp(4rem, 10vw, 9rem);
-  line-height: 0.78;
-  letter-spacing: 0.025em;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  margin-bottom: 0;
   text-align: center;
   background: linear-gradient(100deg, #ffffff 0%, #ffffff 42%, var(--accent-yellow) 100%);
   -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   background-clip: text;
+  width: 100%;
+  line-height: 0.78;
 }
 
 .artist-selector__subtitle {
@@ -991,7 +995,7 @@ body {
 }
 
 .artist-selector__subtitle::after {
-  content: "VOL. 04 / 04 ARTISTS";
+  /* content: "VOL. 04 / 04 ARTISTS"; */
   color: var(--accent-yellow);
   font-size: 1 rem;
 }
@@ -1103,8 +1107,9 @@ body {
   }
 
   .artist-selector__title {
-    font-size: clamp(3.8rem, 19vw, 3.8rem);
-    line-height: 0.85;
+    font-size: clamp(2.5rem, 18vw, 3.5rem);
+    line-height: 1;
+    word-spacing: 0.3em;
   }
 
   .artist-selector__subtitle {
