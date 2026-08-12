@@ -69,22 +69,1219 @@ Có ai trót đi ngang để nơi em tiêu điều
 Cứa lên anh như trăm con dao kia sắc lẹm
 Những cơn đau để anh được chịu đựng cùng em`,
 
-  "assets/artists/dangrangto/audio/2 - My lil bitch ft TeuYungBoy.mp3": ``,
-  "assets/artists/dangrangto/audio/3 - cây màu đen ft MR LANH, LWKI.mp3": ``,
-  "assets/artists/dangrangto/audio/4 - buổi sáng Khương Đình ft BIG WIND.mp3": ``,
-  "assets/artists/dangrangto/audio/5 - vùng vẫy ft ZEXZEX.mp3": ``,
-  "assets/artists/dangrangto/audio/6 - baby anh đợi có lâu.mp3": ``,
-  "assets/artists/dangrangto/audio/7 - bolero buồn.mp3": ``,
-  "assets/artists/dangrangto/audio/8 - tốt cho anh.mp3": ``,
-  "assets/artists/dangrangto/audio/9 - một ly.mp3": ``,  
-  "assets/artists/dangrangto/audio/10 - đánh rơi.mp3": ``,
-  "assets/artists/dangrangto/audio/11 - quenvaonhau.mp3": ``,
-  "assets/artists/dangrangto/audio/12 - món quà.mp3": ``,
-  "assets/artists/dangrangto/audio/13 - đắm say trong tình yêu.mp3": ``,
-  "assets/artists/dangrangto/audio/14 - hãy đến đây bên anh trong một chiều mùa thu.mp3": ``,
-  "assets/artists/dangrangto/audio/15 - để dành cho em.mp3": ``,
-  "assets/artists/dangrangto/audio/16 - thế giới của anh.mp3": ``,
-  "assets/artists/dangrangto/audio/17 - MOIEM.mp3": ``,
+  "assets/artists/dangrangto/audio/2 - My lil bitch ft TeuYungBoy.mp3": `[Intro]
+Yah, yah, yah
+
+[Chorus: TeuYungBoy]
+She's my lil' bitch
+Trông em thông minh, yah
+She got long hair
+Với đôi chân xinh, yah
+Em biết giữ mình
+Em biết giữ mình, yah
+Thug song trữ tình
+Thug song trữ tình, yah
+She's my lil' bitch
+Trông em thông minh, yah
+She got long hair
+Với đôi chân xinh, yah
+Em biết giữ mình
+Em biết giữ mình, yah
+Thug song trữ tình
+Thug song trữ tình, yah
+
+[Verse 1: TeuYungBoy]
+Hah, đường về nhà hơi tối nên không đành lòng để em đi một mình
+Cơn mưa kia rơi xuống anh nghĩ ta cần cư xử như những người văn minh, yah
+Một vài lần anh biết anh hơi vô tâm như AI lập trình, yah
+Ice out anh lạnh giá, nó khiến đôi mắt nàng lung linh, yah
+Có đôi lúc mọi thứ nó đang okay, anh lại nghĩ về chuyện chúng mình
+Là liệu em có còn be soulmate khi anh không còn đu đỉnh
+Baby, anh biết she gon' be the one khi em và gang chung khung hình
+Có thể em là cô kế toán giữ cho túi tiền anh rung rinh
+Baby anh chỉ viết thug song until I meet you
+Anh không còn phải pop nữa đâu all these pills
+I don't wanna see the fantasy without you
+Anh không muốn phải xa áng mây kia đâu, còn thủ thỉ bao điều
+Bao điều, bao điều, bao điều
+Bao điều, bao điều, bao điều
+Bao nhiêu, bao nhiêu, bao nhiêu
+Bao nhiêu, bao nhiêu, bao nhiêu
+
+[Chorus: TeuYungBoy]
+(Ayy) She's my lil' bitch
+Trông em thông minh
+She got long hair
+Với đôi chân xinh, yah
+Em biết giữ mình
+Em biết giữ mình, yah
+Thug song trữ tình (Yeah)
+Thug song trữ tình, yah
+She's my lil' bitch
+Trông em thông minh, yah
+She got long hair
+Với đôi chân xinh, yah
+Em biết giữ mình
+Em biết giữ mình, yah
+Thug song trữ tình
+Thug song trữ tình, yah
+
+[Verse 2: Dangrangto]
+Em là good girl
+But she's bad for me
+Em say lắm òi
+Anh vẫn rót đầy ly
+Tell me thứ em cần, xong rồi tắt đèn đi
+Prada, Balenci
+I don't give a shi—
+Tim em, that's mine, sao phải kiêu
+Lỡ bị va vào ngay đôi mắt nai, mới nhận ra là yêu
+Trên tầng năm, mùa xuân đã đến với anh
+Mưa rơi so chill, chẳng một giọt buồn thiu
+Không quan tâm cả lúc anh lìu tìu, hoặc vài triệu lượt views
+Rack on, rack on, rack là mấy cái tờ xanh hunnid stacks
+Muốn cái chung cư cao cấp, mua thêm mấy bức tranh, anh treo phòng khách
+Chúng nó tưởng cục tiền lớn mua được âm nhạc anh, nhưng mà đó không phải cách
+Trước khi mà anh được Lả Lướt, anh với Worka gang cũng đã phải lạng lách
+Để mà trap thật nhiều, ngã thật nhiều, cũng đã khác thật nhiều, yah
+Hiểu tình yêu chẳng thể mua được dù với cái giá bao nhiêu
+Anh nguyện cầu có một người khiến thế giới nhiệm màu
+Dù toàn niềm đau, never let you go, 'cause shе's mine
+[Chorus: Dangrangto & TeuYungBoy]
+She's my lil' bitch
+Trông em thông minh, yah
+Shе got long hair
+Với đôi chân xinh, yah
+Em biết giữ mình
+Em biết giữ mình, yah
+Thug song trữ tình, yah
+Thug song trữ tình, yah
+She's my lil' bitch
+Trông em thông minh, yah
+She got long hair
+Với đôi chân xinh, yah
+Em biết giữ mình
+Em biết giữ mình, yah
+Thug song trữ tình
+Thug song trữ tình, yah`,
+  "assets/artists/dangrangto/audio/3 - cây màu đen ft MR LANH, LWKI.mp3": `[Chorus : Dangrangto]
+Lifestyle full nguyên cây màu đen
+Nhưng mà cũng đâu quan trọng
+Vì cũng đều phải cởi ra khi anh gặp em (Nóng quá)
+Bật cho nghe xong rồi đừng leak
+Không lại khét lẹt, anh còn chưa kịp đặt tên
+Hết mấy cái thằng ghét chỉ coi là content
+Xong lại mê anh đét Worka gang lại gặt thêm (Ya hoe)
+Lifestyle full nguyên cây màu xanh
+Nhưng mà cũng đâu quan trọng
+Vì cũng đều phải cởi ra khi em gặp anh
+Chúng nó nói đếch gì chả được
+Anh để em ở cạnh anh, chả việc gì phải cạnh tranh
+Nói chung đừng giao du mấy thằng trẻ ranh
+Dốt nát không làm được thì để anh
+
+[Verse 1 : Dangrangto]
+Lên đây, oai như này đẹp zai như này
+Trông anh hơi vô tình, nhìn anh hơi bad ayy
+Đôi khi Balenci ở trên đôi giày
+Sút luôn mấy con lợn mà chơi không đẹp ayy
+Bao lâu luôn chăm chỉ cày bao đêm ngày, đặt cước tất tay, hóa ra cảm giác như này
+Worka gang gang nó phải ở trên này
+Bay cao đến mấy tao cũng chẳng quên mày
+Răng To anh mặc xác bọn enemies
+Chọn rap với cái melody
+Anh đang bận trap với cả MOB
+Mo phắc Workaholishili
+I'd rather be a better me
+Đã phải cố để nhân lên những con số anh nhận được
+Đừng để nó thấy không nó thấy là câm luôn
+Bởi vì những người hầm mộ họ đã trao anh cái huân chương
+Lả Lướt
+Anh tuổi Ngọ
+Get more
+Nhét tiền trong một bag to
+Đang diệt bọ
+Headshot
+Chết luôn mới vừa 8 bars
+Let's go
+Let 'em know
+Như ào nó mới là khác bọt (Như ào)
+Phi vụ
+Trót lọt
+Mỗi khi xuất hiện là too hot
+Anh gà chọi
+Quá là mọi
+Hit dập cứ phải gọi là liên tọi
+Mấy thằng giặc này
+Vênh mặt
+Nhưng lên nhạc cứ phải gọi là như sh—
+Thôi tắt đê
+Ngáo thế
+Quy trình chứ phải gọi là nghiêm ngặt
+Không thể hiểu được
+Như nào?
+That's my
+
+[Chorus : Dangrangto]
+Lifestyle full nguyên cây màu đen
+Nhưng mà cũng đâu quan trọng
+Vì cũng đều phải cởi ra khi anh gặp em (Nóng quá)
+Bật cho nghe xong rồi đừng leak
+Không lại khét lẹt, anh còn chưa kịp đặt tên
+Hết mấy cái thằng ghét chỉ coi là content
+Xong lại mê anh đét Worka gang lại gặt thêm
+Lifestyle full nguyên cây màu xanh
+Nhưng mà cũng đâu quan trọng
+Vì cũng đều phải cởi ra khi em gặp anh
+Chúng nó nói đếch gì chả được
+Anh để em ở cạnh anh, chả việc gì phải cạnh tranh
+Nói chung đừng giao du mấy thằng trẻ ranh
+Dốt nát không làm được thì để anh
+
+[Verse 2 : DMT]
+Mặc full cây màu đen và không nói gì
+Bọn anh trông look like mafia
+Chỗ này dành cho real broski
+Không cùng thuyền thì mời mày ra rìa
+Workaholyshiii kiếm nhiều tiền hơn ngày hôm qua kìa
+Rất là bảnh ư, đúng vậy, rảnh rỗi lôi cây cảnh này ra tỉa
+Sáng ở Hà Nội, nhưng mà tối ở Bà Rịa
+Biết lời bọn oops chúng nó toàn là bịa (Như ào?) Toàn là cà khịa
+Thích uống Laviе, nhẫn đính saphia
+Đồng hồ Cartier, bật nhạc Carti
+Kết nối như VNPT, nhiều tiền như BIDV
+Ok yo lemme see lеmme see
+VVS trên cổ kêu pipipipi
+Nhạc tao vang lên giọng mày lí nhí lí nhí
+Tay che miệng cười hí hì hi hi
+Còn tay tao suốt ngày phải kí kí
+Money về give to me
+Quần áo đen nhưng mà tiền xanh xin lỗi girl đừng làm phiền anh
+Tóc tai chất như trong truyện tranh, nhìn phát là nghiện anh, deal ngon là triển nhanh
+Mr. Lành đấy là biệt danh, opps không thể nào tiêu diệt anh
+Vì anh chất từ phố cho đến huyện, ngôn từ chất luôn bên miệng, họ bảo là yes sir
+[Verse 3 : Lwki]
+Play on, game on, anh với gang chạy lon ton
+Get some, take some, cả đội chăm và make money
+We do, we done, thằng nhà nghèo quê nông thôn
+Giờ anh bay lên vút căng, kiếm trăm triệu cùng anh Đăng
+Bọn anh quá căng, đá hăng, không thể cản đường anh đi
+Mỗi năm mỗi tăng, dòng tiền chảy về công ty
+Cá nhân tiềm năng, lao vào đó anh xông phi
+Chẳng đường nào anh không đi để anh còn lo thu xong chi
+Full cây đen nguyên team nhìn bọn anh chất vcl
+Cả 6 thằng trong công ty thằng nào trông cũng vip pro
+Em biết anh là ai
+Không thích nhờ vả ai
+Mấy thằng giả vờ oai
+Nhìn bọn anh khiếp và sợ
+Tóc và tai gảy lai vòng đeo anh siết cả cổ
+Còn mấy thằng ngu sống sai bọn anh không tiếc mà bỏ
+Anh không theo phe ai mà làm nhạc tiếp rồi phổ
+Anh chẳng cần tìm đến 2light anh chỉ cần viết và nổ
+Geek 2 geek quá là geek yah
+Baby thích đêm nay được hick với cả 6 yeah oh
+Give u some D and getting rich yeah
+Mỗi khi nghe mày kích thích bấm vào click yeah oh
+Chết thì tao vẫn là G
+Dù có phải lê lết thì vẫn là youngboi LWKI
+Nét như mọi khi vơ vét trên đường đi
+LV, Gucci yeah anh thích nó oh
+Bọn anh bay sang Mỹ New York, Washington
+Xong anh quay lại Việt Nam gái ở đây vẫn xinh hơn
+Full nguyên cây màu đen nhưng anh vẫn lung linh luôn
+Còn bọn nó thì lồng lộn nhưng anh vẫn thấy bình thường
+Chết thì tao vẫn là G
+Dù có phải lê lết thì vẫn là youngboi LWKI
+Nhớ tất cả ngày xưa bọn họ bảo tao "mơ đi"
+Giờ mỗi khi cầm mic là all eyes on me
+[Chorus : Dangrangto]
+Lifestyle full nguyên cây màu đen
+Nhưng mà cũng đâu quan trọng
+Vì cũng đều phải cởi ra khi anh gặp em (Nóng quá)
+Bật cho nghe xong rồi đừng leak
+Không lại khét lẹt, anh còn chưa kịp đặt tên
+Hết mấy cái thằng ghét chỉ coi là content
+Xong lại mê anh đét Worka gang lại gặt thêm (Ya hoe)
+Lifestyle full nguyên cây màu xanh
+Nhưng mà cũng đâu quan trọng
+Vì cũng đều phải cởi ra khi em gặp anh
+Chúng nó nói đếch gì chả được
+Anh để em ở cạnh anh, chả việc gì phải cạnh tranh
+Nói chung đừng giao du mấy thằng trẻ ranh
+Dốt nát không làm được thì để anh`,
+
+  "assets/artists/dangrangto/audio/4 - buổi sáng Khương Đình ft BIG WIND.mp3": `[Verse 1: Dangrangto]
+Yeah, yeah
+Wake up, yêu bản thân
+Luôn trân trọng chất xám anh không đặt lên bàn cân
+Niềm tin trao cho người xứng đáng, bọn hai mặt nên lặng câm
+Hài ghê mấy cái thằng từng ghét anh muốn ngồi chung một mâm
+Xaoler, xaoler ghê chưa
+Anh đã quá ngu muội chẳng tin một ai như thế nữa
+Vạch ra những dấu mốc anh làm bỏ quên bọn nó ở đằng xa
+Đang xay thêm cùng với Nguyễn Băng Qua, vần câu ngâm nga thì bọn anh mới nhận ra
+Youngboy phải biết thương mình, bên trong luôn điềm tĩnh
+Một buổi sáng ở Khương Đình, đón ánh nắng bình minh
+Anh cũng đã từng bắt đầu, từ những con 0 tròn trĩnh
+Vậy nếu em vẫn thấy anh không ngầu, anh chỉ thôi quay đi lặng thinh
+Hãy cứ nói anh thần kinh
+Anh chẳng muốn đa tình, dù ngoài kia bao nhiêu nụ cười xinh
+Worka chính là gia đình, anh luôn xếp ở đằng trước
+Và ở sau con phố đông người, em đang đợi Lả Lướt
+Em đang đợi Lả Lướt, ah
+Em đang đợi Lả Lướt
+Em đang đợi Lả Lướt, ah
+Yeah, ah, lướt kiếm không ra
+Điều gì trong tiếng gió xào xạc
+Để viết lên đưa vào nhạc
+Xuân sang cây chen hoa
+Đàn chim ríu rít bên kia rồi
+Hòa vào nhịp ngân nga
+Anh lại có thêm mấy khúc ca
+Đau đầu vì vài tờ đô la
+Khiến anh hơi nặng lòng
+Rủ Băng Qua
+Ye my broski lướt city một vòng
+Rồi lại về Xuân La
+Tell my fam phải vững tin vì ngoài kia còn nhiều trap quá
+Anh không muốn thấy nó ở trên người mình
+
+[Verse 2: BIG WIND]
+Lao ra kia bươn với gang, bao nhiêu lần đau bọn anh cũng đã thấy
+Bao nhiêu năm trôi qua vẫn thế thôi trôi như bộ phim dù họ nói mình ăn may
+Niềm tin trao cho người xứng đáng sao chân toàn dính vào lớp bùn lầy
+Người đời bảo bọn anh chẳng dám anh vẫn lao đầu cho họ thấy
+Vậy thì vì điều gì em ơi
+Dù chi cũng đã tới đây rồi
+Đặt một nụ cười lên môi
+Yêu bản thân với đống ca lời
+Chim nơi đây như đang hoan ca mua vui, mua vui, mua vui
+Vệt nắng Khương Đình một ngày dịu dàng thật đẹp trời
+Phải trải qua bao nhiêu thì ta mới hiểu được lòng người
+Rồi trời sẽ thương thôi
+Một buổi sáng Khương Đình
+Ôi sao đẹp xinh
+Yêu lắm cái gia đình
+Cùng Workagang đi thỉnh kinh
+Anh cũng đã bắt đầu từ những con 0 tròn trĩnh
+Và thì nếu em cứ thấy không ngầu
+Thì cứ quay đi lặng thinh
+Cứ quay đi lặng thinh
+Vậy thì cứ quay đi lặng thinh
+Workaholishi`,
+
+  "assets/artists/dangrangto/audio/5 - vùng vẫy ft ZEXZEX.mp3": `[Intro]
+Yah, yah
+Huh-uh
+Uh-uh-uh
+
+[Chorus]
+Yah, baby em luôn bên anh khi anh drop it
+Đôi tay còn đang vùng vẫy
+Hôn lên đôi môi anh ngay khi em có thể, yah
+Suy tư just throw away
+Trao cho em con tim in the darkness, but you lost it, yeah
+Lên con xe anh lao đi như là rocket, khi em không ở đây
+
+[Verse 1]
+Anh đã sai khi tin vào tình yêu
+Bao nhiêu anh đi theo, em không thiếu
+Anh chỉ như cơn mưa rơi dập dìu
+Trên chiếc xe, nàng cùng người mà em yêu
+Vì anh đâu muốn những nỗi đau này ngập tràn
+Cũng chẳng thể tua ngược thời gian
+Đếm giấc mơ cũ đã tắt trong gạt tàn
+Em muốn câu chuyện tình mình lật sang trang
+Thì em cứ đi đi, mưa ướt, hoen mi
+Họ đón em trên Audi, đủ biết anh chẳng ra gì
+Đôi mắt, đôi môi, anh phải quên thôi
+Nhìn bước chân em xa rời, một giấc mơ mãi xa vời, oh
+Để làn mưa khuất theo mây trời, anh đưa người về nơi
+Lặng nhìn em yên ấm bên đời, anh chỉ cần thế thôi
+Anh đã cố để có thể quên đi em nhưng sao buồn chẳng vơi
+Cứ đi về nơi em cần tới, riêng anh lặng lẽ rơi
+
+[Chorus]
+Baby em luôn bên anh khi anh drop it
+Đôi tay còn đang vùng vẫy
+Hôn lên đôi môi anh ngay khi em có thể, yeah
+Suy tư just throw away
+Trao cho em con tim in the darkness, but you lost it, yeah
+Lên con xe anh lao đi như là rocket, yeah, khi em không ở đây
+
+[Verse 2]
+Ở trong cái xay bằng sắt này, chất đầy, rất đầy
+Cuốn cho anh một điếu, ayy, điếu dài, thế này
+Nó có thể là big size, long size, king size
+Anh muốn được ở bên em all day, all night
+Cuốn xong rồi lại đốt, pff pff, híp mắt
+Khi kim đồng hồ vẫn tíc tắc, tíc tắc
+Nhưng nếu em buồn thì "bae, don't worry, I'm here", yeah
+Hai ta cùng trong đêm trăng khuya
+Và tình phải là tình yêu, hai ta không nên mập mờ
+Và tình chẳng phải trò chơi, hai ta không nên giả vờ
+Mình roll một điếu rất to xong tu Jägermeister
+Tình ta như cơn sóng kia lênh đênh đang trôi vào bờ
+Lục tìm cả thế giới cũng chẳng có ai được bằng em
+Và giờ mình đang say đắm quấn quýt với nhau như vậy nên là
+Phải cho em thét lên hết đêm
+Anh tin em sẽ không bao giờ quên, yeah
+[Bridge]
+Đêm nay ta lại
+Up down, up and down, yeah
+Up down, up and down, yah
+Up down, up and down
+Up down, up and down
+Và đêm nay ta lại
+Up down, up and down
+Up down, up and down, baby
+Up down, up and down, yah
+Up down, up and down
+Và đêm nay ta lại
+Up down, up and down
+
+[Verse 3]
+Những kỷ niệm đẹp ấy sao lại tàn thành niềm đau
+Anh không muốn phải nghĩ thêm, tiền đình
+Hãy vứt anh một mình vì mắt môi phải để dành một người sau
+Và baby, em đừng giết anh tàn bạo
+Em chưa bao giờ từng nghĩ lúc ấy anh ra sao
+Một người phải tập quên đi một người đã nằm trên một người
+Chỉ hôm nay thôi, cho phép mình yếu đuối
+Để làn mưa khuất theo mây trời, anh đưa người về nơi
+Lặng nhìn em yên ấm bên đời, anh chỉ cần thế thôi
+Anh đã cố để có thể quên đi em nhưng sao buồn chẳng vơi
+Cứ đi về nơi em cần tới, riêng anh lặng lẽ rơi
+[Outro]
+Baby, em không bên anh khi anh drop it
+Hôn lên đôi môi anh ngay khi em có thể (Khi em có thể)
+Trao cho em con tim in the darkness
+Lên con xe anh lao đi như là rocket
+Khi em không ở đây`,
+
+  "assets/artists/dangrangto/audio/6 - baby anh đợi có lâu.mp3": `[Intro]
+Workaholishi
+Ah-ah, yeah
+
+[Intro]
+Uh, "Baby, anh đợi có lâu?", anh chỉ lắc đầu
+Đang đứng dưới lầu, mọi thứ bắt đầu
+Body high cùng sắc màu, ta lạc mất nhau
+Anh phải đương đầu, mi mắt vương sầu
+
+[Post-Chorus]
+Đã bao nhiêu lần hứa là phải ngoảnh mặt bỏ đi
+Đâu ai biết có chi trong mắt của kẻ cuồng si
+Anh như đang lạc lối, lại bẻ một nửa để thoát ra
+Trong cơn mơ ngỡ ra là ta đã xa lạ
+
+[Verse 1]
+Vậy thì quay đi, hãy giải thoát cho nhau (Okay), thứ để lại là vết thương lâu
+Buông đôi câu anh đã chán nghe rồi, thôi anh không cần thêm nữa đâu
+Ừ baby, em cứ nghĩ anh ngu à? Em coi anh như trò đùa
+Từng là cô gái anh rất yêu, giờ lại đâm vào tim anh xoáy sâu
+Đừng khiến trái tim khi yêu anh không thể ngăn cơn ghen
+Mặc kệ đi nếu cơn mưa kia hôm nay lại chợt ghé đến
+Và phải xoá số em, khi say anh sẽ lại gọi cho em
+Anh phải khiến ta over, người mà anh đã luôn luôn tôn thờ
+
+[Chorus]
+"Baby, anh đợi có lâu?", anh chỉ lắc đầu
+Mi mắt vương sầu, anh phải đương đầu
+Body high cùng sắc màu, ta lạc mất nhau
+Anh phải đương đầu
+(Oh)
+
+[Post-Chorus]
+Đã bao nhiêu lần hứa là phải ngoảnh mặt bỏ đi
+Đâu ai biết có chi trong mắt của kẻ cuồng si
+Anh như đang lạc lối, lại bẻ một nửa để thoát ra
+Trong cơn mơ ngỡ ra là ta đã xa lạ
+Đã bao nhiêu lần hứa là phải ngoảnh mặt bỏ đi
+Nào ai biết có chi trong mắt của kẻ cuồng si
+Anh như đang lạc lối, lại bẻ một nửa để thoát ra
+Trong cơn mơ lại ngỡ ra là ta đã xa lạ
+
+[Verse 2]
+"Baby, anh đợi có lâu?", anh đợi rất lâu
+Chỉ còn anh nơi đây ướt hết rồi cùng cơn mưa ngâu
+Em vẫn sẽ chẳng có mặt
+Anh cũng đâu muốn hát mãi về mưa đâu
+Kể từ lần cuối đó hai ta cùng nhau huyên hàn
+Em mang nắng ấm đi, anh ở nơi đây chờ tuyết tan
+Vẫn là chiếc khăn trước khi đi em tới nơi anh vội quàng
+Nhìn vào đôi mắt ấy anh biết hai ta đã muộn màng
+[Breakdown]
+Em ơi, em ơi
+Em ơi, anh đợi rất lâu, rất lâu
+Anh đợi rất lâu, rất lâu
+Ta đã mất nhau
+Ta đã mất—
+Ta đã mất nhau
+
+[Outro]
+Sẽ ổn thôi
+("Baby, anh đợi có lâu?")
+Không sao
+(Anh đợi rất lâu)`,
+
+  "assets/artists/dangrangto/audio/7 - bolero buồn.mp3": `[Intro]
+DONAL [?]
+
+[Chorus]
+Sẽ rất đau khi người đi khỏi đây
+Nhìn từng áng mây, không còn chung vòng tay
+Sẽ rất đau khi người đi khỏi đây
+Từng coi người là đoá hoa hồng xinh lộng lẫy
+Lạc mất nhau nhưng người nào đâu kiếm
+Sẽ rất đau khi em buông lời cay nghiến
+Từng thước phim vẫn cuộn mình và lưu luyến
+Cảm xúc bị chi phối bởi đồng tiền
+
+[Verse 1]
+Yeah, không muốn cảm xúc mình bị chi phối bởi đồng tiền
+Nhưng sao anh cứ bối rối với chồng phiền
+Ở đây, bên anh, mỗi đêm
+Đã trở thành thú vui của một gã điên
+Chỉ vì một câu nói, lòng đau nhói
+Bỏ theo dõi, để lại trang cá nhân lẻ loi
+Mang cả những chiếc ôm bỗng khiến nơi đây lạnh quá
+Đắp mộ cuộc tình đó với một nhành hoa
+Tự hỏi liệu có khi nào em lại nhớ tới
+Người với ai đi bên niềm vui mới
+Để lại đắng cay tàn thuốc bay phòng tối đen
+Chiều tà nhá nhem lại ngẩn một thói quen
+Cũng là chỉ vì mãi, mãi mà chẳng ngưng nhớ
+Dẫu người từng buông câu "đừng chờ"
+Những thước phim cứ tua ngược lại
+Ký ức xoáy sâu như cơn đau quằn quại
+Chẳng biết bao lâu mới nhạt phai
+Đôi khi chỉ vì tình mà lại mù quáng yêu một người
+Đôi khi chỉ vì tình mà phải thù ghét với một người
+Thích cách em bên ai trao họ ánh mắt với nụ cười
+Chẳng giống mỗi khi bên anh, anh chỉ là chốn em vui chơi
+
+[Bridge]
+Cố chấp nhận rằng mình đã chìm vào dĩ vãng
+Giết chết một cuộc tình mà vội vàng phi tang
+Lấy chiếc dao, em đâm anh ngay vào chỗ chí mạng
+Giấu nó kỹ càng xong nàng dứt áo đi ngang
+
+[Chorus]
+Sẽ rất đau khi người đi khỏi đây
+Nhìn từng áng mây, không còn chung vòng tay
+Sẽ rất đau khi người đi khỏi đây
+Từng coi người là đoá hoa hồng xinh lộng lẫy
+Lạc mất nhau nhưng người nào đâu kiếm
+Sẽ rất đau khi em buông lời cay nghiến
+Từng thước phim vẫn cuộn mình và lưu luyến
+Cảm xúc bị chi phối bởi đồng tiền
+
+[Verse 2]
+Đèn sáng trên lầu em ơi em, ai bên anh đêm nay?
+Một mớ hỗn độn xung quanh anh lại phải đổ ra trên khay
+Ừ thì biết sao giờ, cuộc tình mình trôi theo làn gió bay
+Rót thêm nữa đi bởi vì em đâu có hay
+Nói không buồn là nói dối
+Thằng Mercedes nó đã đón em đi rồi
+Thế gian đầy lừa lọc
+Họ đã cướp em bằng vàng ròng
+Bước đi thật vội, anh tìm kiếm sắc cầu vồng
+Mơ chi hình bóng ấy, anh đi về với thực tại
+Đôi tay không nắm lấy để bây giờ mắt khờ dại
+Viết ra những bản nhạc để làm nhẹ lòng khoan thai
+Chẳng dám đem lòng mình đặt cược vào tay ai
+Em ơi, em cứ đi nếu đó là thứ em cần
+Con tim đã chết khi em nhìn anh keep silence
+Thành phố này có đẹp thì mình cũng là người dưng
+Thành phố này có đẹp thì mình cũng chỉ là người dưng
+[Chorus]
+Sẽ rất đau khi người đi khỏi đây
+Nhìn từng áng mây, không còn chung vòng tay
+Sẽ rất đau khi người đi khỏi đây
+Từng coi người là đoá hoa hồng xinh lộng lẫy
+Lạc mất nhau nhưng người nào đâu kiếm
+Sẽ rất đau khi em buông lời cay nghiến
+Từng thước phim vẫn cuộn mình và lưu luyến
+Cảm xúc bị chi phối vì đồng tiền`,
+
+  "assets/artists/dangrangto/audio/8 - tốt cho anh.mp3": `[Verse 1]
+Khép đôi mắt, anh mong mọi chuyện sẽ trôi qua nhanh
+Đến những giấc mơ, em còn chẳng chịu tha cho anh
+Siết chặt em mà quên mất hai chúng ta đã over
+Không rời tay dù tâm trí anh nó đang bắt đầu nhớ
+Nhớ đã hứa bên tai anh rằng “Sẽ không sao đâu”
+Mấy phút trước, story em vờn bên ai, họ down below
+Mới nhận ra lời em ngày xưa nói ra toàn lừa
+Từ nay đến sau này, thôi chẳng tin ai nữa
+Bên trong stu, rót những giọt sầu, khác với những nguyện cầu
+Tương lai sương giăng kín đục ngầu, đã trắng xóa một màu
+Suy nghĩ đến nhức hết cả đầu, em nỡ thêm vào dầu
+Xa cách có lẽ tốt cho nhau, oh-oh-oh-oh
+Chia tay, em có khóc thật nhiều?
+Có uống thật nhiều?
+Trách thật nhiều?
+Có níu kéo thật nhiều?
+Như chính anh khi tin tình yêu, mất đi một người
+Cũng như khi anh xa rời một thế giới
+
+[Chorus]
+Anh sẽ chẳng thể tin vào ai như thế nữa
+Tin làm gì để tim hàng ngàn vết cứa, ôi giời ơi
+Như thế anh nghĩ tốt cho anh mà thôi
+Em cũng không bận lòng mà ở bên ai
+Ánh mắt xưa em ngoan hiền đang ở đâu?
+Nói quên em, nhưng sao giận dai nhớ lâu
+Dù anh biết mọi thứ sẽ chẳng như ban đầu
+Vầng trăng khuyết (Yeah), vì như thế tốt cho nhau (Uh), bae
+
+[Verse 2]
+Piece of love, young boy si tình, bao lâu nay anh vẫn cố kiếm tìm
+Không cô đơn, nhưng đôi khi những cảm xúc hay lui tới đây nhấn chìm
+Xung quanh muôn vàn ánh mắt, nhưng sao chỉ đôi mắt em mới khiến anh đau
+Vô thức anh đưa tay lên lau, vào giây phút câu nói ấy trao nhau
+Anh nhớ, đan môi ta mắc kẹt, ngay bên sau tấm rèm
+Đơm thêm hơi nữa, không tô son phấn nền, darlin', em vẫn đẹp
+Nhưng tại sao lúc anh quay đi em chưa từng ghi nhớ?
+Chợt nhận ra trong em, anh đâu là duy nhất
+Baby, anh cũng need your love, tim cũng biết giận hờn
+Cơn bão hay về bất chợt, for this B enough
+Drowning in the pain of love, sao em yêu hời hợt?
+Xem như chưa từng biết ơn, lại để nó lớn hơn
+Ánh mắt ấy đâu như lần đầu, baby, I need to know
+Chẳng thể giúp ích hơn cho nhau, cũng chẳng nói năng đôi câu
+Chắc em đang cần ai tới đón, duyên tình cùng ai nhen nhóm
+Anh tìm về tới nơi, chẳng còn bị bỏ rơi
+Oh-oh-oh-oh-oh
+
+[Chorus]
+Anh sẽ chẳng thể tin vào ai như thế nữa
+Tin làm gì để tim hàng ngàn vết cứa, không thể khâu
+Như thế anh nghĩ tốt cho anh mà thôi
+Em cũng không bận lòng mà ở bên ai
+Ánh mắt xưa em ngoan hiền đang ở đâu?
+Nói quên em, nhưng sao giận dai nhớ lâu
+Dù anh biết mọi thứ sẽ chẳng như ban đầu
+Vầng trăng khuyết, vì như thế tốt cho nhau, bae`,
+
+  "assets/artists/dangrangto/audio/9 - một ly.mp3": `[Chorus: Dangrangto]
+Anh không ngăn được lý trí khi trông thấy em, mời một ly nhớ
+Đôi môi kia có mấy tí mà cướp mất anh lạ gì đâu mà
+Bao gã trai kia cứ hứa trao em trái tim sao mà lâu quá
+Bởi vì em xinh như thế thì ai chẳng muốn làm “kẻ xấu xa”
+Shawty anh chỉ look at đôi mắt ấy only
+Vì thực sự cũng chẳng có ý đồ gì
+Anh đang đi ngang qua đây với cả mấy homie
+Và tình cờ em cũng đã lấy luôn đi
+Sự chú ý với lý trí anh đã tự rơi vào tròng
+Martini này cay và nồng
+Không đâm xuyên thì đi đường vòng
+Anh chỉ muốn được ôm vào lòng
+
+[Verse 1: Dangrangto]
+Baby môi cong, mắt ướt
+Mấy cô nàng làm sao mà bắt chước
+Babe too hot, hơi bị khát nước
+Khi em lên phố, em đang lả lướt
+Text me, phone me, ghi âm cho anh nghe ngay một nụ hôn đi
+Chỉ cần như thế thôi anh chẳng muốn nghĩ
+Hay là đang muốn gì tới làm luôn đi
+Cứ phũ phàng, chẳng việc gì phải chờ đợi và xếp hàng
+Con tim anh em sẽ lấy nó dễ dàng
+Anh sẵn sàng là người giúp em hằng đêm, có được cảm giác an toàn
+Bên dưới hông chiếc gối anh kê lên, trong những lúc va chạm
+So tell me baby nếu em cần thêm
+Cho anh biết ngay khi em đắm đuối, để thuận lợi cả đôi bên
+I'mma go down xuống phía dưới sau khi, trò chuyện cùng môi trên
+Cả một ngày mệt nhoài về chỉ việc cuốn lấy anh, coi anh như gối mềm
+Baby anh chỉ muốn thét lên, vì được kế bên em, nhìn vào ánh mắt em
+
+[Chorus: Dangrangto]
+Anh không ngăn được lý trí khi trông thấy em, mời một ly
+Đôi môi kia có mấy tí mà cướp mất anh lạ gì đâu mà
+Bao gã trai kia cứ hứa trao em trái tim sao mà lâu quá
+Bởi vì em xinh như thế thì ai chẳng muốn làm “kẻ xấu xa”
+Shawty anh chỉ look at đôi mắt ấy only
+Vì thực sự cũng chẳng có ý đồ gì
+Anh đang đi ngang qua đây với cả mấy homie
+Và tình cờ em cũng đã lấy luôn đi
+Sự chú ý với lý trí anh đã tự rơi vào tròng
+Martini này cay và nồng
+Không đâm xuyên thì đi đường vòng
+Anh chỉ muốn được ôm vào lòng
+
+[Verse 2: Hoàng Tôn]
+Khi màn đêm buông xuống anh như đang lạc vào trong mơ
+Nhạc vang lên khe khẽ dẫn lối em vào tim anh cứ như đang chờ
+Nhẹ nhàng lướt đi qua nhau, xóa đi cơn đau
+Môi chạm môi, vai kề vai, ta phải là của nhau
+Hãy cho anh say một chút trong đôi mắt người
+Rồi giây phút cứ nhanh trôi để ta chìm sâu trong bóng đêm, ah
+With me you’ll be alright, no need for disguise
+Em sexy with your body, không có chỗ chê
+Và em khiến anh hypnotized
+'Cause you’re my kryptonite
+Vì em, chính em, người ơi
+[Chorus: Hoàng Tôn]
+Anh không ngăn được lý trí khi trông thấy em, mời một ly nhớ
+Đôi môi kia có mấy tí mà cướp mất anh lạ gì đâu mà
+Bao gã trai kia cứ hứa trao em trái tim sao mà lâu quá
+Bởi vì em xinh như thế thì ai chẳng muốn làm “kẻ xấu xa”
+Shawty anh chỉ nhìn vào đôi mắt ấy only
+Vì thực sự cũng chẳng có ý đồ gì
+Anh đang đi ngang qua đây với cả mấy homie
+Và tình cờ em cũng đã lấy luôn đi
+Sự chú ý với lý trí anh đã tự rơi vào tròng
+Martini này cay và nồng
+Không đâm xuyên thì đi đường vòng
+Anh chỉ muốn được ôm vào lòng`,  
+
+  "assets/artists/dangrangto/audio/10 - đánh rơi.mp3": `[Chorus: Dangrangto]
+Bao nhiêu ngày đêm chung mền gối
+Anh không biết nên tiếp hay là thôi
+Giết anh ngay trong đêm tối
+Ở trong bức hình đó em bên ai lả lơi
+Em nói em đâu hề chạm môi
+Bối rối em che đi lầm lỗi
+Henny tu luôn cả chai tự chuốc em thật say
+Để cho nó nằm xơi, đốt lên tối nay anh trôi theo làn khói
+Rối ren giã nhỏ anh chia làm đôi
+Tối đen từng mảnh ký ức anh chạm tới
+Đừng khóc rên, đừng nhặt lên nếu em làm rơi
+
+[Verse 1: Dangrangto]
+Nấc nấc nấc nấc nấc
+Em cười đùa bên ai sau hai câu wassup
+Xong em lại đi đâu, em làm gì khuất tất?
+Vết hickey on your neck tell me nguyên nhân?
+Sao anh tin em bất chấp
+Em khiến cho tất cả mọi thứ trong anh fucked up
+Hôn mê sâu ngay khi vừa nhắm mắt
+Để cho nước mắt rơi, tin vào lời họ khuyên ngăn
+Thà rằng được gần bên khi chúng ta mập mờ
+Thì còn hơn chẳng có em yên vui bên một người khác
+Thà rằng để anh chìm trong ấm êm giả vờ
+Dù lòng anh cũng xót xa khi em trao ai thể xác
+Uống thêm nhiều em muốn lên người ai lúc anh bận bôn ba
+Chẳng bao giờ anh ghét em dù anh biết anh không là
+Người từ xuân sang hạ rồi mùa thu sang tận ngày tháng khi mùa đông qua
+Là người sẽ dỗ dành em mỗi lúc bên cạnh nhìn thấy em khóc òa
+Một người nguyện yêu em bỏ quên thế gian nhưng em chưa từng nắm lấy
+Một người nguyện vì em ở đây đã qua biết bao nhiêu mùa hoa bay
+Chỉ là đợi em thêm một chút nữa thôi anh vẫn chưa hề lung lay
+Dù là thoáng qua thôi để Lả Lướt đơn côi ở dưới ánh trăng tàn
+
+[Chorus: Dangrangto]
+Đốt lên tối nay anh trôi theo làn khói
+Rối ren giã nhỏ anh chia ra làm đôi
+Tối đen từng mảnh ký ức anh chạm tới
+Đừng khóc rên, đừng nhặt lên nếu em làm rơi
+Đốt lên tối nay anh trôi theo làn khói
+Rối ren giã nhỏ anh chia ra làm đôi
+Tối đen từng mảnh ký ức anh chạm tới
+Đừng khóc rên, đừng nhặt lên nếu em làm rơi
+
+[Verse 2: MICKEY]
+Em làm rơi, cơn mưa kia rớt rơi vẫn liên miên bên hiên trời tôi
+Tự mình hão huyền có lẽ anh mới chính là kẻ lừa dối
+Vài lời bao biện nhưng chốt lại anh không phải nơi em cần tới
+Từ lần mà ta hét lên
+Em đi lả lơi cùng vài đứa best friends
+Bỏ một người ở trên bậc thềm
+Tìm về một giấc mơ thật đẹp
+Henny anh lại rót nó ra
+Sau khi chẳng còn lại gì giữa chúng ta
+Chỉ còn một bóng đêm chật chội
+Và cuộc tình mang bao lầm lỗi
+Vì đã xước sau bao lần bốc đồng
+Làn khói bay cao nằm bất động
+Ngày tháng như xoay vòng
+Còn một người nằm với ai say nồng
+Lần cuối thôi cho anh yếu lòng
+Dúi tay em một đóa hồng
+Cài áo em đi vội
+Vì dù gì cũng đã chia tay rồi
+[Chorus: Dangrangto]
+Bao nhiêu ngày đêm chung mền gối
+Anh không biết nên tiếp hay là thôi
+Giết anh ngay trong đêm tối
+Ở trong bức hình đó em bên ai lả lơi
+Em nói em đâu hề chạm môi, bối rối che đi lầm lỗi
+Henny, tu luôn cả chai tự chuốc em thật say
+Để cho nó nằm xơi, đốt lên tối nay anh trôi theo làn khói
+Rối ren giã nhỏ anh chia làm đôi
+Tối đen từng mảnh ký ức anh chạm tới
+Đừng khóc rên, đừng nhặt lên nếu em làm rơi
+Đốt lên tối nay anh trôi theo làn khói
+Rối ren giã nhỏ anh chia làm đôi
+Tối đen từng mảnh ký ức anh chạm tới
+Đừng khóc rên, đừng nhặt lên nếu em làm rơi`,
+
+  "assets/artists/dangrangto/audio/11 - quenvaonhau.mp3": `Mỗi khi em muốn anh lại tới
+Mỗi khi em muốn anh lại tới
+Mỗi khi em muốn anh lại tới
+Mỗi khi em muốn anh lại tới
+Em nói anh hư ghê anh thật tồi
+Sao mỗi đêm vẫn ghé sát gần tôi
+Lại nhấp nhô lên nhau thế này thôi
+Vậy muốn hay không muốn anh thay đổi
+Mưa lạnh, giá, muốn sang đây cho em tàn phá
+Anh vừa mới hát một bài ca, quay lại, đã thấy em take off your bra
+Sẽ chẳng thêm ai được chen giữa chúng ta, em chơi từ từ thôi
+Baby em đâu cần phải nghĩ suy nhiều vì ánh mắt bờ môi
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Anh thấy những niềm vui xen lẫn với niềm đau, anh thấy hết rồi đấy
+Đôi chân sưng và tấy, biết bao nhiêu lần ngã chỉ vì vài tờ giấy
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nước mắt nếu phải rơi, chỉ để cho anh lau
+Anh biết em còn đang đợi, đợi đêm anh sẽ tới
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Dẫu anh là người xấu, không cho em tìm thấy yên vui bên người sau
+Anh thích em hiểu thấu, đôi khi hay càu nhàu, người làm anh phát cáu
+Không muốn mất người đâu, mỗi giây bên cạnh nàng là một giây quý báu
+Ooh
+Cần gì nói với anh một câu, ooh ooh
+Anh sẽ cho em được yêu như lần đầu, ooh ooh
+Chẳng lời nào là lời thừa thãi
+Viết lên một câu chuyện tình ái
+Mỗi khi em muốn anh lại tới
+Mỗi khi em muốn anh lại tới
+Bao nhiêu cảnh tối anh chẳng rời
+Ai mà chẳng có những điểm rơi
+Giờ thì phóng lên nhanh kiếm mớ tiền tươi
+Trở về với em sau vài cuộc dạo chơi
+Hai người cuốn lấy nhau mặc kệ thế giới
+Nói đi em sẽ không tách rời
+Nói xong không được nuốt lời
+Thiên thần đánh rơi
+Lấp lánh như vì sao ở trên trời
+Sáng lên trong căn phòng
+Thắp lên những hi vọng
+Chẳng còn tuyết rơi
+Vì người đã tới
+Em biết cách để giữ anh lại
+Anh biết cách để yêu điên dại
+Mơ một giấc dài
+Tim anh cũng đã khóa then cài
+Khi bên em cảm giác nó siêu tuyệt
+Làm quyến luyến chẳng muốn ly biệt
+Muốn được ở cạnh em mãi
+Bởi vì vốn đã chẳng cần thêm ai
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nước mắt nếu phải rơiii, chỉ để cho anh lau
+Anh biết em còn đang đợi, đợi đêm anh sẽ tới
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Nó đang quện vào nhau
+Dẫu anh là người xấu, không cho em tìm thấy yên vui bên người sau
+Anh thích em hiểu thấu, đôi khi hay càu nhàu, người làm anh phát cáu
+Không muốn mất người đâu, mỗi giây bên cạnh nàng là một giây quý báu`,
+
+  "assets/artists/dangrangto/audio/12 - món quà.mp3": `[Intro]
+Anh ghét em đắm say vui bên người
+
+[Verse 1]
+Babe, anh ghét em đắm say vui bên người ấy
+Trong phút giây em coi anh là kẻ xấu xa
+Nước mắt kia rớt rơi không để người thấy
+Vậy thì anh chúc em luôn yên vui bên người ấy
+Điếu thuốc kia đốt lên vào hai giờ sáng
+Chỉ vì anh không tin rằng chúng ta đã muộn màng
+Không dám tin tất cả chỉ còn nhiêu đây, phải chăng anh
+
+[Chorus]
+Lại nhớ về, em òi
+Khói quàng, vắt vai
+Nói những lời thừa thãi
+Thôi kệ đúng sai
+Nhớ về, em òi
+Khói quàng, vắt vai
+Nói những lời thừa thãi, thôi kệ đúng sai
+
+[Verse 2]
+Dù là đúng hay sai nhưng cơn noid anh đâu thể ngăn được
+Tốt thôi anh đi luôn anh đâu muốn ngáng đường
+Bên anh sao cứ phải ngang ngược
+Có lẽ vẫn chỉ tại anh thôi
+Vì ánh mắt kia không trao cho anh rồi
+Trách móc anh nói là anh tồi
+Nếu em tìm được người tốt hơn anh cũng yên lòng
+
+[Pre-Chorus]
+Baby em là món quà đẹp nhất trên đời này
+Nên anh dành người điều tốt nhất
+Thật ghét khi đó chẳng phải là mình sẽ trao nụ cười trên môi người
+Nên anh phải biến mất
+Liệu có ai thương mình khóc thật nhiều khi yêu thật nhiều
+Trong căn phòng toàn là tiếng nấc
+Đành lướt đi thôi dù trân trọng
+Để em chẳng bận lòng nghe thêm biết bao nhiêu những lời khuyên ngăn
+
+[Chorus]
+Nhớ về, em òi
+Khói quàng, vắt vai
+Nói những lời thừa thãi
+Thôi kệ đúng sai
+Nhớ về, em òi
+Khói quàng, vắt vai
+Nói những lời thừa thãi, thôi kệ đúng sai
+
+[Outro]
+Dù anh sẽ chẳng thể chạm vào em
+Anh biết chắc sẽ có người dịu dàng tới yêu em
+Hằng đêm cơn mưa phũ phàng tìm đến
+Niềm đau sẽ có lúc tàn thành thói quen
+Baby em là món quà đẹp nhất trên đời này
+Nên anh dành người điều tốt nhất
+Thật ghét khi đó chẳng phải là mình sẽ trao nụ cười trên môi người
+Nên anh phải biến mất`,
+
+  "assets/artists/dangrangto/audio/13 - đắm say trong tình yêu.mp3": `Baby anh đã cô đơn rất lâu, khiến tim buồn rầu
+Dưới góc phố họ đã tìm thấy nhau, lung linh đèn màu
+Anh cứ ngỡ là chẳng ai thấu để mặc bao lo âu này anh luôn giấu
+Xung quanh hàng tỉ thứ đâu đâu khiến anh đau đầu
+Chẳng thể giữ anh thôi làu bàu
+Chỉ cần được sát bên vai
+Không ngừng nói bên tai trên từng con phố quen
+Và nụ cười ấy lung linh, anh đã trót rung rinh, nghĩ về em mỗi đêm
+Sâu bên trong anh lâu nay bao nhiêu tư tình
+Thường ngày đôi môi anh hơi kiệm lời
+Vậy mà khi bên em anh chẳng thể thấy được cách để giữ mình
+Kể người nghe bao nhiêu là câu chuyện đời
+Từng lạ như thế, giờ tới thân quen
+Chẳng phải là Superman
+Nhưng nếu người cần anh sẽ bay tới nơi em
+Đừng cứ lo xa mãi thôi vì chặng đường nào rồi cũng sẽ tới
+Khi em nép sát mình về phía anh mới thấy được sự yên bình
+Cảm ơn em đã chăm sóc anh suốt bao nhiêu mùa xuân qua
+Ươm trái tim nở rộ ngàn đóa hoa
+Người mang tia nắng tới khiến anh cảm nhận được tình yêu
+Cảm ơn những bão tố cho ta học cách để thấu hiểu
+Dù anh nhiều lắm nỗi lo nhưng em vẫn chọn nơi anh
+Muốn sẻ chia mỏi mệt cùng với anh
+Ngàn ngôi sao lấp lánh trên cao như đang thầm cầu chúc đôi mình
+Sẽ luôn giăng nỗi nhớ cho nhau y như ngày đầu tiên
+Đắm say trong tình yêu
+Ye, không biết phải làm sao để mà thoát ra giờ nhờ
+Yêu đương vào một tí đầu lại ngẩn ngơ
+Hết yêu rồi phải nói em đừng có giả vờ
+Để con tim này tổn thương viết cả tấn thơ
+Baby em lạnh giá như cơn mưa ơ thờ
+Anh không chạy vào trong cứ để nó ngấm cơ
+Rồi lại rét run it’s over
+Phải em hôn nhẹ vào môi thì mới ấm cơ
+Hấp nhờ, bao lâu rồi mà vẫn chờ
+Đi tìm một món quà bất ngờ trong giấc mơ này
+Xuất hiện, vuốt tóc đẹp và ăn diện
+Chàng rapper răng miệng có bao nhiêu chuyện đang muốn tỏ bày
+Cũng chẳng cần phải copy ai
+Baby em chỉ cần bật bài này ở Spotify
+Đủ để thấy youngboy đã trao cho mình em
+Quyền cầm tay anh vượt qua những tháng ngày
+Được ôm anh như này
+Được nghe hết những câu chuyện buồn của riêng anh
+Người chọn cách bên cạnh
+Dù trời xanh hay đêm lạnh
+Thì chẳng trách anh lại yêu đến như vậy
+Cảm ơn em đã chăm sóc anh suốt bao nhiêu mùa xuân qua
+Ươm trái tim nở rộ ngàn đóa hoa
+Người mang tia nắng tới khiến anh cảm nhận được tình yêu
+Cảm ơn những bão tố cho ta học cách để thấu hiểu
+Dù anh nhiều lắm nỗi lo nhưng em vẫn chọn nơi anh
+Muốn sẻ chia mỏi mệt cùng với anh
+Ngàn ngôi sao lấp lánh trên cao như đang thầm cầu chúc đôi mình
+Sẽ luôn giăng nỗi nhớ cho nhau y như ngày đầu tiên
+Đắm say trong tình yêu`,
+
+  "assets/artists/dangrangto/audio/14 - hãy đến đây bên anh trong một chiều mùa thu.mp3": `[Verse 1]
+Hãy đến đây bên anh trong một chiều mùa thu
+Và những chiếc lá xanh vẫn đang rung rinh đùa vui
+Chẳng cần quá lâu để anh biết đã yêu mất rồi
+Chỉ cần là đôi môi của em anh hôn nhẹ lên vào mỗi tối
+Tụi bạn cứ trêu dã man nói ta thật đẹp đôi
+Chẳng để ý anh xua tay nhưng mà thấy cũng vui khi nghĩ tới
+Vậy liệu em có muốn ở đây bên anh khi trong lòng chơi vơi
+Anh chỉ cần thế thôi (Anh sẽ thôi không lắng lo nữa đâu no)
+
+[Chorus]
+Là bởi vì đã có em bên đời rồi thì còn lắng lo chi
+Nguyện trao hết tấm chân tình này chẳng cần đắn đo, yeh
+Người đừng đùa với cảm xúc khi em buồn thì đều chạm tới nơi anh
+Ai cũng sẽ có những lúc hơi tiêu cực để khoảng lặng ấy trôi nhanh
+When I'm with you, you đã make me feel
+Đưa em đi ăn bún real, girl anh không nói điêu
+Youngboy đã biết iu
+
+[Verse 2]
+Đã rất cố gắng nhưng vẫn không thể nào mà ngủ được phòng còn sáng đèn
+Cứ thế tít mắt khi anh nhớ ra mai thức dậy lại được gặp dáng em
+LV Saint Laurent Gucci Balenci chọn gì khoác lên
+Trông anh mướt mướt đến nhức nách em gặp thì cứ phải gọi là God damn
+Baby girl em bước ra từ trong ngõ với đôi má hồng
+Trao cho riêng anh một nụ cười tỏa nắng con tim này rã đông
+Hold me tight my tiny love anh sẽ chẳng hai lòng
+Và sẽ chẳng để em phải dỗi hờn hỏi anh cũng nhớ em mà phải không
+Anh đã nghĩ kĩ chỉ định trao con tim mà mất luôn lí trí
+Như là ngàn bông hoa for me
+Anh chẳng thể nào lãng quên được mùi hương này
+Tình yêu anh qua ngày vẫn cứ lớn hơn
+Em chính là lí do em chính là người đó (Huh)
+
+[Chorus]
+Là bởi vì đã có em bên đời rồi thì còn lắng lo chi
+Nguyện trao hết tấm chân tình này chẳng cần đắn đo yeh
+Người đừng đùa với cảm xúc khi em buồn thì đều chạm tới nơi anh
+Ai cũng sẽ có những lúc hơi tiêu cực để khoảng lặng ấy trôi nhanh
+When I'm with you, you đã make me feel
+Đưa em đi ăn bún real, girl anh không nói điêu
+Youngboy đã biết iu`,
+
+  "assets/artists/dangrangto/audio/15 - để dành cho em.mp3": `[Verse 1]
+Mùa đông ghé tới
+Lá vàng rơi đầy rồi lại bay vèo vội lướt qua anh như những cuộc tình chóng vánh
+Cặp tình nhân nói cười lượn đi đâu loanh quanh
+Lại càng làm anh thấy ngứa mắt ghê sao mình hoài không biết cách
+À thì là vì ngoài kia còn bao người, họ lãng mạn
+Là zai đẹp, hoặc siêu giàu, chẳng khó gì để tìm được một người hơn anh
+Ngày xưa anh cũng đã ngu ngơ trao đi con tim chân thành
+Mà họ lại cứ đánh rơi để hi vọng nơi anh tan tành
+Và điều khó nhất, một mình thì hơi côi
+Hà Nội gió bấc, do you wanna dựa đầu vào nơi tôi?
+Điều gì phiền muộn nói nhau nghe đi nào xem là hôm nay sao rồi
+Mình cất lên câu "xin chào", anh đã sợ ngày phải xa rời
+Ngồi sau xe anh, và đừng né tránh
+Tình yêu ở đấy đó nên anh mong là em sẽ thấy nó
+Vì anh lại ngốc nghếch trao đi cho em con tim chân thành nó chỉ muốn được yêu thương
+
+[Chorus]
+À hóa ra em đây rồi
+Người chở che con tim chỉ sợ đánh mất
+Bước ra từ trong những giấc mơ rồi lại hằn vào trí nhớ, đến bao giờ?
+Một phần chỉ sợ đau nữa thôi
+Phần kia lại muốn cô này phải là của tôi
+Chơi bời chán chưa anh muốn đi đường dài?
+Đứng đây ngóng em đón anh về tương lai
+Đều là để dành cho em, để dành cho em
+Chẳng cần ai, keep you mine
+Vì anh vẫn sẽ trao niềm tin vào em dù mong manh
+Nhẹ tay chút nhé chân thành vẫn còn đọng lại trong anh
+Biến nhau thành những thói quen
+Gửi trái tim ở đó, nơi em
+
+[Verse 2]
+Baby em đâu òi, nhanh lên anh đang đợi, anh solo với đời, biết bao nhiêu năm giời
+Hôm nay anh đang ngầu, trông ăn chơi quá trời, trên con xe wave tàu
+Chỉ là mình chờ gặp cô bé nói câu xin chào
+Khóa trái tim anh lại, xinh gái với đa tài, nhõng nhẽo bên anh hoài
+Còn anh có huy chương vàng bộ môn nhắn tin siêu xàm
+Ngồi viết tiếp lên trang dài để duyên số ta an bài
+Vì bên em anh lạc trong tình yêu mà không phải chơi vơi
+Ông trời giấu em đi đâu sao mà giờ này mới tới
+Vậy cớ sao em phải chần chừ mãi, để dựa đầu vào vai, của một chàng đẹp trai
+Mặc kệ sự sợ hãi, everything will be alright baby
+
+[Chorus]
+Hoá ra em đây rồi
+Người chở che con tim chỉ sợ đánh mất
+Bước ra từ trong những giấc mơ rồi lại hằn vào trí nhớ, đến bao giờ?
+Một phần chỉ sợ đau nữa thôi
+Phần kia lại muốn cô này phải là của tôi
+Chơi bời chán chưa anh muốn đi đường dài?
+Đứng đây ngóng em đón anh về tương lai
+Đều là để dành cho em, để dành cho em
+Riêng mỗi em thôi, em à
+Ngồi sau xe anh, và đừng né tránh
+Tình yêu ở đấy đó nên anh mong là em sẽ thấy nó
+Vì anh lại ngốc nghếch trao đi cho em con tim chân thành nó chỉ muốn được yêu thương
+[Outro]
+Anh nghĩ là, đối với anh tình yêu không phải là mình đi tìm kiếm một người thật hoàn hảo
+Mà tình yêu là, đấy là học cách chấp nhận những điều không hoàn hảo của một ai đó
+Để có thể được đồng hành cùng với nhau ngay cả chính bản thân anh, anh cũng không phải là một người hoàn hảo
+Nhưng mà anh vẫn luôn cố gắng để có thể trở thành phiên bản tốt nhất và trong cuộc hành trình ấy anh chỉ hi vọng, là sẽ có sự đồng hành của em`,
+  "assets/artists/dangrangto/audio/16 - thế giới của anh.mp3": `[Intro]
+Yeah, oh
+Oh, oh, yeah-yeah
+Đông sang cuốn lấy bầu trời ngoài kia (Kia)
+Đông sang cuốn lấy bầu trời rồi bé, yeah (Huh-uh-uh-uh-huh)
+Yeah, yeah
+
+[Verse 1]
+Người ta thường nói khi yêu đời thật nên thơ (No, no, no, no)
+Vì say màu mắt nhau nên đời đẹp như mơ (Huh-huh)
+Còn em là những tương tư luôn chỉ rình tới bắt anh
+Để anh ngày đêm cuồng quay nhớ mong
+Hàng cây ngả xuống như đang cười đùa bên anh (No, no, no, no)
+Vì em ngồi sau, những nụ cười chỉ vây quanh đôi mình thôi và
+Thành phố như vô tận, tim thôi khô cằn
+Để những tương tư, nhớ mong
+
+[Pre-Chorus]
+Luôn đong đầy theo thời gian
+Biết chẳng dễ dàng trao em một tình yêu xứng đáng
+Cầm tay em thật chặt và ôm em thật chắc
+Không cho phép bất cứ thằng nào, chỉ mỗi anh
+
+[Chorus]
+Được ở bên cạnh em, được nhìn em thật lâu
+Để được đan bàn tay với đôi trà chanh nơi cuối phố (Oh)
+Được nghe tiếng em cười, được say đắm bên người trong ánh mắt
+Tựa vai anh, đôi mình đi bên nhau, yah
+Dù ngày mai còn xa, đường dài ta phải qua
+Nhiều lần dỗi hờn nhau với vô vàn những cãi vã
+Thì cứ nắm tay anh để tan biến nghi ngại, em yêu hỡi
+Thế giới của anh nhỏ xinh, và chính là em
+
+[Interlude]
+Là em, là em, yeah-yeah-yeah, huh
+Trọng lực trái đất nơi em như kéo anh thật nhanh về phía ấy
+Mặc kệ gió bấc mây đen, anh chẳng hề lung lay
+
+[Verse 2]
+Lả lướt (Yeah)
+Thế giới tưởng to, ấy nhưng mà lại bé, bé như là quả nho
+Xinh gái lại được cái ngố, thế thì ai mà chả lo
+Nên là cậu nào mà dám dòm ngó của tớ thì tớ lại vả cho
+Nếu thế giới này u ám để anh vẽ những áng mây
+Có hai người xàm xí ở bên dưới những tán cây
+Mấy vệ tinh mà bay tới, pow-pow là choáng ngay
+Vì ở bên trong thế giới này chỉ một người được đắm say
+Đông sang thật rồi, đeo chiếc khăn len bồi hồi
+Nhìn ánh sáng chiếu đến nơi tôi, rọi từng ngóc ngách trong tim này
+Tóc vuốt sang hai, nàng là ánh nắng ban mai
+Ở trên ghế, con Mun nằm dài
+Và chỉ ước đóng băng thực tại, nhưng lại
+Cất chiếc quần cộc và phi trên lưng một chú tuần lộc chạy tới đó
+Nơi ta hẹn hò trong làn gió đông vuốt ve người
+Ngốc nghếch anh vươn vai, chỉ là đang tìm cách để hai ta siết gần lại về phía nhau
+U sầu để phía sau
+
+[Pre-Chorus]
+Luôn đong đầy theo thời gian
+Biết chẳng dễ dàng trao em một tình yêu xứng đáng
+Cầm tay em thật chặt và ôm em thật chắc
+Không cho phép bất cứ thằng nào, chỉ mỗi anh
+Ooh-ooh-ooh
+[Chorus]
+Được ở bên cạnh em, được nhìn em thật lâu
+Để được đan bàn tay với đôi trà chanh nơi cuối phố
+Được nghe tiếng em cười, được say đắm bên người trong ánh mắt
+Tựa vai anh, đôi mình đi bên nhau (Yeah)
+Dù ngày mai còn xa, đường dài ta phải qua
+Nhiều lần dỗi hờn nhau với vô vàn những cãi vã
+Thì cứ nắm tay anh để tan biến nghi ngại, em yêu hỡi
+Thế giới của anh nhỏ xinh, và chính là em`,
+  "assets/artists/dangrangto/audio/17 - MOIEM.mp3": `[Intro]
+Yea, Lả Lướt
+Workaholishii
+
+[Verse 1]
+Tay em, vai em với làn môi em nó còn khắc sâu
+Nàng cười nhẹ, vuốt tóc
+Anh không dám nhìn vào mắt đâu
+Buông xuôi và quay đi
+Có nghĩa là thôi anh sẽ chẳng nhớ đâu
+Chỉ là bên trong, sâu hơn
+Anh mong ta quay về với nhau
+Callin cho mama con phải nghe theo lý trí
+Cô ấy khiến cơn đau này chằng chịt mà chẳng chịu ra đi
+Miên man đêm ngày party trên người đeo thêm VVs
+Bỏ lại 1 người làm nhạc mà cứ tưởng mình là GD
+Khi xưa em làm quen anh, em bảo "Sao anh quá chất?"
+Worka gang với cả âm nhạc anh nghĩ đó chính là nguyên nhân
+Giờ thì mắt em, môi em, và kỉ niệm mới là nguyên nhân
+Rồi lại tự mình ràng buộc mình, yeah
+
+[Chorus]
+Trong đêm tối (Trong đêm tối), mưa giăng lối (Mưa giăng lối)
+Anh như 1 kẻ điên tình
+Đang đi tìm sự yên bình
+Một người mới (Một người mới), chung chăn gối (Chung chăn gối)
+Nhưng không phải là một gia đình
+Chưa bao giờ là một gia đình
+
+Chờ em mãi (Chờ em mãi)
+Em mới tới (Em mới tới)
+Nhưng em lại vụt qua mình
+Chớp nhoáng như loài hoa quỳnh
+Ôm anh trên đoạn Ba Đình
+Ngân nga một bài ca tình
+Anh không còn nhận ra mình
+(Anh không còn nhận ra mình, yeah)
+Oh oh oh oh oh oh oh oh oh no (yeah)
+(Anh không còn nhận ra mình)
+Oh oh oh oh oh oh oh oh oh no
+(Anh không còn nhận ra) Anh không còn nhận ra mình
+
+[Verse 2]
+Thôi thôi không phải tell me những lời sáo rỗng
+Đi đi xin đừng quan tâm
+Hỏi han anh có làm sao không?
+Anh không làm sao đâu chỉ là mang thêm 2 3 áo ấm
+Khoác lên khi se lạnh, anh băng qua màn đêm đông
+Bởi vì tương lai anh phải cố gắng
+Chặng đường này còn dài
+Anh phải cầm chặt vô lăng
+Cảnh tối đen đường mịt mù
+Nhưng anh tin 1 ngày có nắng
+Chúc em yên bình, vì chẳng còn gì phải lăn tăn
+(Bởi vì tương lai anh phải cố gắng
+Chặng đường này còn dài
+Anh phải cầm chặt vô lăng
+Cảnh tối đen đường mịt mù
+Nhưng anh tin 1 ngày có nắng
+Chúc em yên bình, vì chẳng còn gì phải lăn tăn)
+[Bridge]
+Lá vàng tất cả chỉ còn lại là một đống lá vàng
+Khi anh đi qua thăm nơi chúng mình
+Hồi mọi chuyện chẳng cần chứng minh
+Đưa con thuyền nơi trái tim anh ra khơi
+Hết rồi, anh cũng thấy mình mệt phết rồi
+Anh phải để cho cảm xúc được nghỉ ngơi
+Chấp nhận em sẽ mãi luôn thật xa vời
+Ngồi lặng nhìn, trời mưa sao băng rơi (Lá vàng)
+
+Rơi xuống đây
+Rơi vào anh (Anh không còn nhận ra mình)
+Rơi xuống đây
+Rơi vào anh (Anh không còn nhận ra, anh không còn nhận ra mình)
+Rơi xuống đây
+Rơi vào anh (Anh không còn nhận ra mình)
+(Rơi xuống đây
+Rơi vào anh)
+
+[Chorus]
+Trong đêm tối (Trong đêm tối), mưa giăng lối (Mưa giăng lối)
+Anh như 1 kẻ điên tình
+Đang đi tìm sự yên bình
+Một người mới (Một người mới), chung chăn gối (Chung chăn gối)
+Nhưng không phải là một gia đình
+Chưa bao giờ là một gia đình
+Chờ em mãi (Chờ em mãi)
+Em mới tới (Em mới tới)
+Nhưng em lại vụt qua mình
+Chớp nhoáng như loài hoa quỳnh
+Ôm anh trên đoạn Ba Đình
+Ngân nga một bài ca tình
+Anh không còn nhận ra mình
+(Anh không còn nhận ra mình, yeah)`,
   // -------------------------------------HIEUTHUHAI-----------------------------------------
   // ---------------------------------------------------------------------------------
   "assets/artists/hieuthuhai/audio/1 - Anh Nên Đi Khỏi Đây.mp3": `[Intro]

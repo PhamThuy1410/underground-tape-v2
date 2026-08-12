@@ -225,7 +225,7 @@ function renderTracklist() {
       <span class="track-item__number">${String(idx + 1).padStart(2, "0")}</span>
       <div class="track-item__info">
         <div class="track-item__title">${track.title}</div>
-        <div class="track-item__artist">${track.artist}</div>
+        <div class="track-item__artist"><span class="track-item__artist-text" data-artist="${track.artist}">${track.artist}</span></div>
       </div>
       <span class="track-item__duration" data-track-src="${track.src}">0:00</span>
     </li>
@@ -235,6 +235,9 @@ function renderTracklist() {
     const item = e.target.closest(".track-item");
     if (item) playTrack(Number(item.dataset.index));
   });
+
+  // Áp dụng animation cho các artist text dài
+  applyArtistScrollingAnimation();
 
   // Load duration cho tất cả track
   loadAllTrackDurations(tracks);
@@ -267,6 +270,43 @@ function loadTrackDuration(trackSrc) {
     }
   });
   audio.src = trackSrc;
+}
+
+// ========== ARTIST SCROLLING ANIMATION ==========
+function applyArtistScrollingAnimation() {
+  const artistTextElements = document.querySelectorAll(".track-item__artist-text");
+  
+  artistTextElements.forEach(el => {
+    const artistText = el.getAttribute("data-artist");
+    
+    // Đưa element vào một container tạm để đo chiều rộng
+    const tempContainer = document.createElement("div");
+    tempContainer.style.position = "absolute";
+    tempContainer.style.visibility = "hidden";
+    tempContainer.style.whiteSpace = "nowrap";
+    tempContainer.style.fontSize = window.getComputedStyle(el).fontSize;
+    tempContainer.style.fontFamily = window.getComputedStyle(el).fontFamily;
+    tempContainer.textContent = artistText;
+    document.body.appendChild(tempContainer);
+    
+    const textWidth = tempContainer.offsetWidth;
+    // Container parent là .track-item__artist
+    const containerWidth = el.parentElement.offsetWidth;
+    
+    console.log(`Track: "${artistText}" | Text: ${textWidth}px | Container: ${containerWidth}px`);
+    
+    // Nếu text dài hơn 70% container, thêm animation
+    if (textWidth > containerWidth * 0.7) {
+      el.classList.add("track-item__artist--scrolling");
+      // Tính toán thời gian animation dựa vào độ dài text
+      const duration = Math.max(12, (textWidth / 100) * 6);
+      el.style.animationDuration = `${duration}s`;
+      console.log(`✅ Scrolling applied: ${duration.toFixed(1)}s`);
+    }
+    
+    // Cleanup
+    document.body.removeChild(tempContainer);
+  });
 }
 
 function renderVideos() {
@@ -354,12 +394,26 @@ function updateDeckMetadata() {
   const tracks = getPlaylistForArtist(currentArtistId);
   if (currentIndex === -1 || !tracks[currentIndex]) {
     deckArtist.textContent = currentArtistData?.name || "—";
-    deckTitle.textContent = "Select a track";
+    deckArtist.classList.remove("deck__artist--scrolling");
     return;
   }
 
   const track = tracks[currentIndex];
-  deckArtist.textContent = track.artist;
+  const artistText = track.artist;
+  
+  // Clear previous content
+  deckArtist.innerHTML = "";
+  
+  // Create span wrapper
+  const artistSpan = document.createElement("span");
+  artistSpan.textContent = artistText;
+  deckArtist.appendChild(artistSpan);
+  
+  // Kiểm tra nếu artist text dài, thêm animation
+  setTimeout(() => {
+    checkAndApplyDeckArtistAnimation(artistSpan, artistText);
+  }, 0);
+
   deckTitle.textContent = track.title;
 
   if (navigator.mediaSession) {
@@ -374,6 +428,44 @@ function updateDeckMetadata() {
       }]
     });
   }
+}
+
+function checkAndApplyDeckArtistAnimation(span, artistText) {
+  // Đo chiều rộng text
+  const tempContainer = document.createElement("div");
+  tempContainer.style.position = "absolute";
+  tempContainer.style.visibility = "hidden";
+  tempContainer.style.whiteSpace = "nowrap";
+  tempContainer.style.fontSize = window.getComputedStyle(deckArtist).fontSize;
+  tempContainer.style.fontFamily = window.getComputedStyle(deckArtist).fontFamily;
+  tempContainer.style.letterSpacing = window.getComputedStyle(deckArtist).letterSpacing;
+  tempContainer.textContent = artistText;
+  document.body.appendChild(tempContainer);
+  
+  const textWidth = tempContainer.offsetWidth;
+  const containerWidth = deckArtist.offsetWidth;
+  
+  console.log(`Deck Artist: "${artistText}" | Text: ${textWidth}px | Container: ${containerWidth}px`);
+  
+  // Nếu text dài hơn 80% container, thêm animation
+  if (textWidth > containerWidth * 0.8) {
+    span.classList.add("deck__artist--scrolling");
+    
+    // ✨ KEY FIX: Nhân đôi text để chạy liền mạch (seamless loop)
+    // Format: "Artist Name • Artist Name • ..."
+    span.innerHTML = `${artistText} • ${artistText}`;
+    
+    // Tính thời gian dựa vào độ dài text
+    // Vì text nhân đôi, animation sẽ chạy liền không khoảng trống
+    const duration = Math.max(12, (textWidth / 100) * 5);
+    span.style.animationDuration = `${duration}s`;
+    console.log(`✅ Deck scrolling (seamless): ${duration.toFixed(1)}s`);
+  } else {
+    span.classList.remove("deck__artist--scrolling");
+    span.textContent = artistText;
+  }
+  
+  document.body.removeChild(tempContainer);
 }
 
 // ========== UI ==========

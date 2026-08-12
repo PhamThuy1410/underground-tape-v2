@@ -346,6 +346,31 @@ body {
 .track-item__artist {
   font-size: 0.85rem;
   color: var(--text-secondary);
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.track-item__artist-text {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+/* Animation chạy cuộn cho artist text dài */
+.track-item__artist-text.track-item__artist--scrolling {
+  /* animation: scroll-text 20s linear infinite; */
+  padding-right: 2rem;
+}
+
+@keyframes scroll-text {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
 }
 
 .track-item__duration {
@@ -882,6 +907,24 @@ body {
   min-width: 0;
   font-size: 0.65rem;
   letter-spacing: 0.15em;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+
+/* .deck__artist--scrolling {
+  display: inline-block;
+  animation: scroll-text-deck 20s linear infinite;
+  padding-right: 2rem;
+} */
+
+@keyframes scroll-text-deck {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
 }
 
 .deck__title {
@@ -1123,9 +1166,24 @@ a:focus-visible {
   outline-offset: 2px;
 }
 
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.01ms !important;
-    transition-duration: 0.01ms !important;
+/* Mặc định: DESKTOP KHÔNG chạy animation */
+.deck__artist--scrolling {
+  display: inline-block;
+  padding-right: 2rem;
+  animation: none;
+}
+
+/* Chỉ MOBILE mới chạy animation */
+@media screen and (max-width: 768px) {
+  .deck__artist--scrolling {
+    animation: scroll-text-deck 10s linear infinite;
+  }
+}
+
+/* Mobile + Reduce Motion: tắt animation */
+@media screen and (max-width: 768px) and (prefers-reduced-motion: reduce) {
+  .deck__artist--scrolling {
+    animation: none !important;
+    transition: none !important;
   }
 }
