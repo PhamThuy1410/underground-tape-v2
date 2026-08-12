@@ -15,60 +15,17 @@
       "heroImage": "assets/artists/mck/hero.webp"
     },
     {
-      "id": "obito",
-      "name": "OBITO",
-      "fullName": "Lý Quốc Phong",
-      "bio": "OBITO stands out with soulful vocals, melodic rap, and introspective storytelling that stays with you.",
-      "year": 2017,
+      "id": "bray",
+      "name": "B RAY",
+      "fullName": "Trần Thanh Thiện Bảo",
+      "bio": "B Ray is one of Vietnam's prominent rap artists, known for sharp lyricism, intricate rhyme schemes, storytelling, and a distinctive flow.",
+      "year": 2012,
       "links": {
-        "spotify": "https://open.spotify.com",
-        "soundcloud": "https://soundcloud.com/qu-c-phong-620808305",
-        "instagram": "https://instagram.com/youngtobieedasick"
+        "spotify": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9",
+        "instagram": "https://instagram.com/bray"
       },
-      "color": "#7c3aed",
-      "heroImage": "assets/artists/obito/hero.webp"
-    },
-    {
-      "id": "wxrdie",
-      "name": "WXRDIE",
-      "fullName": "Phạm Nam Hải",
-      "bio": "A trap-driven force known for rapid flows, high energy, and a sharp modern sound that hits hard.",
-      "year": 2017,
-      "links": {
-        "spotify": "https://open.spotify.com",
-        "soundcloud": "https://soundcloud.com/wxrdie",
-        "instagram": "https://instagram.com/wxrdie"
-      },
-      "color": "#06b6d4",
-      "heroImage": "assets/artists/wxrdie/hero.webp"
-    },
-    {
-      "id": "dangrangto",
-      "name": "DANGRANGTO",
-      "fullName": "Trần Hải Đăng",
-      "bio": "DANGRANGTO brings sharp storytelling, vivid lyrics, and a melodic flow that gives his sound a distinct identity.",
-      "year": 2017,
-      "links": {
-        "spotify": "https://open.spotify.com",
-        "soundcloud": "https://soundcloud.com/khongphaidangdau",
-        "instagram": "https://instagram.com/dangrangto"
-      },
-      "color": "#f97316",
-      "heroImage": "assets/artists/dangrangto/hero.webp"
-    },
-    {
-      "id": "hustlangrobber",
-      "name": "HUSTLANG ROBBER",
-      "fullName": "Hustlang Robber",
-      "bio": "Blending drill, trap, and raw street energy, Hustlang Robber delivers aggressive flows with an unmistakable underground style.",
-      "year": 2019,
-      "links": {
-        "spotify": "https://open.spotify.com",
-        "soundcloud": "https://soundcloud.com/hustlangrobber",
-        "instagram": "https://instagram.com/hustlangrobber"
-      },
-      "color": "#16a34a",
-      "heroImage": "assets/artists/hustlangrobber/hero.webp"
+      "color": "#dc2626",
+      "heroImage": "assets/artists/bray/hero.webp"
     },
     {
       "id": "hieuthuhai",
@@ -85,19 +42,75 @@
       "heroImage": "assets/artists/hieuthuhai/hero.webp"
     },
     {
-    "id": "tinhhasayhi",
-    "name": "TINH HÀ SAY HI",
-    "fullName": "TINH HÀ SAY HI",
-    "bio": "TINH HÀ SAY HI is a Vietnamese music reality show and the latest addition to the Say Hi entertainment universe. Premiering in 2026, the show brings together 24 male artists who compete, collaborate, create new music, and deliver high-energy performances through a series of challenges and stages. The program combines modern pop, hip-hop, R&B, and contemporary Vietnamese music with elaborate choreography and large-scale stage productions.",
-    "year": 2026,
-    "links": {
-    "spotify": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh",
-    "youtube": "https://www.youtube.com/@VieChannel",
-    "facebook": "https://www.facebook.com/tinhhasayhi",
-    "vieon": "https://vieon.vn/"
+      "id": "dangrangto",
+      "name": "DANGRANGTO",
+      "fullName": "Trần Hải Đăng",
+      "bio": "DANGRANGTO brings sharp storytelling, vivid lyrics, and a melodic flow that gives his sound a distinct identity.",
+      "year": 2017,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com/khongphaidangdau",
+        "instagram": "https://instagram.com/dangrangto"
+      },
+      "color": "#f97316",
+      "heroImage": "assets/artists/dangrangto/hero.webp"
     },
-    "color": "#facc15",
-    "heroImage": "assets/artists/tinhhasayhi/hero.webp"
+    {
+      "id": "obito",
+      "name": "OBITO",
+      "fullName": "Lý Quốc Phong",
+      "bio": "OBITO stands out with soulful vocals, melodic rap, and introspective storytelling that stays with you.",
+      "year": 2017,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com/qu-c-phong-620808305",
+        "instagram": "https://instagram.com/youngtobieedasick"
+      },
+      "color": "#7c3aed",
+      "heroImage": "assets/artists/obito/hero.webp"
+    },
+    {
+      "id": "hustlangrobber",
+      "name": "HUSTLANG ROBBER",
+      "fullName": "Hustlang Robber",
+      "bio": "Blending drill, trap, and raw street energy, Hustlang Robber delivers aggressive flows with an unmistakable underground style.",
+      "year": 2019,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com/hustlangrobber",
+        "instagram": "https://instagram.com/hustlangrobber"
+      },
+      "color": "#16a34a",
+      "heroImage": "assets/artists/hustlangrobber/hero.webp"
+    },
+    {
+      "id": "wxrdie",
+      "name": "WXRDIE",
+      "fullName": "Phạm Nam Hải",
+      "bio": "A trap-driven force known for rapid flows, high energy, and a sharp modern sound that hits hard.",
+      "year": 2017,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "soundcloud": "https://soundcloud.com/wxrdie",
+        "instagram": "https://instagram.com/wxrdie"
+      },
+      "color": "#06b6d4",
+      "heroImage": "assets/artists/wxrdie/hero.webp"
+    },
+    {
+      "id": "tinhhasayhi",
+      "name": "TINH HÀ SAY HI",
+      "fullName": "TINH HÀ SAY HI",
+      "bio": "TINH HÀ SAY HI is a Vietnamese music reality show and the latest addition to the Say Hi entertainment universe. Premiering in 2026, the show brings together male artists who compete, collaborate, create new music, and deliver high-energy performances through a series of challenges and stages. The program combines modern pop, hip-hop, R&B, and contemporary Vietnamese music with elaborate choreography and large-scale stage productions.",
+      "year": 2026,
+      "links": {
+        "spotify": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh",
+        "youtube": "https://www.youtube.com/@VieChannel",
+        "facebook": "https://www.facebook.com/tinhhasayhi",
+        "vieon": "https://vieon.vn/"
+      },
+      "color": "#facc15",
+      "heroImage": "assets/artists/tinhhasayhi/hero.webp"
     }
   ]
 }

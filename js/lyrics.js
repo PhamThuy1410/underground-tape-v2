@@ -1,4 +1,1446 @@
 const LYRICS = {
+
+
+    // -------------------------------------B RAY-----------------------------------------
+  // -------------------------------------------------------------------------------------
+  "assets/artists/bray/audio/1 - Man Down ft Ếch và Báo.mp3": ``,
+  "assets/artists/bray/audio/2 - Tệ Hại & Xấu Xí (Intro).mp3": `[Verse]
+I love you, anh yêu cái cách em khiến anh tỏa sáng
+Anh yêu cái cách em khiến anh nghĩ ngoài tình yêu của em không có gì thỏa đáng
+Anh yêu cách em yêu anh cả từ trước khi anh khoác lên mình hào nhoáng
+Anh có thể lắng nghe em gọi tên anh hàng ngàn năm nữa mà không thể nào chán
+And I love you, anh yêu cả những đêm em khiến anh không ngủ
+Hóa hiện thực tất cả những giấc mơ ngày bé mà anh cất trong tủ
+Dạy anh biến tất cả những vết thương sâu thẳm trở thành những công cụ
+Và anh cố gắng, và anh cố gắng, nhưng rõ ràng cố gắng là không đủ
+And I need you, như không khí len vào từng nhịp thở
+Như mọi tế bào vẫn ngăn cản anh đi tìm em nhưng anh vẫn viện cớ
+Anh cần em vẫn như là cách mà em đã kéo anh ra khỏi vũng lầy quá nhiều lần
+Có ai đã từng đứng dưới ánh đèn spotlight mà không hề có bóng tối theo sau lưng?
+And I needed you to love me, the bad and the ugly
+Tệ hại và xấu xí, ngu si và ấu trĩ
+Phơi bày tất cả bí mật, tất cả nỗi sợ mà anh giấu kĩ
+Những thước phim không qua hậu kì, một ván cờ anh phải đấu trí
+And I fear you, vì em chỉ yêu anh duy nhất khi anh hoàn hảo
+Vì anh biết vào bất cứ lúc nào cũng có người khác có thể đặt ngang hàng Bảo
+Và anh sợ là bởi vì em cũng chưa bao giờ từng hứa là em sẽ ở lại
+Anh sợ một ngày em đã không còn đây nhưng chỉ còn lại mỗi mình anh là chờ mãi
+And I want you, nhưng mà điều đó chưa từng là đơn giản phải không?
+Anh đã giết bản thân mình bao nhiêu lần để có thể trở thành phiên bản em hài lòng
+Một phiên bản mà anh biết em xứng đáng, nhưng anh cũng muốn được là chính mình
+Anh muốn được nói những gì mà mình nghĩ, và không quan tâm là em sẽ nghĩ gì
+So, đèn mở, nhạc lên, khán giả bước vào
+Ra đây và nhìn xem tất cả những thứ từ bé mày từng ước ao
+Nhìn đi, họ đang tới xem khi nào thằng nhóc này tới ngày bỏ cuộc
+Vỗ tay và nhìn một thằng điên cố gắng trao cho họ những thứ mà nó không thể có được
+
+[Chorus]
+Is it all about love?
+Or was it all about drugs?
+Is it all about you?
+Or was it all about us? (About us)
+Is it all about love? (Is it all about love?)
+Or was it all about drugs? (Or was it all about drugs?)
+Is it all about you? (Is it all about you?)
+Or was it ever about us? (Ooh)
+
+[Outro]
+Làm sao để anh có thể sống vì em? Hay phải chết vì em?
+Chỉ để sống vì em? Chỉ để sống cùng em?
+Anh phải chết vì em? Anh phải— làm sao có thể sống?
+Làm sao để anh sống vì em? (Ooh-ooh) Hay anh sẽ phải chết vì em? (Ooh)
+Hay anh sẽ phải sống cùng em? Làm sao có thể sống?`,
+
+  "assets/artists/bray/audio/3 - Đúng Như Lời Họ Nói.mp3": `[Intro]
+When the shit hits the fan, are you still a fan?
+When the shit hits the fan, are you still a fan?
+Would you reload the clips, would you let it bang?
+Would you reload the— reload the— reload the—
+
+[Verse 1]
+Rapper thích lên nhạc và kể về những con số trong tài khoản
+You know the type, rap vài câu thì lại nhắc tên một vài hãng
+Flexing như thể là tiền nhà nó có đủ hết kiếp này xài sảng
+Nhưng khi bấm máy, đạo diễn mang ra những món xa hoa cho xài tạm
+Tao biết có cô ca sĩ, luôn luôn tươi cười, yêu đời
+Nhưng khi đêm tới, gối đầu nằm ngủ là những tiếng hét kêu trời
+Đem tuổi thanh xuân đẹp nhất để vứt vào tay một gã săn mồi
+Đến hồi tất cả chỉ còn là một bài hit mà khán giả đã quên rồi
+Có anh ca sĩ cứ cất giọng ca là làm fan ứa nước mắt
+Đem tiếng hát đi cứu người và dùng con tim để chứa vết cắt
+Nhưng đâu ai biết trong căn biệt thự của chàng trai đầy đổ nát
+Đêm nào ly rượu cũng có vết son, và tên thì không có trong contact
+Tao sẽ kể hết bối cảnh phía sau, nhưng cũng chỉ là phông xanh
+Sự thật thì mang make up, còn dối trá thì đang mang vòng thánh
+Tao cũng không đứng đây nói như thể là mình trong sạch
+Nhưng nếu đèn chiếu vào tao thì tao không ngại cho thấy hết mọi ngóc ngách
+
+[Chorus]
+When the wolves at the door, do you let ’em in?
+When the wolves at the door, do you let ’em in?
+If I put it in your hands, would you let it bang?
+Would you reload the clips, would you let it bang?
+When the snakes at the door, do you let ’em in?
+When the snakes at the door, do you let ’em in?
+If I put it in your hands, would you let it bang?
+Would you reload the clips, would you let it bang?
+
+[Verse 2]
+Có người nói là mày phải tách biệt được người nghệ sĩ khỏi nghệ thuật
+Nhưng nếu người nghệ sĩ trở thành người hùng thì hậu quả đúng là tệ thật
+Tao chỉ làm nhạc chứ chưa bao giờ muốn làm cây kim chỉ nam đạo đức
+Nếu muốn dùng ngòi bút để mị khán giả thì tao sẽ là thằng giỏi nói xạo nhất
+Tao cũng đã phạm những lỗi quỷ khóc và thần sầu
+Trả giá cho lời mình viết, nhưng cũng không phải là lần đầu
+Vẫn biết mình đang ở vị trí phải luôn luôn cẩn thận ở trong từng câu
+Vì đèn Sài Gòn đôi khi thì nó lại sáng còn hơn ánh đèn sân khấu
+Extra, extra, read all about it
+Lần này thì cộng đồng mạng lại thêm một phen để náo nhiệt
+Hôm qua thì bao biện, lòi ra là một thằng xảo quyệt
+Cô này bốc phốt anh này và đại diện công ty anh này bảo kiện
+Tất cả những gì họ nói trái ngược những gì tao làm
+Nhưng tao không chối được, tao đã làm, nên có lẽ tao đúng như lời họ nói
+Tất cả những gì mà họ nói trái ngược với những gì mà tao làm
+Nhưng tao không chối được, tao đã làm, nên có lẽ tao đúng như lời họ nói
+[Chorus]
+When the masks come off, do you know my face?
+When they call me a monster, do you look afraid?
+When they put it in your hands, did you let it bang?
+Did you reload the clips, did you let it bang?
+When they throw dirt on my name, did you bring a spade?
+When the lies get loud, did you hear my pain?
+When they put it in your hands, did you let it bang?
+Did you aim at my heart, did you say your grace?`,
+
+  "assets/artists/bray/audio/4 - Cho Con (Lullaby pt.2).mp3": `[Intro]
+(La-la-la-la-la)
+(La-la-la-la-la)
+
+[Verse]
+Uh, con được sinh ra trong vòng tay của mẹ và ba
+Điều đó có nghĩa là con đã có sự may mắn hơn rất nhiều người ta
+Mặc dù đáng tiếc một điều là ba của con không thể ở đó
+Ba của con phải làm ăn xa, là điều mà con luôn nghe từ nhỏ
+Bởi vì, ba không muốn con biết cuộc sống này
+Ba băn khoăn không biết rằng liệu là ba có thực sự nên viết ra cả đống này
+Nhưng đây là vài lời khuyên mà ba để lại, vì nếu lỡ cuộc đời không may
+Thì ngày nào đó con sẽ tìm được đáp án trong đây
+Trước tiên hết, điều duy nhất ba làm mà con nên làm giống:
+"Luôn luôn yêu thương mẹ của mình", bà ta yêu con hơn cả mạng sống
+Và hãy hiểu là ở trong đời luôn có những thứ không thể kiểm soát
+Và không phải hai người yêu thương nhau không ở bên nhau là điều gì hiểm ác (La-la-la-la-la)
+Lúc còn trẻ, hãy tập trung hết cho việc học và sự nghiệp (La-la-la-la)
+Người quan trọng họ luôn luôn chờ cho tới lúc trễ mới dự tiệc
+Và cứ mỗi khi đồng tiền về túi, đừng vội đốt hết vào tuổi xuân xanh
+Dành một phần cho sổ tiết kiệm, một phần cho mọi người xung quanh
+Xây cho riêng mình một chỗ đứng, không phải nhìn mặt mà đoán hình
+Tại sao phải cúi đầu với những kẻ vốn đã không hề chào đón mình?
+Vì, mục đích tồn tại của chúng ta không chỉ là vật chất
+Mọi thứ che giấu rồi cũng lộ ra, nên hãy sống sao cho thật nhất
+Và hãy học cách để kiên nhẫn, học cách cân bằng cán cân
+Dành thời gian ra cho gia đình và tất cả những dịp để ăn mừng
+Đừng chỉ biết xây ngôi nhà thật to, phải có tình yêu ở trong đó
+Và giữ lại hết tất cả người bạn khi con gục ngã đã không bỏ
+Học cách yêu tất cả mọi người vì họ là chính con người họ
+Dành dụm hết tất cả ngày vui dù cho là một nụ cười nhỏ
+Và, tình yêu là miễn phí, nên con không cần phải chiếm hữu
+Những người không biết cách buông bỏ lại là những người không biết giữ
+Tôn trọng người phụ nữ bên mình và luôn luôn thành thật
+Sự chân thành là dùng để trao, không phải là thứ để dành giựt
+Con sẽ mắc phải những sai lầm vì con cũng chỉ là con người
+Nhưng đó không phải là câu cửa miệng để nói ra thôi là xong rồi
+Cái gì mình phá thì mình dọn, là một cách để kiên cường
+Khi thành thật với bản thân, là học cách để khiêm nhường
+Bởi vì, mọi thứ tốt đẹp đều cần sự cống hiến
+Vậy con sẽ đổi điều gì để có bình yên?
+
+[Outro]
+(La-la-la-la-la)
+(La-la-la-la)
+(La-la-la-la-la)
+(La-la-la-la-la)`,
+
+  "assets/artists/bray/audio/5 - Felina.mp3": `[Intro]
+
+[Verse 1]
+Ngồi nói chuyện với mẹ
+Mẹ nói là "Mày lớn rồi đó Bin, đừng lên mạng mà nói khùng mà nói điên
+Mày đã mất rất nhiều thứ để có những thứ mày có nên mặc kệ họ nói ngả người nói nghiêng
+Mẹ không muốn họ nhìn thấy mày nổi điên (Tks, mẹ à)
+Mày không thích nhưng mày giống y như ba mày, chứ mày nghĩ mày từ đâu ra vậy?
+Mẹ không thích khi mày hút quá nhiều thuốc và uống quá nhiều đêm, quen quá nhiều em, đều là vui đùa
+Cũng đã có quá nhiều phen mày tự nhốt mình trong phòng, tự dằn vặt mà còn chưa chừa
+Trong mắt mẹ mày vẫn luôn là thằng nhóc mang mèo hoang về nhà nuôi vì nó không có chỗ trú mưa
+Tới giờ mẹ vẫn còn kể từ lúc nhỏ cho tới lớn mày luôn trả lại cho mẹ tiền mẹ đưa thừa
+Mày có ánh sáng bên trong mày, một lỗ hổng làm tâm hồn mày nó không đầy
+Dù quả tim của mày lớn nhưng đôi lúc mẹ tự hỏi có cần thiết để mày giữ số người đông vậy?
+Mày đã, mày đã gian truân cả đời nên mẹ chỉ muốn thấy mày được yên bình, muốn mày hạnh phúc và kiên định
+Muốn mày tiếp tục được sống với đam mê và bên cạnh là một cô gái tốt dành cho riêng mình
+
+[Pre-Chorus]
+Yeah, I know, baby, nhưng có quá nhiều thứ con không control được, baby
+Con đâu muốn mẹ lo lắng cho con đâu, baby, con sai thêm một bước then it’s over, baby
+
+[Verse 2]
+Và mẹ biết rồi ngoài đó thì tụi nó luôn rình nhau, đâu ai tình cảm như mẹ con mình đâu
+Con phải học một bài học sau nhiều năm tháng qua là ngày nào với tụi nó cũng là 15 tháng Ba
+Ở đằng sau sự ngưỡng mộ là sự hơn thua, tụi nó chờ để đạp con ngày con ngã
+Nhưng tụi nó sẽ phải học một bài học cay đắng là số lần mà con thắng nhiều hơn là con thua
+Chỉ cần khi đôi bàn tay con còn viết ra những bài nhạc có thể chạm tới cõi lòng một cách trơn tru
+Khi con bước lên sân khấu họ còn hát theo từng câu thì với tụi nó con vẫn sẽ mãi là ông vua
+Yeah, they love your boy, con trai mẹ đó, luôn biết mình sở hữu thứ không ai sẽ có
+Mang theo những vết cắt không cho ai thấy rõ, mỗi khi bước vào phòng thu là con mic cháy đỏ, I mean
+Haha, con biết mẹ không thích khi con kiêu căng
+Con biết mẹ không thích cứ mỗi khi mà mẹ bắt con giải thích thì con siêu văn
+Và con biết là mẹ muốn con có thể tìm cho mình một cô gái mà con thương
+Có những đêm con chiến thắng cả thành phố nhưng về nhà thì con thua thằng trong gương
+Và có quá nhiều cô gái trao lời yêu nhưng họ chỉ yêu con khi con phát sáng
+Họ đâu biết khi đèn tắt, họ đã phải bỏ chạy khi nhìn thấy một câu nhóc vẫn còn đang hoang mang
+Và con biết điều này nghe buồn cười nhưng khi quá nhiều người nói yêu, thật khó để tin một người
+Cứ mỗi bàn tay vỗ vai, con chợt nhớ họ có hai và tưởng tượng tay còn lại đang thủ dao sau lưng
+Đôi khi điều mà con lo là do họ không biết con luôn có một con quỷ ở đằng sau
+Đôi khi con cũng muốn cho họ nhìn thấy con quỷ đó nhưng mà ai sẽ ở lại để cùng lau máu trên sàn đấu? (Goddamn it)
+
+[Outro]
+Nhưng con hứa với mẹ, cách con đối nhân xử thế sẽ không thể lonely
+Con vẫn giữ sự tử tế, vì con luôn mang theo hình bóng của mẹ trên mọi nẻo đường mà con đi
+Con của mẹ, vẫn sẽ trả lại phần tiền thừa, vẫn đi nhặt mèo con ngoài hiên
+Vẫn sẽ viết về những thứ đau nhất, thay vào đó bằng một giọng bình yên`,
+
+  "assets/artists/bray/audio/6 - Ta CÓ Nên (Intro).mp3": `[Intro]
+Ta có nên nhìn vào sự thật, nếu ngày mai đôi mắt phải nhắm?  
+Ta có nên nói ra sự thật, nếu ngày mai sẽ mãi mãi câm?  
+Ta có nên đánh giá 1 người, chỉ duy nhất qua những sai lầm?  
+Ta có nên giết 1 người, nếu điều đó sẽ cứu cả trăm?  
+Và nếu như người chĩa súng bóp cò, chính là kẻ mình yêu thương nhất?  
+Và nếu chẳng may sống sót? Thì niềm tin kia liệu có đánh mất?  
+Ta có nên từ bỏ hạnh phúc, nếu điều đó mang lại niềm đau?  
+Vì giấu thật sâu trong sự kết thúc thỉnh thoảng chính là nơi bắt đầu  
+
+[Chorus]
+Những ông bố hãy giấu những đứa con gái  
+Và ở cạnh bên chăm sóc mỗi khi họ mắc những lựa chọn sai  
+Mama dặn con trai, đường chông gai phía trước còn dài  
+Nhưng trong tim của những người thân, là nơi duy nhất để đáng tồn tại  
+Sorry mama con đã khác, mama  
+20/20 mắt con phải sáng, mama  
+Con không lui tới với tất cả những kẻ vốn không đáng, mama  
+Họ nói là bạn, nhưng những hành động của họ thì khác, mama  
+Con vẫn đang ráng, mama  
+
+[Verse 1]
+Ta nên nhìn vào sự thật, vì giả dối sẽ khiến mù lòa  
+Không nên nói ra sự thật, vì bao nhiêu cũng không đủ cả  
+Không nên đánh giá 1 người, chỉ duy nhất qua những sai lầm  
+Nhưng không nên quên 1 lần phạm lỗi, dù điều tốt họ làm cả trăm  
+Và nếu như người ta yêu thương nhất, là kẻ đứng đằng sau khẩu súng  
+Ta vẫn nên yêu họ tiếp tục nhưng ở khoảng cách họ bắn không trúng  
+Nỗi đau thì đâu cũng có, nhưng tìm nơi nao mới ra hạnh phúc?  
+Giấu sâu trong sự bắt đầu, thì lại chính là cái nơi lạnh nhất  
+Những ngọn lửa thắp cháy sáng nhất, là những ngọn lửa sẽ chóng lụi tàn
+Quyển sách không mất kiến thức vì cậu học sinh để đóng bụi bàn
+Những kẻ không đáng thú vị, là những kẻ không có quá khứ
+Và những kẻ mang theo tổn thương là những kẻ vẫn chưa biết tha thứ
+Anh nghe nói rằng em ra đi mà không để lại dù là lá thư
+Mỗi câu nói mẹ nhắc về em đều là bắt đầu bằng chữ giá như
+Nhưng anh đoán nếu có lối thoát nào khác thì chắc chắn em đã thử
+Cay đắng là khi phải nhớ 1 người không có cơ hội nói câu giã từ
+Vì giấu
+
+[Verse 2]
+But, it’s ok, pick up, move on
+Nửa cuộc đời của anh tới giờ là cố đi tìm cho mình giấc ngủ ngon
+Bảo thì vẫn là Bảo, tuy xấu tính nhưng không biết thủ đoạn
+Âm nhạc vẫn là vũ khí, anh chỉ mong là mình có đủ đạn
+Vậy, ta có nên nhận hết chua cay nhân đôi mà trả?
+Và ta có nên là ta, nếu con người thật bị coi là giả?
+I don’t know, nhưng ngày hôm nay còn mic trong tay
+So Imma spread my wings and fly away
+
+[Outro]
+Anh được đọc đâu đó, là trong mỗi con người có 2 con sói luôn đánh nhau
+1 tượng trưng cho cái thiện, và 1 là cái ác
+Và con sói chiến thắng sẽ là con mà ta cho nó ăn nhiều hơn
+Mà hình như con Báo đã ăn hết cả 2 con rồi`,
+
+  "assets/artists/bray/audio/7 - Cho Ba.mp3": `[Verse]
+Mặc dù đầy đủ khi con khôn lớn, nhưng con có cảm giác mình luôn thiếu
+Nhất là khi cô đơn, thì những tổn thương đó càng nặng nhiều
+Mục đích tồn tại là gì? Đến bây giờ con còn chẳng hiểu
+Cũng may mắn tìm được âm nhạc là thứ duy nhất gọi là năng khiếu
+Baì tập chẳng bao giờ làm, nhưng lúc nào tay cũng sách và viết
+Muốn hiểu được con của mình, ba cũng chẳng có cách nào biết
+Vì con chẳng bao giờ nói chuyện hơn với ba được dăm ba câu
+Ở trong lòng vẫn còn chữ hận, và đó là cách để đâm ba đau
+Uhh
+
+Con ghét vì 1 tuổi thơ, không có đầy đủ ba và mẹ
+Con ghét những đêm 1 mình, khóc nức nở mà không ai nghe
+Con ghét vì ba có thể, đi nơi khác làm lại từ đầu
+Và con ghét ba làm mẹ khóc, bởi vì bọn con là người phải lau
+Con ghét tất cả mọi thứ, ghét nhất vẫn là bản thân
+Con luôn xem mình vô dụng, và những nỗi đau này con đáng nhận
+Và khi ba đưa con sang bên Mỹ thì sự căm ghét đó nhân ngàn lần
+Thật khó để thấy tổng thể, khi ta đang nhìn bức tranh càng gần
+Ba không xem âm nhạc con thích là 1 chỗ dựa vững cho tương lai
+Và con thì luôn xác định nó là 1 thứ theo con đường dài
+Mà thằng Bin thì luôn cứng đầu, quyết đã đi là không dừng lại
+Nên, bỏ tất cả đằng sau, cuốn gói đi mà không ngần ngại
+3 năm trôi, và
+Cũng có chút gì gọi là thành công
+Vẫn là con của ba, luôn nói ít hơn là hành động
+Con ước gì, ba có thể được thấy con trên sân khấu
+Nhìn những người hâm mộ thương con, và những người bạn luôn đứng đằng sau
+
+Và, ba à, con chẳng hề ghét ba đâu
+Mọi hờn giận đều đến từ những kỳ vọng ta ghép cho nhau
+Ba cũng chỉ mong muốn được thấy, con cứng cáp trong cuộc đời bạc
+Chẳng vui vẻ gì khi có 1 thằng con luôn chống đối không hợp tác
+Con thì quên đi mất, ba cũng là đứa trẻ tổn thương
+Ông nội cũng chẳng ở đó để cho ba 1 cuộc sống bình thường
+Suy cho cùng, cả 2 đều đau 1 nỗi đau chung
+Quá bận rộn chứng minh ba sai, mà con đã quên làm những điều đúng
+Và,...
+
+Hôm đó sau khi mà con về nhà
+Con đến và hỏi thăm ba
+Ba nói ba vui khi ba đã thấy con có tất cả
+Dù là, ba sẽ phải nhìn và ủng hộ con từ nơi rất xa
+Cổ họng nghẹn không nói nên lời
+Đó là tất cả động lực con cần để có thể sống trên đời
+27 năm sống, cuối cùng con cũng lớn thật rồi
+Con chỉ muốn 1 lần được nói với ba là con xin lỗi`,
+
+  "assets/artists/bray/audio/8 - Chân Mệnh ft B Rizzle.mp3": `[Chorus]
+Lately I've been busy, I've been on the low
+I know you wanna see me but I don't care to show
+I know it feels too empty looking, at the throne
+But all these motherfuckers ain't even coming close
+So sit back, enjoy the ride
+Powder all over my nose
+So sit back enjoy the ride
+No they ain't even coming close
+Lately I've been
+
+[Verse 1]
+Cái mà mày đang nghe là thằng B Ray trước khi cắt tóc ngố
+Năm nay không ăn chay nên mấy cậu underground đừng chọc bố
+Tao đem số mạng của mình ra thử chứ không còn ngồi than khóc số
+Hóa ra tao số đỏ, đời lại quăng vào tay tao bọc đô
+Đứng tuốt dưới đằng sau, cẩn thận cầm micro cho chắc tay
+Tao có thể nhìn xuyên và thấu tâm gan tụi mày muốn X Ray
+Nhưng bao năm qua mà làm không xong, cho 10 năm nữa thì vẫn vậy
+"Sao anh không làm nhạc diss?" Diss kẻ thua làm gì cho mất hay?
+Mày còn nhiều để học lắm con trai
+Đây là khi tao nghỉ vài nhịp và dạy mày với giọng khoang thai
+Tao sẽ viết bài diss này và cẩn thận để không nhắc tên ai
+Và nhìn mấy cu cậu ngứa, như em trai của mẹ bị giang mai
+It's alright, tuổi còn trẻ em có quyền khờ dại
+Khi mày còn trong thai, ở ngoài này tụi nó đang thờ ai?
+Thờ anh Thanh Bảo, represents the SouthSide
+Tao không điêu khi nói sẽ rap câu này đến ngày mà tao die
+You might also like
+Một Vòng Sài Gòn
+B Ray
+Cho Ba
+B Ray
+Ta Có Nên (Intro)
+B Ray
+[Chorus]
+Latеly I've been busy, I've been on the low
+I know you wanna see mе but I don't care to show
+I know it feels too empty looking, at the throne
+But all these motherfuckers ain't even coming close
+So sit back, enjoy the ride
+Powder all over my nose
+So sit back enjoy the ride
+No they ain't even coming close
+Lately I've been
+
+[Verse 2]
+Nghe tụi mày nói nhiều, nhưng vẫn không thấy mày đâu
+Đăng trạng thái thì giỏi nhưng nhạc không có để lấy 1 câu
+Rapper không bê đê, sao tụi mày cứ thích thụt đằng sau?
+Và đó là điểm khác nhau giữa người đứng đầu và lũ ruồi bâu
+See, nếu tao
+Lùi 1 bước, là để tiến ba bước
+Đời của mày là freestyle, đời tao được viết ra trước
+Vì tao là, chân mệnh thiên tử, ý trời đặt tao ở đây
+Tụi mày thích làm vua, làm tướng, khi sân chơi này là ván cờ vây
+Cuộc sống này không chỉ mưu mô, tài cán mày vẫn không đủ đô
+Không giấu được những con số, mày chi ra nhiều hơn là thu vô
+Nên nếu tao nhắc tên mày, thì hãy khoan vội mừng như trúng số
+Hẹn 2 năm của tao chưa tới, mà đã có thằng về đúng chỗ
+You're a stone cold killer
+Another rapper dead like you don't know better
+Nếu như là cần thiết thì cứ xem như đây là lời cảnh cáo
+Bao công không xử án, thì chính tay tao sẽ thế thiên hành đạo
+[Chorus]
+Lately I've been busy, I've been on the low
+I know you wanna see me but I don't care to show
+I know it feels too empty looking, at the throne
+But all these motherfuckers ain't even coming close
+So sit back, enjoy the ride
+Powder all over my nose
+So sit back enjoy the ride
+No they ain't even coming close
+Lately I've been`,
+
+  "assets/artists/bray/audio/9 - Một Vòng Sài Gòn.mp3": `Đi 1 vòng Sài Gòn, với nỗi sầu vẫn còn trên vai
+Viết 1 lá thư dài, phần mở bài chẳng để tên ai
+Có lẽ tao vẫn còn sẽ là 1 đứa trẻ không bao giờ lớn
+But fuck it, tao thích vậy, không kém không hơn
+Và cứ thế mà tao lại
+
+Đi 1 vòng Sài Gòn trên con xe đã có nhiều chủ
+Xe không chạy bằng xăng, mà bằng nước mắt của người yêu cũ
+Họ muốn mình chạy thật nhanh, nhưng, ta sẽ không thể vội, vì
+Đường còn dài, và đêm còn trẻ, đến khi nhắm mắt cũng không thể ngủ
+Ta nghe, ở phía cuối phố, là những tiếng tán tụng được ca vang
+Có những người hùng, thật ra chỉ là kẻ giỏi giả dạng
+Có những vết cắt, mà thời gian sẽ không thể xoa
+Dù 2 sai không làm 1 đúng, nhưng mà nó sẽ làm mày thỏa mãn
+Và họ mang lên cho mình vẻ mặt cau có
+Khi bàn tay của mày màu trắng, thì mắt mày thấy chỉ màu đỏ
+Dừng vài giây để nhoẻn miệng cười, vì tự thấy mình đâu đó
+Chẳng 1 ai là yêu kẻ nghèo, họ chỉ ghét người giàu có
+Họ sẽ nhìn mày tắm ở trong vạc dầu với vẻ mặt thật bình tĩnh
+Chẳng cái chết nào đủ thuyết phục cho tới cái chết của chính mình
+Yah, Đi 1 vòng Sài Gòn, hết 1 vòng thì mình càng lớn
+Đâu thể gọi là đi về muộn, nếu lúc đó là sáng sớm
+
+Đi 1 vòng Sài Gòn, với nỗi sầu vẫn còn trên vai
+Viết 1 lá thư dài, phần mở bài chẳng để tên ai
+Có lẽ tao vẫn còn sẽ là 1 đứa trẻ không bao giờ lớn
+But fuck it, tao thích vậy, không kém không hơn
+Và cứ thế mà tao lại`,
+
+  "assets/artists/bray/audio/10 - Vùng An Toàn ft V#.mp3": `[Intro: V#]
+Mm-hm, mm-hm
+Mm-hm oh, yeah, yeah
+
+[Verse 1: B Ray]
+Oh, và anh lại nghĩ về anh là ai ngày hôm nay
+Những khoảnh khắc, luôn dẫn dắt cho anh được quay lại cơn say
+Sai lầm nhất là khi mà ta đã nghĩ rằng ngày mai là hôm nay
+Nhưng mà anh đã chọn âm nhạc, so I guess I'm okay
+Vì hôm đó, khó để có thể nào hình dung
+Nếu như anh đã không bỏ đi, chỉ để chứng minh là mình đúng
+Không tinh tướng, không nhịn, không nhường, không phình trướng
+Không hình tượng, em biết rõ em chọn yêu gã không bình thường
+"Vì nếu mày yêu nó, mày sẽ không bao giờ có thể cất bước"
+"Chưa biết chắc mày có được gì, nhưng cái gia đình là mày mất trước"
+"Trên con đường đuổi lấy danh vọng, thường sẽ không có ngày về"
+"Mà đó là nếu và chỉ là nếu mày còn có nơi để mày về"
+"Nếu lời nói mày không thể giữ, thì còn giá trị gì lời thề?"
+So here I am, cả chai rượu chứa đầy nước mắt của thằng hề
+Anh vẫn là Bảo, luôn làm lỗi và tự mình giày vò
+Nhưng anh sẽ không thay đổi điều gì nếu như có quay lại ngày đó
+I loved you
+
+[Chorus: V#]
+Và cho tới lúc cuối cùng chẳng có ai còn lại nơi đây
+While nothing lasts I know that everything's gon' be okay
+Em sẽ không còn giữ khi anh cứ buông ra, những lời nói tổn thương
+Còn lại một chút gì đó vấn vương
+Bông hoa giờ vơi phần ngát hương
+Được và mất, anh không chắc là mình sẽ thắng khi anh bước đi
+Thôi thì ta trắng tay
+Cho nhau một kết thúc Hollywood style vì chiếu lâu sẽ mất hay
+Everything's gon' be okay
+Everything's gon' be okay
+Một chương mới đang sang trang khi hai ta phải bước ra vùng an toàn
+You might also like
+Exit Sign
+HIEUTHUHAI & marzuz
+Mắt Môi Tay Chân
+RPT MCK
+Come My Way
+Sơn Tùng M-TP & Tyga
+[Verse 2: B Ray]
+Sự thật là, vẫn chưa ai yêu anh nhiều hơn em từng làm
+Và cũng sẽ chẳng có ai có thể khiến cho nước mắt của em rơi từng hàng
+Và kể cả về sau này, có trong tay biển bạc và rừng vàng
+Cũng không bao giờ có thể thay thế người con gái bên cạnh lúc bần hàn
+Nhưng mà đây không phải lời thú tội
+Anh không tới để nhận án
+Anh đã có hình phạt, đó là nhìn em bên người xứng đáng
+Ta vẫn yêu và quan tâm nhau, chỉ là dùng một cách tiếp cận khác
+Tiếc là ta gặp nhau vào những năm tháng anh vẫn chưa sẵn sàng
+Chưa sẵn sàng để đối mặt
+Chưa sẵn sàng để vấp ngã
+Chưa sẵn sàng để buông tha
+Chưa sẵn sàng cho tất cả
+Giờ hơi thở anh đầy mùi cồn
+Và cổ áo anh toàn mùi thuốc lá
+Anh chỉ để lại đống đổ nát tất cả những nơi mà anh từng bước qua
+Anh, luôn luôn có một tâm niệm lớn
+Rằng anh sẽ lớn lên khác ba mình, nhưng rồi sau đó anh chưa hề lớn
+Em có nhớ lúc khi bên nhau, anh luôn nói với em là gì?
+Anh sẽ làm tất cả để em hạnh phúc, kể cả là việc anh phải ra đi
+
+[Chorus: V#]
+Và cho tới lúc cuối cùng chẳng có ai còn lại nơi đây (Cũng chẳng có ai)
+While nothing lasts I know that everything's gon' be okay (Yeah, yeah)
+Em sẽ không còn giữ khi anh cứ buông ra, những lời nói tổn thương
+Còn lại một chút gì đó vấn vương
+Bông hoa giờ vơi phần ngát hương
+Được và mất, anh không chắc là mình sẽ thắng khi anh bước đi
+Thôi thì ta trắng tay
+Cho nhau một kết thúc Hollywood style vì chiếu lâu sẽ mất hay
+Everything gon' be okay (Okay)
+Everything gon' be okay
+Một chương mới đang sang trang khi hai ta phải bước ra vùng an toàn (Everything's gon' be okay)
+[Break: V#]
+(Everything's gon' be okay)
+(Everything's gon' be okay)
+(Everything's gon' be okay)
+(Everything's gon' be okay)
+(Everything's gon' be okay)
+(Everything's gon' be okay)
+(Everything's gon' be okay)
+(Everything's gon' be okay)
+
+[Outro: V#]
+(Nhìn người Việt b-b-b-b-bay mà không cần cánh kìa)
+So, kể cho em nghe đi, từ đầu là như thế nào?`,
+
+  "assets/artists/bray/audio/11 - The One ft Đạt G.mp3": `[Intro: B Ray]
+Haha, and I love you too, baby
+Uh
+
+[Chorus: B Ray]
+Come on, let me see you pop off
+Baby, show out
+If you got that
+Baby, go down
+On the low now
+Make it go loud
+No control now
+
+[Verse 1: B Ray]
+Uh, và anh xin lỗi nếu như em cảm thấy phiền khi thấy được dòng tin nhắn này
+Anh chỉ muốn nói vài lời cuối sau đó thì anh sẽ phắn ngay
+Anh biết em thắc mắc sao thời gian qua anh đã đi vắng vậy
+Well, anh đã gặp một người con gái và trái tim anh đã có ngày nó được lấp đầy
+And yeah, I know you got some love for the boy
+Broke your heart twice, sending love to Hanoi
+Pretty young thing, đem lòng mến một thằng tồi
+Khi anh hẹn gặp, em nói không đến là được rồi
+Mm-mm, nhưng mà anh phải biết làm sao đây? (Sao đây?)
+Lần này, dân chơi đã gặp phải người cao tay (Cao tay)
+Got me, viết lên bản tình ca all day
+Nghe mùi tình yêu đâu đây
+Sau đó anh gửi nó cho Betty, Ly, Si, Vy
+Chi, Di, My, và Nhi
+Christina, Mina, Tina, Lena
+Đây là lời cuối cho nhau
+You might also like
+Dạo Này
+Obito
+Còn Ai Ngoài Anh Với Em
+B Ray
+Thu Đợi
+Wren Evans & itsnk
+[Pre-Chorus: Đạt G]
+Anh từng một lần sai đến không là mình
+Lạc lối không nơi thoát thân
+Để cho anh nhận ra một điều
+You should be the one
+Anh từng đặt lời thề từ giờ về sau đó (Sau đó)
+Không được cho ai nghe con tim mình líu lo
+Nhưng mà để đến hôm nay nhận ra một điều
+Là you should be the one
+
+[Chorus: B Ray]
+Let me, let me see you pop off
+Baby, show out
+If you got that
+Baby, go down, ah
+Come on, let me see you pop off
+Baby, show out
+If you got that
+Baby, go down
+On the low now
+Make it go loud
+No control now, uh
+
+[Verse 2: B Ray]
+Baby, anh đâu muốn khiến em phải nghi ngờ về anh đâu?
+Nghe những lời bàn tán từ những con người xung quanh nhau (Yeah)
+Nhưng mọi lời đồn thì sẽ luôn có ở trong đó là một nửa sự thật
+Nên anh sẵn lòng đem quá khứ cất, chứng minh em là thứ nhất (Number one)
+Vì tình yêu là một trò nguy hiểm (Hiểm)
+Nơi mà người thua là người càng ghi điểm, so (Yeah)
+Giữ con tim, baby, giữ con tim (Giữ con tim)
+Anh đã thấy những kẻ mang cả đời nó vẫn không yên
+Và nếu như anh phải nói thành lời, thì anh chỉ thà để cho mực đổ
+Bởi vì có những lời yêu thương vẫn còn mắc kẹt lại trong cần cổ
+Khi lớn lên trong cực khổ, không lúc nào là không hùng hổ
+Cơn giận dữ là tên độc tài, và nụ cười em là kẻ lật đổ
+Mmm, anh thì có gì đâu
+Nhưng nếu có tất cả thì cả hai sẽ khó vì nhau (Uh-huh)
+Anh đã sẵn sàng bỏ tất cả ở lại đằng sau
+Nếu biết trước có ngày gặp em thì anh đã không là anh từ đầu
+[Pre-Chorus: Đạt G]
+Anh từng một lần sai đến không là mình
+Lạc lối không nơi thoát thân
+Để cho anh nhận ra một điều
+You should be the one
+Anh từng đặt lời thề từ giờ về sau đó (sau đó)
+Không được cho ai nghe con tim mình líu lo
+Nhưng mà để đến hôm nay nhận ra một điều
+Là you should be the one
+
+[Chorus: B Ray]
+Let me, let me see you pop off
+Baby, show out
+If you got that
+Baby, go down, uh
+Come on, let me see you pop off
+Baby, show out
+If you got that
+Baby, go down
+On the low now
+Make it go loud
+No control now`,
+
+  "assets/artists/bray/audio/12 - Ghệ Mới ft Young H.mp3": `[Chorus: B Ray]
+Anh muốn có một em ghệ mới (Mới), một em ghệ mới (Mới)
+Một người không theo sau và khi bên anh chỉ để làm phiền (Chỉ để làm phiền)
+Baby, anh muốn em ghệ mới (Alright), một em ghệ mới (New chick)
+Ngày em bước đi là khi đời anh ngập tràn trong xanh (Trong xanh)
+Đừng đẩy anh về em ghệ mới (Úi lộn), thích em ghệ mới
+Đừng có để anh bên em ghệ mới (Mới), ôm em ghệ mới (Mỗi đêm)
+Đừng khiến anh yêu em ghệ mới (Hmm), hun em ghệ mới (Mwah)
+Đừng có để có hôm em về tới (Tới) là anh có ghệ mới (Okay)
+
+[Verse 1: B Ray]
+See, anh chỉ muốn có em ghệ đáng yêu (Đáng yêu)
+Muốn một em ghệ tối quậy sáng chill (Sáng chill)
+Em ghệ không thích nói bậy, mắng yêu
+Người khiến cho cuộc đời anh tươm tất, phẳng phiu (Phẳng phiu)
+Không cần em ghệ ăn nhậu, cắn pill (No, no)
+Không cần em ghệ mưu kế, lắm chiêu (No, no)
+Nói chung là khỏi nói tại em nói quá nhiều
+Không cần biết hết, anh chỉ cần em biết điều (Biết điều)
+Chẳng cần em sang trọng, kiêu sa (Kiêu sa)
+Không cần lộng lẫy, áo ngọc thêu hoa (Thêu hoa)
+Không phải vĩ mô hay nói chi xa, chỉ cần là về nhà yêu má và yêu ba (Yêu ba)
+Người đừng để anh phải lệ rơi (Rơi)
+Ngang trái là buồn lắm đó ghệ ơi (Ghệ ơi)
+Đừng để anh quang minh chính đại, tóc bạc đầy đầu phải đi kiếm em ghệ mới
+Trong nhạc rap, người ta gọi anh thiên tài nhưng mà chịu được em mới được gọi là thiên phú
+Nhưng mười trên mười lần anh dứt áo ra đi, đều quay lại, là đề tài mà loài người cần nghiên cứu (Cứu)
+Vì về cơ bản thì anh cũng chỉ là (Chỉ là)
+Một thằng ngu ngốc ở trong bảy tỉ à (Tỉ à)
+Một kẻ khố rách mà em từng đi qua
+Vậy có quá đáng lắm không nếu như
+You might also like
+Dư Tiền
+B Ray
+The One
+B Ray
+SỚM MUỘN THÌ
+Anh Trai "Say Hi", Hustlang Robber, JAYSONLEI, Khoi Vu, Mason Nguyễn & Nhâm Phương Nam
+[Chorus: B Ray]
+Anh muốn có một em ghệ mới, một em ghệ mới
+Một người không theo sau và khi bên anh chỉ để làm phiền
+Baby, anh muốn em ghệ mới, một em ghệ mới
+Ngày em bước đi là khi đời anh ngập tràn trong xanh
+Đừng đẩy anh về em ghệ mới (Úi lộn), thích em ghệ mới
+Đừng có để anh bên em ghệ mới (Mới), ôm em ghệ mới (Mỗi đêm)
+Đừng khiến anh yêu em ghệ mới (Hmm), hun em ghệ mới (Mwah)
+Đừng có để có hôm em về tới (Tới) là anh có ghệ mới (Okay)
+
+[Verse 2: Young H]
+Anh không phải thầy tu, bắt ăn cơm tàu hũ
+Em cấm anh giao du với bạn bè, bia rượu (Cái gì?)
+Em bắt anh chín giờ là phải lên giường ngủ
+Gọi hàng trăm cuộc gọi dù anh đang trong phòng thu (Quá đáng)
+Em thấy không an toàn, nghi ngờ anh phản bội
+Anh yêu em đàng hoàng, anh chưa hề giả dối
+Em chỉ mới hai mươi nhưng mang tâm hồn già cỗi
+Nên từ khi quen em, nhà anh có thêm bà nội, ah (Nội ơi)
+Những lúc mình tranh cãi, em giữ ví, điện thoại
+Em muốn một phiên tòa, em muốn một tí kiện cãi
+Đi bên еm, Trấn Thành không thể quăng miếng hài
+Em khiến cho Đường Tăng cũng không thể thiện tai (Nam mô)
+Anh muốn nói уêu em, không phải chạу theo xin lỗi
+Không phải là lời quở trách, đặt nụ hôn lên môi
+Mong em hãу tin tôi, đưa еm về tinh khôi
+Nhưng không phải là Lê Hiếu nên em toàn về khinh tôi
+Anh muốn một em ghệ sẽ thấu hiểu trái tim (Trái tim)
+Anh muốn một em ghệ biết lúc nào phải im (Phải im)
+Anh muốn một em ghệ nghe tâm sự suốt đêm (Suốt đêm)
+Anh muốn một em ghệ biết bớt, biết thêm
+Anh muốn một em ghệ biết tôn trọng gia đình (Gia đình)
+Không phải quá xinh, một em ghệ cá tính (Cá tính)
+Quan trọng là kết quả, không quan trọng quá trình
+Anh muốn một em ghệ giúp anh tìm ra mình
+[Bridge: B Ray]
+Anh muốn có một em ghệ
+Anh muốn có một em ghệ
+Anh muốn có một em ghệ mới (Mới)
+Một em ghệ mới (Mới)
+Anh muốn có một em ghệ
+Babу, anh muốn một em ghệ
+Anh muốn có một em ghệ (Muốn có một em ghệ)
+That's all I need (Baby, baby)
+
+[Chorus: B Ray]
+Anh muốn có một em ghệ mới (Muốn có một em ghệ, ghệ)
+Anh muốn có một em ghệ mới (Babу, anh có lời thỉnh cầu)
+Babу, anh muốn có một em ghệ giống у chang em vào lúc đầu
+Anh muốn có một em ghệ mới
+That's all I need (Baby, baby)
+
+[Outro]
+(Nhìn người Việt b-b-b-b-bay mà không cần cánh kìa)`,
+
+  "assets/artists/bray/audio/13 - Y Chang Em (interlude).mp3": `[Intro]
+(Nhìn người Việt bay mà không cần cánh kìa)
+
+[Chorus: B Ray]
+Là vì mấy em ghệ này y chang, y chang em
+Mấy em ghệ này y chang, y chang em
+Mấy em ghệ này y chang, y chang em
+Man, I just really really want you to know
+Là mấy em ghệ này y chang, y chang em
+Mấy em ghệ này y chang, y chang em
+Mấy em ghệ này y chang, y chang em
+Man, I just really really want you to know
+Là vì—
+
+[Verse 1: B Ray]
+Anh, ngủ lang khắp cả thành phố, nhưng gặp cô nào nhìn cũng y chang em
+Anh đã để bản thân mình mở lòng với mọi cô gái tốt nhưng có khi thoáng quên
+Người ta sẽ thấy những gì họ muốn thấy, nghe những gì họ muốn nghe
+Quên những thứ mình cần nhớ, và luôn nhớ những thứ mình cần quên
+Tới cả con *** anh nuôi trong nhà nhìn cũng giống em y hệt
+Cũng chỉ vì hôm đó, đã có một người nhận lời nói không ly biệt
+Bởi vậy làm sao mà anh ghét người yêu cũ được
+Thỉnh thoảng tụi anh vẫn ngủ chung mà
+Tên anh vẫn còn nằm trong danh bạ, là người yêu cũ, người yêu cũ "khung" á
+Baby, nhưng mà sao em nói là anh sẽ không thể kiếm được ai như em
+Baby, anh đã cố nhưng sao thật không thể nào quên được
+Và ngoài kia họ nói là anh chỉ có một gu người yêu khi quen
+Nhưng mà họ đâu biết, biết, biết hết đớn đau
+You might also like
+Ghệ Mới
+B Ray
+Love Game
+Low G & tlinh
+The One
+B Ray
+[Chorus: B Ray]
+Là mấy em ghệ này y chang, y chang em
+Là vì mấy em ghệ này y chang, y chang em
+Mấy em ghệ này y chang, y chang em
+Man, I just really really want you to know
+Là mấy em ghệ này y chang, y chang em
+Là vì mấy em ghệ này y chang, y chang em
+Man, I just really really want you to know
+Là vì mấy em ghệ này—
+
+[Skit Outro: B Ray, V#]
+(Come on, lemme see you pop off)
+(Baby, show out )
+(If you got that)
+(Baby, go down)
+(On the low now)
+(Makе it go loud)
+(No control now)
+(Go out)
+Hey, yeah, mình nói chuyện được không?`,
+
+  "assets/artists/bray/audio/14 - Feel At Home.mp3": `[Intro]
+Anh biết là nó không đơn giản như vậy được mà
+Em nghĩ là anh có đủ thời gian để biết mình muốn gì
+Người đó có bao giờ là em đâu
+
+[Verse]
+Anh muốn bắt chuyện, nhưng không thể ngỏ lời
+Anh biết vài chuyện, mà không thể ngó lơi
+Nghe nói bến đỗ, em cũng đã có nơi
+Vậy là chuyện mình chỉ tới đó thôi
+Không thể dối lòng, anh thấy mình nhỏ nhoi
+Không thể níu kéo, điều đó thật khó coi
+Mấy cái trò đó, để cho tụi nhỏ chơi
+Anh chọn rời bỏ trước khi bị bỏ rơi
+Quá trễ để có thể quay lại
+Quá nhiều đổ vỡ để có thể xây lại
+Vừa đủ trưởng thành để ngăn mình ngây dại
+Nhưng không đủ hận thù để có thể gây hại
+Truyền hình trực tiếp, họ đang quay ai?
+Ai được ở lại, ai bị lãng quên trong nay mai?
+Ai là phe giặc, còn ai là tay sai?
+Giữa một rừng đầy trái cấm, thì ai là cây ngay?
+Cảnh một màn hai
+Càng cố giải thích thì bất chợt lại càng sai
+Now I don't talk about love anymore
+I done bought girls Birks and Dior
+Some things just don't work anymore
+Some things just don't hurt like before
+Some things just cannot be ignored
+Some things just, some things just
+Look, anh đã quá quen từng ánh nhìn của những người lạ
+Và anh cũng chẳng lạ cách ứng xử của vài người quen
+Ngày nay, anh sẽ cần nhiều hơn là vài lời khen
+Đừng nói tình cảm, nếu trong đó nó có mùi men, damn
+Không biết tên anh từng, xuất hiện trong bao nhiêu cuộc hội thoại?
+Không biết bao nhiêu lần anh đã không gọi lại?
+Không biết ngày nào đó nếu ta có ngồi lại
+Liệu đôi mắt đó có còn thấy một thằng đồi bại?
+Khi nào thì sẽ quá đáng?
+Xây lên chỉ để phá nát
+Tất cả chỉ là đá, cát
+Không trả giá này thì trả giá khác
+Got me out here xưng tội như là cha xứ
+Anh xin được sửa sai, không xin được tha thứ
+Em biết là nếu còn cách thì anh cũng đã thử
+Cái giá mà anh phải trả có lẽ là giá như
+You might also like
+Vùng An Toàn
+B Ray
+Ghệ Mới
+B Ray
+Ex’s Hate Me
+B Ray
+[Outro]
+Now they wanna talk like they don't need me
+Now they wanna talk like this shit was easy
+Now they wanna talk like
+Like I don't pop off every time they see me
+Now you wanna talk like you found a new mе
+And in time you'll see a new me
+Wе gon' have that talk in time and you'll see
+You'll see, yeah`,
+
+  "assets/artists/bray/audio/15 - Còn Ai Ngoài Anh Với Em.mp3": `[Verse 1]
+Loving is hard, but loving is real
+And when the loving is right then it's beautiful
+Anh đã từng bị đánh bại bởi thời gian
+Một kẻ cầu toàn phải học cách để mà let it go
+Một kẻ ôm hết tất cả vào trong lòng
+Baby, em nghe xem kế hoạch này được không?
+Em trao anh niềm tin, anh trao em hi vọng
+Cùng nhau ta vun đắp và tạo nên sự sống
+Oh, ý em muốn nói với anh là em rất khó để yêu?
+You've never had someone to fall for real?
+Well, chào mừng em đến với gia đình
+Những đứa trẻ không ai nương tựa ngoài chính mình
+See, anh biết em là ai and I'm digging the vibe, yeah
+Mắt nâu và nụ cười đó chỉ có thể là từ trời cho
+Báng bổ những kẻ đã rời bỏ
+Và khi ánh đèn kia đã tắt
+Anh sẽ ngồi kể cho em nghe những bí mật
+Có những vết sẹo biết phát sáng
+Có những bài học anh còn xem là kỷ vật
+'Cause loving is hard, but loving is real
+And when the loving is right then it's beautiful
+Khi anh đến và đánh cắp linh hồn em
+Vì chỉ có mỗi anh là có thể nhìn thấy được giá trị thật của nó, real
+You might also like
+Feel At Home
+B Ray
+Vùng An Toàn
+B Ray
+Bạn Đời
+Karik (VNM)
+[Chorus]
+Giờ này còn ai ngoài anh với em? Yeah
+Anh với em? (Anh với em?)
+Ngoài này còn ai ngoài anh với em bây giờ?
+Anh với em bây giờ?
+Giờ này còn ai ngoài anh với em? Yеah
+Anh với em?
+Ngoài này còn ai ngoài anh với em bây giờ?
+Anh với em bây giờ?
+
+[Refrain]
+Xin еm đừng để anh đi
+Xin em đừng để anh nơi đây một mình
+Xin em đừng ướt đôi mi (Ướt đôi mi)
+Xin em đừng để cơn đau kia quay về
+
+[Verse 2]
+Anh muốn quay trở về thời gian khi đôi mắt kia không có bao ưu phiền
+Yeah, gia đình ta cưu mang loài sói gian, nhưng mà em vẫn luôn luôn dịu hiền
+Yeah, tell me what you need, yeah, anh sẽ mang cho em liền
+Yeah, ta lớn lên cùng nhau, anh đã thấy em khổ đau, em đã luôn chịu thiệt
+Daddy bỗng lắm khi không về nhà và anh cũng đã sớm nhận ra
+Là không còn lụa gấm thêu hoa, và không còn tiếng hát ngân nga
+Baby, anh chỉ biết được là chỉ còn anh và em ở trong cuộc đời
+Em cược tất cả vào anh, anh cược tất cả vào em
+Và thế giới này không được mời
+Đó là trước khi Bảo đã trở thành thằng tồi và để cho những lời hứa bay theo chiều gió cuốn
+Nó leo lên càng cao, nó càng hất mặt lên trời và đã không hề ngó xuống, yeah, thằng Bảo phải lớn
+Nó đã phải làm những điều nó đã làm để có thể đi được tới nơi mà nó muốn
+Anh chỉ muốn làm em được tự hào, con trai mẹ nên phải biết điều đó sớm
+But I know that now
+[Refrain]
+Xin em đừng để anh đi (Để anh đi)
+Xin em đừng để anh nơi đây một mình
+Xin em đừng ướt đôi mi
+Xin em đừng để cơn đau kia quay về
+
+[Chorus]
+(Giờ này—, giờ này—, giờ này—)
+Giờ này còn ai ngoài anh với em? Yeah (Xin em đừng để anh đi)
+Anh với em?
+Ngoài này còn ai ngoài anh với em bây giờ? (Xin em đừng để anh đi)
+Anh với em bây giờ?
+Giờ này còn ai ngoài anh với em? Yeah (Xin em đừng ướt đôi mi)
+Anh với em?
+Ngoài này còn ai ngoài anh với em bây giờ?
+Anh với em bây giờ?
+Giờ này còn ai ngoài anh với em? Yeah (Xin em đừng để anh đi)
+Anh với em?
+Ngoài này còn ai ngoài anh với em bây giờ? (Xin em đừng để anh đi)
+Anh với em bây giờ?
+Giờ này còn ai ngoài anh với em? Yeah (Xin em đừng ướt đôi mi)
+Anh với em?
+Ngoài này còn ai ngoài anh với em bây giờ?
+Anh với em bây giờ?`,
+
+  "assets/artists/bray/audio/16 - Viết Em Bản Tình Ca.mp3": `[Intro]
+(Nhìn người Việt b-b-b-b-bay mà không cần cánh kìa)
+
+[Chorus]
+Anh sẽ không viết cho em bản tình ca đó đâu
+Anh sẽ không viết cho em bản tình ca đậm sâu
+Anh sẽ không viết cho em bản tình ca
+Bởi vì họ đã nhìn ra
+Bởi vì em đã muốn anh viết cho em khúc nhạc đó
+Nên anh không viết cho em bản tình ca
+
+[Verse 1]
+Em muốn anh viết bản nhạc tình
+Đúc tượng, đóng dấu, và tạc hình
+Hoa hồng, nến đỏ, và pháo bông
+Còn nếu không thì hai ta đoạn tình
+Well, anh chỉ xin được thề là
+Anh sẽ không phổ nhạc vào hòa thanh
+Rằng anh muốn một mai khi về già
+Chìa khóa nhà em sẽ mở cửa nhà anh
+Có hàng tỉ vì sao kia lấp lánh
+Và em phải khiến chúng hổ thẹn hằng đêm
+Anh nghe nói thiên thần biết cất cánh
+Là bởi vì nó đã muốn được gần em
+Và nếu không có gì là mãi mãi
+Vậy thì với anh không có gì bằng em
+Em đẹp mà không cần bằng khen
+You might also like
+Y Chang Em
+B Ray
+Feel At Home
+B Ray
+The One
+B Ray
+[Chorus]
+Nên anh không viết cho em bản tình ca, đó đâu
+Nên anh không viết cho em bản tình ca, đậm sâu
+Nên anh không viết cho em bản tình ca
+Bởi vì họ đã nhìn ra
+Bởi vì em đã muốn anh viết cho em khúc nhạc đó
+Anh sẽ không viết cho em bản tình ca đó đâu
+Anh sẽ không viết cho em bản tình ca đậm sâu
+Anh sẽ không viết cho em bản tình ca
+Bởi vì họ đã nhìn ra
+Bởi vì em đã muốn anh viết cho em khúc nhạc đó
+Nên anh không viết cho em bản tình ca
+
+[Verse 2]
+Anh đi hết 5 châu 4 bể
+Cây tre trăm đốt, anh sẽ đốn rễ
+Người từ lòng đất, anh cũng trốn về
+Baby, không có gì là không thể
+Chỉ để em có được giấc ngủ ngon
+Baby, anh bắt ngủ sớm nguyên cái Sài Gòn
+Baby, anh sẽ làm tất cả
+Bán thời gian cho đồng hồ, bán nước biển cho con cá
+See, đây không chỉ là những lời ví von
+Tình yêu đẹp đến từ những điều tí hon
+Không thể mang lời nói đem đi đo
+Vậy nên là, đó sẽ luôn là lý do anh
+[Chorus]
+Anh sẽ không viết cho em bản tình ca đó đâu
+Anh sẽ không viết cho em bản tình ca đậm sâu
+Anh sẽ không viết cho em bản tình ca
+Bởi vì họ đã nhìn ra
+Bởi vì em đã muốn anh viết cho em khúc nhạc đó
+
+[Drop: B Ray]
+Anh sẽ
+Anh sẽ không viết cho em bản tình
+Tình-tình-tình, tình
+Tình-tình-tình
+Tình-tình-tình
+Tình ca-ca-ca`,
+
+  "assets/artists/bray/audio/17 - B.S.N.L ft YoungH.mp3": `[Intro]
+
+Giọt cà phê đắng đã không thể giết anh
+Khói trắng không thể giết anh
+Họ muốn máu anh làm tiết canh
+Lời họ nói đã không thể giết anh
+Hơi men không thể giết anh
+Cô đơn không thể giết anh
+Nhưng khi em gửi cho anh tin nhắn đó vào 2 giờ đêm
+Em đã giết anh
+
+[Chorus]
+Fuck you
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+Bullshit and your lies
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+Bullshit and your lies
+All your bullshit and your lies
+
+[Verse 1]
+
+Đêm qua anh không thể ngủ
+Mắt lim dim, nhưng lòng anh không cam
+Mọi loại cô đơn em có thể kể đủ
+Không con ma nào mà anh không mang
+Không kỉ niệm nào anh đã không đến
+Không bài hát nào anh đã không nghe
+Trên vai của anh luôn gồng ghềnh
+Những khoảnh khắc mình cùng ngồi trong xe
+Em không trang điểm, không son phấn
+Không e dè, em không care
+Hành trình dài nhất, nhưng lại ngắn nhất
+Có nơi nào ta quên ghé?
+Có nơi nào ta quên mình là ai?
+Có nơi nào em để anh ở lại?
+Có nơi nào vô tình và trực tiếp trở thành
+Lý do cho những tiếng thở dài?
+Bởi vì họ nói bức ảnh không phai mờ
+Chỉ là những người trong ảnh đó thay đổi
+Hai ta có duyên không phải nợ
+Hay cũng chỉ như lời người ta hay nói?
+Rồi cát bụi cũng vụt khỏi tay thôi
+Gió của trời sẽ khiến cho mây trôi
+Nhưng quan trọng khi đi cùng với gió
+Mây có hiểu được những lời do cây nói?
+
+[Chorus]
+Giọt cà phê đắng đã không thể giết anh
+Khói trắng không thể giết anh
+Họ muốn máu anh làm tiết canh
+Lời họ nói đã không thể giết anh
+Hơi men không thể giết anh
+Cô đơn không thể giết anh
+Nhưng khi em gửi cho anh tin nhắn đó vào 2 giờ đêm
+Em đã giết anh
+Fuck you
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+Bullshit and your lies
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+Bullshit and your lies
+All your bullshit and your lies
+
+[Verse 2]
+Em muốn anh gọi điện (gọi điện)
+Em muốn ta nói chuyện (nói chuyện)
+Em muốn ta ngồi đối diện
+Những lời nói em giờ đây toàn gói phiền (gói phiền)
+Giờ hai người một lối riêng (lối riêng)
+Nhớ về em như thói quen
+Anh từng cần em hơn sự nổi tiếng
+Những lời quan tâm giờ không thoát khỏi miệng
+Anh luôn muốn tình yêu này lâu dài
+Giữ cho màu bức tranh tình lâu phai
+Bên em cố kể vài câu hài
+Đâu làm em cười như khi bên ai
+Chắc là con tim không nên sai
+Hình xăm đó không xăm tên ai
+Khoảng cách đó không nên tồn tại
+Để đường ta đi đâu đầy chông gai
+Anh từng viết bài này như là love song
+Nhưng mà fuck con đường này em chọn
+Mong em chết trên giường cùng thằng đó
+Vì sự khinh bỉ là những gì anh còn
+Nói dối làm gì cho tốn sức
+Anh không ăn lại những gì người ta vứt
+Nếu em mơ một ngày ta quay lại
+Thì hết bài này anh khuyên em nên thức
+Nhớ anh cũng đừng nhắn tin
+Kể lể thằng đó đánh mình
+Ta giờ không là của nhau
+Nên kết thúc cả một hành trình
+Khi nói dối là bản tính
+Không lời nào anh còn tin
+Gặp mặt em lần cuối
+Xem như cạn tình
+
+[Outro]
+Fuck you
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+Bullshit and your lies
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+I said fuck you (I said fuck you)
+All your bullshit and your lies
+Bullshit and your lies
+All your bullshit and your lies`,
+
+  "assets/artists/bray/audio/18 - B.S.N.L 2 ft YoungH.mp3": `[Intro / Chorus]
+Một ngày nào đó em sẽ nhận ra những lời anh nói  
+Mong là vào lúc đó em đang nằm trên giường bệnh trăn trối  
+Ở 20 tuổi, anh mong em không thể ăn dù bụng rất đói  
+Mong em chết vì bị bệnh tim, quả báo em khiến tim anh nhức nhói  
+Man, I hope you happy with the things that I didn't know
+Don't let the karma hit you when you heading out the door
+I got a hundred problems and they all including you
+But I love you, I don't even know what to do
+Man, fck your bullshit and your sorry
+Don't even try to call me
+Man, fck your bullshit and your sorry  
+Bet you thought that I was blind but I could see  
+Thru your bullshit and your lies  
+
+[Verse 1]  
+Anh mang con tim trên tay  
+Trao em để em được thấy
+Họ trao con tim bằng giấy
+Phút chốc làm em quên ngay
+Có lẽ là nên như vậy
+Và anh chúc em hạnh phúc
+Cần sa đưa anh lên mây
+Em đưa anh xuống địa ngục
+Nơi mà em được tạo ra, với bao điều xảo trá
+Em là cáo già, virus của tạo hoá
+Nguồn sống của em là, những thứ anh trao ra
+Lời nói em bao la, và sặc mùi cao cả
+Em nói đừng lo lắng gì cả
+Anh tưởng em nói thằng đó là bạn thân
+Anh tưởng em nói rằng nó là anh cả
+Anh đâu biết gu của em là loạn luân
+Em ơi em có bao giờ từng tin vào quả báo?
+Anh chống mắt chờ của em nhìn ra sao
+Em ơi bịa láo ông Táo sẽ bẻ răng
+Em có bao giờ nghe thấy câu ca dao?
+Anh đâu hề thấy làn da em màu đỏ
+Cái đuôi hình mũi tên, cặp sừng của con dê
+Nói diêm vương chừa sẵn em một chỗ cái ngày em quay về
+
+[Chorus]
+Anh chỉ mong một ngày nào đó em sẽ nhận ra những lời anh nói
+Mong là vào lúc đó em đang nằm trên giường bệnh trăn trối
+Ở 20 tuổi, anh mong em không thể ăn dù bụng rất đói
+Mong em chết vì bị bệnh tim, quả báo em khiến tim anh nhức nhói
+Man, I hope you happy with the things that I didn't know
+Don't let the karma hit you when you heading out the door
+I got a hundred problems and they all including you
+But I love you, I don't even know what to do
+Man, fck your bullshit and your sorry
+Don't even try to call me
+Man, fck your bullshit and your sorry
+Bet you thought that I was blind but I could see
+Thru your bullshit and your lies
+
+[Verse 2]
+Em ơi anh yêu em lắm (lắm)
+Tai nạn anh hứa đi thăm (thăm)
+Đêm khuya em nhớ thức tắm (tắm)
+Ăn rau muống sau khi xăm (xăm)
+Anh biết anh biết em ho (ho)
+Đi bay về sớm anh lo (lo)
+Ho thì phải nhớ hút cỏ
+Nhớ uống thuốc đừng có uống khi no
+Nếu anh có nước trong tay
+Phòng em bị cháy không ai biết ai hay
+Sao có thể bạc tình như vậy
+Anh vừa đánh răng vừa đứng ngắm em cháy
+Tim anh em lấy em chơi
+Quả báo đến sớm em ơi
+Không cần chờ đến kiếp sau
+Không chừng thức giấc là ngày mai nó tới (yuh)
+Như là chết đuối khi đang bơi
+Cá mập nó cắn khi ra khơi
+Chơi nhầm thuốc giả mà qua đời
+Chết vì kiệt sức khi đang chơi
+Yêu toàn thằng chó được chốc lát rồi chia tay
+Đ*o thằng nào em tha, đến bạn anh em cũng lầy
+Anh không phải bến thuyền đợi chờ em như đã tính
+Anh không phải giường êm để đêm đêm em ngả mình
+Anh không phải bị mù mà không thấy em thả thính
+Nếu quay về lúc quen em anh sẽ tự vả mình
+Nhẹ dạ cả tin
+Trong suốt quá trình anh vẫn là thằng bại binh
+Những lời em nói anh coi như chưa từng nghe
+Chúc em hạnh phúc đêm hôm đi coi chừng xe
+
+[Outro]
+Man, I hope you happy with the things that I didn't know
+Don't let the karma hit you when you heading out the door
+I got a hundred problems and they all including you
+But I love you, I don't even know what to do
+Man, fck your bullshit and your sorry
+Don't even try to call me
+Man, fck your bullshit and your sorry
+Bet you thought that I was blind but I could see
+Thru your bullshit and your lies`,
+
+  "assets/artists/bray/audio/19 - B.S.N.L 3 ft YoungH.mp3": `[Intro]
+Ý em nói là gì?
+Mà ý em nói là sao?
+Ý em nói là bên cạnh em giờ đây đã có thằng nào
+Ý em nói là gì?
+Mà ý em nói là sao?
+Ý em nói là tim của anh giờ đây đã nhói và đau
+Thật lòng anh chẳng muốn thấy được em thêm giây nào
+Vì tim em lạnh giá như tờ tiền người ta trao
+Thật lòng anh chẳng muốn thấy được em thêm giây nào
+Vì tình không miễn phí như bài nhạc em hay down
+F*ck you và xin chào!
+
+[Verse 1]
+Em hỏi, sao anh không viết nhạc tình?
+Anh nói, anh chỉ muốn giữ nó cho riêng mình
+Em nói tâm hồn em già cỗi
+Em nói em thích nghe nhạc Trịnh
+Hỡi ơi đáng ra thì em đã phải nói nhạc Trịnh em thích là nhạc Trịnh Thăng Bình
+Em ơi tại sao em không còn đi học mà mặt và mũi của em đầy bụi phấn? (Tại sao?)
+Sinh ra em cầm tinh con chuột mà sao lúc nào cũng thấy em tủi thân (tại sao?)
+Em chưa một lần bước chân vào cửa phật nhưng sao đêm nào cũng thấy em ăn "trai" (tại sao?)
+Sao ba má sinh em ra con một mà trong điện thoại em quá nhiều anh trai?
+Vậy ý em là gì và ý em là sao?
+Ý em từ đầu là đã lừa dối nhau?
+Ý em tất cả những lời mà em đã từng nói với anh thì đều là nói xạo?
+Ý em tất cả xảy ra như tai nạn
+Như xe cán mà không cần cắt phanh?
+Háng em là do em tự mở chứ đâu có Bùi Tiến Dũng nào bắt banh (hở)
+
+[Chorus]
+Ý em nói là gì?
+Mà ý em nói là sao?
+Ý em nói là bên cạnh em giờ đây đã có thằng nào
+Ý em nói là gì?
+Mà ý em nói là sao?
+Ý em nói là tim của anh giờ đây đã nhói và đau
+Thật lòng anh chẳng muốn thấy được em thêm giây nào
+Vì tim em lạnh giá như tờ tiền người ta trao
+Thật lòng anh chẳng muốn thấy được em thêm giây nào
+Vì tình không miễn phí như bài nhạc em hay down
+F*ck you và xin chào!
+
+[Verse 2]
+Em từng nói với anh là
+Em từng nói với anh là
+Em từng nói với anh là
+Em từng nói với anh là
+Em girl hiền lành nhá
+Ở nhà nghe lời má
+Thích ăn chay trường mà
+Không có ăn thịt cá
+Em girl hiền lành nha
+Đêm không đi vào bar
+Anh trai em nhiều nhất
+Mua đồ không hỏi giá
+Tính em giống con nít
+Mua thuốc lá không thích
+Thích bong bóng ghét kẹo ngọt
+Thích chụp ảnh mông đít
+Em bật cả đèn xanh
+Anh vặn ga thật nhanh
+Bao nhiêu tiền này vô cặp vú này ngu sao có mình anh
+Sáng facebook niệm nam mô
+Cứ tối đến lại kêu đồ
+Trước mặt anh em ngây thơ
+Nhà lôi má ra battle
+Trước mặt anh em khác
+Hiền dịu trong lòng anh
+Sau lưng anh em ác
+Hơn cô giáo mầm xanh
+Sao bây giờ em nói
+Em đã yêu lầm anh
+Em đưa thằng nào sút
+Sao bắt anh cầm banh? Hả?
+
+[Outro]
+Ý em nói là gì?
+Mà ý em nói là sao?
+Ý em nói là bên cạnh em giờ đây đã có thằng nào
+Ý em nói là gì?
+Mà ý em nói là sao?
+Ý em nói là tim của anh giờ đây đã nhói và đau
+Thật lòng anh chẳng muốn thấy được em thêm giây nào
+Vì tim em lạnh giá như tờ tiền người ta trao
+Thật lòng anh chẳng muốn thấy được em thêm giây nào
+Vì tình không miễn phí như bài nhạc em hay down
+F*ck you và xin chào!`,
+
+  "assets/artists/bray/audio/20 - Để Ai Cần ft Young H.mp3": `[Intro]
+Baby cái đó nó đéo ai cần
+Đéo ai cần
+Nếu thích cứ giữ lấy
+Đéo ai
+Nah nah Nah nah Nah nah
+Baby cái đó nó đéo ai cần
+Đéo ai cần
+Nếu thích cứ giữ đó
+Đéo ai cần
+Đéo ai cần
+Thật lòng thì người cầm lấy
+Quay mặt lại rồi bước đi
+I got a hunnid bitches
+Đối với anh em là gì nà
+
+[Verse 1 - YoungH]
+Anh mất cảm giác em ơi
+Lòng tin anh chết ngắt em ơi
+Dù giờ đây nước mắt em rơi
+Con tim anh nói không nên lời
+Thằng Huy thì cùng em vào bar
+Thằng Sơn thì đưa em về nhà
+Thằng Nam em nhắn tin suốt sáng
+Thằng Quang mua cho em nhiều quà
+Anh ở đâu đây em
+Trong danh sách dài
+Yêu thương bao lâu
+Không biết cách xài
+Anh ở đâu đây em
+Em thử thách hoài
+Bớt dắt em ơi
+Anh đã bắt bài
+Dối trá em trao
+Anh đã vất lại
+Mãi đuổi theo em
+Không còn sức chạy
+Trước khi bên em
+Anh là người tốt
+Xin đừng biển anh thành
+Thằng mất dạy
+Chúc em nêm dấm bằng
+Lọ nước tương
+Chúc em uống nước
+Nhưng lại mắc xương
+Chúc em cưỡi ngựa
+Nhưng lại mất cương
+Cặp loa em độ trở thành bức tường
+Chúc em khi bệnh
+Không người thăm
+Về nhà mùng một với mười lăm
+Chúc em chọn yêu
+Thằng lười tắm
+Không còn răng nào
+Để dùng tăm
+Chúc em bị nghẹn khi mút kem
+Em không thể ngủ
+Mặc dù rất thèm
+Trong mọi cuộc chơi em đều thua
+Không thể xem phim vì mắt kém
+Xin đừng dùng
+Những lời dối gian
+Hạ gục nhau
+Như những trận đối kháng
+Anh biết hết việc em làm
+Dù anh không giỏi trò bói toán
+
+[Chorus]
+Baby cái đó nó đéo ai cần
+Đéo ai cần
+Nếu thích cứ giữ đó
+Đéo ai cần
+Đéo ai cần
+Thật lòng thì người cầm lấy
+Quay mặt lại rồi bước đi
+I got a hunnid b*tches
+Đối với anh em là gì nà
+
+[Verse 2 - B Ray]
+Anh mong mỗi lần  
+Em leo cầu thang  
+Là chân bị hụt  
+Chúc em qua đời  
+Thanh thản ở trên giường ngủ  
+Và thức giấc là ở dưới địa ngục  
+Anh mong những ngày tệ nhất  
+Sẽ đến với em  
+Mỗi khi bầu trời trong xanh  
+Mong em con đàn cháu đống
+Mà nhìn đứa nào
+Mặt cũng giống anh
+Anh chỉ mong rằng
+Sau khi em đã không anh
+Tính chuyện gì
+Cũng không thành
+Leo núi cũng bị sóng đánh
+Không khí không được trong lành
+Giờ này thì ai ôm
+Một vài ba hôm
+Chỉ vì một cái hôn
+Anh thề lúc đó
+Anh ngu vãi lồn
+Mong dép em kẹt thang cuốn
+Anh mong có ba thìa muối
+Ở trong tất cả
+Ly nước em uống
+Anh chờ ngày em trả giá
+Và ngày đó sẽ không có xa
+Anh mong thần tài gõ cửa
+Mà hôm đó em không có nhà
+
+[Bridge]
+Oke oke
+Anh mong em mập
+Anh mong em mụn
+Anh mong em sún nguyên hàm răng cửa
+Anh mong em đánh bại được ung thư
+Chỉ để bị ung thư thêm lần nữa
+Anh mong em biết tất cả anh làm
+Đều là do em gây ra
+Còn về phần anh
+Anh chỉ muốn
+Được nói với em một điều là
+Sao em không như lời em nói
+Người bôi trâu chét chó lên lòng tôi
+Nói thêm nữa chi
+Bởi vì khi em nói
+I’m so so sorry
+
+[Outro]
+Baby cái đó nó đéo ai cần
+Đéo ai cần
+Nếu thích cứ giữ đó
+Đéo ai cần
+Đéo ai cần
+Thật lòng thì người cầm lấy
+Quay mặt lại rồi bước đi
+I got a hunnid b*tches
+Đối với anh em là gì nà
+Em đéo là gì nà`,
+  
   // -------------------------------------DANGRANGTO-----------------------------------------
   // ----------------------------------------------------------------------------------------
   "assets/artists/dangrangto/audio/1 - xương rồng.mp3": `[Intro]
