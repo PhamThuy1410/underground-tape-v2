@@ -81,6 +81,30 @@ window.TRACKS_DANGRANGTO = [
     "title": "đắm say trong tình yêu",
     "feat": "",
     "order": 13
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/14 - hãy đến đây bên anh trong một chiều mùa thu.mp3",
+    "title": "hãy đến đây bên anh trong một chiều mùa thu",
+    "feat": "",
+    "order": 14
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/15 - để dành cho em.mp3",
+    "title": "để dành cho em",
+    "feat": "",
+    "order": 15
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/16 - thế giới của anh.mp3",
+    "title": "thế giới của anh",
+    "feat": "",
+    "order": 16
+  },
+  {
+    "src": "assets/artists/dangrangto/audio/17 - MOIEM.mp3",
+    "title": "MOIEM",
+    "feat": "",
+    "order": 17
   }
 ].map((t) => ({
   ...t,

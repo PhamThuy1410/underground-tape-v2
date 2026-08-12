@@ -69,6 +69,78 @@ window.TRACKS_HIEUTHUHAI = [
     "title": "Chờ Tới Khi Anh Về",
     "feat": "Hoàng Tôn",
     "order": 11
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/12 - Ai Cũng Phải Bắt Đầu Từ Đâu Đó.mp3",
+    "title": "Ai Cũng Phải Bắt Đầu Từ Đâu Đó",
+    "feat": "",
+    "order": 12
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/13 - Giờ Thì Ai Cười.mp3",
+    "title": "Giờ Thì Ai Cười",
+    "feat": "",
+    "order": 13
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/14 - NOLOVENOLIFE.mp3",
+    "title": "NOLOVENOLIFE",
+    "feat": "",
+    "order": 14
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/15 - Không Phải Gu ft. B Ray & Tage.mp3",
+    "title": "Không Phải Gu",
+    "feat": "B Ray & Tage",
+    "order": 15
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/16 - Siêu Sao.mp3",
+    "title": "Siêu Sao",
+    "feat": "",
+    "order": 16
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/17 - Đi Họp Lớp.mp3",
+    "title": "Đi Họp Lớp",
+    "feat": "",
+    "order": 17
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/18 - Không Thể Say.mp3",
+    "title": "Không Thể Say",
+    "feat": "",
+    "order": 18
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/19 - Exit Sign ft. marzuz.mp3",
+    "title": "Exit Sign",
+    "feat": "marzuz",
+    "order": 19
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/20 - Sắp Nổi Tiếng.mp3",
+    "title": "Sắp Nổi Tiếng",
+    "feat": "",
+    "order": 20
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/21 - Everything Will Be Okay.mp3",
+    "title": "Everything Will Be Okay",
+    "feat": "",
+    "order": 21
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/22 - Cho Em An Toàn.mp3",
+    "title": "Cho Em An Toàn",
+    "feat": "",
+    "order": 22
+  },
+  {
+    "src": "assets/artists/hieuthuhai/audio/23 - NOLOVENOLIFE.mp3",
+    "title": "NOLOVENOLIFE",
+    "feat": "",
+    "order": 23
   }
 ].map((t) => ({
   ...t,

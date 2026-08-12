@@ -1,12 +1,16 @@
 // ========== SERVICE WORKER ==========
-const CACHE_NAME = "music-app-v1";
+const CACHE_NAME = "music-app-v1.1"; // ← Thay đổi số này mỗi lần update CSS/JS
 const URLS_TO_CACHE = [
   "/",
   "/index.html",
   "/css/style.css",
   "/js/app.js",
+  "/js/config.js",
+  "/js/lyrics.js",
   "/artists.json"
 ];
+
+// ... rest of code (không thay đổi)
 
 // Install event - cache files
 self.addEventListener("install", (event) => {

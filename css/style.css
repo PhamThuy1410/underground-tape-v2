@@ -102,21 +102,6 @@ body {
   min-height: max-content;
 }
 
-/* .artist-selector__title {
-  font-family: var(--font-display);
-  font-size: clamp(4rem, 10vw, 9rem);
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  margin-bottom: 0;
-  text-align: center;
-  background: linear-gradient(100deg, #ffffff 0%, #ffffff 42%, var(--accent-yellow) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  width: 100%;
-  line-height: 0.78;
-} */
-
 .artist-selector__subtitle {
   font-size: 1.125rem;
   color: var(--text-secondary);

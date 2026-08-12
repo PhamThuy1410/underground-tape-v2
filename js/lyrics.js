@@ -81,6 +81,10 @@ Những cơn đau để anh được chịu đựng cùng em`,
   "assets/artists/dangrangto/audio/11 - quenvaonhau.mp3": ``,
   "assets/artists/dangrangto/audio/12 - món quà.mp3": ``,
   "assets/artists/dangrangto/audio/13 - đắm say trong tình yêu.mp3": ``,
+  "assets/artists/dangrangto/audio/14 - hãy đến đây bên anh trong một chiều mùa thu.mp3": ``,
+  "assets/artists/dangrangto/audio/15 - để dành cho em.mp3": ``,
+  "assets/artists/dangrangto/audio/16 - thế giới của anh.mp3": ``,
+  "assets/artists/dangrangto/audio/17 - MOIEM.mp3": ``,
   // -------------------------------------HIEUTHUHAI-----------------------------------------
   // ---------------------------------------------------------------------------------
   "assets/artists/hieuthuhai/audio/1 - Anh Nên Đi Khỏi Đây.mp3": `[Intro]
@@ -897,6 +901,18 @@ Chờ, chờ tới khi anh về
 Ánh mắt của em hãy chỉ để cho anh thôi
 Những buổi tối nơi hai ta hay chung đôi
 Leo lên giường đi, chờ tới khi anh về`,
+  "assets/artists/hieuthuhai/audio/12 - Ai Cũng Phải Bắt Đầu Từ Đâu Đó.mp3": ``,
+  "assets/artists/hieuthuhai/audio/13 - Giờ Thì Ai Cười.mp3": ``,
+  "assets/artists/hieuthuhai/audio/14 - NOLOVENOLIFE.mp3": ``,
+  "assets/artists/hieuthuhai/audio/15 - Không Phải Gu ft. B Ray & Tage.mp3": ``,
+  "assets/artists/hieuthuhai/audio/16 - Siêu Sao.mp3": ``,
+  "assets/artists/hieuthuhai/audio/17 - Đi Họp Lớp.mp3": ``,
+  "assets/artists/hieuthuhai/audio/18 - Không Thể Say.mp3": ``,
+  "assets/artists/hieuthuhai/audio/19 - Exit Sign ft. marzuz.mp3": ``,
+  "assets/artists/hieuthuhai/audio/20 - Sắp Nổi Tiếng.mp3": ``,
+  "assets/artists/hieuthuhai/audio/21 - Everything Will Be Okay.mp3": ``,
+  "assets/artists/hieuthuhai/audio/22 - Cho Em An Toàn.mp3": ``,
+  "assets/artists/hieuthuhai/audio/23 - NOLOVENOLIFE.mp3": ``,
   // -------------------------------------HUSTLANG ROBBER-----------------------------------------
   // ---------------------------------------------------------------------------------------------
   "assets/artists/hustlangrobber/audio/1 - 1TINHYEU ft Young Puppy.mp3": ``,
