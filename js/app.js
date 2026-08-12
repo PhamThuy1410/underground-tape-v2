@@ -450,19 +450,11 @@ function checkAndApplyDeckArtistAnimation(span, artistText) {
   // Nếu text dài hơn 80% container, thêm animation
   if (textWidth > containerWidth * 0.8) {
     span.classList.add("deck__artist--scrolling");
-    
-    // ✨ KEY FIX: Nhân đôi text để chạy liền mạch (seamless loop)
-    // Format: "Artist Name • Artist Name • ..."
-    span.innerHTML = `${artistText} • ${artistText}`;
-    
-    // Tính thời gian dựa vào độ dài text
-    // Vì text nhân đôi, animation sẽ chạy liền không khoảng trống
     const duration = Math.max(12, (textWidth / 100) * 5);
     span.style.animationDuration = `${duration}s`;
-    console.log(`✅ Deck scrolling (seamless): ${duration.toFixed(1)}s`);
+    console.log(`✅ Deck scrolling: ${duration.toFixed(1)}s`);
   } else {
     span.classList.remove("deck__artist--scrolling");
-    span.textContent = artistText;
   }
   
   document.body.removeChild(tempContainer);

@@ -2098,26 +2098,869 @@ Chờ, chờ tới khi anh về
 Ánh mắt của em hãy chỉ để cho anh thôi
 Những buổi tối nơi hai ta hay chung đôi
 Leo lên giường đi, chờ tới khi anh về`,
-  "assets/artists/hieuthuhai/audio/12 - Ai Cũng Phải Bắt Đầu Từ Đâu Đó.mp3": ``,
-  "assets/artists/hieuthuhai/audio/13 - Giờ Thì Ai Cười.mp3": ``,
-  "assets/artists/hieuthuhai/audio/14 - NOLOVENOLIFE.mp3": ``,
-  "assets/artists/hieuthuhai/audio/15 - Không Phải Gu ft. B Ray & Tage.mp3": ``,
-  "assets/artists/hieuthuhai/audio/16 - Siêu Sao.mp3": ``,
-  "assets/artists/hieuthuhai/audio/17 - Đi Họp Lớp.mp3": ``,
-  "assets/artists/hieuthuhai/audio/18 - Không Thể Say.mp3": ``,
-  "assets/artists/hieuthuhai/audio/19 - Exit Sign ft. marzuz.mp3": ``,
-  "assets/artists/hieuthuhai/audio/20 - Sắp Nổi Tiếng.mp3": ``,
-  "assets/artists/hieuthuhai/audio/21 - Everything Will Be Okay.mp3": ``,
-  "assets/artists/hieuthuhai/audio/22 - Cho Em An Toàn.mp3": ``,
-  "assets/artists/hieuthuhai/audio/23 - NOLOVENOLIFE.mp3": ``,
+  "assets/artists/hieuthuhai/audio/12 - Ai Cũng Phải Bắt Đầu Từ Đâu Đó.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse]
+Tụi nó nói là tao muốn tiền và name, đúng rồi, tao đó, chắc mày thì không?
+Tao còn cần nhiều hơn cả quyền và fame, mài nhọn cây viết và tạo kì công
+Đành phải buông bàn tay em đi, để mà cầm lái AMG
+Đâu còn cái giá mười hai tiếng trước, nếu muốn thì pay thêm fee
+Tao đi từ "Thằng này, mày là ai?" cho tới "Đâu cần phải giới thiệu, chú"
+Từng là dấu chấm hỏi của cả Việt Rap, giờ là câu trả lời cho Ai Là Triệu Phú?
+Giẫm ga tao chỉ phóng và phóng, chân tao chưa từng nhùn
+Không ai có thể cản, phanh tao chưa từng dùng
+Đừng có nhận người quen nếu mình chưa mừng cùng
+Cuộc hẹn với chiến thắng, tao vẫn chưa từng bùng
+Qua năm 23, tao vẫn cao dần (Cao dần), xem ở trong tương lai tao còn bao lần (Bao lần)
+Tụi nó nói tao nằm mơ khi tao nói mỗi ngày viết thêm một verse là tao có thứ mà tao cần (Aight)
+Thời gian mà tao bỏ ra để mà giết vài con beat thì nó đang nằm ngay ngắn ở trên Cartier
+Và những gì tao nói cũng đã thành sự thật, không cần ai tin giống như Galilei, yeah, hold up
+Tụi mày có mấy thằng anh chống lưng mà vẫn muốn so sánh mong là ta bằng nhau
+Tao chỉ có cả tương lai phía trước, cộng thêm rất nhiều tỉ đang nằm ở đằng sau (Huh)
+Mục tiêu của tao ở trong top (Trong top), mục tiêu của mày chính là tao
+Nó chỉ mong là tao sẽ ăn phốt, nghe album tao drop thì bao thằng thi lo (Thi lo)
+Kewtiie trên beat và we on (We on), Prada và Christian Dior (Dior)
+Số một đứng cạnh cùng số hai thì nó vẫn là tao khi after, before (Before)
+Sẽ không bao giờ tao dừng lại, tao không hề ngủ quên những lúc mà khi no
+Nên chỉ có đeo thêm vài cọng dây chuyền sẽ là cách duy nhất tăng thêm vài kilo (Kilo)
+Và tao chỉ thua khi tự cắn vào đuôi như là rắn săn mồi
+Tụi nó đâu biết tao lớn lên ở Hóc Môn, đêm nằm dưới căn chòi
+Chỉ biết rockstar lifestyle nhưng mà đâu ai thấy tất cả thứ sau nó (No one)
+Cô đơn, phòng tối và chiếc bóng, ai cũng phải bắt đầu từ đâu đó
+You might also like
+Siêu Sao
+HIEUTHUHAI
+Sắp Nổi Tiếng
+HIEUTHUHAI
+Không Phải Gu
+HIEUTHUHAI, B Ray & Tage
+[Outro]
+Throwing dirt on my fucking name, wanna try me out? (Try me out?)
+Đã bao năm, thời gian cũng trôi qua, mày vẫn ở đó sao?
+Đứng trên show mà sao ở bên tai toàn là tên của tao?
+Tên của tao`,
+
+  "assets/artists/hieuthuhai/audio/13 - Giờ Thì Ai Cười.mp3": `[Intro: Kewtiie]
+Hey, Kewtiie
+
+[Verse 1: HIEUTHUHAI]
+Show khi xưa chỉ có hai người, stage outdoor, giờ thì chẳng thấy ai ngồi
+Ba năm thôi, mà tao đứng headline rồi
+Trí kế toán nó vừa gọi cho tao, nói đống tiền trong bank của tao đang sắp có thai rồi
+Gia đình mày còn trong fandom của tao, đâu chỉ là underground
+Những thành tựu mày mơ còn nằm dưới chân của tao
+Giờ nhìn tao làm sao? Vậy mày nói thử ai cười? (Ai?)
+Và nhiều em đi theo coi show, DM cho tao, nói muốn tình một đêm
+Tao thì đi chung năm anh em, nhưng đây không phải là Hai Ngày Một Đêm
+Nhiều thằng trong RV bao năm qua đu fame tao, nó đang chờ đọc tên
+Ra hai con A, nên anh đâu cần bọt thêm
+Tụi nó phì cười khi bắt gặp tao trong chợ Bàn Cờ và đi mua hàng si
+Giờ nó đâu biết là "bốn chai, hai lít, một ngày" là số tiền tao kiếm được từ việc không làm gì
+Không cần bling hay là tee camo bape, giờ tao chỉ repping lại cho cái khăn rằn ri
+Giờ là thời đại nào rồi? Tao không mặc skinny jeans
+Tụi mày làm tao cười, ướt cả hai hàng mi! (Ha-ha-ha)
+Ghi thêm chap khi tụi tao càng đi
+Chỉ cần nghe tao rap là em bung hàng khuy
+Một lần taking shot là bay nguyên hàng ly
+Nhìn tụi tao quăng miếng xong rồi gom vàng đi
+Vậy mà không bay à?
+Ngoài show Nam Bắc, bây giờ Đông Tây
+Nhìn tụi tao jetlag vậy mà không cay à?
+Khi mày không thể cười như là không có bóng nằm ở trong tay
+You might also like
+Is It Over Now? (Taylor’s Version) [From the Vault]
+Taylor Swift
+Hit Me Up
+Binz (VNM)
+Agora Hills
+Doja Cat
+[Chorus: HIEUTHUHAI]
+Vậy mà show khi xưa của tao hôm đó chỉ có hai người (Let's go! Let's go!)
+Giờ thì stage outdoor, full ghế, nhìn mãi chẳng thấy ai ngồi (Ooh)
+Chỉ cần ba năm thôi, tên tao đã đứng trên headline rồi (Hah-hah)
+Tiền tao sắp có thai rồi, ha-ha-ha, giờ thì ai cười?
+Vậy mà show khi xưa của tao hôm đó chỉ có hai người (Chỉ là hai thôi!)
+Giờ thì stage outdoor, full ghế, nhìn mãi chẳng thấy ai ngồi (Oh, V)
+Chỉ cần ba năm thôi, tên tao đã đứng trên headline rồi (Tap-ta)
+Tiền tao sắp có thai rồi, ha-ha-ha, giờ thì ai cười?
+
+[Verse 2: HIEUTHUHAI]
+Cộng đồng fan của tụi tao có ở ba miền
+Từ bà con tới anh em giống như gia truyền
+Một ngày dẫn cả RV như là A Xìn
+Còn lại thời gian lên TV quăng miếng ra tiền
+Miệng mày chê nhưng thâm tâm thì lại ước
+Nhìn thằng nào cũng đang phải cố để hài hước
+Mà dù làm nhạc hay tỏ ra mình hài hước
+Khi năm giây thì đã lướt thì tao cá là tụi mày đều chẳng thể kiếm được ra tiền
+Đã bao nhiêu lâu tao phải nghe mỗi một câu là rapper thì chỉ nên tập trung rap?
+Hay là bây giờ cần phải sống đa nhân cách và đặt thêm nghệ danh khác mỗi khi tao cầm mic hát?
+Nói toàn là fact nên không cần phải vào vai, ở đây không có Idecaf
+Nhìn tao cà hẩy, em nói nhớ về Eiffel trong khi xưa nay tao chưa bao giờ đi Pháp (Woah)
+Nghe trong nhạc tao không cần đọc, toàn độ hiệu rồi ở ngoài mua đồ fake về đâu? Ay
+Cho nên đừng trách sao không còn nhìn mặt mày chỉ bởi vì chẳng có mắt đằng sau
+Tao chỉ biết kiếm cho gia đình nhiều tiền và vừa rồi cầm được cùng vài lô, ay
+Bằng bài nhạc không chiều sâu, ah, bằng vài bài rap một màu
+[Chorus: HIEUTHUHAI]
+Vậy mà show khi xưa của tao hôm đó chỉ có hai người (Let's go! Let's go!)
+Giờ thì stage outdoor, full ghế, nhìn mãi chẳng thấy ai ngồi (Ooh)
+Chỉ cần ba năm thôi, tên tao đã đứng trên headline rồi (Hah-hah)
+Tiền tao sắp có thai rồi, ha-ha-ha, giờ thì ai cười?
+Vậy mà show khi xưa của tao hôm đó chỉ có hai người (Chỉ là hai thôi!)
+Giờ thì stage outdoor, full ghế, nhìn mãi chẳng thấy ai ngồi (Oh, V)
+Chỉ cần ba năm thôi, tên tao đã đứng trên headline rồi (Tap-ta)
+Tiền tao sắp có thai rồi, ha-ha-ha, giờ thì ai cười?`,
+
+  "assets/artists/hieuthuhai/audio/14 - 237°C ft LOWNA.mp3": `[Verse 1]
+Vuốt tóc và hất nhẹ vai
+Em như cơn gió lạnh lây
+Nếu như anh nhìn ngắm là sai
+Hãy bước tới cầm tay
+Walking at night vì đang Cần Thơ
+Cho người con gái anh bao lần mơ
+They call you Miss and call me Sir
+Nhưng mà anh làm Nân, còn em vẫn làm Nger
+
+[Verse 2]
+Em thấy đó (meow)
+I don’t give a fuck about your status
+Anh sẽ đốt mọi thứ xung quanh cháy hết
+Anh cần em ở đây và ngay lúc này
+Em ơi!!!!
+
+[Chorus]
+-237°C vẫn ok
+Thấy em đi cùng người không phải anh
+Biết là sẽ đau vào những ngày sau
+Cứ dại khờ mặc cho những thờ ơ
+Lấy vài ly chìm vào những cuồng si
+Áo sơ mi cũng chỉ để lau bờ mi
+Em thật ra cũng chỉ đến và đi
+Cuối cùng vậy thì mình đau làm gì
+
+[Breakdown]
+Yeah, yeah
+Shoutout to LOWNA, shoutout to LOWNA, yeah
+Shoutout to LOWNA, shoutout to LOWNA, yeah
+Shoutout to LOWNA, shoutout to LOWNA, yeah
+Shoutout, shoutout wow
+I don't give a wut, i don't give a wut, what?
+I don't give a wut, i don't give wut, what?
+I don't give wut, i don't give a wut, what?
+I don't give a wut, i don't give a wut, what?
+
+[Refrain]
+Vậy thì chúng ta là gì? (Không là gì)
+Vậy thì chúng ta là gì? (Không là gì)
+Vậy thì chúng ta là gì? (Không là gì)
+Vậy thì chúng ta là gì? (Không là gì)
+
+[Chorus]
+-237°C vẫn ok
+Thấy em đi cùng người không phải anh
+Biết là sẽ đau vào những ngày sau
+Cứ dại khờ mặc cho những thờ ơ
+Lấy vài ly chìm vào những cuồng si
+Áo sơ mi cũng chỉ để lau bờ mi
+Em thật ra cũng chỉ đến và đi
+Cuối cùng vậy thì mình đau làm gì
+[Outro]
+Yeah, Shoutout to LOWNA, -237°C,-237°C
+-237°C,-237°C,-237°C,-237°C
+-237°C,-237°C,-237°C,-237°C
+-237°C,-237°C,-237°C, vẫn ok, vẫn ok`,
+
+  "assets/artists/hieuthuhai/audio/15 - Không Phải Gu ft. B Ray & Tage.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Chorus: HIEUTHUHAI]
+Không phải gu (Gu)
+11 giờ tối là lên Lounge hút bóng thì chắc chắn đó là không phải gu
+Fanpage quán bar nào em cũng có ảnh cười với hàm răng sứ thì là không phải gu (Sorry, hah!)
+Trên bio ghi no Twitter (No), không phải gu
+Khó để anh phải hit dù nhắm mắt, uhm
+Vì là không phải gu
+
+[Verse 1: HIEUTHUHAI]
+Anh không hôn và cũng không go down nếu như không phải Su
+Comment toàn nói nhạc đẹp trai thì anh không cãi luôn, vì ông trời bắt anh trông phải cool
+Đường cong này, anh cua mượt (Cua), all in vào là vua cược (Let's go)
+Đua coi ai tới đỉnh trước thì anh thua cuộc và cảm giác như không có ai anh không thể cua được, uhm-mm
+Diễn viên hay người mẫu Venus (Venus)? Em còn lớn hơn anh, đoán y hệt (Biết ngay)
+Vậy mà muốn kêu anh là ba đường, mỗi lần anh rock full cây Adidas
+Chuyện tình trước của em nhiều đắng cay nên giờ cần tìm đến anh để thử nếm vị ngọt
+Vậy mình không cùng gu vì nhà em không hề khó nhưng mà em quen anh, em sẽ bị đòn (Ah)
+Và anh thích những người business, kinh doanh, làm ăn, nhập hàng về buôn nà
+Gu của anh là mấy cô khó đoán chứ không phải nhìn phát là biết làm nghề gì luôn nà (Huh)
+Hình em gửi trên mạng cũng có đầy rồi mà xem một lần rồi thôi, không phải lưu (No, no, no, no)
+Lần đầu gặp, em muốn đi ăn gì? (Anh) - là điển hình của việc không phải gu
+
+[Chorus: HIEUTHUHAI]
+Không phải gu (Whoo)
+11 giờ tối là lên Lounge hút bóng thì chắc chắn đó là không phải gu
+Fanpage quán bar nào em cũng có ảnh cười với hàm răng sứ thì là không phải gu (Sorry, hah!)
+Trên bio ghi no Twitter (No), không phải gu
+Khó để anh phải hit dù nhắm mắt, uhm
+Vì là không phải gu! (Let's go)
+11 giờ tối là lên Lounge hút bóng thì chắc chắn đó là không phải gu (For sure)
+Fanpage quán bar nào em cũng có ảnh cười với hàm răng sứ thì là không phải gu (Nah!)
+Trên bio ghi no Twitter (Whoo), không phải gu
+Khó để anh phải hit dù nhắm mắt (Facts)
+Vì là không phải gu
+
+[Verse 2: B Ray, B Ray & HIEUTHUHAI]
+Na-na-na-nah, không phải gu đâu (Không phải gu)
+Cười cười, lấy tay vịn vịn là đang bị thân quá mức mình nhu cầu
+Nói chuyện chữ được, chữ có do hút bóng tới mức nó hư đầu (Na-na-na-nah)
+Vẫn dây dưa với bạn trai cũ, motherfucker, một thằng ngu lâu!
+But I can take you down mặc dù anh biết em chẳng phải gu anh, ah
+Không có một đường cong nào mà anh lái không rành
+Nếu muốn hôn anh thì phải khéo, biết nhìn phải, trái, xung quanh (Watch out)
+Còn nếu thương anh thì phải thương luôn cả bạn gái của anh (Anh thương bạn gái)
+Gu anh girl ít nói, đang lạc lối đi kiếm tình yêu (Em)
+Gu anh không thích xài tiền thối, cần thì gọi để có tiền tiêu
+Cái gì cũng có giá cả nhưng lời nào trả thì cũng phải kiêu
+Anh biết trông anh thì khá giả nhưng anh vẫn luôn luôn keep it real
+Đó là không phải —
+[Chorus: HIEUTHUHAI, Tage]
+Không phải gu (Gu)
+11 giờ tối là lên Lounge hút bóng thì chắc chắn đó là không phải gu
+Fanpage quán bar nào em cũng có ảnh cười với hàm răng sứ thì là không phải gu (Hah!)
+Trên bio ghi no Twitter (Man), không phải gu
+Khó để anh phải hit dù nhắm mắt, uhm
+Vì là không phải gu (Let's go)
+11 giờ tối là lên Lounge hút bóng thì chắc chắn đó là không phải gu (For sure)
+Fanpagе quán bar nào em cũng có ảnh cười với hàm răng sứ thì là không phải gu (Nah)
+Trên bio ghi no Twitter, không phải gu
+Khó để anh phải hit dù nhắm mắt, uhm
+Vì là không phải (Tage!) gu!
+
+[Verse 3: Tage]
+Tiếng bước chân ai nhẹ tiến thêm gần lại và ngồi riêng một góc trên tầng hai ([?])
+Hé đôi môi ngoan, еm khẽ gọi bồi bàn đang vội tay cầm bóng tay cầm chai rượu
+Buccellati luôn đeo trên ngực, chuông reo liên tục như là số máy tổng đài (Reng)
+Combo after combo, keep comin', hit 'em up 'til sunrise
+Facebook, Instagram đăng single status như thể là chưa ai chinh phục em được, ah
+Bar club quanh thủ đô này booking đều quen mặt cô nàng sinh hoạt đêm muộn, ah
+Lia đôi mắt xem thường all the girls with 'em fast fashion, ah
+Aston Martin thường rinh về dinh thự nhưng mà claiming Independent
+Đóa hồng phai tàn, walkin' hai hàng, that's a long night (Ooh)
+Sunglasses Versace, tay che mặt, yeah, phong thái (Ooh)
+Viên nhộng xanh, đỏ đặt trên bàn, chọn một trong hai
+Khuyên em rằng take that red one để mà biết là không phải gu`,
+
+  "assets/artists/hieuthuhai/audio/16 - Siêu Sao.mp3": `[Intro: HIEUTHUHAI, Kewtiie]
+(Ah)
+Tao đã, tao đã, tao đã trở nên siêu sao
+(Hey, Kewtiie)
+
+[Verse 1]
+Tao đã trở thành siêu sao nên chẳng bao giờ xuề xòa
+Và phải cắt móng tay tao đây khi cô ta mời về nhà
+Chỉ vài phút trong studio, Kewtiie thốt lên là, "Eureka"
+Nó nói, "Lại hít giồi, hít giồi!" (Ay)
+Fangirl đừng DM, đừng send nude, anh không có nhu cầu
+Telesale giới thiệu đất vì nó biết thứ mà anh mưu cầu
+Anh chỉ cần một tin nhắn có thể biến baby thành model
+Anh chỉ cần một tin nhắn, em cũng có thể quay về như lúc đầu, for real, ay
+Liếc qua nhưng mà sao đây? Ta không quen (Không quen)
+Đừng nhìn rồi viết y chang, thôi đi, tao đâu cho chép (No)
+Tụi mày toàn cheating thôi, yeah, boy, we're not the same (Same)
+Tao phải có tới năm em, ay, nếu baby cho phép, ah
+Bây giờ tao đi lên mainstream nhưng đâu có ngán ai
+Thằng hề này, khai ra đi, mày chi bao nhiêu cho mấy trang bán like?
+Tao chán với việc phải nghe nhạc một flow mà tụi mày khoe
+Làm tao nghi mày và ngu si cùng một phe
+
+[Chorus: HIEUTHUHAI]
+Khi tao chính là siêu sao (Sao), chính là siêu sao (Sao)
+Cứ có tên tao thì mày biết nó view cao (Tất nhiên rồi)
+Showbiz, underground, nhiều thằng muốn thủ tiêu tao
+Nhưng mà hit vẫn nghêu ngao, tao cần cố chứng minh sao? (Pow! Pow!)
+Khi tao chính là siêu sao (Sao), chính là siêu sao (Sao)
+I do it for my city vì thành phố rất yêu tao (They love me)
+Chẳng phải tung hint đầy mặt báo lúc yêu nhau
+Nhưng mà hit vẫn nghêu ngao, tao cần cố chứng minh sao? (Wassup?)
+You might also like
+Hit Me Up
+Binz
+Giờ Thì Ai Cười
+HIEUTHUHAI
+Hà Nội
+Obito, Shiki & VSTRA
+[Verse 2: HIEUTHUHAI]
+Lời viết ra toàn chung chung, đừng nhắn tin tao mà xin feat, man
+Không xăm mã vạch lên đầu, nhìn vô tên tao tụi nó biết hit, man
+Filter giá cao đến thấp, đó là cách mà tao hay mua hàng
+Để lại một dấu chấm, đó là cách tao đã cua nàng
+Là bạn gái của tụi mày chứ còn là ai?
+Đâu phải là một người nổi tiếng thì lên nhạc tao sẽ phải nice
+Nhạc bạn xàm thì cho xin lỗi, nhưng tôi không biết bạn là ai, ay
+Trong phòng thu ngồi nháp mấy câu vậy thôi, nhạc tao trending hàng loạt (Hàng loạt)
+Nên không cần phải diễn nữa đâu, dù bây giờ như ngôi sao màn bạc (Màn bạc)
+Tao được lòng đại chúng thì mấy nhóc con kêu nhạc tao không được art
+Còn mấy thằng hip-hop lắm luôn, sao không trả tiền produce bài nhạc?
+Tất cả là fake! Từ view, comment và lyrics mày cũng là fake
+Bệnh ngôi sao, đi sau gameshow hiện nguyên hình ngay (Ha-ha)
+Nhìn tao đi xa, bao nhiêu đêm cũng tới được đây (Hey!)
+Chỉ để quay về dạy cho mày biết rap sao là bay (Hey! Hey, hey, hey!)
+
+[Chorus: HIEUTHUHAI]
+Khi tao chính là siêu sao (Sao), chính là siêu sao (Whoo! Whoo!)
+Cứ có tên tao thì mày biết nó view cao (Tất nhiên rồi)
+Showbiz, underground, nhiều thằng muốn thủ tiêu tao
+Nhưng mà hit vẫn nghêu ngao, tao cần cố chứng minh sao? (Pow! Pow!)
+Khi tao chính là siêu sao (Huh?), chính là siêu sao (Huh?)
+I do it for my city vì thành phố rất yêu tao (OK, OK)
+Chẳng phải tung hint đầy mặt báo lúc yêu nhau ('Sup?)
+Nhưng mà hit vẫn nghêu ngao, tao cần cố chứng minh sao?
+[Outro: Viet Dragon]
+Tao chính là South Side King
+Mãi mãi vẫn là South Side King
+Luôn luôn sẽ là South Side King
+Vĩnh viễn phải là South Side King
+Anh em từ Quận Một đến Quận Mười Hai, now, put ya hands up! (Hey!)
+Phú Nhuận, Thủ Đức, Gò Vấp, đừng nấp, just put ya hands up! (Hey!)`,
+
+  "assets/artists/hieuthuhai/audio/17 - Đi Họp Lớp.mp3": `[Intro]
+Ay
+
+[Verse 1]
+Vừa có thêm KPI sau khi mà em bước về nhà
+Căn phòng 20 mét vuông mà em đi thuê ở thành phố lạ
+Sau hơn mười tiếng tăng ca, không cầm tay ai ngoài trừ tay lái
+Em còn không đủ thời gian suy nghĩ ai sẽ chăm sóc em khi về già
+Yeah, yeah, I feel ya
+Đã lâu rồi em không còn cười khi em có nhiều ca
+Em chạnh lòng khi tám tháng Ba, đồng nghiệp nhận nhiều hoa
+Nhưng mà lại từ người em vừa chia tay chính thức vào chiều qua
+Yeah, baby, I feel ya
+Năm 16, em xa gia đình
+Em hiểu nước mắt của mẹ khi em có người cha đa tình
+Và nhiều vết sẹo trong tim nhưng không hằn nó lên da mình
+Em luôn phải che khuyết điểm ngay cả khi không một ai nhìn
+Nên em vẫn luôn có thể sẵn sàng nhận thêm nhiều job (Job, job)
+Để mà viện cớ, lấy lý do không đi họp lớp (Lớp, lớp)
+Phải ngồi nghe đứa thành đạt vừa đi du lịch nơi lạnh nhất
+Vậy mà nói về những triết lý là tiền không mua được hạnh phúc, yeah
+
+[Chorus]
+Em có thể ngồi tới mai, nhưng chẳng thể cười với ai
+Nhìn bạn bè làm mấy chai, so cuộc đời ai vui
+Và ngày họp chẳng thiếu ai, chỉ ngoài trừ hai người
+Nghĩ là mọi chuyện tốt hơn vào một ngày khi ta lớn
+Giờ thì chỉ cần có ai ôm mình vào ngay vai
+Là đủ đề bật khóc ngay hết cả một đêm dài, oh-oh-oh
+You might also like
+Không Thể Say
+HIEUTHUHAI
+Người Miền Núi Chất
+Double2T
+Tell the kids i love them
+Obito & Shiki
+[Verse 2]
+Và tao vừa được trở về nhà sau 10 ngày quay
+Mỗi một ngày chỉ ngủ bốn tiếng và ba tao nói là "Thằng này hay"
+Vấn đề lớn nhất của tao là không hài lòng được đâu
+Nhiều lần chân tao đã chạm đáy nhưng nó nói như thể là thằng này may
+Yeah, my man, tao đi từ runway (Runway), leo lên xe, họp fan ở sân bay (Sân bay)
+Stay up late, can't see my Sunday (Sunday)
+Luôn đưa tay và ăn cùng no say nhưng mà lâu nay trong showbiz bao nhiêu người thân đây?
+I don't know
+Bao comment và bao lời chê có thể làm tao đau
+Fan của tao còn sẽ làm fan của tao được bao lâu?
+Đến tận sau này, đứng ở trên sân khấu này thêm được bao lâu? Yeah
+Tao vẫn luôn có thể sẵn sàng nhận thêm nhiều job (Job, job)
+Để mà viện cớ, lấy lý do không đi họp lớp (Lớp, lớp)
+Không muốn là thằng thành đạt, vừa đi du lịch nơi lạnh nhất
+Vậy mà nói về những triết lý là tiền không mua được hạnh phúc, yeah!
+
+[Chorus]
+Em có thể ngồi tới mai, nhưng chẳng thể cười với ai
+Nhìn bạn bè làm mấy chai, so cuộc đời ai vui
+Và ngày họp chẳng thiếu ai, chỉ ngoài trừ hai người
+Nghĩ là mọi chuyện tốt hơn vào một ngày khi ta lớn
+Giờ thì chỉ cần có ai ôm mình vào ngay vai
+Là đủ đề bật khóc ngay hết cả một đêm dài, oh-oh-oh
+
+[Verse 3]
+Ngoài những khi gặp fan, được đứng trên sân khấu và hát
+Đi diễn về và ngồi trên xe, xem story mà tao được tag
+Thì tao khó kiếm được niềm vui, chẳng thấy hạnh phúc, and that's a fact
+Tao không biết làm mình cười nhưng lại rất giỏi làm cho người khác
+Đừng so sánh, chẳng có gì đâu mà so
+Nghĩ tao có tất cả? Tao chỉ có âu và lo
+Hunger tao có vấn đề, nó chẳng biết đâu là no
+Và tao mong cũng sẽ tới một ngày chẳng có lý do mà tao không đi họp lớp
+[Outro]
+Em có thể ngồi tới mai, yeah, yeah
+Nhưng chẳng thể cười với ai, yeah, yeah, yeah
+Họp chẳng thiếu ai, uh-oh
+Nhưng mà nhìn ở trong ta chính là hai người`,
+
+  "assets/artists/hieuthuhai/audio/18 - Không Thể Say.mp3": `[Intro: Kewtiie]
+(Hey, Kewtiie)
+
+[Chorus: HIEUTHUHAI]
+Đã hơn một năm trôi qua mà mẹ vẫn thế, cứ tiếc đôi ta
+Xoá cả hình xăm trên da, chuyện tình mình cũng chẳng thể phôi pha
+Chắc cũng đã lâu anh không muốn say mà
+Cuối cùng là hôm nay anh lại nhớ tới em
+Có thể sẽ phone cho em và sẽ lại nói, "Anh vẫn yêu em"
+Bấm chuông nhà em trong đêm và hàng ngàn thứ biết chắc không nên
+Hứa trong lòng anh sẽ không uống thêm được
+Vì em là lý do số một làm cho anh không thể say
+
+[Verse 1: HIEUTHUHAI]
+Anh giờ đây thì vẫn đang cố quên những ngày ta còn được nằm ở bên
+Có thêm thành công hay kiếm thêm nhiều tiền, được biết tên bởi nhiều người chẳng giúp anh nở nụ cười được nữa đâu
+Bởi vì đằng sau ánh đèn, ở cạnh anh thì chẳng có ai
+Và cũng đã cố gắng để yêu thêm rất nhiều, mặc dù biết là điều đó sai
+Có lẽ anh chẳng thể yêu thêm
+Giờ mọi thông báo anh luôn mong là của em
+
+[Pre-Chorus: HIEUTHUHAI]
+Ướt ở trên mi mỗi lần qua từng nơi dấu chân ta đi
+Giờ còn đâu tình yêu lúc không là gì?
+Uống thêm là vì nước mắt anh rơi vào tận trong ly
+Chúng ta không sai, nhưng giờ đây làm sao để em quay lại?
+Nhà và xe làm chi? Ngóng trông em hoài, thức cả đêm dài
+Muốn em bên anh phải gọi thêm chai
+You might also like
+i wish i hated you
+Ariana Grande
+Is It Over Now? (Taylor’s Version) [From the Vault]
+Taylor Swift
+BACK TO ME
+¥$, Kanye West & Ty Dolla $ign
+[Chorus: HIEUTHUHAI]
+Đã hơn một năm trôi qua mà mẹ vẫn thế, cứ tiếc đôi ta
+Xoá cả hình xăm trên da, chuyện tình mình cũng chẳng thể phôi pha
+Chắc cũng đã lâu anh không muốn say mà (Ooh-ooh, ooh-ooh)
+Cuối cùng là hôm nay, anh lại nhớ tới em (Yeah, yeah-yeah)
+Có thể sẽ phone cho em và sẽ lại nói, “Anh vẫn yêu em”
+Bấm chuông nhà em trong đêm và hàng ngàn thứ biết chắc không nên
+Hứa trong lòng anh sẽ không uống thêm được
+Vì em là lý do số một làm cho anh không thể say
+
+[Verse 2: HIEUTHUHAI]
+Biết chắc chắn chẳng thể nào lại gặp nhau ở trên đường đời
+Và chỉ muốn ước mai sau, em sẽ gặp thêm một ai tuyệt vời
+Anh cũng sẽ đi tiếp tục, chẳng tổn thương người đến sau nhiều như em
+Vì anh đã từng thấy em đây phải đau, khóc khi ta cãi nhau
+Chẳng thể ngủ được đâu và mắt sưng qua ngày sau
+Cũng chẳng thể níu thêm chi, chi bằng hãy giữ lấy nước mắt em đi
+
+[Pre-Chorus: HIEUTHUHAI]
+Ướt ở trên mi mỗi lần qua từng nơi dấu chân ta đi
+Giờ còn đâu tình yêu lúc không là gì?
+Uống thêm là vì nước mắt anh rơi vào tận trong ly (Yeah-yeah-yeah)
+Chúng ta không sai, nhưng giờ đây làm sao để em quay lại?
+Nhà và xe làm chi? Ngóng trông em hoài, thức cả đêm dài
+Muốn em bên anh phải gọi thêm chai
+[Bridge: HIEUTHUHAI]
+Từng hứa bao nhiêu câu, giờ cũng không bên nhau
+Chẳng biết hôm chia tay, em đã ngồi khóc trong bao lâu
+Lúc đó đủ can đảm đâu mà nhìn lại? (Oh-ooh-ooh)
+Cố gắng hết bao nhiêu và cũng xa nhau mãi!
+
+[Chorus: HIEUTHUHAI]
+Đã hơn một năm trôi qua mà mẹ vẫn thế, cứ tiếc đôi ta
+Xoá cả hình xăm trên da, chuyện tình mình cũng chẳng thể phôi pha (Yeah, yeah-yeah)
+Chắc cũng đã lâu anh không muốn say mà (Ooh-ooh-ooh-ooh)
+Cuối cùng là hôm nay anh lại nhớ tới em (Yeah, yeah-yeah)
+Có thể sẽ phonе cho em và sẽ lại nói, "Anh vẫn yêu em"
+Bấm chuông nhà em trong đêm (Trong đêm) và hàng ngàn thứ biết chắc không nên
+Hứa trong lòng anh sẽ không uống thêm được (Oh-ooh-whoa-ooh-whoa)
+Vì еm là lý do số một làm cho anh không thể say`,
+
+  "assets/artists/hieuthuhai/audio/19 - Exit Sign ft. marzuz.mp3": `[Intro]
+(Hey, Kewtiie)
+
+[Verse 1: HIEUTHUHAI]
+Anh không nhớ nổi lần cuối cùng anh nhìn vào mắt em đó là từ bao giờ
+Em từng trách anh chỉ ôm ước mơ, còn không sợ mất em thì làm sao chờ?
+Lúc đó anh có xin lỗi hay không thì kết quả nó cũng như nhau mà
+Cuối cùng thì hai ta đều ích kỷ, nông nổi, tự trong cao mà
+Ta từng bắt gặp nhau ở khắp Sài Gòn, chắc là lúc còn yêu thì muốn tránh cũng khó
+Không thể tin là mình chưa từng gặp lại sau khi mà anh bước qua cánh cửa đó
+Tình yêu mình từng là ánh lửa đỏ, từng là chim sẻ cố đập cánh giữa gió
+Cố gắng sống hai cuộc đời, chắc là thằng nhóc này muốn làm thần thánh nữa đó
+Sao giờ em xuất hiện tại đây vậy? Cuối hàng khán giả với cánh tay vẫy
+Em từng cùng anh đứng ở hậu trường và cùng anh về nhà sau khi mà bay nhảy
+Cũng từng nói, "Em không có gạt anh, em thích nhạc anh", and you know the vision
+Anh từng hứa là mình không nhạt đâu, sẽ không lạc nhau, cùng bên nhau vào khi cần
+Ngay lúc đó anh chỉ muốn lao xuống, anh thật sự tò mò, em dạo này khỏe không?
+Nhưng mà sao hôm nay em đi khuya vậy? Ba mẹ em biết là ba mẹ sẽ trông
+Anh từng mong em hạnh phúc, tới khi em nở nụ cười, anh như bị đâm mười nhát
+Khi anh đứng trên sân khấu một mình, còn em đứng cạnh cùng với một người khác
+
+[Chorus: marzuz]
+Em hiểu rằng chúng ta không ai là sai (Hah-ah-ah-ah)
+Chỉ là em không muốn em mãi sẽ là lựa chọn thứ hai
+Mãi sau những điều anh cho là lý do để anh tồn tại
+Vậy đâu còn lý do để em ở lại?
+Đây sẽ là lý do em sẽ thôi đắn đo, cứ ôm mộng hoài
+So thanks for showing me the exit sign
+You might also like
+Is It Over Now? (Taylor’s Version) [From the Vault]
+Taylor Swift
+Big Foot
+Nicki Minaj
+One Last Time
+Ariana Grande
+[Verse 2: HIEUTHUHAI]
+Chưa nói tới đúng sai nhưng chuyến xe dừng lại là do chân anh đặt trên phanh
+Anh đã không ngần ngại chia con đường làm hai vì anh nghĩ là anh quên nhanh
+Gặp một cô gái mới coi là cả thế giới, viết tên cả hai lên tranh
+Không dễ nhiều đêm trắng để chờ lên nắng, giờ thì kí ức gọi tên anh
+Nên là cứ rót đi, bàn vẫn ướt mặc dù có lót ly
+Ước gì có thể paste nỗi đau này qua chỗ khác, nhưng không, nó nhân lên, nó chỉ copy
+Thật khó để nhìn xung quanh khi chỉ trông ngóng vì sao như Tsiolkovsky
+Để bây giờ em đi mất, liên kết còn lại tồn tại giữa anh và em là chung một tài khoản Shopee
+Gom hết tất cả về em xong rồi thiêu nhanh
+Giọng em vang lên trước khi môi em mở, găm thẳng vào anh như là siêu thanh
+Không cần phải là người giỏi toán, đủ biết đây không phải đổi ngang
+Em chỉ mất đi một thằng thất bại, anh mất đi một người yêu anh
+Tám ngàn năm trăm mười lăm lần nói "Anh yêu em" ở trong Mess nếu mà em search
+Cũng tới lúc mình phải quên đi thôi dù từng có với nhau là rất nhiều cam kết
+Tiếc nhất không phải chia tay mà là không yêu em nhiều hơn trước lúc tình yêu chết
+Có lẽ phải ghi tên em vào credits vì bài nhạc nào anh cũng viết về em hết
+
+[Chorus: marzuz]
+Em hiểu rằng chúng ta không ai là sai (Hah-ah-ah-ah)
+Chỉ là em không muốn em mãi sẽ là lựa chọn thứ hai
+Mãi sau những điều anh cho là lý do để anh tồn tại
+Vậy đâu còn lý do để em ở lại? (Đâu cần một lý do là)
+Đây sẽ là lý do em sẽ thôi đắn đo, cứ ôm mộng hoài
+So thanks for showing me thе exit sign
+[Outro: marzuz]
+Hah-ah-ah-hooh
+Hãy giữ gìn nhau trong những kỉ niệm
+I thank you for finally showing me the еxit sign
+Uhm-mm-mm, mm
+Thanks for showing me the exit sign`,
+
+  "assets/artists/hieuthuhai/audio/20 - Sắp Nổi Tiếng.mp3": `[Intro]
+Killing the game, ai có thể nói tao sai?
+Bảo an ở xung quanh, tao chẳng cố ra oai
+Đứng ngay ở chân tường vẫn phải ngoái ra sau
+Having paranoid, nhiều giọng nói trong đầu
+80 trên freeway, bật ghế ra sau
+Chẳng có thời gian để mà tao ngủ ngon đâu
+Chẳng biết thành như này cũng được đã bao lâu (Hey, Kewtiie)
+Pray for my soul
+
+[Verse 1]
+Vẫn là công việc đó giống như là mọi ngày, cố gắng để viết thêm một verse thôi
+Nếu mà hay có thể bỏ vào album, viết vần và để cho thơ trôi
+Trước mắt của tao là quá nhiều cơ hội, như là Cobb, tao đang sống ở trong mơ, boy
+Không cần hỏi là “Thằng nào work hard?”
+Cánh tay này sinh ra nó chỉ để giơ thôi
+Tao cũng từng là một thằng lạc lối, âm nhạc là tất cả thứ mà tao biết
+Trong tay thì chỉ có mỗi giấy và bút, nên beat là thứ duy nhất mà tao giết
+Con tim này cũng đã từng yêu rất nhiều, love song là tất cả thứ mà tao viết
+Thành công với tao là một người lạ, tụi tao đang cố gắng học cách giao tiếp
+Tao nghiện chiến thắng và đây là giờ vô cơn
+Đi càng xa, mất những mối quan hệ, và trong lời họ nói, tao thành thằng vô ơn
+Cứ thêm một bước là câu từ thô hơn, give no fuck because life goes on
+Nhưng trước giờ đâu có ai từng nói, nói với tao đây là hành trình cô đơn
+Yup, okay, để dành tia nắng sau mây
+Tham vọng của tao quá lớn, tao đã thành con sói lâu nay
+Bởi vì tao muốn, okay? Tao sẽ đánh đổi, okay?
+Ở đây không có chim sẻ nên là tao không phải dâu tây
+Tụi nó nói tao nổi tiếng chỉ nhờ đẹp trai, trong khi đó là thứ tụi nó mong có
+Đi thử một cây, mang giày của tao nếu như mày nói rap như tao không khó
+Một vài năm nữa quay lại kiểm chứng, những lời tao nói sẽ không bay trong gió
+Và top 5 cũng không còn phải là top nữa, nếu không có tên tao trong đó
+Fuck!
+Nhìn những người ở top đầu trong ngành với con ngoan, vợ xinh
+Tao biết là họ cũng bắt đầu từ đâu đó trước khi có một căn penthouse bự kinh
+Đó cũng là thứ mà tao nhắm tới, paranoid và stress, nó nằm ngoài dự tính
+Tiếp nhận đánh giá từ người tao tôn trọng, tụi mày chưa hề làm cho tao mất tự tin
+You might also like
+GODS
+League of Legends & NewJeans (뉴진스)
+NOLOVENOLIFE
+HIEUTHUHAI
+Ai Cũng Phải Bắt Đầu Từ Đâu Đó
+HIEUTHUHAI
+[Chorus]
+Killing the game, ai có thể nói tao sai? (Killing it)
+Bảo an ở xung quanh, tao chẳng cố ra oai (Cố ra oai)
+Đứng ngay ở chân tường vẫn phải ngoái ra sau (Ooh-ooh-ooh)
+Having paranoid, nhiều giọng nói trong đầu
+80 trên freeway, bật ghế ra sau
+Chẳng có thời gian để mà tao ngủ ngon đâu
+Chẳng biết thành như này cũng được đã bao lâu
+Pray for my soul
+
+[Verse 2]
+Tao vẫn luôn là tao mà, từ thời SoundCloud tới lúc almost famous
+Thức trắng năm ngày còn chẳng sao mà, giảng đường, hai jobs là lý do mà hay mệt
+Buy-in sức khỏe là lao đầu vô game, trò chơi âm nhạc này là tao all-in
+Nên là mỗi lần đặt bút chính xác là thâu đêm
+Nói chuyện với mic còn nhiều hơn với mẹ chỉ vì cố đi xa, vỗ lên ngực như là gorilla
+Trong khi đám bạn thì tụi nó đi bar, còn tao viết nhạc cho tụi nó đi bar
+Thứ tụi nó hit trong đó có shisha, tao hit từ track trong bài có guitar
+Chỉ với suy nghĩ, tao chịu khó ghi ra, ai cũng muốn bằng, tao cần bodyguard
+Giờ ai cũng muốn bằng, tao cần bodyguard
+Cho tiền vào bao, bước xuống sân khấu, cả hoa hậu đang chào tao
+Tao biết với đà này thì tao sẽ giàu mau, nhưng tao không bán linh hồn để mà viết thứ tào lao
+'Cause I'm better than that, đi qua màn khác, bây giờ tự biết mình giỏi nên không còn cần lời khen
+Người ta thường nói càng chăm chỉ càng gặp may, tao sẽ trên đỉnh rất lâu, khuyên tụi mày nên làm quen
+Dòng nước ngược xiết
+Tất cả cột mốc được sinh ra cũng chỉ để cho tao vượt tiếp
+Không thể tin là mọi người hoài nghi, không biết thằng này liệu có còn viết được hit?
+Tao đã làm quá nhiều lần để có thể gọi là may mắn, fuck that shit!
+[Chorus]
+Killing the game, ai có thể nói tao sai? (Killing it)
+Bảo an ở xung quanh, tao chẳng cố ra oai (Cố ra oai)
+Đứng ngay ở chân tường vẫn phải ngoái ra sau (Ooh-ooh-ooh)
+Having paranoid, nhiều giọng nói trong đầu
+80 trên freeway, bật ghế ra sau
+Chẳng có thời gian để mà tao ngủ ngon đâu
+Chẳng biết thành như này cũng được đã bao lâu
+Pray for my soul (My soul, my soul)`,
+
+  "assets/artists/hieuthuhai/audio/21 - Everything Will Be Okay.mp3": `[Intro]
+No matter the pain I caused you
+I know your love remains the same
+You'll be fine without me
+Don't think that I could say the same
+No matter the pain I caused you
+I know your love remains the same
+Know you'll be fine without me
+Don't know if I could say the same
+
+[Verse 1: HIEUTHUHAI]
+Đôi khi tao hay nhắm mắt và nghĩ về những thứ xung quanh
+Những kí ức tao đã đi qua và những vết thương cần được chữa lành
+Những tối ghế đá nằm ngoài đêm lạnh
+Và tao tự hào về hết tất cả mà con người tao bây giờ trở thành
+Bên cạnh thằng Hiếu vui vẻ ngày xưa, giờ là thằng Hiếu rất hay phát bực
+Luôn luôn tự hỏi, "Đã đủ đầy chưa?", đôi khi khó thở bởi những áp lực
+Nhưng mỗi lần nhìn vào gia đình không bao giờ thiếu một thứ gì thì tao biết là mình đi đúng đường và không chấp nhận mình thứ nhì
+Tao có nhiều fan, tới show mỗi tháng
+Chỉ vì có một bức hình mà chấp nhận đứng để tới trời sáng
+Cảm ơn tao nhiều rất nhiều vì dòng lyrics giúp họ phải ráng
+Và có thể hét to, đọc theo từng chữ làm tao chẳng muốn rời quán
+Mà ngờ đâu nhóc con ngày đó đứng ngã tư để phát tờ rơi
+Có một tâm hồn trong vắt nhưng nhiều clo giống như hồ bơi
+Giờ thì đứng ở trên sân khấu, bài nhạc vang khắp hết vùng trời
+Và được gọi là một ngôi sao, có nhiều người trân quý trong cuộc đời
+You might also like
+Cho Em An Toàn
+HIEUTHUHAI
+KPI
+HIEUTHUHAI
+CUA
+HIEUTHUHAI & MANBO
+[Chorus: HIEUTHUHAI]
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-okay
+Everything will be oh-okay
+
+[Verse 2: HIEUTHUHAI]
+Bức tranh cuộc đời tao vẽ cùng đã được đầy màu, ay
+Vẫn còn những màu đen trắng của mấy anh em tao từ những ngày đầu, ay
+Ở đó hết những ngày sầu và đã đi chung với nhau thật lâu
+Và vài câu nói tao vẫn không quên, "Nếu mai sau lỡ có thằng này giàu
+"Sẽ đi từng nhà và hú, khoang thương gia và nhiều kì thú"
+Giữ lấy một lời thề là biến đám nerd này thành một bầy tỉ phú, uh
+Người ta nói mày giàu làm gì khi gia đình mày thì không?
+Người ta nói mày giàu làm gì khi gia đình mày thì không?
+Từ cố gắng lắp đầy được hết tủ đông, giờ cũng không biết album đứng đầu vầy thì có đủ không?
+Nhắm chặt mi cho qua ngày mai, ay, and you will be fine, ay
+Cho bản thân vài giây khi đã thu mình trong stu many nights, ay
+Khi mà ta chưa lớn, ta quên nhìn quanh, toàn nghĩ về sau này
+Già đi, chỉ còn nhìn quá khứ khi những hạt cát thời gian đã mau đầy
+Chẳng biết tương lai sẽ tốt hơn hay là còn gì trong tay?
+Chỉ muốn nói biết ơn, tao sẽ nhớ nhiều về ngày hôm nay
+[Chorus: HIEUTHUHAI]
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-oh-okay
+Everything will be oh-okay
+Everything will be oh-okay
+
+[Outro]
+No matter the pain I caused you
+I know your love remains the same
+Knew you'll be fine without me
+Don't think that I could say the same
+No matter the pain I caused you
+I know your love remains the same
+Know you'll be fine without me
+Don't know if I could say the same`,
+
+  "assets/artists/hieuthuhai/audio/22 - Cho Em An Toàn.mp3": `[Intro]
+(Ah-ah, ah-ah)
+(Ah-ah, ah-ah)
+Họ thường nói, thường nói (Nói, nói, nói)
+Ai khi xem tình yêu quý hơn vàng (Quý hơn vàng)
+(Hey, Kewtiie) Từ trong tim này đây
+
+[Verse 1]
+Những buổi hẹn hò anh nô nức, ta nắm tay đi và nô đùa
+Suy nghĩ về nhau trong vô thức, đinh hương sao nở rộ như đang vô mùa?
+Anh luôn tỏ ra vui vẻ với câu chuyện em đang cười
+Và dù nhạt nhẽo, anh phải đảm bảo là cái độ hài hước của em trên thang mười (Ha-ha-ha)
+Và rồi giờ xuân sang, bên nàng, cảm xúc này được em trang hoàng
+Thư tay trên bàn và lời hứa giữ em an toàn
+Bảo vệ khỏi bầy sói mỗi đêm, những chuyện xấu mà bầy người thổi lên
+Cắm luôn một vị trí mãi trong tim em, không hề đổi bên
+
+[Pre-Chorus]
+Điều anh ghét nhất phải nói lên
+Là anh nhớ em ngay cả khi em ở bên
+Giữ lấy cho chúng ta
+
+[Chorus]
+Họ thường nói, ai khi xem tình yêu quý hơn vàng
+Đem cho ta những cảm giác an toàn
+Không cần lo xa, vì không ai đổi thay
+Chỉ cần nhớ ai luôn ngay phía sau
+Ai cho em vòng tay êm ái (I'll be on your way)
+Không cho ai làm em phải đau
+You might also like
+NOLOVENOLIFE
+HIEUTHUHAI
+Everything Will Be Okay
+HIEUTHUHAI
+CUA
+HIEUTHUHAI & MANBO
+[Post-Chorus]
+Cho, cho em an toàn
+Cho, cho em an toàn
+Từ trong tim này đây
+
+[Verse 2]
+Mình cùng song ca như 리쌍, ain't nuthin' but a "G" thang
+Nhiều điều nuối tiếc mình viết lên trời, còn chuyện không vui mình phi tang
+Hai ta luôn bên cạnh khi bao cô đang vây quanh (Quanh, quanh)
+Bao nhiêu an toàn cho em luôn cảm thấy được yêu (Yêu)
+Trái tim đầy những vết thương mà nó không vơi, nhưng chân thành là thứ duy nhất chảy ra
+Hứa là mọi chuyện sẽ xứng đáng với tất cả những điều mà em đã trải qua
+Giữ riêng cho ta những bí mật, yeah, we are both playing for keeps
+Tương lai mình giống như double lift, bởi vì hai ta hòa làm một nè, em ơi
+
+[Pre-Chorus]
+Điều anh ghét nhất phải nói lên (Nói lên)
+Là anh nhớ em ngay cả khi em ở bên
+Giữ lấy cho chúng ta
+
+[Chorus]
+Họ thường nói (Họ thường nói), ai khi xem tình yêu quý hơn vàng (Quý hơn vàng)
+Đem cho ta những cảm giác an toàn
+Không cần lo xa, vì không ai đổi thay
+Chỉ cần nhớ ai luôn ngay phía sau
+Ai cho em vòng tay êm ái (I'll be on your way)
+Không cho ai làm em phải đau
+[Bridge]
+Vì mình đã đôi khi cãi nhau
+Và nhiều lúc đôi mi phải lau
+Chỉ cần ta luôn ở bên
+(Ah-ah, ah-ah)
+(Ah-ah-ah-ah)
+(Baby, can you feel?) (Ah-ah-ah)
+
+[Chorus]
+Họ thường nói, ai khi xem tình yêu quý hơn vàng
+Đem cho ta những cảm giác an toàn
+Không cần lo xa, vì không ai đổi thay
+Chỉ cần nhớ ai luôn ngay phía sau (Ai cho em—, ai cho em—)
+Ai cho em vòng tay êm ái (I'll be on your way)
+Không cho ai làm em phải đau
+
+[Outro]
+Cho, cho em an toàn
+Cho, cho em an toàn
+Từ trong tim này đây
+Cho em an toàn
+Cho em an toàn
+Ooh-oh-oh
+Từ trong tim này đây
+
+
+
+`,
+
+  "assets/artists/hieuthuhai/audio/23 - NOLOVENOLIFE.mp3": `[Chorus]
+Mình hãy cứ sống thế đi, ta cứ mãi ước mơ
+Ta cứ luôn mong chờ điều tuyệt vời nhé em
+Cầm tay nhau mãi bước đi, sẽ cứ thế mỉm cười
+Ta sẽ quên đi bao nhiêu tình yêu tan vỡ như là giấc mơ
+No love, no life, no love, no life
+Anh chẳng còn muốn quay về nơi ấy
+No love, no life, no love, no life (Hey, Kewtiie)
+('Sup?) Sẽ mãi thuộc về nơi đây với em (Alright)
+
+[Verse 1]
+Em biết anh là một thằng rapper rót mật vào tai bằng dây thanh, chỉ xuất hiện là họ đã say nhanh
+Mang tiếp trap và trăm cái red flag là bởi vì luôn luôn có phụ nữ vây quanh
+Có một ngàn lý do để phải ghen nhưng em không
+Em up hình, biết chắc anh phải xem và đặc biệt phải khen sau mỗi lần xem xong
+Anh luôn muốn cài cho em thêm cúc khi có thằng con trai nào đi qua
+Vì em và anh luôn muốn chuyện mình nghiêm túc, không phải just a game như FIFA
+Em làm cho mọi bài nhạc chia tay mà anh đã từng viết nó trở nên vô nghĩa
+Hai bờ môi chạm nhau vào khuya nay, mình ăn cho thật bốc nên chẳng cần tô nĩa, yeah, ah
+Em luôn tự tin, thu hút, điểm số luôn nằm ở top đầu
+Lần đầu gặp thì anh đã nhìn thấu và cũng chẳng cần giấu là hai ta khớp màu
+Em vẫn hay còn giận anh khi mà xem qua về những gì mà anh nói ở trên camera
+Hứa là với em, anh có thể đảm bảo tất cả thứ có thể ghen đều trên camera
+Bên nhau ta còn không một giây do dự nào, ay
+Bởi vì là, yeah, girl, em vẫn luôn làm cho anh tự hào, hah
+Anh ghét nhất mỗi lần đi phỏng vấn họ lại hỏi câu hỏi đó mà xem
+Họ hỏi anh về hình mẫu lý tưởng nhưng không thể trả lời đó là em
+You might also like
+Hit Me Up
+Binz (VNM)
+đừng làm nó phức tạp
+tlinh
+Mantra
+JENNIE
+[Interlude]
+Và đó là lý do mà anh hay trả lời là gu của anh là thông minh và tinh tế
+Bởi vì à
+
+[Verse 2]
+Bởi vì em tinh tế và em thông minh, đặt niềm tin hết vào anh khi anh không tin
+Và tặng cho em cả rừng hoa thật là lung linh, là vì em với đẹp luôn là cặp song sinh
+Làm anh thốt lên là "Damn" như là K.Dot, là lý do mà đàn ông ngoài kia hay khóc
+Là lý do anh không sợ fan nữ unfan, và phải nói là mình độc thân như idol K-Pop, and it pays off
+Và cuộc sống, sự nổi tiếng anh đã quen rồi, cũng không hay ra ngoài nên là I don't mind
+Em thì rất ghét là phải tránh mấy nơi đông người, cố luôn phải che mặt dù ta không sai
+Anh biết là em vẫn hay hình dung ngày đứng chung một khung hình và ta công khai
+Vì mình luôn hiểu ý nhau vì có chung chữ cái đầu, ngoài mình ra thì không ai
+
+[Chorus]
+Mình hãy cứ sống thế đi, ta cứ mãi ước mơ
+Ta cứ luôn mong chờ điều tuyệt vời nhé em
+Cầm tay nhau, mãi bước đi, sẽ cứ thế mỉm cười
+Ta sẽ quên đi bao nhiêu tình yêu tan vỡ như là giấc mơ
+No love, no lifе, no love, no life
+Anh chẳng còn muốn quay về nơi ấy
+No love, no lifе, no love, no life
+Sẽ mãi thuộc về nơi đây với em
+
+[Outro]
+No love, no life, no love, no life
+Anh chẳng còn muốn quay về nơi ấy
+No love, no life, no love, no life
+Sẽ mãi thuộc về nơi đây với em`,
   // -------------------------------------HUSTLANG ROBBER-----------------------------------------
   // ---------------------------------------------------------------------------------------------
   "assets/artists/hustlangrobber/audio/1 - 1TINHYEU ft Young Puppy.mp3": ``,
-  "assets/artists/hustlangrobber/audio/10 - QUA TỪNG KHUNG HÌNH ft Ngắn.mp3": ``,
-  "assets/artists/hustlangrobber/audio/11 - Rapper Lè Nhè.mp3": ``,
-  "assets/artists/hustlangrobber/audio/12 - Slatt ON.mp3": ``,
-  "assets/artists/hustlangrobber/audio/13 - Take It Off.mp3": ``,
-  "assets/artists/hustlangrobber/audio/14 - Xuôi Chèo Mát Mái.mp3": ``,
   "assets/artists/hustlangrobber/audio/2 - Cartier Rings.mp3": ``,
   "assets/artists/hustlangrobber/audio/3 - Có Nhiều Đêm Anh Buồn.mp3": ``,
   "assets/artists/hustlangrobber/audio/4 - Dear Love.mp3": ``,
@@ -2126,6 +2969,11 @@ Leo lên giường đi, chờ tới khi anh về`,
   "assets/artists/hustlangrobber/audio/7 - King Vamp.mp3": ``,
   "assets/artists/hustlangrobber/audio/8 - Muốn Anh Đau ft WINNO.mp3": ``,
   "assets/artists/hustlangrobber/audio/9 - MỘT TÂM HỒN BÌNH THẢN.mp3": ``,
+  "assets/artists/hustlangrobber/audio/10 - QUA TỪNG KHUNG HÌNH ft Ngắn.mp3": ``,
+  "assets/artists/hustlangrobber/audio/11 - Rapper Lè Nhè.mp3": ``,
+  "assets/artists/hustlangrobber/audio/12 - Slatt ON.mp3": ``,
+  "assets/artists/hustlangrobber/audio/13 - Take It Off.mp3": ``,
+  "assets/artists/hustlangrobber/audio/14 - Xuôi Chèo Mát Mái.mp3": ``,
   // -------------------------------------MCK-----------------------------------------
   // ---------------------------------------------------------------------------------
   "assets/artists/mck/audio/1 - Elegie.mp3": ``,
