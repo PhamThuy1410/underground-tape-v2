@@ -1,8 +1,6 @@
 const LYRICS = {
-
-
-    // -------------------------------------B RAY-----------------------------------------
-  // -------------------------------------------------------------------------------------
+// -------------------------------------B RAY-----------------------------------------
+// -------------------------------------------------------------------------------------
   "assets/artists/bray/audio/1 - Man Down ft Ếch và Báo.mp3": ``,
   "assets/artists/bray/audio/2 - Tệ Hại & Xấu Xí (Intro).mp3": `[Verse]
 I love you, anh yêu cái cách em khiến anh tỏa sáng
@@ -339,13 +337,7 @@ It's alright, tuổi còn trẻ em có quyền khờ dại
 Khi mày còn trong thai, ở ngoài này tụi nó đang thờ ai?
 Thờ anh Thanh Bảo, represents the SouthSide
 Tao không điêu khi nói sẽ rap câu này đến ngày mà tao die
-You might also like
-Một Vòng Sài Gòn
-B Ray
-Cho Ba
-B Ray
-Ta Có Nên (Intro)
-B Ray
+
 [Chorus]
 Latеly I've been busy, I've been on the low
 I know you wanna see mе but I don't care to show
@@ -450,13 +442,7 @@ Cho nhau một kết thúc Hollywood style vì chiếu lâu sẽ mất hay
 Everything's gon' be okay
 Everything's gon' be okay
 Một chương mới đang sang trang khi hai ta phải bước ra vùng an toàn
-You might also like
-Exit Sign
-HIEUTHUHAI & marzuz
-Mắt Môi Tay Chân
-RPT MCK
-Come My Way
-Sơn Tùng M-TP & Tyga
+
 [Verse 2: B Ray]
 Sự thật là, vẫn chưa ai yêu anh nhiều hơn em từng làm
 Và cũng sẽ chẳng có ai có thể khiến cho nước mắt của em rơi từng hàng
@@ -535,13 +521,7 @@ Sau đó anh gửi nó cho Betty, Ly, Si, Vy
 Chi, Di, My, và Nhi
 Christina, Mina, Tina, Lena
 Đây là lời cuối cho nhau
-You might also like
-Dạo Này
-Obito
-Còn Ai Ngoài Anh Với Em
-B Ray
-Thu Đợi
-Wren Evans & itsnk
+
 [Pre-Chorus: Đạt G]
 Anh từng một lần sai đến không là mình
 Lạc lối không nơi thoát thân
@@ -636,13 +616,7 @@ Vì về cơ bản thì anh cũng chỉ là (Chỉ là)
 Một thằng ngu ngốc ở trong bảy tỉ à (Tỉ à)
 Một kẻ khố rách mà em từng đi qua
 Vậy có quá đáng lắm không nếu như
-You might also like
-Dư Tiền
-B Ray
-The One
-B Ray
-SỚM MUỘN THÌ
-Anh Trai "Say Hi", Hustlang Robber, JAYSONLEI, Khoi Vu, Mason Nguyễn & Nhâm Phương Nam
+
 [Chorus: B Ray]
 Anh muốn có một em ghệ mới, một em ghệ mới
 Một người không theo sau và khi bên anh chỉ để làm phiền
@@ -726,13 +700,7 @@ Baby, nhưng mà sao em nói là anh sẽ không thể kiếm được ai như e
 Baby, anh đã cố nhưng sao thật không thể nào quên được
 Và ngoài kia họ nói là anh chỉ có một gu người yêu khi quen
 Nhưng mà họ đâu biết, biết, biết hết đớn đau
-You might also like
-Ghệ Mới
-B Ray
-Love Game
-Low G & tlinh
-The One
-B Ray
+
 [Chorus: B Ray]
 Là mấy em ghệ này y chang, y chang em
 Là vì mấy em ghệ này y chang, y chang em
@@ -800,13 +768,7 @@ Got me out here xưng tội như là cha xứ
 Anh xin được sửa sai, không xin được tha thứ
 Em biết là nếu còn cách thì anh cũng đã thử
 Cái giá mà anh phải trả có lẽ là giá như
-You might also like
-Vùng An Toàn
-B Ray
-Ghệ Mới
-B Ray
-Ex’s Hate Me
-B Ray
+
 [Outro]
 Now they wanna talk like they don't need me
 Now they wanna talk like this shit was easy
@@ -841,13 +803,7 @@ Có những bài học anh còn xem là kỷ vật
 And when the loving is right then it's beautiful
 Khi anh đến và đánh cắp linh hồn em
 Vì chỉ có mỗi anh là có thể nhìn thấy được giá trị thật của nó, real
-You might also like
-Feel At Home
-B Ray
-Vùng An Toàn
-B Ray
-Bạn Đời
-Karik (VNM)
+
 [Chorus]
 Giờ này còn ai ngoài anh với em? Yeah
 Anh với em? (Anh với em?)
@@ -931,13 +887,7 @@ Là bởi vì nó đã muốn được gần em
 Và nếu không có gì là mãi mãi
 Vậy thì với anh không có gì bằng em
 Em đẹp mà không cần bằng khen
-You might also like
-Y Chang Em
-B Ray
-Feel At Home
-B Ray
-The One
-B Ray
+
 [Chorus]
 Nên anh không viết cho em bản tình ca, đó đâu
 Nên anh không viết cho em bản tình ca, đậm sâu
@@ -3557,13 +3507,7 @@ Và tao chỉ thua khi tự cắn vào đuôi như là rắn săn mồi
 Tụi nó đâu biết tao lớn lên ở Hóc Môn, đêm nằm dưới căn chòi
 Chỉ biết rockstar lifestyle nhưng mà đâu ai thấy tất cả thứ sau nó (No one)
 Cô đơn, phòng tối và chiếc bóng, ai cũng phải bắt đầu từ đâu đó
-You might also like
-Siêu Sao
-HIEUTHUHAI
-Sắp Nổi Tiếng
-HIEUTHUHAI
-Không Phải Gu
-HIEUTHUHAI, B Ray & Tage
+
 [Outro]
 Throwing dirt on my fucking name, wanna try me out? (Try me out?)
 Đã bao năm, thời gian cũng trôi qua, mày vẫn ở đó sao?
@@ -3597,13 +3541,7 @@ Vậy mà không bay à?
 Ngoài show Nam Bắc, bây giờ Đông Tây
 Nhìn tụi tao jetlag vậy mà không cay à?
 Khi mày không thể cười như là không có bóng nằm ở trong tay
-You might also like
-Is It Over Now? (Taylor’s Version) [From the Vault]
-Taylor Swift
-Hit Me Up
-Binz (VNM)
-Agora Hills
-Doja Cat
+
 [Chorus: HIEUTHUHAI]
 Vậy mà show khi xưa của tao hôm đó chỉ có hai người (Let's go! Let's go!)
 Giờ thì stage outdoor, full ghế, nhìn mãi chẳng thấy ai ngồi (Ooh)
@@ -3811,13 +3749,7 @@ Khi tao chính là siêu sao (Sao), chính là siêu sao (Sao)
 I do it for my city vì thành phố rất yêu tao (They love me)
 Chẳng phải tung hint đầy mặt báo lúc yêu nhau
 Nhưng mà hit vẫn nghêu ngao, tao cần cố chứng minh sao? (Wassup?)
-You might also like
-Hit Me Up
-Binz
-Giờ Thì Ai Cười
-HIEUTHUHAI
-Hà Nội
-Obito, Shiki & VSTRA
+
 [Verse 2: HIEUTHUHAI]
 Lời viết ra toàn chung chung, đừng nhắn tin tao mà xin feat, man
 Không xăm mã vạch lên đầu, nhìn vô tên tao tụi nó biết hit, man
@@ -3881,13 +3813,7 @@ Và ngày họp chẳng thiếu ai, chỉ ngoài trừ hai người
 Nghĩ là mọi chuyện tốt hơn vào một ngày khi ta lớn
 Giờ thì chỉ cần có ai ôm mình vào ngay vai
 Là đủ đề bật khóc ngay hết cả một đêm dài, oh-oh-oh
-You might also like
-Không Thể Say
-HIEUTHUHAI
-Người Miền Núi Chất
-Double2T
-Tell the kids i love them
-Obito & Shiki
+
 [Verse 2]
 Và tao vừa được trở về nhà sau 10 ngày quay
 Mỗi một ngày chỉ ngủ bốn tiếng và ba tao nói là "Thằng này hay"
@@ -3956,13 +3882,7 @@ Uống thêm là vì nước mắt anh rơi vào tận trong ly
 Chúng ta không sai, nhưng giờ đây làm sao để em quay lại?
 Nhà và xe làm chi? Ngóng trông em hoài, thức cả đêm dài
 Muốn em bên anh phải gọi thêm chai
-You might also like
-i wish i hated you
-Ariana Grande
-Is It Over Now? (Taylor’s Version) [From the Vault]
-Taylor Swift
-BACK TO ME
-¥$, Kanye West & Ty Dolla $ign
+
 [Chorus: HIEUTHUHAI]
 Đã hơn một năm trôi qua mà mẹ vẫn thế, cứ tiếc đôi ta
 Xoá cả hình xăm trên da, chuyện tình mình cũng chẳng thể phôi pha
@@ -4032,13 +3952,7 @@ Mãi sau những điều anh cho là lý do để anh tồn tại
 Vậy đâu còn lý do để em ở lại?
 Đây sẽ là lý do em sẽ thôi đắn đo, cứ ôm mộng hoài
 So thanks for showing me the exit sign
-You might also like
-Is It Over Now? (Taylor’s Version) [From the Vault]
-Taylor Swift
-Big Foot
-Nicki Minaj
-One Last Time
-Ariana Grande
+
 [Verse 2: HIEUTHUHAI]
 Chưa nói tới đúng sai nhưng chuyến xe dừng lại là do chân anh đặt trên phanh
 Anh đã không ngần ngại chia con đường làm hai vì anh nghĩ là anh quên nhanh
@@ -4108,13 +4022,7 @@ Nhìn những người ở top đầu trong ngành với con ngoan, vợ xinh
 Tao biết là họ cũng bắt đầu từ đâu đó trước khi có một căn penthouse bự kinh
 Đó cũng là thứ mà tao nhắm tới, paranoid và stress, nó nằm ngoài dự tính
 Tiếp nhận đánh giá từ người tao tôn trọng, tụi mày chưa hề làm cho tao mất tự tin
-You might also like
-GODS
-League of Legends & NewJeans (뉴진스)
-NOLOVENOLIFE
-HIEUTHUHAI
-Ai Cũng Phải Bắt Đầu Từ Đâu Đó
-HIEUTHUHAI
+
 [Chorus]
 Killing the game, ai có thể nói tao sai? (Killing it)
 Bảo an ở xung quanh, tao chẳng cố ra oai (Cố ra oai)
@@ -4179,13 +4087,7 @@ Mà ngờ đâu nhóc con ngày đó đứng ngã tư để phát tờ rơi
 Có một tâm hồn trong vắt nhưng nhiều clo giống như hồ bơi
 Giờ thì đứng ở trên sân khấu, bài nhạc vang khắp hết vùng trời
 Và được gọi là một ngôi sao, có nhiều người trân quý trong cuộc đời
-You might also like
-Cho Em An Toàn
-HIEUTHUHAI
-KPI
-HIEUTHUHAI
-CUA
-HIEUTHUHAI & MANBO
+
 [Chorus: HIEUTHUHAI]
 Everything will be oh-oh-okay
 Everything will be oh-oh-okay
@@ -4261,13 +4163,7 @@ Không cần lo xa, vì không ai đổi thay
 Chỉ cần nhớ ai luôn ngay phía sau
 Ai cho em vòng tay êm ái (I'll be on your way)
 Không cho ai làm em phải đau
-You might also like
-NOLOVENOLIFE
-HIEUTHUHAI
-Everything Will Be Okay
-HIEUTHUHAI
-CUA
-HIEUTHUHAI & MANBO
+
 [Post-Chorus]
 Cho, cho em an toàn
 Cho, cho em an toàn
@@ -4351,13 +4247,7 @@ Bên nhau ta còn không một giây do dự nào, ay
 Bởi vì là, yeah, girl, em vẫn luôn làm cho anh tự hào, hah
 Anh ghét nhất mỗi lần đi phỏng vấn họ lại hỏi câu hỏi đó mà xem
 Họ hỏi anh về hình mẫu lý tưởng nhưng không thể trả lời đó là em
-You might also like
-Hit Me Up
-Binz (VNM)
-đừng làm nó phức tạp
-tlinh
-Mantra
-JENNIE
+
 [Interlude]
 Và đó là lý do mà anh hay trả lời là gu của anh là thông minh và tinh tế
 Bởi vì à
