@@ -912,12 +912,6 @@ body {
   position: relative;
 }
 
-/* .deck__artist--scrolling {
-  display: inline-block;
-  animation: scroll-text-deck 20s linear infinite;
-  padding-right: 2rem;
-} */
-
 @keyframes scroll-text-deck {
   0% {
     transform: translateX(0);
@@ -1169,7 +1163,7 @@ a:focus-visible {
 /* Mặc định: DESKTOP KHÔNG chạy animation */
 .deck__artist--scrolling {
   display: inline-block;
-  padding-right: 2rem;
+  padding-right: 0.01rem;
   animation: none;
 }
 
