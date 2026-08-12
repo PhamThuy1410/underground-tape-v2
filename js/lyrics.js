@@ -1339,14 +1339,10 @@ Mãi đuổi theo em
 Không còn sức chạy
 Trước khi bên em
 Anh là người tốt
-Xin đừng biển anh thành
-Thằng mất dạy
-Chúc em nêm dấm bằng
-Lọ nước tương
-Chúc em uống nước
-Nhưng lại mắc xương
-Chúc em cưỡi ngựa
-Nhưng lại mất cương
+Xin đừng biển anh thành thằng mất dạy
+Chúc em nêm dấm bằng lọ nước tương
+Chúc em uống nước nhưng lại mắc xương
+Chúc em cưỡi ngựa nhưng lại mất cương
 Cặp loa em độ trở thành bức tường
 Chúc em khi bệnh
 Không người thăm
@@ -1360,12 +1356,9 @@ Em không thể ngủ
 Mặc dù rất thèm
 Trong mọi cuộc chơi em đều thua
 Không thể xem phim vì mắt kém
-Xin đừng dùng
-Những lời dối gian
-Hạ gục nhau
-Như những trận đối kháng
-Anh biết hết việc em làm
-Dù anh không giỏi trò bói toán
+Xin đừng dùng những lời dối gian
+Hạ gục nhau như những trận đối kháng
+Anh biết hết việc em làm dù anh không giỏi trò bói toán
 
 [Chorus]
 Baby cái đó nó đéo ai cần
@@ -1379,18 +1372,12 @@ I got a hunnid b*tches
 Đối với anh em là gì nà
 
 [Verse 2 - B Ray]
-Anh mong mỗi lần  
-Em leo cầu thang  
-Là chân bị hụt  
-Chúc em qua đời  
-Thanh thản ở trên giường ngủ  
+Anh mong mỗi lần em leo cầu thang là chân bị hụt  
+Chúc em qua đời thanh thản ở trên giường ngủ  
 Và thức giấc là ở dưới địa ngục  
-Anh mong những ngày tệ nhất  
-Sẽ đến với em  
+Anh mong những ngày tệ nhất sẽ đến với em  
 Mỗi khi bầu trời trong xanh  
-Mong em con đàn cháu đống
-Mà nhìn đứa nào
-Mặt cũng giống anh
+Mong em con đàn cháu đống mà nhìn đứa nào mặt cũng giống anh
 Anh chỉ mong rằng
 Sau khi em đã không anh
 Tính chuyện gì
