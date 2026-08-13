@@ -56,6 +56,19 @@
       "heroImage": "assets/artists/dangrangto/hero.webp"
     },
     {
+      "id": "wrenevans",
+      "name": "WREN EVANS",
+      "fullName": "Lê Phan",
+      "bio": "WREN EVANS is a Vietnamese singer, rapper, and songwriter known for his distinctive alternative R&B, hip-hop, and pop sound.",
+      "year": 2018,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "instagram": "https://instagram.com/wrenevans"
+      },
+      "color": "#ec4899",
+      "heroImage": "assets/artists/wrenevans/hero.webp"
+    },
+    {
       "id": "obito",
       "name": "OBITO",
       "fullName": "Lý Quốc Phong",

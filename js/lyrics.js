@@ -7057,4 +7057,866 @@ Tắc tíc, tắc tiếng lòng chờ ai, chờ cơn mộng huyền`,
   "assets/artists/wxrdie/audio/17 - Tim Anh Ghen.mp3": ``,
   "assets/artists/wxrdie/audio/18 - Trở Về.mp3": ``,
   "assets/artists/wxrdie/audio/19 - Đau Đầu.mp3": ``,
+
+  // -------------------------------------WREN EVANS-------------------------------------
+  // ------------------------------------------------------------------------------------
+  "assets/artists/wrenevans/audio/1 - Từng Quen.mp3": `[Verse 1]
+Có tiếc nuối không em ơi?
+Người đang thấy vui hay buồn về những ký ức ta đi chơi?
+Người đâu biết anh đi lạc vào một tình yêu mà không rõ đâu là đúng sai
+Sẽ có lúc em chơi vơi
+Liệu em có đang đi tìm hay tình yêu tự nó tới?
+Người đó có chăng là anh? Vẫn chỉ muốn em theo con tim mà thôi
+
+[Pre-Chorus]
+Baby, anh nói em nghe một tình yêu mới
+Chỉ có anh
+Baby, nói em nghe một tình yêu mới
+Chỉ có anh
+
+[Chorus]
+Cứ coi là chúng ta chưa từng quen thì em cứ đi nhưng không được quên
+Là tình yêu còn đong đầy, giá như em còn đây (Whoo-ooh-ooh-ooh)
+Cứ coi là chúng ta chưa từng quen thì em cứ đi nhưng không được quên
+Là trong anh còn bao điều, giá như em còn đây, yeah, yeah
+
+[Verse 2]
+Vào một đêm thứ hai, mình ngỡ như nàng đang quay trở lại
+Vì em giam giữ con tim này, khiến đâu ai thèm lấy
+Vào một đêm thứ hai, lần cuối em nhìn anh tha thiết
+Là lần ta khó nói cho nhau rằng ta chưa muốn đi về, woah-oh-oh
+Cứ mỗi sáng thức giấc, anh ra ban công, ngâm nga câu ca thật là dịu dàng
+Bé thích hip-hop, đam mê anh zai, điệu ta đung đưa thật là nhịp nhàng
+Nếu thích cái cách hai ta tung tăng thì một điều là anh biết em đang lung lay
+Và sự thật là em thấy ok khi anh ôm em vào lòng
+Nhìn em, anh bối rối, anh thua rồi, tim em lắm lối
+Anh chưa từng dám nói anh yêu một ai thế này
+
+[Chorus]
+Cứ coi là chúng ta chưa từng quen thì em cứ đi nhưng không được quên
+Là tình yêu còn đong đầy, giá như em còn đây (No-oh-oh-whoo)
+Đã có ai từng nói em như thần tiên, lạc trong thế gian xua tan bình yên
+Đừng làm anh phải hao gầy, nghĩ đến em từng giây, yeah, eh
+
+[Outro]
+Đã có ai từng nói em như thần tiên, lạc trong thế gian xua tan bình yên
+Đừng làm anh phải hao gầy, nghĩ đến em từng giây, yeah, eh
+Nhìn em, anh bối rối, anh thua rồi, tim em lắm lối
+Anh chưa từng dám nói anh yêu một ai thế này`,
+
+  "assets/artists/wrenevans/audio/2 - Tình Yêu Vĩ Mô.mp3": `[Chorus]
+Đã khuya rồi mà sao anh vẫn còn nhớ em?
+Đã khuya rồi, có ông trăng ngồi với anh
+Đã khuya rồi mà sao anh vẫn còn nhớ em?
+Tình yêu trao cho em, cho em luôn luôn là vĩ mô
+
+[Verse]
+Giờ đây, chẳng có nổi nước mắt trong anh để rơi
+Mình đã xa nhau vào cuối thu, em lặng đi (Hmm, hah)
+Thật ra còn sót lại một thoáng đôi ta ở đây
+Lời nói khi xưa còn vấn vương, anh đậm sâu
+Người chọn quên hết bao lần hứa, bao lần mất xong bù đắp cho một cuộc tình
+Mà em chưa một lần thay đổi (Oh)
+Sao anh cứ đâm vào rồi ôm đắng cay, em à
+Vậy thì tình yêu anh cho đi để làm gì?
+Nếu người nhận được chẳng thèm dùng mà còn cất đi
+Có ông trăng luôn hỏi thăm, vỗ về anh
+Anh đã đánh mất những ước ao đã vỡ tan
+Không ôm đàn, đổi lại thời gian ở bên em
+Dù chỉ là tình xưa mình anh luôn nhớ một tình yêu vĩ mô
+
+[Chorus]
+Đã khuya rồi mà sao anh vẫn còn nhớ em?
+Đã khuya rồi, có ông trăng ngồi với anh
+Đ-Đ-Đ-Đã khuya rồi mà sao anh vẫn còn nhớ em?
+Tình yêu trao cho em, cho em luôn luôn là vĩ mô
+
+[Outro]
+Ba-da-hm-ba-hm-ba-dam
+Ba-da-hm-ba-da-di-da`,
+
+  "assets/artists/wrenevans/audio/3 - Quyền Anh.mp3": `[Intro]
+Trái tim bướng bỉnh, đợi em ngỏ lời
+Ngàn lần kiên định, lần này buông lơi
+
+[Instrumental break]
+
+[Verse 1]
+Lặng im trên phố, em không cầm tay
+Người làm anh cảm thấy vô hình
+Cứ thế hai ta lang thang như đi một mình
+Lại gần em để vuốt ve nhưng em chẳng để tâm mấy
+
+[Pre-Chorus]
+Nhớ ánh mắt, đôi môi, cho anh xin
+Nàng làm anh thầm nhớ những nét thơ ngây, cho anh xin
+Hẹn gặp nhau để nói những thứ chua cay, anh không tin
+Đừng mặc anh ở đây, hỡi người ơi
+
+[Chorus]
+Anh cũng muốn có quyền
+Được đặc cách quan tâm từ em
+Giận và hờn còn đâu tâm trí
+Để lung tung nghĩ suy
+
+[Post-Chorus]
+Nếu em không cần anh, yeah
+Nếu em không cần anh, yeah
+Nếu em không cần anh, yeah
+Da-da-da-ah-ah-da
+Biết đâu nàng vẫn thế
+Biết đâu mình sẽ khác
+Thế gian xua tan bình yên
+
+[Verse 2]
+Mây đang mang chiếc áo đen ở trước thềm
+Mang theo cơn mưa nhỏ nhen làm cho đôi mắt anh đang dần ướt mềm
+Đi bên em nhưng mà lòng loay hoay, chông chênh, chơi vơi, yếu đuối
+Có lẽ anh mạnh mẽ lâu rồi, thế nên anh lười
+
+[Pre-Chorus]
+Nhớ ánh mắt, đôi môi, cho anh xin
+Nàng làm anh thầm nhớ những nét thơ ngây, cho anh xin
+Hẹn gặp nhau để nói những thứ chua cay, anh không tin
+Đừng mặc anh ở đây, hỡi người
+
+[Chorus]
+Anh cũng muốn có quyền
+Được đặc cách quan tâm từ em (Oh-oh-oh-oh)
+Giận và hờn còn đâu tâm trí
+Để lung tung nghĩ suy (Hah-ah-ah-ah-ah-ah-ah-ah)
+Được bên em mấy khi
+[Post-Chorus]
+Nếu em không cần anh, yeah
+Nếu em không cần anh, yeah
+Nếu em không cần anh, yeah
+Da-da-da-ah-ah-da
+Biết đâu nàng vẫn thế
+Biết đâu mình sẽ khác
+Giá như người nói với anh`,
+
+  "assets/artists/wrenevans/audio/4 - Lối Chơi (Interlude).mp3": `[Verse]
+Tỉnh giấc rồi
+Tôi vẫn chưa thể quên đi câu nói hồi
+Mình còn đang cấp ba và em than với tôi
+Rằng em không muốn yêu anh nghệ sĩ
+Một góc trời
+Vẫn chỉ riêng mình tôi tung tăng trên phím đàn
+Người ta than với tôi đừng nên theo giấc mơ
+Rồi đâu ai muốn bên anh nghệ sĩ
+
+[Pre-Chorus]
+Để bài ca cất lên rồi sưởi ấm con tim mình
+Để tôi sống trong giai điệu, những thanh âm của tôi
+Chạy qua bao nốt thăng, trải qua bao nốt trầm
+Còn ngồi đây ngân nga một khúc ca-á-a-a-oh-oh
+
+[Chorus]
+Mặc kệ tôi đi, đừng có ai bận tâm
+Chẳng một ai giúp tìm ra lối chơi
+Dù hôm nay ta thấy đen, dù ngày mai ta yếu hèn
+Mong sao tôi luôn giữ hi vọng
+Mặc kệ tôi đi, tôi buồn thêm chút thôi
+Rồi ngày mai tới thì tự tôi bước đi
+Dù hôm nay không nắng lên, dù ngày kia không có em
+Riêng tôi thênh thang giữa con đường
+Mặc kệ tôi đi, tôi làm theo ý tôi
+Là trời cho mỗi người một lối chơi
+Một trò chơi bao lối chơi, mình loi choi theo lối trời
+Mình là dân chơi thế hệ mới`,
+
+  "assets/artists/wrenevans/audio/5 - Tò Te Tí.mp3": `[Verse 1]
+Đêm nay mình loi choi
+Những câu ca này giữ mãi mãi trên đôi môi
+Em đâu còn lẻ loi
+Về bên đây với anh, ta tò te tí
+Một khi em đã tới, em sẽ không thể rút lui
+Người hãy để cho anh giữ chân em lại
+Nhưng mà người hãy nói "em muốn ở lại" để mình khỏi phải nghĩ suy
+Em sẽ không bao giờ quên đi hôm nay đâu
+
+[Post-Chorus]
+Vì lần đầu tiên được vui bên ai, em buông đôi tay, bỏ lại đằng sau quá khứ
+Nhưng nếu mai cảm xúc em phai nhoà
+Có ai khiến em buồn thì một, hai, ba, ta cất to lên là
+
+[Chorus]
+Tò te tí te te, tò te tí tò te te
+Là quên đi những u sầu, là quên đi những nghi ngờ
+Vì hôm nay ta sẽ là những dân chơi không nghe một ai lí do
+Giơ tay (Hey) nếu em buồn hôm nay
+Giơ tay (Hey) nếu em cần có ai ở bên cạnh em (Hey)
+Nắm đôi tay của em không chia li (Hey, hey, hey), ooh-ooh-ooh-ooh-ooh (Oh-oh-oh-oh)
+
+[Verse 2]
+(Hey, hey, hey)
+Người tin anh đi, anh đích thân là dân chơi, là dân chơi
+Và anh không ngoan, không hư, anh chỉ loi choi, chỉ loi choi
+Một kẻ mộng mơ chỉ sống đam mê âm nhạc
+
+[Pre-Chorus]
+Một khi em đã tới, em sẽ không thể rút lui
+Người hãy để cho anh giữ chân em lại
+Và để tôi cho em thấy những phép màu
+Nếu ai khiến em buồn thì một, hai, ba, ta cất to lên là
+
+[Chorus]
+Tò te tí te te, tò te tí tò te te
+Là quên đi những u sầu, là quên đi những nghi ngờ
+Vì hôm nay ta sẽ là những dân chơi không nghe một ai lí do
+Giơ tay nếu em buồn hôm nay
+Giơ tay nếu em cần có ai ở bên cạnh em
+Nắm đôi tay của em không chia li, ooh-ooh-ooh-ooh-ooh
+
+[Bridge]
+Bao nhiêu đêm anh ôm ước mơ
+Không cần một ai chỉ cho anh thấy
+Chỉ có chính em
+Người duy nhất thấy tương lai sau này
+
+[Chorus]
+Tò te tí te te, tò te tí tò te te
+Là bài ca những con người mà tôi yêu nhất trên đời
+Tặng cho em, cho những người đã luôn tin tôi
+Tin vào một lối chơi, ooh-ah-ooh-ah
+Giơ tay nếu em buồn hôm nay
+Giơ tay (Hey) nếu em cần có ai ở bên cạnh em (Hey)
+Nắm đôi tay của em không chia li (Hey, hey, hey), ooh-ooh-ooh-ooh-ooh (Oh-oh-oh-oh)
+[Outro]
+(Hey, hey, hey, hey)
+(Hey, hey, hey)`,
+
+  "assets/artists/wrenevans/audio/6 - Vừa Tìm Thấy Đã Đánh Mất.mp3": `[Verse 1]
+Ngày mà em tới
+Tia nắng vẫn nhẹ thế thôi
+Nhưng khóe môi em sưởi ấm tim tôi
+Chợt yêu mất rồi
+Chợt ôm những nhớ thương mong manh ngày em tới, uh-huh-huh
+Thì ra trăng tròn thế thôi
+Soi sáng câu hẹn thề ước chung đôi
+Mà chẳng ai cất lời, bỏ lại đằng sau những mông lung
+
+[Pre-Chorus]
+Vào đêm cuối, nhìn em rời
+Dìu nàng về gần nhà, đến đây thôi
+Và nếu lúc đó ta không ngại, không ngơ ngác, lăn tăn, thờ ơ
+Sao ta vẫn còn ngây thơ?
+
+[Chorus]
+Vừa tìm thấy đã đánh mất
+Mơ một chốc đã thức giấc
+Tiếng yêu thương nay không cất lên thành câu
+Có em một phút nhưng lại lỡ em cả đời
+Bóng em thả trôi để dòng người thành hư vô
+Vừa tìm thấy đã đánh mất
+Chưa kịp trao em tâm tư
+Nắm tay em nhưng có giữ em được đâu?
+Vấn vương còn đó nhưng chẳng có câu trả lời
+Thì vậy thôi, và cứ thế, mình đành chơi vơi
+
+[Verse 2]
+Tựa như ta chưa bắt đầu
+Nắng vẫn long lanh bên hiên nhà anh
+Mây vẫn trôi bồng bềnh giống bao ngày
+Mà sao thế này?
+Thấy đôi tay mình thêm nâng niu những niềm vui mơ hồ
+Mới ngay đây thôi nhưng sao lại thôi?
+Sao áng mây mang vệt nắng đi rồi?
+Bỏ rơi mối tình, lửng lơ những bối rối ngây ngô
+
+[Pre-Chorus]
+Vào đêm cuối (Vào đêm cuối), nhìn em rời
+Dìu nàng về gần nhà, đến đây thôi
+Và nếu biết trước mai không còn
+Anh sẽ đứng ôm em thật lâu, hôn thật sâu (Nếu em tin vào những thứ vớ vẩn)
+Để khóa lấy những thứ thuộc về nhau
+
+[Chorus]
+Vừa tìm thấy đã đánh mất
+Mơ một chốc đã thức giấc
+Tiếng yêu thương nay không cất lên thành câu
+Có em một phút nhưng đã lỡ em cả đời
+Bóng em thả trôi để dòng người thành hư vô
+Vừa tìm thấy đã đánh mất
+Chưa kịp trao em tâm tư
+Nắm tay em nhưng có giữ em được đâu?
+Chúng ta vừa hữu duyên mà trót vô phận rồi
+Thì vậy thôi, và cứ thế, mình đành chia đôi`,
+
+  "assets/artists/wrenevans/audio/7 - Gió Đưa Tình.mp3": `[Verse 1]
+Sao em chẳng hề nhìn về phía anh một giây? (Hoh-oh-oh-oh-oh)
+Sao em vờ như anh không ở đây?
+Bao nhiêu cô gái đã nói muốn quen anh ngoài kia
+Tại sao những dịu dàng chỉ dành cho mỗi em?
+
+[Pre-Chorus]
+Bức thư tình gói lòng anh, cùng nét mực xanh mà chưa dám đưa người
+Người đưa thư lại tìm đến gió
+
+[Chorus]
+Gió đưa tình là gió vẫn thương, anh vẫn còn một chút vấn vương
+Em ơi, đừng để những ký ức ta vụt mất
+Vì anh đã lỡ yêu, lỡ gieo nơi đây hy vọng
+Gửi cho em làn gió biết rung động trái tim em
+Gió ơi, này là gió đến chưa? Anh mong đợi chiều tối, nắng mưa
+Anh không thể để những ký ức ta vụt mất
+Vì anh đã lỡ yêu, lỡ gieo nơi đây hy vọng
+Gửi cho em làn gió biết rung động, quay lại về bên anh
+
+[Verse 2]
+Đứng thật lâu, chờ hồi âm không thấy đâu
+Người tính sao, nói đi, đừng giấu (Oh-oh-hoh-hoh)
+Và anh muốn được ngồi với em đến khi lòng em có câu trả lời
+Chỉ mong gió gửi trọn tâm tình anh tới nơi
+
+[Pre-Chorus]
+Bức thư tình gói lòng anh, cùng nét mực xanh mà chưa dám đưa người
+Người đưa thư lại tìm đến gió
+
+[Chorus]
+Gió đưa tình là gió vẫn thương, anh vẫn còn một chút vấn vương
+Em ơi, đừng để những ký ức ta vụt mất
+Vì anh đã lỡ yêu, lỡ gieo nơi đây hy vọng
+Gửi cho em làn gió biết rung động trái tim em
+Gió ơi, này là gió đến chưa? Anh mong đợi chiều tối, nắng mưa
+Anh không thể để những ký ức ta vụt mất
+Vì anh đã lỡ yêu, lỡ gieo nơi đây hy vọng
+Lỡ mang theo bên mình những hình dung, đóng thành khung và
+
+[Bridge]
+Anh tự hỏi cớ sao con tim chưa từng lạc nhịp khi nghĩ về một ai khác?
+Giờ trong anh đầy tơ vương tựa vầng trăng chìm trong sương
+Bối rối nơi tim em khôn lường
+Giữa muôn phương, anh đem lòng mình trao đi dẫu nhân gian vô thường
+
+[Chorus]
+Gió đưa tình là gió vẫn thương, anh vẫn còn một chút vấn vương (Oh-oh-oh-oh-oh)
+Em ơi, đừng để những ký ức ta vụt mất (Oh-oh-yeah, hoh-oh-oh-oh)
+Vì anh đã lỡ yêu, lỡ gieo nơi đây hy vọng (Na-na-na-na-na-na-na)
+Gửi cho em làn gió biết rung động trái tim em (Anh mong sao gió đến được trái tim em)
+Ơi gió ơi, này là gió đến chưa, anh mong đợi chiều tối, nắng mưa
+Anh không thể để những ký ức ta vụt mất
+Vì anh đã lỡ yêu, lỡ gieo nơi đây hy vọng
+Gửi cho em làn gió biết rung động, mang người về bên anh`,
+
+  "assets/artists/wrenevans/audio/8 - bé ơi từ từ.mp3": `[Intro]
+Kiss me
+No, you don't have to think too much
+Love me
+Just tell me something show me the way to you
+Touch, me
+Touch (Uh), touch
+To me, touch, me
+Touch (Uh), touch
+Touch me
+
+[Chorus]
+Làm gì thì làm, đừng nhìn anh như thế
+Làm anh u mê
+Hằng tối anh luôn mơ về em
+Người vội khiến anh phải quay cuồng
+Từ từ thôi bé ơi, thôi bé ơi từ từ
+Bé ơi, từ từ vì
+
+[Verse 1]
+Anh biết em cần gì (Hmm-hmm)
+Tắt đèn đi nhưng đủ để thấy đôi môi thầm thì (Yeah, yeah)
+Để ánh đèn đường hắt vào mái tóc em, baby
+Lại gần em hơn để nghe thật rõ tiếng tim đập
+Mọi thứ như đã được sắp đặt, baby giờ em muốn làm gì?
+Người cứ đưa anh mọi vết thương, anh sẽ làm em quên hết đi
+Hãy đến bên anh và giữ thật chặt như đây là lần cuối
+Em tin vào một điều kỳ diệu chỉ có ở với anh
+
+[Post-Chorus]
+B-B-B-Bé ơi từ từ, bé ơi từ từ (Ooh-oh-woah-ah-hah-ah)
+Bé ơi từ từ, bé ơi từ từ (No-ooh-woah-yeah)
+Bé ơi từ từ, bé ơi từ từ
+
+[Verse 2]
+Baby (Shh)
+Tập trung vào (Ah, hm, yeah)
+Không một ai, chỉ mình ta ở đây (ở đây, oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh)
+Hm, baby (Hm, yeah)
+Tập trung vào đi em ây
+Nó ở trong your DNA (Hm-hm, ah-ooh-ah-ooh-ah-ooh-ah-ooh-ah)
+
+[Bridge]
+Anh vẫn không thể quên được những vì sao trong mắt em (Tell me)
+Vậy thì em đã, đang, sẽ vô tình khiến anh phải yêu, bé ơi
+
+[Chorus]
+Làm gì thì làm, đừng nhìn anh như thế
+Làm anh u mê (Oh-hoh-oh)
+Hằng tối anh luôn mơ về em (Woah-oh-oh-oh-oh-oh)
+Người vội khiến anh phải quay cuồng (Oh-oh-oh)
+Từ từ thôi bé ơi, thôi bé ơi từ từ
+
+[Post-Chorus]
+B-B-B-Bé ơi từ từ (Bé ơi), bé ơi từ từ (Ooh-oh-woah-ah-hah-ah)
+Bé ơi từ từ, bé ơi từ từ
+Bé ơi từ từ, bé ơi từ từ
+Bé ơi từ từ để—
+[Outro]
+Kiss me
+No, you don't have to think too much
+Love me
+Just tell me something show me the way to you`,
+
+  "assets/artists/wrenevans/audio/9 - Call Me.mp3": `[Chorus]
+Can you call me, call me, call me, call me
+Call me, call me 'til you fall in love?
+Can you call me, call me, call me, call me
+Call me, call me 'til you fall in love?
+
+[Verse 1]
+Cần nghe giọng em mỗi tối, muốn được lại gần em thôi (Yeah)
+Cuối tuần này mình đi chơi, nhớ không được quên (Oh-oh-oh, yeah, yeah)
+Việt Nam là vùng nhiệt đới, thế mình là gì em ơi?
+Đừng play trái tim của anh
+
+[Pre-Chorus]
+Vì anh thích khi đôi môi mềm gọi vào mỗi đêm, anh không cancel
+Để đi đón em, đưa lên ven hồ, chỉ nói câu chuyện mà một mình anh nghe
+Và giây phút anh đưa em về, miệng thì cứ quên đưa nhau câu thề
+Thời gian cứ trôi, sao anh chưa về? Chỉ muốn nghe giọng của mình em thôi, ah
+
+[Chorus]
+Can you call me, call me, call me, call me
+Call me, call me 'til you fall in love?
+Can you call me, call me, call me, call me
+Call me, call me 'til you fall in love?
+
+[Post-Chorus]
+Baby, can you call (Call) me (Me)?
+Anh chỉ lưu mỗi em, anh không cần có (Có) gì (Gì)
+Anh chỉ lưu số em nên baby, call (Call) me (Me)
+Anh chỉ lưu mỗi em, anh không cần có (Có) gì (Gì)
+Anh chỉ lưu số em
+
+[Verse 2]
+Vặn ga, 'rrr, lên anh phóng, anh không chờ (Ừm)
+Ship ngay người nàng trông ngóng (Yeah), vì em gọi đường dây nóng (Yeah)
+Tại sao vì một cô gái lại khiến tim mình đập hăng hái?
+Đừng play trái tim của anh
+
+[Pre-Chorus]
+Vì anh thích khi đôi môi mềm gọi vào mỗi đêm, anh không cancel
+Để đi đón em, đưa lên ven hồ, chỉ nói câu chuyện mà một mình anh nghe
+Và giây phút anh đưa em về, miệng thì cứ quên đưa nhau câu thề
+Thời gian cứ trôi, sao anh chưa về? Chỉ biết đi tìm em trong cơn
+
+[Bridge]
+Ooh-ooh-hoh, oh, yeah (Oh, yeah)
+Đắm đuối hương hoa theo ta lên thiên đàng nơi nàng (Oh)
+Ooh-ooh-hoh, oh, yeah (Oh, yeah)
+Có lẽ anh đi hơi xa, oh-oh-oh-hoh-oh
+
+[Chorus]
+Can you call me, call me, call me, call me
+Call me, call me 'til you fall in love? (Fall in love)
+(Can you) Can you call me, call me, call me, call me
+Call me, call me 'til you fall in love? (Ooh-woah-oh-oh-oh-hoh-oh-oh, yeah, yeah)
+Can you call me, call me, call me, call me
+Call me, call me 'til you fall in love? (Ooh-ooh, yeah, yeah)
+Can you call me, call me, call me, call me
+Call me, call me 'til you fall in love? (Baby, ooh-oh-ooh-oh-ooh-oh, yeah, yeah)`,  
+
+  "assets/artists/wrenevans/audio/10 - Cứu Lấy Âm Nhạc.mp3": `[Intro]
+Eh-oh, eh-oh, eh-oh, eh-oh, uh huh-huh-huh-huh
+
+[Verse 1]
+Love me
+Em chớ lo gì
+Chẳng phải che giấu điều gì
+Hãy để mình thả trôi
+
+Liên hồi
+Tiếng trống liên hồi
+Bài ca như muốn được vang lên mãi thôi (Ah-ah)
+
+[Pre-Chorus]
+Người ta nói xướng ca vô loài
+Thì có mấy ai bên anh lâu dài
+Người chớ lãng quên
+Mà quên mà quên mất anh đi
+
+Cuộc đời anh giống những bông hoa đẹp
+Rồi sẽ tàn phai
+Theo những tháng ngày lẻ loi
+Baby anh muốn bên em mãi mãi
+
+[Chorus]
+Hỡi ông trời
+Nếu không phải là tôi
+Thì còn ai khác
+Đem tặng em những khúc ca
+
+Những câu chuyện
+Nếu ai hỏi về tôi
+Thì em hãy nói
+Anh bận cứu lấy âm nhạc
+
+Ah-ah-ah-ah-ah-ah
+Cứu lấy âm nhạc
+Ah-ah-ah-ah
+Cứu, cứu, cứu lấy âm nhạc
+
+Ah-ah-ah-ah-ah-ah
+Cứu lấy âm nhạc
+Ah-ah-ah-ah
+Cứu, cứu, cứu, cứu
+
+[Bridge]
+Huh-uh-uh-uh
+Uh-uh-uh-uh-uh-uh
+
+[Verse 2]
+Nhịp đập con tim như chống đối
+Không muốn thứ âm nhạc này mau đi
+Em ơi giữ anh lại
+Vì anh yêu nó điên dại
+Anh chỉ muốn được chìm đắm
+Trong giai điệu hay
+Đừng sợ ngoài kia ai sẽ đánh giá
+Hãy để thứ âm nhạc này được lên ngôi
+Xin em hãy giữ trong lòng
+Những câu ca này
+My baby
+
+[Pre-Chorus]
+Vậy người ta nói xướng ca vô loài
+Thì có mấy ai bên anh lâu dài
+Người chớ lãng quên
+Mà quên mà quên mất anh đi
+
+Cuộc đời anh giống những bông hoa đẹp
+Rồi sẽ tàn phai
+Theo những tháng ngày lẻ loi
+Baby anh muốn bên em mãi mãi
+
+[Chorus]
+Hỡi ông trời
+Nếu không phải là tôi
+Thì còn ai khác
+Đem tặng em những khúc ca
+
+Những câu chuyện
+Nếu ai hỏi về tôi
+Thì em hãy nói
+Anh sẽ cứu lấy âm nhạc
+Ah-ah-ah-ah-ah-ah
+Nếu mai này anh rời đi
+Làm ơn đừng có tiếc nuối
+Hãy cứu lấy âm nhạc
+
+Ah-ah-ah-ah
+Nếu mai anh không còn đây
+Làm ơn dù khó đến mấy
+Phải cứu lấy âm nhạc
+
+[Outro]
+Eh-oh, eh-oh, eh-oh, eh-oh, uh huh-huh-huh-huh`,
+
+  "assets/artists/wrenevans/audio/11 - Phóng Đổ Tim Em.mp3": `[Verse 1]
+Nếu em muốn
+Đến đây rồi anh sẽ tự cân hết lo toan muộn phiền
+Em chỉ việc nhìn về phía trước
+Nếu em muốn
+Nếu như ngày mai có cả thế giới quay lưng lại
+Anh sẽ là kẻ thù của thế giới (Ah-ooh)
+
+[Pre-Chorus]
+Để anh lo
+Một khi đã yêu anh vào thì không thoát ra được đâu
+Nàng tin anh đi, anh sẽ luôn kế bên cho em tự tin à
+Một khi đã yêu anh vào thì em có ra làm sao
+Là do anh đi, em như nào anh cũng theo em vì
+
+[Chorus]
+Baby girl, baby girl, xin hãy luôn tươi cười
+Em ơi, cứ loi choi khi mình đi với nhau
+Baby girl, baby girl, xinh nhất khi em cười
+Em ơi, cứ loi choi, anh bảo kê phía sau
+
+[Verse 2]
+Nếu em muốn
+Đến đây rồi anh sẽ tự cân hết lo toan muộn phiền
+Em chỉ việc nhìn về phía trước
+Thứ anh muốn mỗi khi nhìn em hồn nhiên say đắm
+Anh xin một chân để làm bảo vệ em mãi mãi
+
+[Pre-Chorus]
+Để anh lo
+Một khi đã yêu anh vào thì không thoát ra được đâu
+Vì anh Wren dân tổ, phóng đổ tim em
+Một khi đã yêu anh vào thì em có ra làm sao
+Là do anh đi, em như nào anh cũng theo em vì
+
+[Chorus]
+Baby girl, baby girl, xin hãy luôn tươi cười
+Em ơi, cứ loi choi khi mình đi với nhau
+Baby girl, baby girl, xinh nhất khi em cười
+Em ơi, cứ loi choi, anh bảo kê phía sau
+
+[Bridge]
+Khi đêm xuống
+Phóng đổ tim em, cho em xuống
+Nơi vòng tay anh đã có sẵn để đỡ em (Đ-đỡ em, baby, baby)
+Baby girl, baby girl, em hãy luôn tươi cười
+Em ơi, cứ loi choi khi mình đi với nhau
+
+[Outro]
+Oh-oh-oh-oh, yeah, yeah
+No-oh-oh-oh, yeah, yeah
+Ah-whoo-ooh-ooh-ooh-ooh-ooh-ooh`,
+
+  "assets/artists/wrenevans/audio/12 - ĐĐĐ.mp3": `[Verse 1]
+Nàng để lại nụ cười làm anh quên lối đi
+Sau lần ta biệt ly, anh quên lối về
+Để lại một cuộc tình giữa tia nắng vàng
+Wait, sao anh thấy vắng nàng?
+Chỉ là một lời nguyền để bên em mãi thôi
+Xa vòng tay của em, anh điên mất rồi
+Giờ mình còn là gì? Nói anh đi mà
+Vì người đâu biết là
+
+[Pre-Chorus]
+Xa là mê, 사랑해, cho hôn một cái đê
+Vì nàng vội vàng lần đầu mà khiến đôi môi mình
+Hôn thật lâu, no control
+Chỉ là một điều dại dột làm anh không tin rằng em muốn về đâu
+(Xa là mê, 사랑해, cho hôn một cái đê)
+Xa là mê, 사랑해
+Ta đi vi vu với nhau tới ba giờ đêm
+Không một ai, tầm này chỉ có mình anh và em
+Vậy nên
+
+[Chorus]
+Tối nay em đừng đi, đi, đi, đi, đi, đi
+Tối nay em đừng đi, đi, đi, đi, đi, đi
+Nah-nah-nah-nah-nah-nah-nah-nah-nah
+Đừng để lại một thoáng đôi ta nơi này
+Vậy tối nay em đừng đi, đi, đi, đi, đi, đi (Đi)
+Tối nay em đừng đi, đi, đi, đi, đi, đi
+Nah-nah-nah-nah-nah-nah-nah-nah-nah
+Đừng bỏ lại một người yêu em mãi mãi
+
+[Post-Chorus]
+Oh, oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+Hm-hm-hm
+
+[Verse 2]
+Khi em nói rằng, "Em đâu biết chi"
+Người cho em ở đây
+Khi em nói rằng, "Em đâu biết chi"
+Anh vẫn luôn tin vào
+Chỉ cần người nói cho anh một câu thành lời
+Anh hứa với em trọn đời
+Rằng anh luôn đắm say, woah-woah-oh-oh-oh-oh
+Chỉ có anh vẫn luôn ở đấy mà
+Vì người vẫn chờ em đến khi em quay lại
+Chỉ cần người nói cho anh một câu thành lời
+Anh hứa với em trọn đời
+Rằng anh luôn đắm say, woah-woah-oh-oh-oh-oh
+Chỉ có anh vẫn luôn ở đấy mà
+Vì người vẫn chờ em đến khi anh quay lại
+
+[Chorus]
+Tối nay em đừng đi, đi, đi, đi, đi, đi
+Tối nay em đừng đi, đi, đi, đi, đi, đi
+Cất hết những suy tư làm mọi điều mà em muốn
+Thì anh không tin rằng em muốn về đâu
+[Post-Chorus]
+Xa là mê, 사랑해, cho hôn một cái đê
+Xa là mê, 사랑해, anh muốn được thấy em
+Hôn thật lâu, no control
+Chỉ là một điều dại dột làm anh không tin rằng em muốn về đâu à
+
+[Instrumental break]
+
+[Outro]
+Lần chia li chưa hẹn mà tới
+Lay tôi tỉnh khi em đến chơi`,
+
+  "assets/artists/wrenevans/audio/13 - Để Ý.mp3": `[Intro]
+Girl, I wanna tell you
+Uh-huh, uh-huh
+
+[Verse 1]
+Sẽ không có ai đặc biệt như vậy (Đặc biệt như vậy, yeah)
+Vẫn chưa có ai dịu dàng như thế
+Giữa trưa sao anh vẫn ngồi đắm say
+Vì ai mà nắng to nhưng chưa chịu về
+
+[Pre-Chorus]
+Hình như khi ấy muốn đứng lại gần
+Tại sao anh không tiến tới một lần?
+Tại sao khi nghe tên em làm mình chẳng thể tập trung như xưa?
+
+[Chorus]
+Vì em xinh lung linh, lung linh
+Làm con tim lung lay, lung lay
+Vì anh đây để ý em ngay từ ngày mà em bước qua, bước qua
+Đưa em về, nắm tay, nắm tay
+Cứ như vậy, nắm tay, nắm tay
+Anh để ý em bây giờ, ý em đây thì sao?
+
+[Verse 2]
+Sẽ không có ai điệu đà như vậy (Sao em có thể điệu đà như vậy uh?)
+Vẫn chưa có ai nhìn mình như thế
+
+[Pre-Chorus]
+Hình như khi ấy muốn đứng lại gần
+Tại sao anh không tiến tới một lần?
+Tại sao khi nghe tên em làm mình chẳng thể tập trung như xưa?
+
+[Chorus]
+Vì em xinh lung linh, lung linh
+Làm con tim lung lay, lung lay
+Vì anh đây để ý em ngay từ ngày mà em bước qua, bước qua
+Đưa em về, nắm tay, nắm tay
+Cứ như vậy, nắm tay, nắm tay
+Anh để ý em bây giờ, ý em đây thì—
+
+[Bridge]
+Anh để ý em như là nắng sẽ soi hàng cây
+Anh cảm thấy anh đang chìm đắm trong từng phút giây
+Anh để ý em, anh để ý em every day
+Cứ như đang lạc trong cơn mơ anh chẳng thể nào không mơ
+
+[Chorus]
+Vì em xinh lung linh, lung linh
+Làm con tim lung lay, lung lay
+Vì anh đây để ý em ngay từ ngày mà em bước qua, bước qua
+Đưa em về, nắm tay, nắm tay
+Cứ như vậy, nắm tay, nắm tay
+Anh để ý em bây giờ, ý em đây thì sao?
+[Outro]
+Giờ mà được nắm tay, nắm tay
+Đưa em về, nắm tay, nắm tay
+Anh để ý em, baby ý của em như nào?`,
+
+  "assets/artists/wrenevans/audio/14 - Cầu Vĩnh Tuy.mp3": `[Verse 1]
+Dòng người vội vàng đi ngang qua
+Dòng người vội vàng như áng mây ngang trời
+Từng ngày, từng giờ anh nôn nao
+Chờ đợi một vòng tay thân thương vỗ về
+
+[Pre-Chorus]
+Dạo này anh hay thầm nhớ
+Hà Nội em ơi, đừng quên giấc mơ hôm nào
+Nào mình lại đi một chuyến
+Qua cầu Vĩnh Tuy để kí ức xưa ùa về theo gió
+
+[Chorus]
+Đã yêu em từ lâu nhưng mình không nói nên lời
+Nếu mai kia gặp nhau, Hà Nội có lẽ mình đã yêu em
+Và đã yêu em từ lâu, mình chỉ muốn nói là vậy thôi
+Đã yêu em đậm sâu, ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+
+[Verse 2]
+Tình cờ một mùi hương thân quen
+Đoạn đường ngày nào in dấu chân đôi mình (Hmm-hmm)
+Chỉ là hoài niệm phải không em?
+Mà tại sao anh cảm thấy nhớ thương, vấn vương? Yeah
+
+Thời còn đi học, mình nhớ những lúc bắt xe đi qua cầu
+Và nắng tô lên dòng sông chan hoà, mình vô tư
+Vào mùa đông lạnh, mình nhớ những lúc lái xe phi qua cầu
+Chỉ cần một người ôm phía sau mà cũng lâu rồi
+
+[Pre-Chorus]
+Dạo này anh hay thầm nhớ, ooh-oh
+Hà Nội em ơi, đừng quên giấc mơ hôm nào
+Nào mình lại đi một chuyến
+Qua cầu Vĩnh Tuy để kí ức xưa ùa về theo gió
+
+[Chorus]
+Đã yêu em từ lâu nhưng mình không nói nên lời
+Nếu mai kia gặp nhau, Hà Nội có lẽ mình đã yêu em
+Và đã yêu em từ lâu, mình chỉ muốn nói là vậy thôi
+Đã yêu em đậm sâu, ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh (Ooh-oh)
+
+[Post-Chorus]
+Khi ta xa nhau, anh vẫn okay mà, trưởng thành hơn
+Nhưng khi về đây anh khóc oà, lại được làm trẻ con
+Rồi mình lại phải xa nhau, rồi chẳng còn dịp gặp nhau
+Bao lâu nay không có em nên
+
+Dạo này anh hay thầm nhớ
+Hà Nội em ơi, đừng quên giấc mơ hôm nào
+Nào mình lại đi một chuyến
+Qua cầu Vĩnh Tuy để kí ức xưa ùa về theo gió`,
+
+  "assets/artists/wrenevans/audio/15 - mưa chưa tạnh (interlude).mp3": `[Verse]
+Mưa lại mưa không báo một ai
+Mưa chợt mang cơn gió ghé tai
+Mình anh lang thang trên con phố
+Lá rung hàng cây ướt ngang bờ vai
+Hạt mưa rơi không ngừng
+Chạm vào nơi ta từng
+Mưa lại mưa rơi trúng ngổn ngang
+Mưa lẻn vào tay áo mà anh vẫn mang
+Từng lời hứa không may ùa về
+Nhắc anh tình ta vẫn đang dở dang
+Một cơn mưa chưa tạnh
+Thì lòng anh chưa đành`,
+
+  "assets/artists/wrenevans/audio/16 - Thu Đợi.mp3": `[Verse 1]
+Thu đã qua, anh ở lại
+Cố quên nhưng lòng càng nhớ thêm
+Ta đã từng mơ rất nhiều
+Nếu em còn tìm anh trong giấc mơ
+
+[Pre-Chorus]
+Lần chia ly trong đêm vội vã
+Anh chưa quen được với nỗi đau
+Hàng trăm cây kim đâm nát con tim, anh tổn thương
+Ngày em đi cơn mưa tầm tã
+Sao anh quên được hết
+Lời em bóng gió cuộn lên như bão giông
+
+[Chorus]
+Lần này em đi mất rồi, đi không khứ hồi, rời xa chốn đây
+Lặng nhìn em vút qua tay, cùng gió heo may, mang đi một ngàn hơi ấm
+Giờ chẳng có thu nào đợi, lá rơi chỉ một lần thôi
+Còn anh nhớ em một đời, chẳng thể giữ lời
+
+[Verse 2]
+Thu đã qua, tay bỗng lạnh
+Cố quên nhưng lòng càng rối ren
+Trăm lý do mình nói ra chỉ để người vứt bỏ
+Có khi nào mình anh mang xuyến xao?
+
+[Pre-Chorus]
+Lần chia ly trong đêm vội vã
+Anh chưa quen được với nỗi đau
+Hàng trăm cây kim đâm nát con tim, anh tổn thương
+Ngày em đi cơn mưa tầm tã
+Sao anh quên được hết
+Lời em bóng gió cuộn lên như bão giông
+
+[Chorus]
+Lần này em đi mất rồi, đi không khứ hồi, rời xa chốn đây
+Lặng nhìn em vút qua tay, cùng gió heo may, mang đi một ngàn hơi ấm
+Giờ chẳng có thu nào đợi, lá rơi chỉ một lần thôi
+Còn anh nhớ em một đời, chẳng thể giữ lời
+
+[Bridge]
+Riêng mình anh ở đây chơi với nỗi đau này
+Làm ơn nói em cũng tổn thương, cũng giống như anh mà
+Để anh tin rằng em đã từng yêu với hết chân thành
+Chỉ là do mùa thu tự nhiên muốn lấy em đi (Đi)
+Xa khỏi tầm tay này mãi
+
+[Chorus]
+Lặng nhìn em vút qua tay, cùng gió heo may, mang đi một ngàn hơi ấm
+Giờ chẳng có thu nào đợi, lá rơi chỉ một lần thôi
+Còn anh nhớ em một đời, chẳng thể giữ lời
+[Outro]
+Em rơi như mùa thu cuối trong anh đông về
+Ai dạy anh cách quên? Ai dạy anh đứng lên?
+Em rút ra khỏi anh giống như là nắng bỏ trời đi mất
+Vậy ai sẽ thương anh, nhớ anh khi anh chỉ biết nhớ thương mỗi em?`,
 };
