@@ -471,7 +471,7 @@ function formatTime(sec) {
 function updateSeekFill() {
   const pct = audioEl.duration ? (audioEl.currentTime / audioEl.duration) * 100 : 0;
   seekBar.style.setProperty("--seek-pct", `${pct}%`);
-  seekBar.value = audioEl.currentTime; // ← Thay: dùng thời gian thật, không phải pct
+  seekBar.value = audioEl.currentTime;
   timeCurrent.textContent = formatTime(audioEl.currentTime);
 }
 
@@ -500,6 +500,28 @@ function setupAudioContext() {
 
 document.addEventListener("click", setupAudioContext, { once: true });
 document.addEventListener("touchstart", setupAudioContext, { once: true });
+
+// ========== FIX iOS SAFARI: Resume AudioContext khi quay lại tab/app ==========
+async function resumeAudioContext() {
+  if (audioCtx && audioCtx.state === "suspended") {
+    try {
+      await audioCtx.resume();
+      console.log("✅ AudioContext resumed");
+    } catch (err) {
+      console.warn("AudioContext resume failed:", err);
+    }
+  }
+}
+
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") {
+    resumeAudioContext();
+  }
+});
+
+window.addEventListener("focus", resumeAudioContext);
+window.addEventListener("pageshow", resumeAudioContext);
+// ========== END FIX ==========
 
 // ========== MODALS ==========
 function openLyrics() {
@@ -563,7 +585,7 @@ function setupEventListeners() {
 
   seekBar.addEventListener("input", () => {
     isSeeking = true;
-    audioEl.currentTime = Number(seekBar.value); // ← Thay: seekBar.value = duration (không chia 100)
+    audioEl.currentTime = Number(seekBar.value);
     updateSeekFill();
   });
   
