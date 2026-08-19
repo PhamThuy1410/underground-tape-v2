@@ -111,6 +111,20 @@
       "heroImage": "assets/artists/wxrdie/hero.webp"
     },
     {
+      "id": "quanghungmasterd",
+      "name": "QUANG HÙNG MASTER D",
+      "fullName": "Lê Quang Hùng",
+      "bio": "QUANG HÙNG MASTERD is a Vietnamese singer and songwriter known for his modern pop sound, melodic vocals, and catchy contemporary productions.",
+      "year": 2018,
+      "links": {
+        "spotify": "https://open.spotify.com",
+        "youtube": "https://www.youtube.com/@QuangHungMasterD",
+        "instagram": "https://instagram.com/quanghungmasterd"
+      },
+      "color": "#ef4444",
+      "heroImage": "assets/artists/quanghungmasterd/hero.webp"
+    },
+    {
       "id": "tinhhasayhi",
       "name": "TINH HÀ SAY HI",
       "fullName": "TINH HÀ SAY HI",

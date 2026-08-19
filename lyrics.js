@@ -132,6 +132,8 @@ const LYRICS = {
   "assets/artists/obito/audio/7 - Panorama.mp3": ``,
   "assets/artists/obito/audio/8 - Phong Long.mp3": ``,
   "assets/artists/obito/audio/9 - Shay Nắnggg.mp3": ``,
+
+  
   "assets/artists/tinhhasayhi/audio/1 - THẾ GIỚI CỦA ANH ft Dương Domic & buitruonglinh & CONGB & WEAN & Vận Toàn.mp3": ``,
   "assets/artists/tinhhasayhi/audio/10 - SECRET ft Quang Hùng MasterD & Cody Nam Võ & CongB & Wren Evans.mp3": ``,
   "assets/artists/tinhhasayhi/audio/11 - MỘNG DUYÊN ft Quang Hùng MasterD & JSOL & Sơn.K & Song Luân & EMIL VERGO.mp3": ``,
