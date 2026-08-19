@@ -1,7 +1,110 @@
 const LYRICS = {
 // -------------------------------------B RAY-----------------------------------------
 // -------------------------------------------------------------------------------------
-  "assets/artists/bray/audio/1 - Man Down ft Ếch và Báo.mp3": ``,
+  "assets/artists/bray/audio/1 - Man Down ft Ếch và Báo.mp3": `
+[Chorus]
+Tao nghe nói là lệnh truy nã đăng tên tụi tao
+Tao nghe thấy trên tai ngoài đường là Ếch và Báo
+Tao nghe nói tụi tao đang cứu sống underground
+Tụi tao còn sống tụi, tao còn chống đến khi last man down
+
+[Hook]
+Man down, man down, we got a man down
+Man down, man down, we got a man down
+Man down, man down, nhưng mà không sao
+Tụi tao còn sống, tụi tao còn chống đến khi last man down
+Tao nghe nói là lên truy nã đăng tên tụi tao
+
+[Verse 1 - Báo]
+Bất ngờ ếch và báo một lần nó nó trùng phùng
+Ai cũng muốn đóng vai nạn nhân vậy ai là người hùng
+Đây không phải sản phẩm âm nhạc hiphop mày thường dùng
+Sài Gòn dạy tao ai cũng là sát nhân ở đường cùng
+Nhưng đừng có hù tao, dù sao
+Tụi mày vẫn theo dõi từng bước tụi tao đang đi mà không có thù lao
+Cứ việc mà bu vào, nghe nhạc tao nếu đủ não
+Còn nếu mày ghét hashtag bú con cu tao
+Báo động, dân làng ơi báo động
+Đêm hôm qua tổ tiên về báo mộng
+Ngoài biên giới có mấy thằng giặc đang tính đường vào trong
+Cùng bắt tay mấy ông trong làng giết không chưa thằng nào sống
+Nhưng mà, anh em tao sống với dòng máu của người miền Nam đó
+Đã quen chống đối ganh ghét ánh mắt bọn giặc tham lam đó
+Nên mày cứ thử xem đến cuối cùng là ai ngu
+Vần thơ tao mang linh hồn từ năm 75 như Haiku
+
+[Chorus]
+Tao nghe nói là lệnh truy nã đăng tên tụi tao
+Tao nghe thấy trên tai ngoài đường là Ếch và Báo
+Tao nghe nói tụi tao đang cứu sống underground
+Tụi tao còn sống tụi, tao còn chống đến khi last man down
+
+[Hook]
+Man down, man down, we got a man down
+Man down, man down, we got a man down
+Man down, man down, nhưng mà không sao
+Tụi tao còn sống, tụi tao còn chống đến khi last man down
+Tao nghe nói là lệnh truy nã đăng tên tụi tao
+
+[Verse 2 - Ếch]
+Hình như tụi nó muốn được diện kiến, muốn gặp tao ha
+Hình như tụi nó vẫn đang còn tức với tao về câu ca
+Hình như tụi nó cuốn theo chiều gió mấy thằng ở đâu ra
+Nó cho tao biết được chữ respect bao tiền một show nà
+Tao sẽ mua hết, nhét vào họng mày
+Khiến mày thua hết, cấm mày động đậy
+Tặng mày trang sức, đó là còng tay
+Mấy thằng bạn tao gọi tao ác như cộng vậy
+Ờ nhìn đồng hồ giờ mấy giờ
+Tụi bố vẫn đỉnh từ hồi đó đến bấy giờ
+Ghi lên giấy tờ Ếch và Báo là haters
+Mất một thằng phong trào nhưng tiền kiếm được mấy tờ
+Tao nguyện chết cho team, chết trong lí tưởng
+Dù có chết trong gươm đao
+Chết cho đất mẹ để anh em lại thương nhau
+Tao còn sống sẽ chống đến khi last man down
+
+[Chorus]
+Tao nghe nói là lệnh truy nã đăng tên tụi tao
+Tao nghe thấy trên tai ngoài đường là Ếch và Báo
+Tao nghe nói tụi tao đang cứu sống underground
+Tụi tao còn sống tụi, tao còn chống đến khi last man down
+
+[Hook]
+Man down, man down, we got a man down
+Man down, man down, we got a man down
+Man down, man down, nhưng mà không sao
+Tụi tao còn sống, tụi tao còn chống đến khi last man down
+Tao nghe nói là lệnh truy nã đăng tên tụi tao
+
+[Bridge]
+Khi mà máu đang đổ, nhìn xung quanh anh em tao đang khổ
+Đường phố loang lổ, tụi mày thì hoan hô
+Giặc ngoài thì chen vô cùng mấy thằng giang hồ
+Anh em tao vẫn đang cố mang những sự thật mày gọi là báng bổ
+Khi mà cung tên và súng đạn, nhận mũi dao chĩa về phía tụi tao
+Nhưng tụi tao vẫn ngoan cố này
+We got a man down
+Another life lost and the hands out
+We got a man down
+But we′re never gonna stop never stand out
+We got a man down
+This said we got a man down
+We got a man down
+If you're fucking with squad then we′re shooting back right now
+
+[Chorus]
+Tao nghe nói là lệnh truy nã đăng tên tụi tao
+Tao nghe thấy trên tai ngoài đường là Ếch và Báo
+Tao nghe nói tụi tao đang cứu sống underground
+Tụi tao còn sống tụi, tao còn chống đến khi last man down
+
+[Hook]
+Man down, man down, we got a man down
+Man down, man down, we got a man down
+Man down, man down, nhưng mà không sao
+Tụi tao còn sống, tụi tao còn chống đến khi last man down`,
+
   "assets/artists/bray/audio/2 - Tệ Hại & Xấu Xí (Intro).mp3": `[Verse]
 I love you, anh yêu cái cách em khiến anh tỏa sáng
 Anh yêu cái cách em khiến anh nghĩ ngoài tình yêu của em không có gì thỏa đáng
