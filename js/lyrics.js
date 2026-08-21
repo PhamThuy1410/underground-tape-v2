@@ -6349,13 +6349,7 @@ Trái tim của anh dành cho riêng nàng một làn ưu tiên
 Trước khi gặp em thì anh chưa từng một lần phát điên
 Muốn theo em không rời, nơi chân trời, wherever you go
 Vậy thì em không thoát được đâu, không chạy thoát được đâu
-You might also like
-NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN
-Anh Trai "Say Hi", VCT, Negav, Karik (VNM), Ngô Kiến Huy & JeyB (VNM)
-LẮM LÚC
-Em Xinh "Say Hi", Bảo Anh, LyHan, MAIQUINN, Miu Lê & Tiên Tiên
-KHÔNG ĐAU NỮA RỒI
-Em Xinh "Say Hi", 52Hz, Châu Bùi, Mỹ Mỹ (VNM) & Orange
+
 [Verse 2: HURRYKNG]
 Yeah-eh-eh-eh
 Ay, ay, HURRYKNG is on the way-ay-ay-ay (Brrr, yeah)
@@ -6435,13 +6429,7 @@ Tưởng chừng dừng lại thì sẽ bớt đau lòng vùi mình trong con s�
 Off the phone không nghe một câu, giữ lấy đi baby, anh chẳng cần đâu
 Thứ đã chết là tình yêu ta ngày đầu
 Nghìn điều buồn sầu anh vội thả vào mưa ngâu (Hah-ah-ah-hah)
-You might also like
-XOAY VÒNG
-Tinh Hà "Say Hi", HURRYKNG, CONGB (콩비), JSOL & Vương Bình
-MRT
-Tinh Hà "Say Hi", Xuân Định K.Y, Captain, buitruonglinh & HYO (VNM)
-CÓ GÌ ĐÂU MÀ CAY
-Tinh Hà "Say Hi", Captain, CoolKid, IVAN (Chen Mingxuan) & Xuân Định K.Y
+
 [Chorus: JAYSONLEI & Cody Nam Võ]
 Là hàng triệu nỗi nhớ anh đem chôn giấu sau nơi màn đêm (Hah)
 Là từng cuộc gọi nhỡ không ai bắt máy, năm mươi lần đếm
@@ -6497,13 +6485,7 @@ Xóa đi ưu phiền trên đời
 Để xóa đi ưu phiền trên đời
 Giữ em trong vòng tay, đến khi em ngủ say
 Để xóa đi
-You might also like
-GÃ SĂN CÁ
-Em Xinh "Say Hi", Lâm Bảo Ngọc, MAIQUINN, Quỳnh Anh Shyn & Saabirose
-Animal
-KATSEYE
-petal
-Ariana Grande
+
 [Verse 2: HURRYKNG]
 Bao cơn gió đã cuốn trôi niềm vui của em đi vậy
 Mưa đã lấy đi bao long lanh trong đôi mi này
@@ -6588,13 +6570,7 @@ Nay lại đòi muốn có anh ở trong đời, so catch me if you can
 Haizz, you know what I'm saying like (Ah-ah-ah-ah-ah-ah-ah-ah)
 Em cứ đi rồi một ngày nào đó em cũng sẽ phải quay lại tìm anh (Ah-ah-ah-ah-ah)
 Haha, anh hiểu em quá mà, đúng không? (Oh-oh-oh-oh-oh-oh)
-You might also like
-Catch Me If You Can (Piano Version)
-Quang Hùng MasterD
-SECRET
-Tinh Hà "Say Hi", Cody (Võ Đình Nam), CONGB (콩비), Quang Hùng MasterD & Wren Evans
-NGÁO NGƠ
-Anh Trai "Say Hi", HIEUTHUHAI, Anh Tú Atus, ERIK & JSOL
+
 [Verse 2: Quang Hùng MasterD]
 หนึ่งสองสามสี่, trên tay em uống hết cạn ly
 Giờ thì ai lau nước mắt em trong cơn say giữa cơn đau đọa đày?
@@ -6668,13 +6644,7 @@ Chứng kiến thấy em đau, anh đau, ta đau
 Sao cứ phải xa nhau, xa nhau? (Oh-ooh)
 Anh cứ hy vọng rồi ôm về mình mớ thất vọng
 Những gì đã từng hứa giờ đây cũng chỉ là lời bông đùa
-You might also like
-Thick Of It
-KSI
-SECRET
-Tinh Hà "Say Hi", Cody (Võ Đình Nam), CONGB (콩비), Quang Hùng MasterD & Wren Evans
-MRT
-Tinh Hà "Say Hi", Xuân Định K.Y, Captain, buitruonglinh & HYO (VNM)
+
 [Verse 2: WEAN, Quang Hung MasterD & Ali Hoàng Dương]
 (Ah, hey) Baby come back, anh thắc mắc đâu mới là chân thành? (No)
 Những ký ức ở trong đầu em (ah-ah)
@@ -6748,13 +6718,7 @@ Ah-ah, yeah
 La-la-la-la-la
 Ooh-ooh, yeah, yeah
 Và đây là MasterD
-You might also like
-CÓ GÌ ĐÂU MÀ CAY
-Tinh Hà "Say Hi", Captain, CoolKid, IVAN (Chen Mingxuan) & Xuân Định K.Y
-MVP (MƯA VỘI PHÓNG)
-Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
-Vạn Sự Như Ý
-Trúc Nhân
+
 [Verse 2: Quang Hùng MasterD]
 Biết tính em hơi trở trời (Trở trời) nên anh né những lời gọi mời
 Tắt máy, anh xin từ chối cuộc chơi của mấy ông anh bạn đời
@@ -6834,13 +6798,7 @@ Sẽ có lúc không ai hiểu được mình
 Sẽ đến lúc không biết phải làm sao
 Nếu chia tay sẽ thế nào
 Bây giờ gặp mặt nhau biết nói câu gì
-You might also like
-SAY HI NEVER SAY GOODBYE
-Anh Trai "Say Hi"
-Animal
-KATSEYE
-petal
-Ariana Grande
+
 Cảm giác lúc ấy sẽ ra sao?
 Tự hỏi rằng sẽ khó thế nào?
 Tạm biệt người yêu trong hồi ức
@@ -6896,13 +6854,7 @@ Chần chờ làm chi cứ để anh ta rời đi
 Cứ để anh ta ôm mộng mị và những đêm sầu vắng không nhà
 Chần chờ làm chi em mây kéo cơn mưa đầy lối quen
 Ký ức kia sao tồi tàn, bàng hoàng thế nên hãy
-You might also like
-MỘNG YU
-AMEE & RPT MCK
-2 4
-W/N (VNM)
-Guess featuring billie eilish
-Charli xcx & Billie Eilish
+
 [Chorus]
 Let him, let him, let him go
 बस उसे जाने दो (Ah-ah-ah-ah)
@@ -6988,13 +6940,7 @@ Baby girl, em nghĩ đi
 Chỉ vì em, anh lao vào lửa, nhưng vì người khác, em ướt mi
 I just wanna make you blow your mind
 Thế nhưng, em chỉ muốn những gì họ có nhưng đâu biết em sẽ bị bỏ xó trong tương lai, nghĩ đi nghĩ đi ('Cause I know you)
-You might also like
-THE STARS
-Anh Trai "Say Hi"
-CHẠM
-Anh Trai "Say Hi", Nhâm Phương Nam, Vương Bình, Otis Đỗ Nhật Trường, Gill (VNM) & Đỗ Nam Sơn
-ĐÃ TỪNG
-Anh Trai "Say Hi", Bùi Duy Ngọc, Karik (VNM) & Ngô Kiến Huy
+
 [Chorus: ISAAC]
 Không quan tâm anh nói gì, vì giờ đã trễ để nói câu nếu-thì
 Cause I know, I shouldn’t let you go, trái tim anh, em đã lấy đi đâu
@@ -7228,13 +7174,7 @@ Thật tội cho em quá, chỉ vì gã săn cá
 Chẳng thể nào thoát ra, chẳng thể nào thoát ra
 Đừng chạy về nơi em đứng, từ đầu anh chê không xứng
 Chẳng thể cùng bước chân, chẳng thể cùng —
-You might also like
-NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN
-Anh Trai "Say Hi", VCT, Negav, Karik (VNM), Ngô Kiến Huy & JeyB (VNM)
-EM CHỈ LÀ
-Em Xinh "Say Hi", Bích Phương, Hoàng Duyên, LyHan & Muộii
-KHÔNG ĐAU NỮA RỒI
-Em Xinh "Say Hi", 52Hz, Châu Bùi, Mỹ Mỹ (VNM) & Orange
+
 [Chorus: Lâm Bảo Ngọc & MAIQUINN]
 Đóa hoa tàn trôi lạc giữa không gian
 Mang bao nỗi nhớ khô khan như bụi cát sa mạc
@@ -7325,13 +7265,7 @@ Khoa anh với nỗi nhờ u hoài
 Cứ quay đi rồi cứ quay lại
 (Oh-oh-oh-oh-oh)
 Anh cuốn trong kỷ niệm này tàn phai
-You might also like
-ĐOẠN KỊCH CÂM
-Anh Trai "Say Hi", CONGB (콩비), B Ray, Cody (Võ Đình Nam), Negav & Phạm Đình Thái Ngân
-NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN
-Anh Trai "Say Hi", VCT, Negav, Karik (VNM), Ngô Kiến Huy & JeyB (VNM)
-CHỜ ANH VỀ
-Anh Trai "Say Hi", B Ray & AMEE
+
 [Break]
 (Oh-oh-oh-oh-oh-oh-oh-oh
 Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
@@ -7487,13 +7421,7 @@ Giọt lệ đắng khóe môi
 Nhìn theo ánh trăng vỡ đôi vô vọng đơn côi
 Một tình yêu lắm những ưu tư không thành
 Kéo theo ta vô vàn đớn đau
-You might also like
-Dear Mama
-2Pac
-THAO TÚNG TÂM LÝ
-MAIQUINN
-LƯỚI TÌNH
-MAIQUINN
+
 [Pro-Chorus]
 Một tình yêu lắm
 Một tình yêu lắm
@@ -7568,13 +7496,7 @@ Gà gáy suốt đêm thanh, như cũng đang thấu cho nỗi lòng anh
 Ngày cứ thế trôi nhanh, lưu luyến ai mải mê đến hiu quạnh
 Hồn ta như lạc trong chốn nhân gian này
 Chẳng mong có ai thấu được lòng anh
-You might also like
-SECRET
-Tinh Hà "Say Hi", Cody (Võ Đình Nam), CONGB (콩비), Quang Hùng MasterD & Wren Evans
-CÓ GÌ ĐÂU MÀ CAY
-Tinh Hà "Say Hi", Captain, CoolKid, IVAN (Chen Mingxuan) & Xuân Định K.Y
-THẾ GIỚI CỦA ANH
-Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
+
 [Post-Chorus: All]
 Khắc xuất, khắc xuất, nhập tình như mộng duyên
 Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
@@ -7655,13 +7577,7 @@ Chẳng phải em muốn được anh ghé tai? (Tai)
 Thầm thì vài câu suốt bao đêm dài (Dài)
 Trời cao có thấu nỗi lòng tận mây xanh?
 Nói em nghe bí mật của anh
-You might also like
-MRT
-Tinh Hà "Say Hi", Xuân Định K.Y, Captain, buitruonglinh & HYO (VNM)
-RUN TO YOU
-Tinh Hà "Say Hi", Ali Hoàng Dương, IVAN (Chen Mingxuan), KIMLONG & Song Luân
-MVP (MƯA VỘI PHÓNG)
-Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
+
 [Verse 2: Wren Evans]
 Nói hết bí mật thì có yêu không? (Uh, uh-huh)
 Muốn thấy bí mật hay em muốn nghe bằng lời nói?
@@ -7739,13 +7655,7 @@ Baby girl, tụi mình nhìn cũng hợp gu (Ah)
 Chỉ còn lại việc đốt cháy nhanh đến giai đoạn (Hah), vì anh muốn hơn mức làm bạn
 Yeah girl, lồng ngực chẳng muốn phải đau
 Mọi chuyện đều được anh tính hết cả rồi chỉ đợi em trả lời (Ooh)
-You might also like
-ĐÓA HỒNG CHƠI VƠI
-Anh Trai "Say Hi" & Anh Tú (1992)
-GOODBYE ROCKY
-Dangrangto
-Mantra
-JENNIE
+
 [Chorus: Ali Hoàng Dương & Rhyder, RHYDER & Quang Hùng MasterD]
 Giải cứu con tim thoát ra khỏi cô đơn (Ooh-woah-woah)
 Em giam cầm cô đơn, để lại trong nỗi nhớ
@@ -7848,13 +7758,7 @@ Giọt lệ đắng, vắng em đi rồi
 Bóng dáng khuất sau lưng
 Đồi làn mây, đẩy trôi hững hờ
 Người đến rồi bước đi đâu ngờ
-You might also like
-TRỜI SAO
-52Hz
-CHẲNG PHẢI ANH ĐÂU
-Em Xinh "Say Hi", 52Hz, Châu Bùi, Orange, Phương Ly & Vũ Thảo My
-CHÂN THÀNH
-Anh Trai "Say Hi", RHYDER, Ali Hoàng Dương, Captain, Quang Hùng MasterD & WEAN
+
 Người đừng trói
 Trói cơn đau này
 Những trầy xước đã đủ đầy
@@ -7977,13 +7881,7 @@ Trao em tình yêu trao đi hết luôn cho nàng
 Chìm đắm say khung trời hai ta giữa chốn mơ màng
 Mắt nhắm tay đan tan trong nỗi nhớ vô vàn
 Nhớ em dù cho cạnh bên anh là càng yêu thêm, a-a-a
-You might also like
-Quang Hùng MasterD - Thủy Triều (English Translation)
-Genius English Translations
-แค่เรา (Thủy Triều) (Thai Version)
-Quang Hùng MasterD
-TRÓI EM LẠI
-Anh Trai "Say Hi" & Quang Hùng MasterD
+
 [Verse 2]
 M-m-m-m-m-màu mắt môi em, anh chìm sâu
 Lắng nghe thêm khi ta chạm nhau
@@ -8039,13 +7937,7 @@ Ooh-na-na-na-na-na-ah-ah-ah-ah-ah
 Biết nói sao khi, khi tâm tư em rối bời? (Ah-ah-ah)
 Oh-ooh-na-na-na-na-na-ah-ah-ah-ah
 Vậy đành thôi, em đã giết chết tấm thân tôi rồi!
-You might also like
-TÌNH ĐẦU QUÁ CHÉN
-Anh Trai "Say Hi", Quang Hùng MasterD, ERIK, Negav & Pháp Kiều
-뛰어 (JUMP)
-BLACKPINK
-Mưa Trên Phố Huế
-Nhà Chín Muồi
+
 [Chorus]
 Ừ thì anh đang nhớ em mà
 Đừng làm con tim anh xót xa
@@ -8128,13 +8020,7 @@ Mối tình đầu quá trớn, ai cũng từng
 Từng là từng ôm gối bên nhau giờ lại tặng nhau vết thương sâu (Ooh-ah-ah-ah)
 Nỗi nhớ này quá lớn, xin em đừng dằn vặt tim anh
 Vậy thôi kết thúc cho nhanh!
-You might also like
-Thick Of It
-KSI
-Rah Tah Tah
-Tyler, The Creator
-BAD NIGHT
-Tinh Hà "Say Hi", Dương Domic, Ali Hoàng Dương, DANG HONG HAI & Pháp Kiều
+
 [Post-Chorus: All & Quang Hùng MasterD]
 Một, hai bước, nhìn về phía trước
 Một, hai bước, chuyện buồn ta lướt (Vậy thôi, kết thúc cho nhanh)
@@ -8227,13 +8113,7 @@ Ngàn lời yêu thương có nói ra cũng chẳng nói hết lòng anh
 Bầu trời kia có thay màu, tình này vẹn nguyên phút ban đầu
 Cuộc đời anh từ nay gọi tắt là em
 Woah-oh-oh, ooh-woah
-You might also like
-CHÂN THÀNH
-Anh Trai "Say Hi", RHYDER, Ali Hoàng Dương, Captain, Quang Hùng MasterD & WEAN
-NGÁO NGƠ
-Anh Trai "Say Hi", HIEUTHUHAI, Anh Tú Atus, ERIK & JSOL
-NGẠO NGHỄ
-Anh Trai "Say Hi", Anh Tú Atus, HURRYKNG, Isaac & RHYDER
+
 [Post-Chorus]
 (Là em)
 Eh-yeah, ah-ah
@@ -8308,13 +8188,6 @@ Là do ta đã chấp nhận tổn thương
 
 Vì thế gian đầy ưu tư
 Vì thế ta lạc mất nhau thật rồi
-You might also like
-MỘNG DUYÊN
-Tinh Hà "Say Hi", Quang Hùng MasterD, JSOL, Song Luân & Sơn K (VNM)
-CHÂN THÀNH
-Anh Trai "Say Hi", RHYDER, Ali Hoàng Dương, Captain, Quang Hùng MasterD & WEAN
-Đừng Vì Anh Mà Khóc
-Quang Hùng MasterD
 Anh chẳng thể níu giữ
 Anh chẳng thể lau những nỗi đau còn giấu
 Từ sâu trong đôi mắt em
