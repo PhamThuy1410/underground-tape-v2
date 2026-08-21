@@ -6326,31 +6326,2038 @@ MCK, MCK, MCK, MCK`,
 
   // -------------------------------------QUANG HÙNG MASTER D------------------------------------
   // --------------------------------------------------------------------------------------------
-  "assets/artists/quanghungmasterd/audio/1 - LÀN ƯU TIÊN.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/2 - 50 CUỘC GỌI NHỠ ft CoolKid & Cody Nam Võ & Jaysonlei.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/3 - Bản Thiết Kế ft Jsol & Dương Domic & HURRYKNG.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/4 - CATCH ME IF YOU CAN ft Negav & Công Dương & Nicky.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/5 - CHÂN THÀNH ft RHYDER & Captain & WEAN & Ali Hoàng Dương.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/6 - Chất Gây Hại ft Low G.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/7 - Cảm Giác Lúc Ấy Sẽ Ra Sao.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/8 - CỨ ĐỂ ANH TA RỜI ĐI ft Dương Domic & Lou Hoàng & Song Luân & Bảo Anh.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/9 - DON'T CARE ft Isaac & Negav & Gin Tuấn Kiệt & Vũ Thịnh & Nanon (Korapat Kirdpan).mp3": ``,
-  "assets/artists/quanghungmasterd/audio/10 - Dễ Đến Dễ Đi.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/11 - Giá Như Anh Lặng Im ft Only C.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/12 - GÃ SĂN CÁ ft Lâm Bảo Ngọc & Quỳnh Anh Shyn & MAIQUINN & Saabirose.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/13 - Lò Vi Sóng.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/14 - Mashup Thuỷ Triều (2.0) & Ánh Mắt Biết Cười (Duzme Remix).mp3": ``,
-  "assets/artists/quanghungmasterd/audio/15 - Mưa Đá (2.0).mp3": ``,
-  "assets/artists/quanghungmasterd/audio/16 - MỘNG DUYÊN ft Song Luân & JSOL & Sơn.K & Emil Vergo.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/17 - SECRET ft CODYNAMVO & CONGB & Wren Evans.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/18 - SOS ft Rhyder & Captain & WEAN & Ali Hoàng Dương.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/19 - Thả Anh Ra (2.0).mp3": ``,
-  "assets/artists/quanghungmasterd/audio/20 - Thủy Triều (2.0).mp3": ``,
-  "assets/artists/quanghungmasterd/audio/21 - SOS.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/21 - Trói Em Lại.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/22 - Tình Đầu Quá Chén ft Negav & Erik & Pháp Kiều.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/23 - Đầu Tư Cho Trái Tim.mp3": ``,
-  "assets/artists/quanghungmasterd/audio/24 - Đừng Khóc Một Mình.mp3": ``,
+  "assets/artists/quanghungmasterd/audio/1 - LÀN ƯU TIÊN.mp3": `[Intro]
+(MOPIUS)
+
+[Verse 1: Jsol]
+Khi anh trông thấy em từ xa, chỉ muốn nắm tay, dắt về nhà
+Em xứng đáng với tất cả những bông hoa
+Điều gì làm tâm trí thẫn thờ?
+Anh chưa từng thấy như bây giờ
+Chắc có lẽ anh không thể chờ thêm nữa
+
+[Pre-Chorus: Quang Hùng MasterD]
+Đèn xanh, xuyên qua ngã ba Hàng Xanh
+Tim của anh đập như mất phanh
+Bé xinh, sao em chạy nhanh bằng anh
+Vụt qua, mắt anh sáng như đèn pha
+Vương lại đây mùi hương nước hoa
+Có hai giây thôi mà trót say rồi
+
+[Chorus: Dương Domic]
+Trái tim của anh dành cho riêng nàng một làn ưu tiên
+Trước khi gặp em thì anh chưa từng một lần phát điên
+Muốn theo em không rời, nơi chân trời, wherever you go
+Vậy thì em không thoát được đâu, không chạy thoát được đâu
+You might also like
+NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN
+Anh Trai "Say Hi", VCT, Negav, Karik (VNM), Ngô Kiến Huy & JeyB (VNM)
+LẮM LÚC
+Em Xinh "Say Hi", Bảo Anh, LyHan, MAIQUINN, Miu Lê & Tiên Tiên
+KHÔNG ĐAU NỮA RỒI
+Em Xinh "Say Hi", 52Hz, Châu Bùi, Mỹ Mỹ (VNM) & Orange
+[Verse 2: HURRYKNG]
+Yeah-eh-eh-eh
+Ay, ay, HURRYKNG is on the way-ay-ay-ay (Brrr, yeah)
+Yeah, baby, nép sang hai bên, chẳng để ai mon men
+Dành một lane riêng cho mình em (Oh-hoh)
+Cứ yên tâm đây nha, dù đường đi bao xa thì vẫn đến bên cạnh anh mà (Hey)
+Trải hoa (Trải hoa) từ ngay chân giường em ra tới sân ga
+Dù là đi vòng quanh tận bao nhiêu ngã ba (Go, go)
+Chỉ cần nhấn ga thì đôi ta vẫn sẽ đến lúc chung nhà
+
+[Pre-Chorus: Jsol, Dương Domic]
+Đèn xanh, xuyên qua ngã ba Hàng Xanh
+Tim của anh đập như mất phanh
+Bé xinh, sao em chạy nhanh bằng anh
+Vụt qua, mắt anh sáng như đèn pha
+Vương lại đây mùi hương nước hoa
+Có hai giây thôi mà trót say rồi
+
+[Chorus: Quang Hùng MasterD]
+Trái tim của anh dành cho riêng nàng một làn ưu tiên
+Trước khi gặp em thì anh chưa từng một lần phát điên
+Muốn theo em không rời, nơi chân trời, wherever you go
+Vậy thì em không thoát được đâu (Oh-oh), không chạy thoát được đâu
+Yeah-eh-eh
+
+[Post-Chorus: Dương Domic, Jsol]
+Oh-oh-oh-oh
+Oh-oh-oh-oh-oh
+Oh-oh-oh-oh
+Vậy thì em không thoát được đâu, không chạy thoát được đâu!
+[Chorus: Jsol, Quang Hùng MasterD, Dương Domic, HURRYKNG]
+Trái tim của anh dành cho riêng nàng một làn ưu tiên
+Trước khi gặp em thì anh chưa từng một lần phát điên
+Muốn theo em không rời, nơi chân trời, wherever you go
+Vậy thì em không thoát được đâu (Hey, hey, hеy), không chạy thoát được đâu!
+
+[Chorus: All]
+Trái tim của anh dành cho riêng nàng một làn ưu tiên
+Trước khi gặp em thì anh chưa từng một lần phát điên
+Muốn theo em không rời, nơi chân trời, whеrever you go
+Vậy thì em không thoát được đâu (Whoo), không chạy thoát được đâu
+
+[Post-Chorus: All, Quang Hùng MasterD]
+Oh-oh-oh-oh-oh (Ooh-no-oh-woah-oh)
+Oh-oh-oh-oh-oh (La-la-la, la-la-la, la)
+Oh-oh-oh-oh-oh (Nah-ooh-ooh-ooh-ooh)
+Vậy thì em không thoát được đâu (Không thoát được), không chạy thoát được đâu`,
+
+  "assets/artists/quanghungmasterd/audio/2 - 50 CUỘC GỌI NHỠ ft CoolKid & Cody Nam Võ & Jaysonlei.mp3": `[Verse 1: JAYSONLEI & Cody Nam Võ]
+Chỉ khi thức trắng mới biết đêm dài
+Để nỗi nhớ nhân một thành hai
+Vệt ký ức kia lăn dài mãi, woah-hoh
+Nếu lúc đó anh không buông tay, liệu kết cục có ổn hơn?
+Nếu lúc đó ta không lung lay để giữ trọn vẹn từ thương
+Thương thì ai chẳng thương mà buông thì vẫn phải buông
+Vì số phận thường chẳng như ta muốn, hah-ah
+
+[Chorus: Quang Hùng MasterD & CoolKid]
+Là hàng triệu nỗi nhớ anh đem chôn giấu trong nơi màn đêm (Woah-ooh-woah)
+Là từng cuộc gọi nhỡ không ai bắt máy, năm mươi lần đếm
+Với anh đáng sợ đó là khi nghe tiếng chuông reo
+Thường là nỗi buồn bấy lâu nay mang theo, lại liên hồi rung lên
+Giờ chỉ mình anh đếm thôi, chạy bao lâu mới đến nơi?
+Để kịp hẹn cùng hạnh phúc bấy lâu anh chẳng dám đối diện
+Năm mươi cuộc gọi giờ thay cho đáp án cuối cùng
+Chọn khóc thay cho cười, chọn kết thúc một nỗi đau
+
+[Verse 2: Quang Hùng MasterD, CoolKid & Cody Nam Võ]
+Nỗi nhớ trong anh là bao nhiêu? (Bao nhiêu?)
+Năm mươi cuộc gọi là bao nhiêu (Woah-oh)
+Suốt đêm thinking about you
+Chỉ là chắc có lẽ duyên ta nay đi ngược chiều
+Đau thay anh cứ mãi bị lừa gạt mà đâu hay
+Giờ đành thôi vứt kỷ niệm xưa trong đám cháy (DG Boy)
+Buồn vì con tim anh từng đã trao trọn mà giờ phải chọn cô đơn (You)
+Tưởng chừng dừng lại thì sẽ bớt đau lòng vùi mình trong con sóng lớn
+Off the phone không nghe một câu, giữ lấy đi baby, anh chẳng cần đâu
+Thứ đã chết là tình yêu ta ngày đầu
+Nghìn điều buồn sầu anh vội thả vào mưa ngâu (Hah-ah-ah-hah)
+You might also like
+XOAY VÒNG
+Tinh Hà "Say Hi", HURRYKNG, CONGB (콩비), JSOL & Vương Bình
+MRT
+Tinh Hà "Say Hi", Xuân Định K.Y, Captain, buitruonglinh & HYO (VNM)
+CÓ GÌ ĐÂU MÀ CAY
+Tinh Hà "Say Hi", Captain, CoolKid, IVAN (Chen Mingxuan) & Xuân Định K.Y
+[Chorus: JAYSONLEI & Cody Nam Võ]
+Là hàng triệu nỗi nhớ anh đem chôn giấu sau nơi màn đêm (Hah)
+Là từng cuộc gọi nhỡ không ai bắt máy, năm mươi lần đếm
+Với anh đáng sợ đó là khi nghe tiếng chuông reo
+Sợ là nỗi buồn bấy lâu nay mang theo, lại liên hồi rung lên, woah-hoh
+Giờ chỉ mình anh đếm thôi, chạy bao lâu mới đến nơi?
+Để kịp hẹn cùng hạnh phúc bấy lâu anh chẳng dám đối diện
+Năm mươi cuộc gọi giờ thay cho đáp án cuối cùng
+Chọn khóc thay cho cười, chọn kết thúc một nỗi đau
+
+[Bridge: Quang Hùng MasterD, JAYSONLEI, Cody Nam Võ & CoolKid]
+Oh-hoh, ooh-woah-ooh-woah-ooh-woah-hoh (Hey)
+Hằn sâu trong tim anh năm mươi nhát khâu
+Cô đơn và anh chẳng còn khác nhau
+Ghi vào giấy vì anh sợ khi nào đấy mình quên đi
+Ngược dòng ký ức, tìm hình bóng em (Bóng em)
+Rồi chính anh lại vụn vỡ nhìn người tan biến, ah-hah
+Năm mươi nó cũng chẳng là bao nhiêu
+Với tổn thương này chẳng là bao nhiêu, oh-woah
+
+[Chorus: Quang Hùng MasterD, CoolKid, JAYSONLEI & Cody Nam Võ]
+Là hàng triệu nỗi nhớ anh đem chôn giấu trong nơi màn đêm
+Là từng cuộc gọi nhỡ không ai bắt máy, năm mươi lần đếm
+Với anh đáng sợ đó là khi nghe tiếng chuông reo
+Sợ là nỗi buồn bấy lâu nay mang theo, lại liên hồi rung lên, woah-hoh
+Giờ chỉ mình anh đếm thôi, chạy bao lâu mới đến nơi?
+Để kịp hẹn cùng hạnh phúc bấy lâu anh chẳng dám đối diện
+Năm mươi cuộc gọi giờ thay cho đáp án cuối cùng
+Chọn khóc thay cho cười, chọn kết thúc một nỗi đau`,
+
+  "assets/artists/quanghungmasterd/audio/3 - Bản Thiết Kế ft Jsol & Dương Domic & HURRYKNG.mp3": `[Verse 1: Dương Domic, HURRYKNG]
+Khi em đang vùi mình trong gối
+Khi cơn mưa còn vẫn chưa ngơi
+Em mang theo một ngày u tối
+Vào trong giấc chiêm bao
+Xung quanh em, lời người ta nói
+Làm cho con tim vụn vỡ lên ngôi
+Em loay hoay chẳng tìm ra lối I know, I know
+
+[Pre-Chorus: Quang Hùng MasterD]
+Từng đêm em rơi nước mắt thật nhiều
+Để đổi lấy những thứ em yêu
+Niềm tin trong em đang chết cạn dần
+Đừng tắt đi hi vọng
+
+[Chorus: JSOL, Quang Hùng MasterD]
+Đã có anh ở đây rồi
+Anh thiết kế riêng dành cho em mà thôi
+Để xóa đi ưu phiền trên đời
+Giữ em trong vòng tay, đến khi em ngủ say
+Để xóa đi ưu phiền trên đời
+Xóa đi ưu phiền trên đời
+Để xóa đi ưu phiền trên đời
+Giữ em trong vòng tay, đến khi em ngủ say
+Để xóa đi
+You might also like
+GÃ SĂN CÁ
+Em Xinh "Say Hi", Lâm Bảo Ngọc, MAIQUINN, Quỳnh Anh Shyn & Saabirose
+Animal
+KATSEYE
+petal
+Ariana Grande
+[Verse 2: HURRYKNG]
+Bao cơn gió đã cuốn trôi niềm vui của em đi vậy
+Mưa đã lấy đi bao long lanh trong đôi mi này
+Như cơn sóng khôn nguôi, lăn tăn, hằng đêm em cau mày
+Cho anh xin ôm hết những
+Lao tâm bao năm để lại nơi em lâu nay
+Dù khói sương có bủa vây, trái đất ngừng quay
+Nụ cười của nàng là địa đàng trong mắt anh
+Chở che trong vòng tay, vuốt ve em ngủ say
+Dịu dàng và nhẹ nhàng, anh chẳng cần màng đêm hay ngày
+
+[Pre-Chorus: JSOL]
+Bàn tay đưa lên trang giấy vụng về
+Chẳng còn thấy chốn thân quen
+Cùng đi theo anh, ta vẽ thật nhiều
+Và hát cho mọi người
+
+[Chorus: Quang Hùng MasterD, Dương Domic]
+Đã có anh ở đây rồi
+Anh thiết kế riêng dành cho em mà thôi
+Xóa đi ưu phiền trên đời
+Và giữ em trong vòng tay, đến khi em ngủ say
+Để xóa đi ưu phiền trên đời
+Xóa đi ưu phiền trên đời
+Xóa đi ưu phiền trên đời
+Giữ em trong vòng tay, đến khi em ngủ say
+Để xóa đi ưu phiền trên đời
+[Bridge: JSOL, HURRYKNG]
+Đêm buông dần, đèn đường lên cho ai cần
+Anh gieo vần, đàn vang to lên dần
+
+Đã có anh ở đây rồi (Anh gieo vần)
+Anh thiết kế riêng dành cho em mà thôi (Đàn vang to lên dần)
+Xóa đi ưu phiền trên đời (Tô thêm vàng)
+Giữ em trong vòng tay, đến khi em ngủ say (Đặt màu son trên môi nàng)
+
+[Chorus: Dương Domic, JSOL, Quang Hùng MasterD]
+Vì đã có anh ở đây rồi
+Anh thiết kế riêng dành cho em mà thôi
+Để xóa đi ưu phiền trên đời
+Giữ em trong vòng tay, đến khi em ngủ say
+Vì đã có anh ở đây rồi
+Anh thiết kế riêng dành cho em mà thôi
+Xóa đi ưu phiền trên đời
+Giữ em trong vòng tay, đến khi em ngủ say
+
+[Coda: All, HURRYKNG]
+(Để xóa đi ưu phiền trên đời)
+Xóa đi ưu phiền trên đời
+Để xóa đi ưu phiền trên đời
+Giữ em trong vòng tay, đến khi em ngủ say
+Vì đã có anh ở đây rồi
+[Outro: JSOL]
+Dừng lại một chút, dừng lại chút thôi
+Dừng lại để thời gian đã nói mình
+Theo cơn mưa ngừng rơi`,
+
+  "assets/artists/quanghungmasterd/audio/4 - CATCH ME IF YOU CAN ft Negav & Công Dương & Nicky.mp3": `[Lời bài hát "CATCH ME IF YOU CAN"]
+
+[Verse 1: Negav]
+หนึ่งสองสามสี่, quay lưng sang đã thấy người đi
+Chẳng còn tương lai lấp lánh như trong cơn mơ lúc em vẫn ngây thơ
+Hứa xong lại thế "anh ơi em sẽ quay trở về"
+Giờ thì nhìn xem ngoài nước mắt đang tuôn từng cơn, em có ai yêu lấy em thật lòng
+
+[Pre-Chorus: Công Dương]
+Bỏ anh đi làm gì không giữ lúc mất đừng tìm thôi thì ngậm cay đắng đi
+Đừng nói bao câu ngọt ngào, làm bẫy cho anh lọt vào, vào rồi lại đi khuất xa
+
+[Chorus: Nicky & Công Dương]
+Mọi chuyện là do em đó, không tin em nhìn xem
+Đừng vì một phút cô đơn mà tìm đến bên anh
+Chẳng phải rằng đó là điều em vẫn giỏi nhất trên đời, kiếm lấy anh để săn mồi
+You're chasing behind my back
+Mọi chuyện là do em đó, không tin thôi kệ đi
+Đừng vờn đừng cố lôi anh vào chốn những mơ hồ
+Chẳng phải đã muốn anh biến mất đi cho rồi
+Nay lại đòi muốn có anh ở trong đời, so catch me if you can
+
+[Post-Chorus: Negav]
+(Oh-oh-oh-oh-oh)
+Haizz, you know what I'm saying like (Ah-ah-ah-ah-ah-ah-ah-ah)
+Em cứ đi rồi một ngày nào đó em cũng sẽ phải quay lại tìm anh (Ah-ah-ah-ah-ah)
+Haha, anh hiểu em quá mà, đúng không? (Oh-oh-oh-oh-oh-oh)
+You might also like
+Catch Me If You Can (Piano Version)
+Quang Hùng MasterD
+SECRET
+Tinh Hà "Say Hi", Cody (Võ Đình Nam), CONGB (콩비), Quang Hùng MasterD & Wren Evans
+NGÁO NGƠ
+Anh Trai "Say Hi", HIEUTHUHAI, Anh Tú Atus, ERIK & JSOL
+[Verse 2: Quang Hùng MasterD]
+หนึ่งสองสามสี่, trên tay em uống hết cạn ly
+Giờ thì ai lau nước mắt em trong cơn say giữa cơn đau đọa đày?
+Đứng dưới vực sâu em ơi không ở đây được đâu
+Đừng nhìn anh với ánh mắt long lanh vờ như em chẳng có tội tình gì
+
+[Rap: Công Dương, Negav & Công Dương]
+Hey, đã bên nhau từ lâu
+Mà em để relationship mình đang độc thân là sao?
+Anh chẳng phải là game cho em chơi rồi lại quay xe đúng nói những lời nói dối, don't repeat thứ anh hay nghe
+And no you want me back?
+Hell no, you wanna catch me up? So slow
+Em cứ nghe lời ai, họ nói em chẳng hề sai
+Giờ nhìn xem, em đang có ai? No one
+
+[Pre-Chorus: Negav & Nicky]
+Bỏ anh đi làm gì không giữ lúc mất đừng tìm thôi thì ngậm cay đắng đi
+Đừng nói bao câu ngọt ngào, làm bẫy cho anh lọt vào, vào rồi lại đi khuất xa
+
+[Chorus: Negav, Nicky & Quang Hùng MasterD]
+Mọi chuyện là do em đó, không tin em nhìn xem
+Đừng vì một phút cô đơn mà tìm đến bên anh
+Chẳng phải rằng đó là điều em vẫn giỏi nhất trên đời, kiếm lấy anh để săn mồi
+You're chasing behind my back
+Mọi chuyện là do em đó, không tin thôi kệ đi
+Đừng vởn đừng cố lôi anh vào trong những mơ hồ
+Chẳng phải đã muốn anh biến mất đi cho rồi
+Nay lại đòi muốn có anh ở trong đời (Hah), so catch me if you can
+[Bridge: All, Công Dương & Negav]
+Catch me if you can, catch-catch-catch me if you can
+Catch me if you can, catch-catch-catch me if you can (Alright)
+Catch me if you can, catch-catch-catch me if you can (Catch me if you can)
+
+[Outro: All, Nicky, Negav & Quang Hùng MasterD]
+(Mọi chuyện là do em đó)
+(Catch me if you can)
+Let's go
+Pa-papa-da-bapa (Ỏ), papa-da-bapa (Go, go)
+Bada-baba-dada-bapa (Go), papa-da-bapa
+Hah-ah-hah-ah-ah-ah-ah-ah-ah (Brrah-bada-pa)
+Catch me if you can - Là do em đó
+Catch me, catch me, catch me, say what
+Catch me, catch me, catch me, say what (What?!)
+Catch me, catch me, catch me, say what
+So catch me if you can`,
+
+  "assets/artists/quanghungmasterd/audio/5 - CHÂN THÀNH ft RHYDER & Captain & WEAN & Ali Hoàng Dương.mp3": `
+[Intro: RHYDER]
+(Lại là DG House, Rhyder)
+
+[Verse 1: WEAN & Ali Hoàng Dương]
+Và yêu như chưa yêu lần nào
+So baby, please tell me how
+Tưởng như đã hiểu được rồi mà đầu óc cứ noise
+Có lẽ anh vẫn chưa thể nào hiểu được tình yêu
+Định nghĩa tình yêu là gì?
+Mà dễ đến rồi lại rời đi
+Chỉ là bài toán khó anh chưa thể giải, đáp án chúng ta dừng lại (No-oh-ooh-ah)
+
+[Pre-Chorus: RHYDER]
+Sẽ đến lúc ai cũng phải nhận ra rằng mình đã thay đổi
+Đừng vì một người chẳng vì mình một người chỉ biết đến bản thân (Ah-ah-ah)
+Mình một người quá đỗi vô tâm, oh-oh-oh-ooh-ah
+
+[Chorus: Quang Hùng MasterD, CAPTAIN BOY]
+Liệu người ấy có yêu em chân thành?
+Nếu khóc cứ chạy lại với anh (Hoo-ooh)
+Gom hết nỗi đau này lên bờ vai để chữa lành
+Chân thành đổi lại gì đâu, chỉ toàn phải
+Chứng kiến thấy em đau, anh đau, ta đau
+Sao cứ phải xa nhau, xa nhau? (Oh-ooh)
+Anh cứ hy vọng rồi ôm về mình mớ thất vọng
+Những gì đã từng hứa giờ đây cũng chỉ là lời bông đùa
+You might also like
+Thick Of It
+KSI
+SECRET
+Tinh Hà "Say Hi", Cody (Võ Đình Nam), CONGB (콩비), Quang Hùng MasterD & Wren Evans
+MRT
+Tinh Hà "Say Hi", Xuân Định K.Y, Captain, buitruonglinh & HYO (VNM)
+[Verse 2: WEAN, Quang Hung MasterD & Ali Hoàng Dương]
+(Ah, hey) Baby come back, anh thắc mắc đâu mới là chân thành? (No)
+Những ký ức ở trong đầu em (ah-ah)
+Không còn anh, giờ cũng đã trôi sạch (Woah-oh-oh)
+Anh cảm thấy hơi lạnh, yeah uhm, thôi đành
+Anh cứ mãi chạy theo người mình thích để dỗ dành, yah
+Nhưng khi mọi thứ dường như đã đẹp đẽ thì em lại chẳng hề cần anh
+Anh yêu đơn phương nên tự anh ôm cơn đau (Wooh)
+Anh thấy gã đó đi cùng ai đang hôn sâu (Yah)
+Anh thấy cô ấy chẳng hề giống với em đâu sorry I don't know, bây giờ đang ra sao
+Sự tiếc nuối khi ấy
+Để đổi lấy câu tạm biệt, anh lại đặt bút viết
+
+[Pre-Chorus: CAPTAIN BOY]
+Sẽ đến lúc ai cũng phải nhận ra rằng mình đã thay đổi
+Đừng vì một người chẳng vì mình
+Người chỉ biết đến bản thân
+Một người quá đỗi vô tâm, hoh-oh-ooh-oh
+
+[Chorus: RHYDER & Ali Hoàng Dương]
+Liệu người ấy có yêu em chân thành?
+Nếu khóc cứ chạy lại với anh
+Gom hết nỗi đau này lên bờ vai để chữa lành (Hey)
+Chân thành đổi lại gì đâu, chỉ toàn phải
+Chứng kiến thấy em đau, anh đau, ta đau
+Sao cứ phải xa nhau, xa nhau? (Hoh-oh)
+Anh cứ hy vọng rồi ôm về mình mớ thất vọng
+Những gì đã từng hứa giờ đây cũng chỉ là lời bông đùa
+[Bridge: WEAN, Quang Hùng MasterD & RHYDER]
+"Ah, tất cả chúng ta ai cũng mong muốn được yêu và được quan tâm rất chân thành
+Nhưng liệu mình đã có đủ chân thành hay chưa?
+Hay là tất cả chúng ta đều đang lảng tránh
+Vì mình sợ thiệt thòi hay là vì những vết thương trong quá khứ? I don't know"
+Cảm xúc anh mang chân thành, sao chẳng ngoảnh lại nhìn về phía anh?
+Gom hết nỗi đau này lên bờ vai để chữa lành (Nỗi đau này lên vai để)
+Chân thành đổi lại gì đâu? (Hey) Chỉ toàn phải
+
+[Outro]
+Chứng kiến thấy em đau, anh đau, ta đau
+Sao cứ phải xa nhau, xa nhau? (Hah) Mất nhau
+Anh cứ hy vọng rồi ôm về mình mớ thất vọng
+Chân thành đổi lại gì đâu? Hoh
+Ah-ah-ah-ah-ah-ah-ah
+Hoh-oh-oh-oi (Ah-ah-ah-ah-ah), oh-oi (Ah-ah-ah-ah-ah)
+Những gì đã từng hứa giờ đây cũng chỉ la (Ah) lời bông đùa`,
+
+  "assets/artists/quanghungmasterd/audio/6 - Chất Gây Hại ft Low G.mp3": `[Verse 1: Quang Hùng MasterD]
+Mặc quần ống loe (Loe), áo anh oversize (Huh!)
+Chỉnh trang lại tóc tai (Tai), dưới chân là Nike (Whoa!)
+Chạy xe qua đón em (Đón em) (Beep-beep), trái tim còn e ngại (Oh-oh)
+Giữ chặt tay lái (Vroom-vroom), muốn được bên em sớm mai
+
+[Pre-Chorus: Quang Hùng MasterD]
+Anh không nói điêu đâu (Nói điêu), anh không thích làm màu (Ah-ah)
+Anh chỉ muốn thêm giàu để được lo cho em đến bạc đầu
+Những nụ hôn tới sát lại (Pew, pew!), mang nhiều thêm chất gây hại
+Anh như cảm giác là kẻ may mắn, khi em trao chiếc cúp, anh là người thắng
+
+[Chorus: Quang Hùng MasterD]
+Oh, baby girl! Em là vàng bạc châu báu
+Chỉ muốn giữ em thật lâu để cuộc đời này lắm sắc màu
+Em khiến anh như chết điêu, yêu em là điều chẳng thể thiếu
+Cưa em là phải dùng hết chiêu, trao em cuộc tình này mãi real
+Oh, baby girl! Em ngọt hơn sô-cô-la
+Đôi mi khép, chạm bờ môi, chỉ vậy thôi, anh muốn điên rồi!
+Anh chẳng phải là người xấu xa, đưa em về quê thưa ba má
+Trên tay anh cầm một đoá hoa, mong em gật đầu, đồng ý nha
+
+[Post-Chorus: Quang Hùng MasterD]
+Ah-ah, yeah
+La-la-la-la-la
+Ooh-ooh, yeah, yeah
+Và đây là MasterD
+You might also like
+CÓ GÌ ĐÂU MÀ CAY
+Tinh Hà "Say Hi", Captain, CoolKid, IVAN (Chen Mingxuan) & Xuân Định K.Y
+MVP (MƯA VỘI PHÓNG)
+Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
+Vạn Sự Như Ý
+Trúc Nhân
+[Verse 2: Quang Hùng MasterD]
+Biết tính em hơi trở trời (Trở trời) nên anh né những lời gọi mời
+Tắt máy, anh xin từ chối cuộc chơi của mấy ông anh bạn đời
+Vì những lúc em hơi buồn phiền (Buồn phiền), búng một cái là anh có liền (Anh có liền)
+Là anh tới liền, anh tới liền nà (Yeah-yeah)
+Em thích nghe guitar (—Tar) (Ooh)
+Không thích nghe Vina (—Na-na) (Ooh)
+Cầm cái visa (Yeah) (Ooh), đưa em đi chơi xa
+Nắm đôi bàn tay này nhỏ bé (Yeah!), dìu em bước đi qua những đắng cay
+Vì giờ đã có anh đây, nguyện làm em vui suốt cả đêm ngày
+
+[Chorus: Quang Hùng MasterD]
+Oh, baby girl! Em là vàng bạc châu báu
+Chỉ muốn giữ em thật lâu để cuộc đời này lắm sắc màu
+Em khiến anh như chết điêu, yêu em là điều chẳng thể thiếu
+Cưa em là phải dùng hết chiêu, trao em cuộc tình này mãi real
+Oh, baby girl! Em ngọt hơn sô-cô-la (Hah-hah-hah)
+Đôi mi khép, chạm bờ môi, chỉ vậy thôi, anh muốn điên rồi!
+Anh chẳng phải là người xấu xa, đưa em về quê thưa ba má (Yеah, yeah)
+Trên tay anh cầm một đoá hoa (Đoá hoa), mong em gật đầu, đồng ý nha
+(Oh baby—)
+
+[Verse 3: Low G]
+Girl, em là, еm là vàng bạc châu báu (Huh?)
+Nếu muốn nhà mình đông cháu (Huh?), mình nên hôn nhau (Ấy)
+Thôi anh đùa (Anh đùa), anh đâu có vội như thế (Chuyện!)
+Em bảo anh, "Hơi hư nhé (Huh?), nhưng cũng cute" (C-U-T-E)
+Nếu em chưa muốn làm gì thì mình có thể ngắm cây, ngắm phường, ngắm phố (Huh?)
+À em chỉ muốn nói chuyện á? Ừ công nhận, nắm tay hơi nặng đô (Công nhận!)
+Anh cũng chỉ muốn đi cà phê các kiểu thôi, chứ cũng chả có gì hơn thế (Mm)
+Anh cũng không mê hôn lắm vì cứ chụt em nào là em ấy hôn mê (Ấy)
+Chờ anh tí, để anh mở cửa cho em đi trước (Đi trước)
+Ơ chết, nhỡ chạm tay em á? (Huh?) Anh chỉ định cầm hộ em cái ly nước (Hiểu nhầm, hiểu nhầm)
+À, em lạnh á? (Huh?) Thôi chết, anh quên không mang áo (Ấy)
+Hay là cứ để anh ôm tạm nhớ? (Mm) Chứ không, lỡ bị cảm thì làm sao?
+Em yên tâm, mình chưa là gì, cũng chỉ mới bạn bè thôi (Ấy)
+Về đến cửa nhà rồi đấy, hôm nay ngày đầu chưa có gì nhiều để chơi (Mm)
+Thôi thì ver này anh tặng bé, gửi cho bạn anh làm nốt xong ghi:
+"Low G đã mix qua rồi nhé, nên là Quang Hùng master đi" (Xời!)
+[Chorus: Quang Hùng MasterD]
+Oh, baby girl! Em là vàng bạc châu báu
+Chỉ muốn giữ em thật lâu để cuộc đời này lắm sắc màu
+Em khiến anh như chết điêu, yêu em là điều chẳng thể thiếu
+Cưa em là phải dùng hết chiêu, trao em cuộc tình này mãi real
+
+[Coda: Quang Hùng MasterD]
+Whoo-ooh-ooh-ooh, whoo-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+Yeah-yeah-yeah
+Nah-nah-nah`,
+
+  "assets/artists/quanghungmasterd/audio/7 - Cảm Giác Lúc Ấy Sẽ Ra Sao.mp3": `Nếu có lúc đôi ta phải nhìn lại
+Nếu có lúc yêu đương này nhạt phai
+Sẽ thế nào nếu chia tay
+Không muốn phải nuối tiếc
+Sẽ có lúc không ai hiểu được mình
+Sẽ đến lúc không biết phải làm sao
+Nếu chia tay sẽ thế nào
+Bây giờ gặp mặt nhau biết nói câu gì
+
+Cảm giác lúc ấy sẽ ra sao?
+Tự hỏi rằng sẽ khó thế nào?
+Tạm biệt người yêu trong hồi ức
+Tạm biệt tình yêu nơi tiềm thức
+Đã bao nhiêu lần nếm cay đắng khi yêu
+Cảm giác lúc ấy sẽ ra sao?
+Cô đơn lên ngôi suốt bao đêm dài
+Tạm biệt người yêu thương nhiều nhất
+Tạm biệt người mang bao phiền phức
+Đến con tim này
+Hay là ta mới yêu chưa kịp đậm sâu
+
+Nếu có lúc đôi ta phải nhìn lại
+Nếu có lúc yêu đương này nhạt phai
+Sẽ thế nào nếu chia tay
+Không muốn phải lặng im
+Sẽ có lúc không ai hiểu được mình
+Sẽ đến lúc không biết phải làm sao
+Nếu chia tay sẽ thế nào
+Bây giờ gặp mặt nhau biết nói câu gì
+You might also like
+SAY HI NEVER SAY GOODBYE
+Anh Trai "Say Hi"
+Animal
+KATSEYE
+petal
+Ariana Grande
+Cảm giác lúc ấy sẽ ra sao?
+Tự hỏi rằng sẽ khó thế nào?
+Tạm biệt người yêu trong hồi ức
+Tạm biệt tình yêu nơi tiềm thức
+Đã bao nhiêu lần nếm cay đắng khi yêu
+Cảm giác lúc ấy sẽ ra sao?
+Cô đơn lên ngôi suốt bao đêm dài
+Tạm biệt người yêu thương nhiều nhất
+Tạm biệt người mang bao phiền phức
+Đến con tim này
+Hay là ta mới yêu chưa kịp đậm sâu
+
+Cảm giác lúc ấy sẽ ra sao?
+Tự hỏi rằng sẽ khó thế nào?
+Tạm biệt người yêu trong hồi ức
+Tạm biệt tình yêu nơi tiềm thức
+Đã bao nhiêu lần nếm cay đắng khi yêu
+Cảm giác lúc ấy sẽ ra sao?
+Tự hỏi rằng sẽ khó thế nào?
+Tạm biệt người yêu trong hồi ức
+Tạm biệt tình yêu nơi tiềm thức
+Đã bao nhiêu lần
+Nếm cay đắng khi yêu
+Cảm giác lúc ấy sẽ ra sao?
+Cô đơn theo suốt bao đêm dài
+Tạm biệt người yêu thương nhiều nhất
+Tạm biệt người mang bao phiền phức
+Đến con tim này
+Hay là ta mới yêu chưa kịp đậm sâu`,
+
+  "assets/artists/quanghungmasterd/audio/8 - CỨ ĐỂ ANH TA RỜI ĐI ft Dương Domic & Lou Hoàng & Song Luân & Bảo Anh.mp3": `[Intro: Bảo Anh]
+Muộn phiền làm chi, chẳng muốn anh phải rời đi
+Chẳng muốn tam quan em mờ mịt vì tiếng yêu là thuốc mê muội
+Muộn phiền này chỉ đem, ký ức bao đêm dần tối đen
+Bao thói quen thật tồi tệ thầm thì
+
+[Verse 1: Dương Domic, Song Luân]
+Wake up, đôi chân lang thang định đi về đâu
+Bao nhiêu mộng mơ của em từ nay về sau dường như chìm sâu (Oh-ah-ah)
+Từ từ một chút cho con tim chút tịnh tâm được không, yah
+Và từ từ một phút anh buff cho em chút niềm tin vượt giông, ủa
+I’m saying quẹt quẹt quẹt quẹt cho anh lướt lướt lướt lướt
+Anh như thần đèn thần đèn cho em điều ước ước ước ước (Yeah)
+Nhắm mắt em lại ngay và chắp đôi tay đưa lên mau nguyện cầu
+Cinderella qua đêm thâu nhiệm màu sớm mai trên môi chẳng còn là câu chuyện sầu
+
+[Pre-Chorus: Lou Hoàng, Quang Hùng MasterD]
+Muộn phiền làm chi ai khiến em lem hàng mi
+Ai khiến tam quan em mờ mịt vì tiếng yêu là thuốc mê muội
+Muộn phiền này chỉ đem ký ức bao đêm dần tối đen
+Bao thói quen thật tồi tệ thầm thì thế nên hãy cứ đi đi
+Chần chờ làm chi cứ để anh ta rời đi
+Cứ để anh ta ôm mộng mị và những đêm sầu vắng không nhà
+Chần chờ làm chi em mây kéo cơn mưa đầy lối quen
+Ký ức kia sao tồi tàn, bàng hoàng thế nên hãy
+You might also like
+MỘNG YU
+AMEE & RPT MCK
+2 4
+W/N (VNM)
+Guess featuring billie eilish
+Charli xcx & Billie Eilish
+[Chorus]
+Let him, let him, let him go
+बस उसे जाने दो (Ah-ah-ah-ah)
+बस उसे जाने दो (Let him go, let him go)
+बस उसे जाने दो (Ah-ah-ah-ah)
+बस उसे जाने दो (Let him go, let him go)
+Hãy để anh ta đi (Let him go, let him go, hah)
+Hãy để anh ta đi (Let him go, let him go, hah)
+
+[Verse 2: Quang Hùng MasterD, Lou Hoàng, Bảo Anh, Bảo Anh & Quang Hùng MasterD]
+Thôi thôi em lấy đi lấy đi cứ mang hết đi mà
+Tham, sân, si, sân, si cứ mang hết đi à
+Nếu anh thích yêu không thích phiền làm ơn đi xa ra
+Nếu anh muốn yêu nên biết điều (Ah)
+La-la-la-la, hai ta khác nhau hai ta
+Chẳng thể nhìn về một hướng chẳng thể đi chung một con đường
+Chuyện buồn khi yêu ta hãy xem như câu ca
+Biến tan theo mây bay một hai ba, ra-ta-ta
+
+[Pre-Chorus: Song Luân, Bảo Anh, Dương Domic, Dương Domic & Song Luân]
+Muộn phiền làm chi, ai khiến em lem hàng mi
+Ai khiến tam quan em mờ mịt vì tiếng yêu là thuốc mê muội
+Muộn phiền này chỉ đem ký ức bao đêm dần tối đen
+Bao thói quen thật tồi tệ thầm thì thế nên hãy cứ đi đi
+Chần chờ làm chi, cứ để anh ta rời đi
+Cứ để anh ta ôm mộng mị và những đêm sầu vắng không nhà
+Chần chờ làm chi em mây kéo cơn mưa đầy lối quen
+Ký ức kia sao tồi tàn, bàng hoàng thế nên hãy
+[Chorus]
+Lеt him, let him, let him go
+बस उसे जाने दो
+बस उसे जाने दो (Let him go, lеt him go)
+बस उसे जाने दो
+बस उसे जाने दो (Let him go, let him go)
+Hãy để anh ta đi (Let him go, let him go, hah)
+Hãy để anh ta đi (Let him go, let him go, hah-hah)
+
+[Bridge: Dương Domic, Lou Hoàng]
+(Wooh) Đừng phí nhan sắc trời ban tặng cho em nào (Wooh)
+Gạt đi mọi thứ bủa vây tâm trí của em hãy thoát ra nào (Wooh)
+Lệch đi mọi thứ trong quỹ đạo yêu vậy nên chẳng còn ai cần
+Chuyện tình chai sần, mình sai lầm
+Just silent, making my way
+
+[Break: All, Song Luân]
+Hooh-hooh-hah-hah
+Hooh-hooh-hah-hah
+Hah
+Hooh-hooh-hah-hah
+Hah, hah
+Huh-huh-huh-huh-eh-eh-eh-eh-ah-ah-ah-hah
+
+[Outro:]
+बस उसे जाने दो (Ah-ah-ah-ah)
+बस उसे जाने दो (Let him go, let him go)
+बस उसे जाने दो
+बस उसे जाने दो (Hooh-hooh-hah-hah)
+Hãy để anh ta đi (Let him go, let him go, let him go)
+Hãy để anh ta đi (Let him go, let him go)`,
+
+  "assets/artists/quanghungmasterd/audio/9 - DON'T CARE ft Isaac & Negav & Gin Tuấn Kiệt & Vũ Thịnh & Nanon (Korapat Kirdpan).mp3": `[Intro]
+(Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Ah-ah-ah-ah, ooh-ooh-ooh-ooh
+Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Ooh-ah-ah-ah-ah-ah)
+
+[Verse 1: Gin Tuấn Kiệt & Vũ Thịnh]
+Liệu vài câu nói có khiến em thay lòng
+Về một giả thuyết tình yêu được tô hồng
+Nồng nàn dìu bước đưa em vào thinh không
+Là một ai khác thay cho anh đúng không?
+Bầu trời này từng ngập nắng đến khi mình xa rời
+Một ngày mưa rơi trắng xóa anh khuyên em hết lời
+Lựa chọn này liệu chẳng có cho em được thảnh thơi
+Chẳng cần làm gì, on club - off stage rồi nghỉ ngơi, yeah
+
+[Pre-Chorus: Negav & ISAAC]
+Baby, hãy cứ lướt ra khỏi tâm trí anh thế đi (Thế đi)
+Đừng nghĩ anh tiếc những thứ tình yêu bé tí ti (Tí ti)
+Cầm theo cả VCA, Rolly Diamonds on the bangle
+Đừng làm rớt luôn cả cái nết nơi đây em nghĩ đi, nghĩ đi
+Baby girl, em nghĩ đi
+Chỉ vì em, anh lao vào lửa, nhưng vì người khác, em ướt mi
+I just wanna make you blow your mind
+Thế nhưng, em chỉ muốn những gì họ có nhưng đâu biết em sẽ bị bỏ xó trong tương lai, nghĩ đi nghĩ đi ('Cause I know you)
+You might also like
+THE STARS
+Anh Trai "Say Hi"
+CHẠM
+Anh Trai "Say Hi", Nhâm Phương Nam, Vương Bình, Otis Đỗ Nhật Trường, Gill (VNM) & Đỗ Nam Sơn
+ĐÃ TỪNG
+Anh Trai "Say Hi", Bùi Duy Ngọc, Karik (VNM) & Ngô Kiến Huy
+[Chorus: ISAAC]
+Không quan tâm anh nói gì, vì giờ đã trễ để nói câu nếu-thì
+Cause I know, I shouldn’t let you go, trái tim anh, em đã lấy đi đâu
+Mình đợi thời gian thay cho câu trả lời, để rồi xem ai yêu em không nghĩ ngợi
+Cause I know, I should have let you go, my love for you, you never know, ooh
+
+[Rap: NANON]
+Triple N ready
+อยากบอกเธอแค่อย่างเดียว ถ้ามีโอกาสได้กลับมา
+เพราะฉันไม่เคยจะชอบมันเลย ทุกคราทุกครั้งที่จากลา
+เพราะเธอนั้นเป็นสิ่งเดียวที่ตัวฉันเองนั้นบอกว่ามีค่า
+นับจากทุกสิ่งที่เธอวิ่งตาม ว่าจะต้องมีว่าจะต้องตามล่า
+ก็ไม่เคยเลยสักคืน ที่ตัวฉันจะไม่ปวดใจ
+ก็ไม่เคยเลยสักคืน ที่ตัวฉันจะไม่เสียใจ
+ก็ตอนนี้มีสิ่งเดียวที่อยากจะพูดไป:
+If you want that, you won't get me
+
+[Pre-Chorus: Quang Hùng MasterD, Negav & Isaac]
+Babe, hãy cứ lướt ra khỏi tâm trí anh thế đi (Thế đi)
+Đừng nghĩ anh tiếc những thứ tình yêu bé tí ti (Bé tí ti)
+Cầm theo cả VCA, Rolly Diamonds on the bangle
+Đừng làm rớt luôn cả cái nết nơi đây em nghĩ đi, nghĩ đi
+Baby girl, em nghĩ đi
+Chỉ vì em, anh lao vào lửa nhưng vì người khác, em ướt mi
+I just wanna make you blow your mind
+Thế nhưng, em chỉ muốn những gì họ có
+Nhưng đâu biết еm sẽ bị bỏ xó trong tương lai, nghĩ đi nghĩ đi ('Cause I know you)
+[Chorus: All]
+Không quan tâm anh nói gì, vì giờ đã trễ để nói câu nếu-thì
+Cause I know, I shouldn’t let you go, trái tim anh, еm đã lấy đi đâu
+Mình đợi thời gian thay cho câu trả lời, để rồi xem ai yêu em không nghĩ ngợi
+Cause I know, I should have let you go, my love for you, you never know, ooh-ooh
+
+[Refrain: ISAAC]
+(Hah-ah-ah-ah-ah-ah)
+Không quan tâm anh nói gì, vì giờ đã trễ để nói câu nếu-thì, baby girl (Hah-ah-ah-ah-ah-ah)
+Mình đợi thời gian thay cho câu trả lời, để rồi xem ai yêu em không nghĩ ngợi, oh-oh
+
+[Bridge: Quang Hùng MasterD, Vũ Thịnh]
+(Hoo-ooh-ooh-ooh-ooh)
+Anh dang tay đón cánh hoa tàn, đang trơ trọi giữa bãi đất hoang
+(Hoo-ooh-ooh-ooh-ooh)
+Em chỉ biết yêu thương mình khi không còn ai nghe em thở than, hah-ah-ah-ah-ah-ah
+
+[Chorus: All, Gin Tuấn Kiệt]
+Không quan tâm anh nói gì, vì giờ đã trễ để nói câu nếu-thì
+Cause I know, I shouldn’t let you go, trái tim anh, em đã lấy đi đâu
+Mình đợi thời gian thay cho câu trả lời, để rồi xem ai yêu em không nghĩ ngợi
+Cause I know, I should have let you go, my love for you, you never know (You never know!)
+
+[Refrain: All, ISAAC, Negav]
+(Hah-ah-ah-ah-ah-ah)
+Không quan tâm anh nói gì, vì giờ đã trễ để nói câu nếu-thì, baby girl
+Mình đợi thời gian thay cho câu trả lời, để rồi xem ai yêu em không nghĩ ngợi, oh-oh-oh-ooh (Hah-ah-ah-ah-ah-ah-ah)
+Chẳng quan tâm về những lời khuyên mà anh đã rót vào tai
+Mong là sau này em sẽ nhận ra chẳng lời nào là sai
+C’mon, ah (Hah-ah-ah-ah-ah-ah-ah)
+I shouldn't have let you go
+Không quan tâm anh nói gì, vì giờ đã trễ để nói
+[Outro: ISAAC, Gin Tuấn Kiệt]
+Cause babe you just don't care, oh-oh
+Ooh-ooh-ooh-ooh
+You just don't care (Don't care, don't care)`,
+
+  "assets/artists/quanghungmasterd/audio/10 - Dễ Đến Dễ Đi.mp3": `Vài câu hứa em nói sẽ chẳng bao giờ xa anh
+Từ đầu môi mềm thắm say đắm cho ai mơ màng
+Cứ ngỡ bên nhau, nồng ấm bao lâu, dịu dàng em khẽ trao
+Vậy tại sao em gieo vào tim này xót xa
+Chỉ vì thứ tha bao lâu anh cứ như người thứ ba
+Đừng nhìn anh đôi mắt cất giấu ở phía sau
+Những lừa dối đã bấy lâu em ơi
+
+Vội vàng em đến, đến rồi đi
+Để làm chi, để rồi gieo vấn vương trong lòng anh
+Bao sầu bi, khi biệt ly, hoen bờ mi đứng trông người đi
+Nhìn em quay bước theo ai nơi hoàng hôn khuất bóng đêm phai
+Phủ lâu nay vắng bóng hình ai, anh ngồi đây
+Ly rượu say đắng hơi men nào cay, mưa phùn bay..
+Ai còn thương, ai còn vương vấn phương trời mây
+Tình trao như gió heo may, câu thề xưa vỡ trong chiều mưa
+
+Có lẽ giờ em đã quên rồi
+Bao nhung nhớ phôi phai trôi dần theo những ngày tháng mình anh ngồi
+Ôm đau giữa mây trời
+Tình đời anh quá chịu nhiều gió sương
+Một lòng thương nhớ còn đầy vấn vương
+
+Trong tim anh là đắng cay
+Trên tay anh là trắng tay
+Thuyền mãi rời xa bờ chốn đây, lòng nào *** mơ, tình này có em lâu dài
+Ừ là vì anh đã dại khờ ngu ngơ
+Để giờ người quay bước vội vàng thờ ơ`,
+
+  "assets/artists/quanghungmasterd/audio/11 - Giá Như Anh Lặng Im ft Only C.mp3": `Yêu mỗi em thôi
+Và mãi yêu
+Chỉ mỗi em trong đời
+Anh rất yêu em
+Như anh đã nói
+Anh yêu em nhiều lắm
+Và anh đã nói cho em nghe là
+Bao yêu thương say đắm
+Không như gió mây thoáng qua
+Hãy đưa đôi tay anh nắm
+Hãy cùng bên nhau
+Hạnh phúc trăm năm
+Hãy đặt đôi môi
+Lên bờ môi để đôi mi nhắm
+Nhưng cũng chỉ vì
+Thế nên em lánh xa
+Anh quá lạnh lùng
+Cận kề nhau nhưng sao
+Lại giống như mình
+Cách xa nhau đến muôn trùng
+Phải làm sao để anh
+Được sống như ngày đó
+Vui đùa chẳng ngại ngùng
+Và điều anh làm khi ấy
+Là sai hay là đúng
+Cũng chỉ vì anh quá yêu em
+Nên anh mới ngỏ lời
+Cũng chỉ vì anh đã mơ
+Về 1 tương lai xa vời
+Cũng chỉ vì anh người ơi
+Biết rằng không thể
+Nhưng anh vẫn đợi
+Cùng em rong chơi khắp muôn nơi
+Người anh yêu hỡi
+Để giờ em cất bước đi
+Mà anh chẳng thể kiếm tìm
+Vì sao không nghĩ suy
+Vì sao anh cứ đắm chìm
+Lệ hoen cay khóe mi
+Gió đông sang lạnh buốt con tim
+Những ngọt ngào xưa nay
+Cũng chỉ là kỉ niệm
+Giá như anh lặng im
+Keep silent Keep silent
+Và mãi yêu chỉ mỗi em trong đời
+Anh rất yêu em
+Silent silent silent silent
+Giá như lúc đó
+Cái điện thoại anh hết pin
+Giá như trong tài khoản
+Không có tiền khỏi nhắn tin
+Giá như lúc đó
+Đừng có yêu em hết mình
+Thì kết thúc cuộc trò chuyện
+Không phải lời tỏ tình
+Để em bước đi đâu biết nói gì
+Lệ cay khóe mi xa em cũng vì
+Em là thiên thần trong mơ
+Em là hăm bơ gơ
+Còn anh là bánh mì chấm cà ri
+Giá như anh giá như em giá như ta
+Giá như chờ giá như sợ giá như ngại
+Thì ngày sau ta đâu phải
+Giá như ngày đó
+Anh đừng có ngây dại
+Đừng ngỏ lời yêu em
+Thì nay đâu phải xa em mãi
+Cũng chỉ vì anh quá yêu em
+Nên anh mới ngỏ lời
+Cũng chỉ vì anh đã mơ
+Về 1 tương lai xa vời
+Cũng chỉ vì anh người ơi
+Biết rằng không thể
+Nhưng anh vẫn đợi
+Cùng em rong chơi khắp muôn nơi
+Người anh yêu hỡi
+Để giờ em cất bước đi
+Mà anh chẳng thể kiếm tìm
+Vì sao không nghĩ suy
+Vì sao anh cứ đắm chìm
+Lệ hoen cay khóe mi
+Gió đông sang lạnh buốt con tim
+Những ngọt ngào xưa nay
+Cũng chỉ là kỉ niệm
+Giá như anh lặng im
+Keep silent Keep silent
+Và mãi yêu chỉ mỗi em trong đời
+Anh rất yêu em
+Nhưng anh đã nói
+Cũng chỉ vì anh quá yêu em
+Nên anh mới ngỏ lời
+Cũng chỉ vì anh đã mơ
+Về 1 tương lai xa vời
+Cũng chỉ vì anh người ơi
+Biết rằng không thể
+Nhưng anh vẫn đợi
+Cùng em rong chơi khắp muôn nơi
+Người anh yêu hỡi
+Để giờ em cất bước đi
+Mà anh chẳng thể kiếm tìm
+Vì sao không nghĩ suy
+Vì sao anh cứ đắm chìm
+Lệ hoen cay khóe mi
+Gió đông sang lạnh buốt con tim
+Những ngọt ngào xưa nay
+Cũng chỉ là kỉ niệm
+Giá như anh lặng im
+Keep silent Keep silent
+Và mãi yêu chỉ mỗi em trong đời
+Anh rất yêu em
+Silent silent silent silent
+Giá như anh lặng im`,
+
+  "assets/artists/quanghungmasterd/audio/12 - GÃ SĂN CÁ ft Lâm Bảo Ngọc & Quỳnh Anh Shyn & MAIQUINN & Saabirose.mp3": `[Intro: Lâm Bảo Ngọc]
+Hah-ah-ah-ah-ah-ah
+Hah-ah-ah-ah-ah-ah
+
+[Chorus: Lâm Bảo Ngọc]
+Đóa hoa tàn trôi lạc giữa không gian
+Mang bao nỗi nhớ khô khan như bụi cát sa mạc
+Từng lớp son phấn kiêu sa, lâu đài cát tan ra
+Cô ta đã có anh ta, em chẳng qua chỉ là —
+
+[Verse 1: Quang Hùng MasterD]
+Giọt nước mắt tủi hờn chực chờ rơi xuống
+Chút buồn em pha với men, đến chiều tà em lại uống
+Vì ngây thơ quá, ái tình chẳng ai cảnh giác
+Thế là một giây sẩy chân, mắc lưới anh ta (Ta)
+
+[Refrain: Quỳnh Anh Shyn]
+Rồi em cứ vẫy vùng (Hah) ở nơi hoang vắng quá giá lạnh (Hah)
+Anh ta cứ gần mà cứ xa, (Hah) chẳng còn gì thiết tha (Hah)
+Vượt ngàn hải lý (Hah) để tìm được một chân ái đến cuối cùng (Hah)
+Giờ em chỉ có em đây để thương xót
+
+[Pre-Chorus: MAIQUINN]
+Thật tội cho em quá, chỉ vì gã săn cá
+Chẳng thể nào thoát ra, chẳng thể nào thoát ra
+Đừng chạy về nơi em đứng, từ đầu anh chê không xứng
+Chẳng thể cùng bước chân, chẳng thể cùng —
+You might also like
+NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN
+Anh Trai "Say Hi", VCT, Negav, Karik (VNM), Ngô Kiến Huy & JeyB (VNM)
+EM CHỈ LÀ
+Em Xinh "Say Hi", Bích Phương, Hoàng Duyên, LyHan & Muộii
+KHÔNG ĐAU NỮA RỒI
+Em Xinh "Say Hi", 52Hz, Châu Bùi, Mỹ Mỹ (VNM) & Orange
+[Chorus: Lâm Bảo Ngọc & MAIQUINN]
+Đóa hoa tàn trôi lạc giữa không gian
+Mang bao nỗi nhớ khô khan như bụi cát sa mạc
+Từng lớp son phấn kiêu sa, lâu đài cát tan ra
+Cô ta đã có anh ta, em chẳng qua chỉ là —
+
+[Post-Chorus: Saabirose, Lâm Bảo Ngọc]
+(Hah-ah, woah-ah)
+Vứt hết, đốt hết, cái kết quên đi mau
+Nguyện ước mai sau toàn những thương đau
+(Hah-ah, hah-hah)
+Giờ người là cá, còn em là cả đại dương
+
+[Verse 2: Saabirose]
+Okay, anh có thể khiến em hoen mi, yeah
+Cứ thế khiến em ghen đi, em biến những cảm xúc ấy trendy
+Làm bao người đu theo, anh xem đi, yeah
+Do anh hên hay do thiên thời? Đến đây thôi là quá điên rồi
+Xem thân xác em như chiến lợi, feel the karma đang đến chơi
+Trap, trap với cả thính thốt okay, trò chơi tình ái này thì anh đứng đầu
+Cờ bí, anh ta định dí tốt
+Đâu ngờ em là vua, đời em đâu cần ai xưng hậu?
+Em đứng ở trên cao nên yeah, uh-huh, kết cục ra sao vẫn yeah, uh-huh
+Nên những vệt xước này đáng gì đâu? Em ngán gì đâu? Yeah, uh-huh
+
+[Pre-Chorus: Lâm Bảo Ngọc, MAIQUINN & Quỳnh Anh Shyn, Lâm Bảo Ngọc]
+Thật tội cho em quá, chỉ vì gã săn cá
+Chẳng thể nào thoát ra, chẳng thể nào thoát ra
+Đừng chạy về nơi em đứng, từ đầu anh chê không xứng
+Chẳng thể cùng bước chân, chẳng thể cùng —
+[Refrain: Quang Hùng MasterD]
+Rồi em cứ vẫy vùng ở nơi hoang vắng quá giá lạnh
+Anh ta cứ gần mà cứ xa, chẳng còn gì thiết tha
+Vượt ngàn hải lý để tìm được một chân ái đến cuối cùng
+Giờ thì chỉ có em đây để thương xót
+
+[Chorus: Lâm Bảo Ngọc, Saabirose, MAIQUINN & Quỳnh Anh Shyn]
+Đóa hoa tàn trôi lạc giữa không gian
+Mang bao nỗi nhớ khô khan (Hah-ah) như bụi cát sa mạc (Hah-ah)
+Từng lớp son phấn kiêu sa, lâu đài cát tan ra (Hooh)
+Cô ta đã có anh ta, em chẳng qua chỉ là — (Oh-ah)
+
+[Post-Chorus: Saabirose & Lâm Bảo Ngọc]
+(Hah-ah, hah-ah)
+Vứt hết, đốt hết, cái kết quên đi mau
+Nguyện ước mai sau toàn những thương đau
+(Hah-ah, hah-ah)
+Giờ người là cá, còn em là cả đại dương
+(Hah, hah)
+Giờ người là cá, còn em là cả đại dương
+(Hah, hah)
+Giờ anh cứ vùng vẫy nhưng chẳng biết đâu là bờ
+
+[Outro: Quỳnh Anh Shyn & Lâm Bảo Ngọc, Saabirose, MAIQUINN]
+Tia nắng vừa lên, ai đó quên mau
+Nàng ngồi chênh vênh, nhìn về xa xăm rất lâu
+Tình yêu như cá kia nuốt lưỡi câu
+Lụy tình vì thính, đừng dại khờ rồi đánh mất mình, hoang phí xuân thì`,
+
+  "assets/artists/quanghungmasterd/audio/13 - Lò Vi Sóng.mp3": `[Intro]
+(Oh-oh-oh-oh-oh)
+(Oh-oh-oh-oh-oh)
+(Oh-oh-oh-oh-oh)
+(Oh-oh-oh-oh-oh)
+
+[Verse 1]
+Màn xương trôi xé nát bóng tối, một lần nữa tim chia làm đôi
+Cứ hy vọng, cứ xoay vòng, lời nói dối em treo đầu môi
+Giọt mưa miên rót vào đêm đen
+Miền ký ức anh không thể quên
+Dưới bóng trăng tàn, khúc nhạc vàng
+Ngày êm nấm đôi ta từng yêu
+
+[Chorus]
+Tình nung nóng lò vi sóng, bỏ vào cứ quay đi quay lại
+Tình ngang trái chờ đợi ai, chỉ còn lại những đêm bi hài
+Đồng hồ tíc tắc, từng nút tắt
+Vắt kiệt trong tim anh điên dại
+Đã qua nhiều lần, vỡ tan dần
+Đã qua nhiều lần ta bước xa dần, yah
+
+[Post-Chorus]
+(Oh-oh-oh-oh-oh)
+Cứ quay đi rồi cứ quay lại
+(Oh-oh-oh-oh-oh)
+Khoa anh với nỗi nhờ u hoài
+(Oh-oh-oh-oh-oh)
+Cứ quay đi rồi cứ quay lại
+(Oh-oh-oh-oh-oh)
+Anh cuốn trong kỷ niệm này tàn phai
+You might also like
+ĐOẠN KỊCH CÂM
+Anh Trai "Say Hi", CONGB (콩비), B Ray, Cody (Võ Đình Nam), Negav & Phạm Đình Thái Ngân
+NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN
+Anh Trai "Say Hi", VCT, Negav, Karik (VNM), Ngô Kiến Huy & JeyB (VNM)
+CHỜ ANH VỀ
+Anh Trai "Say Hi", B Ray & AMEE
+[Break]
+(Oh-oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh-oh)
+Anh cuốn trong kỷ niệm này tàn phai
+(Oh-oh-oh-oh-oh)
+Cứ quay đi rồi cứ quay lại
+(Oh-oh-oh-oh-oh)
+Khoa anh với nỗi nhờ u hoài
+(Oh-oh-oh-oh-oh)
+Cứ quay đi rồi cứ quay lại
+(Oh-oh-oh-oh-oh)
+Anh cuốn trong kỷ niệm này tàn phai
+
+[Verse 2]
+Đau thêm lần nữa, đau này đã chất xám quý tình yêu giờ như là anh đành phá (Yah)
+Giờ sóng vọng trong đôi mắt này, sự thật đang phơi bày, tan vỡ vụn mối tình đang lỡ vỡ rồi phải xót cay
+Những ngày tháng yêu dấu cũng đã trôi qua
+Cần cố gắng nắm lấy trái tim vẫn lạnh nhạt, đành bỏ đi bước hờ ôm giấc mơ chẳng còn đường nhớ
+
+[Chorus]
+Tình nung nóng lò vi sóng, bỏ vào cứ quay đi quay lại
+Tình ngang trái chờ đợi ai, chỉ còn lại những đêm bi hài
+Đồng hồ tíc tắc, từng nút tắt
+Vắt kiệt trong tim anh điên dại
+Đã qua nhiều lần, vỡ tan dần
+Đã qua nhiều lần ta bước xa dần, yah
+[Post-Chorus]
+(Oh-oh-oh-oh-oh)
+Cứ quay đi rồi cứ quay lại
+(Oh-oh-oh-oh-oh)
+Khoa anh với nỗi nhờ u hoài
+(Oh-oh-oh-oh-oh)
+Cứ quay đi rồi cứ quay lại
+(Oh-oh-oh-oh-oh)
+Anh cuốn trong kỷ niệm này tàn phai
+
+[Verse 3]
+Chẳng còn những nỗi dâng tràn
+Bộ phim cuối đã khép màn, đem đi hết nỗi buồn, đốt cháy thành đống tro tàn
+Lò vi sóng đã bao lần, bật là đau tắt cũng đau
+Có phải cô đơn nên ta xa mãi nhau
+
+Chẳng còn nắm đôi bàn tay
+Bộ phim cuối đã khép màn, đem đi hết nỗi buồn, đốt cháy thành đống tro tàn
+Lò vi sóng đã bao lần, bật là đau tắt cũng đau
+Có phải cô đơn nên ta xa mãi nhau
+
+[Post-Chorus]
+(Oh-oh-oh-oh-oh)
+Cứ quay đi rồi cứ quay lại
+(Oh-oh-oh-oh-oh)
+Khoa anh với nỗi nhờ u hoài
+(Oh-oh-oh-oh-oh)
+Cứ quay đi rồi cứ quay lại
+(Oh-oh-oh-oh-oh)
+Anh cuốn trong kỷ niệm này tàn phai
+[Outro]
+(Oh-oh-oh-oh-oh)
+(Oh-oh-oh-oh-oh)
+(Oh-oh-oh-oh-oh)
+(Oh-oh-oh-oh-oh)
+(Anh cuốn trong kỷ niệm này tàn phai)`,
+
+  "assets/artists/quanghungmasterd/audio/14 - Mashup Thuỷ Triều (2.0) & Ánh Mắt Biết Cười (Duzme Remix).mp3": `
+  [Pre-Chorus]
+  Tình yêu nung nấu phải đành chôn giấu bao lâu anh đang tìm kiếm
+Quyện vào lời ca, quyến rũ lên ngôi
+
+[Chorus: Quang Hùng MasterD, Tăng Duy Tân]
+Thế gian xoay vòng, chầm chậm thôi, chờ anh với
+Nhân duyên cũng đã dẫn lối, anh bên em, cuộc đời tuyệt vời (Bên em tuyệt vời)
+Thế nên, em à, chầm chậm thôi, chờ anh tới
+Gặp nhau khó lắm rồi, thì sao ta phải xa?
+
+[Chorus]
+Trao em tình yêu trao đi hết luôn cho nàng
+Chìm đắm say khung trời hai ta giữa chốn mơ màng
+Mắt nhắm tay đan tan trong nỗi nhớ vô vàn
+Nhớ em dù cho cạnh bên anh là càng yêu thêm, a-a-a
+
+M-m-m-m-m-màu mắt môi emmm
+
+[Verse 2]
+M-m-m-m-m-màu mắt môi em, anh chìm sâu
+Lắng nghe thêm khi ta chạm nhau
+Vầng trăng ghé thăm, Thủy Triều lên
+Hai ta ước đêm nay khó quên
+รักนะเธอ, anh ngẩn ngơ
+Khiến anh Feeling như nhà thơ
+Môi của em mùi hương rất khác
+Anh lại muốn hôn người thêm chốc lát
+
+[Pre-Chorus]
+Anh không muốn đâu, anh không muốn đó là cơn mộng
+(Đa-đa-đa) Trong đêm
+Oh, anh không muốn đâu, anh không muốn cứ phải ngóng trông
+(A-a, a-a) Dài thêm
+Tình yêu nung nấu phải đành chôn giấu bao lâu anh đang
+(Đa-đa-đa) Tìm kiếm
+Quyện vào lời ca quyến rũ lên ngôi
+
+
+Trao em tình yêu
+
+[Chorus]
+Trao em tình yêu trao đi hết luôn cho nàng
+Chìm đắm say khung trời hai ta giữa chốn mơ màng
+Mắt nhắm tay đan tan trong nỗi nhớ vô vàn
+Nhớ em dù cho cạnh bên anh là càng yêu thêm
+Trao em tình yêu trao đi hết luôn cho nàng
+Chìm đắm say khung trời hai ta giữa chốn mơ màng (A-a, a-a, a-a)
+Mắt nhắm tay đan tan trong nỗi nhớ vô vàn
+Nhớ em dù cho cạnh bên anh là càng yêu thêm, a-a-a
+
+[Outro: Quang Hùng MasterD, Tăng Duy Tân]
+Baby, let me know (Baby, let me know)
+Đã lỡ trao nhau nụ cười đắm đuối ngay trong lần đầu (Ngay trong lần đầu)
+Chắc có lẽ ta nên thuộc về nhau
+Chẳng muốn nói ra đâu (Chẳng muốn nói ra đâu)
+Chỉ là vì anh đã chẳng thể nào thoát khỏi
+Nụ cười em đánh rơi mà quên cả thế giới`,
+
+  "assets/artists/quanghungmasterd/audio/15 - Mưa Đá (2.0).mp3": `[Intro]
+Aah-aah-ah-ah
+Aah-aah-ah-ah
+Aah-aah-ah-ah-ah-aah
+
+Aah-ah
+Aah-ah-ah-ah-ah
+Aah-ah-ah-ah-aahh
+
+[Verse 1]
+Mưa lại rơi
+Rơi vào nơi niềm tin giá băng chìm đắm vô vị
+Vì người đến rồi đi
+Như lời ca anh đã từng viết trong đêm suy
+
+Niềm đau còn vương trên mi
+Rượu kề môi nốc anh uống hết ly còn lưu luyến chi
+Thời gian đã ngưng đọng
+Giọt nước mắt lưng tròng
+Nơi con tim không ngừng nhỏ máu
+
+[Chorus]
+Một tình yêu đã vỡ tan
+Mình anh giữa thế gian
+Ngồi ôm nỗi đau gánh đôi mi sầu
+Màn đêm lạnh vắng khóc than
+Tạm biệt những trái ngang đã từng mang (ooh-woah-ah-ah-ah)
+Mặt hồ yên ắng lá trôi
+Giọt lệ đắng khóe môi
+Nhìn theo ánh trăng vỡ đôi vô vọng đơn côi
+Một tình yêu lắm những ưu tư không thành
+Kéo theo ta vô vàn đớn đau
+You might also like
+Dear Mama
+2Pac
+THAO TÚNG TÂM LÝ
+MAIQUINN
+LƯỚI TÌNH
+MAIQUINN
+[Pro-Chorus]
+Một tình yêu lắm
+Một tình yêu lắm
+
+Một tình yêu lắm
+Một tình yêu lắm
+
+[Rap]
+Mê cung lạc lối em gieo vào tim anh
+Cơn mơ u tối em trao tặng tim anh
+Đôi chân cứ bước nhìn về
+Từng xẹo xước dày vò
+Từng mảnh thước phim không đẹp như tranh
+
+Buồng tim nhỏ máu đang phải giấu nơi vực sâu
+Bài học xương máu không thể đổi thay được đâu
+Kinh qua phương trời
+Đôi tay buông lơi
+Mai ta xa rời ngậm ngùi chơi vơi
+
+Nhìn làn mây bay dập dìu
+Lòng quyến luyến như lúc mới yêu
+Bờ môi ấy đã hoá dại khờ
+Bồi hồi tìm hoài niệm ngây thơ
+Giả vờ như chúng ta chưa từng
+Nói với nhau câu chào
+Đành quên đi
+Nhanh vậy sao
+[Chorus]
+Một tình yêu đã vỡ tan
+Mình anh giữa thế gian
+Ngồi ôm nỗi đau gánh đôi mi sầu
+Màn đêm lạnh vắng khóc than
+Tạm biệt những trái ngang đã từng mang (ooh-woah-ah-ah-ah)
+Mặt hồ yên ắng lá trôi
+Giọt lệ đắng khóe môi
+Nhìn theo ánh trăng vỡ đôi vô vọng đơn côi
+Một tình yêu lắm những ưu tư không thành
+Kéo theo ta vô vàn đớn đau
+
+[Outro]
+Một tình yêu lắm
+Một tình yêu lắm
+
+Một tình yêu lắm (lắm, lắm)
+Một tình yêu lắm (lắm, lắm)`,
+
+  "assets/artists/quanghungmasterd/audio/16 - MỘNG DUYÊN ft Song Luân & JSOL & Sơn.K & Emil Vergo.mp3": `[Intro]
+(Hino in your mind-mind)
+
+[Verse 1: Quang Hùng MasterD]
+Duyên trời cho mình gặp nhau giữa nhân gian
+Nhưng nợ đời đành đoạn đôi ta lỡ làng
+Từng là vạn lời yêu cũng hoá tro tàn
+Ôm vấn vương lưu lạc mộng trần trái ngang
+
+[Pre-Chorus: Song Luân & Quang Hùng MasterD]
+Chén rượu ta từng nếm, chắt thành nỗi đau từng đêm
+Chẳng thể nào ngừng đếm từng hồi ức khó quên
+Con thuyền vẫn đợi bến, biết ai nhớ, ai đợi mong
+Thiên lý tương ngộ năng huyễn duyên ly mộng
+Hah-ah-ah-ah-ah-ah-ah-ah, ngóng trông bóng hình ai đã dần phai
+Hah-ah-ah-ah-ah-ah-ah-ah-ah-ah, nỗi buồn ai hay
+
+[Chorus: Sơn.K & JSOL]
+Mộng duyên giữa đôi ta, như cánh hoa nở trong đêm trăng tà
+Tình yêu đến bên ta, nhưng chóng phai ngỡ như đoá Quỳnh Hoa
+Là tiên nữ nơi đâu, hương sắc theo dấu ta đến tiêu sầu
+Ngả nghiêng xiêu lòng say đắm muốn ngắm nhìn thật lâu
+Mộng duyên suốt năm canh, mong dáng ai muốn buông chẳng nỡ đành
+Gà gáy suốt đêm thanh, như cũng đang thấu cho nỗi lòng anh
+Ngày cứ thế trôi nhanh, lưu luyến ai mải mê đến hiu quạnh
+Hồn ta như lạc trong chốn nhân gian này
+Chẳng mong có ai thấu được lòng anh
+You might also like
+SECRET
+Tinh Hà "Say Hi", Cody (Võ Đình Nam), CONGB (콩비), Quang Hùng MasterD & Wren Evans
+CÓ GÌ ĐÂU MÀ CAY
+Tinh Hà "Say Hi", Captain, CoolKid, IVAN (Chen Mingxuan) & Xuân Định K.Y
+THẾ GIỚI CỦA ANH
+Tinh Hà "Say Hi", Dương Domic, buitruonglinh, CONGB (콩비) & WEAN
+[Post-Chorus: All]
+Khắc xuất, khắc xuất, nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ cơn mộng huyền
+
+[Verse 2: Quang Hùng MasterD & Song Luân]
+Đông Tây Nam Bắc, em giờ nơi đâu?
+Không gian chia cắt, sao mình xa nhau?
+Nhật Nguyệt tương khắc, anh chẳng buông đâu
+Anh thua em chắc, no-no
+Phong sương phủ kín khuất lối chàng
+Vượt ngàn hải lý ta kiếm nàng
+Gian nan bão tố cũng chẳng màng, hah-ah
+
+[Pre-Chorus: Sơn.K & JSOL]
+Chén rượu ta từng nếm, chắt thành nỗi đau từng đêm
+Chẳng thể nào ngừng đếm từng hồi ức khó quên
+Con thuyền vẫn đợi bến, biết ai nhớ ai đợi mong
+Thiên lý tương ngộ năng huyễn duyên ly mộng
+Hah-hah-hah-hah-ah-ah-ah-ah, ngóng trông bóng hình ai đã dần phai
+Hoh-oh-oh-oh-hoh-oh-oh-oh-oh-hah, nỗi buồn ai hay
+
+[Chorus: Quang Hùng MasterD & Song Luân]
+Mộng duyên giữa đôi ta, như cánh hoa nở trong đêm trăng tà
+Tình yêu đến bên ta, nhưng chóng phai ngỡ như đoá Quỳnh Hoa
+Là tiên nữ nơi đâu, hương sắc theo dấu ta đến tiêu sầu
+Ngả nghiêng xiêu lòng say đắm muốn ngắm nhìn thật lâu
+Mộng duyên suốt năm canh, mong dáng ai muốn buông chẳng nỡ đành
+Gà gáy suốt đêm thanh, như cũng đang thấu cho nỗi lòng anh
+Ngày cứ thế trôi nhanh lưu luyến ai mải mê đến hiu quạnh
+Hồn ta như lạc trong chốn nhân gian này
+Chẳng mong có ai thấu được lòng anh
+[Post-Chorus: All]
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ cơn mộng huyền
+
+[Instrumental Break]
+
+[Chorus: Sơn.K & JSOL]
+Mộng duyên giữa đôi ta, như cánh hoa nở trong đêm trăng tà
+Tình yêu đến bên ta, nhưng chóng phai ngỡ như đoá Quỳnh Hoa
+Là tiên nữ nơi đâu, hương sắc theo dấu ta đến tiêu sầu
+Ngả nghiêng xiêu lòng say đắm muốn ngắm nhìn thật lâu
+
+[Post-Chorus: All & JSOL]
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai xuất hiện
+Khắc xuất, khắc xuất nhập tình như mộng duyên
+Tắc tíc, tắc tiếng lòng chờ ai, chờ cơn mộng huyền`,
+
+  "assets/artists/quanghungmasterd/audio/17 - SECRET ft CODYNAMVO & CONGB & Wren Evans.mp3": `[Verse 1: CONGB & Cody Nam Võ]
+Kể từ khi gặp em (Em), trí nhớ hơi bị kém (Kém)
+Những món ăn thân quen sao nay bỗng dưng chẳng thèm? (Thèm)
+Dù bụng đói cồn cào, lại chẳng thể nói lời nào
+Vì gu em không thích người quá cao
+Mà anh chẳng hề cao (Cao), tính nóng hơi bị láo (Quá láo)Nói những câu tào lao khi em nói câu xin chào
+Vậy thì theo anh đến một nơi, không có biển khơi
+Chỉ có vườn với trái cây mà thôi
+
+[Pre-Chorus: Quang Hùng MasterD]
+Vườn anh có trái dưa, trái dâu, trái thơm, trái nho, có luôn banana
+Nhưng thiếu đi trái tim của một người (Một người)
+Lòng anh như gió đông giữa trời đêm, mong thấy em khi bình minh lên, oh-hoh
+
+[Chorus: Quang Hùng MasterD & CONGB]
+Tình đầu ngây thơ mà em, đúng không? (Đúng không?)
+Còn chưa nắm tay, chưa về tới phòng (Tới phòng)
+Mình còn trông ngóng biết nhiều về nhau
+Đêm đến ta lại ngắm sao, làm sao mở lòng? (Mở lòng)
+Chẳng phải em muốn được anh ghé tai? (Tai)
+Thầm thì vài câu suốt bao đêm dài (Dài)
+Trời cao có thấu nỗi lòng tận mây xanh?
+Nói em nghe bí mật của anh
+You might also like
+MRT
+Tinh Hà "Say Hi", Xuân Định K.Y, Captain, buitruonglinh & HYO (VNM)
+RUN TO YOU
+Tinh Hà "Say Hi", Ali Hoàng Dương, IVAN (Chen Mingxuan), KIMLONG & Song Luân
+MVP (MƯA VỘI PHÓNG)
+Tinh Hà "Say Hi", Wren Evans, Ali Hoàng Dương, Cody (Võ Đình Nam) & HYO (VNM)
+[Verse 2: Wren Evans]
+Nói hết bí mật thì có yêu không? (Uh, uh-huh)
+Muốn thấy bí mật hay em muốn nghe bằng lời nói?
+Đến đây với anh, trăm nghe không bằng một lần thấy
+Ai rồi cũng phải yêu rồi đấy, baby, ooh-ooh (Ah, ooh-ooh)
+Phải làm sao để gặp my baby?
+Muốn yêu em chân thành vì anh đâu muốn yêu theo phong trào mà bae (Ah-ah)
+Em quen anh chân thành, làm một bộ phim hai ta đóng vai người yêu (Ah-hah)
+Rất muốn ai đó có thể nói ra hết sự thật rằng anh thương em rất nhiều
+Giờ này nếu thắc mắc em qua bên
+
+[Pre-Chorus: Cody Nam Võ]
+Vườn anh có trái dưa, trái dâu, trái thơm, trái nho, có luôn banana
+Nhưng thiếu đi trái tim của một người
+Lòng anh như gió đông giữa trời đêm, mong thấy em khi bình minh lên (Ow!)
+
+[Chorus: Cody Nam Võ & Quang Hùng MasterD]
+Tình đầu ngây thơ mà em, đúng không?
+Còn chưa nắm tay, chưa về tới phòng (Tới phòng)
+Mình còn trông ngóng biết nhiều về nhau
+Đêm đến ta lại ngắm sao, làm sao mở lòng?
+Chẳng phải em muốn được anh ghé tai? (Ghé tai)
+Thầm thì vài câu suốt bao đêm dài (Dài)
+Trời cao có thấu nỗi lòng tận mây xanh?
+Nói em nghe bí mật của anh
+[Refrain: CONGB & Wren Evans]
+Từng chút, từng chút, từng chút lại gần bí mật của anh
+Đếm từng phút, từng phút lại gần bí mật của anh, (Của anh-anh) của anh, (Anh-anh) của anh, ah-no-hooh-ah-hooh-hah (Ooh-hah)
+Từng chút, từng chút, từng chút lại gần bí mật của anh
+Đếm từng phút, từng phút lại gần bí mật của anh, của anh, của anh
+
+[Verse 3: Cody Nam Võ, CONGB & Quang Hùng MasterD]
+"Baby à, anh đã nói là em trao cho anh trái tim, sao lại là trái bơ đó hả?"
+"Ây da thiệt là buồn quá đi đó mà, CONGB dô"
+Vậy người có muốn mình tay nắm tay? (Nắm tay)
+Tình anh đã trao không cần giãi bày (Giãi bày)
+Nụ cười em sáng hơn mặt trăng đang lên
+Chiếu sâu vào trái tim, anh không đỡ được (Đỡ được)
+Tặng nàng bài thơ dù không có hay (Có hay)
+Chỉ mong em hiểu lấy tâm tư này (Tư này)
+Trời cao có thấu nỗi lòng tận mây xanh?
+Nói em nghe bí mật của anh
+
+[Chorus: Wren Evans & Cody Nam Võ]
+Tình đầu ngây thơ mà em, đúng không?
+Còn chưa nắm tay, chưa về tới phòng
+Mình còn trông ngóng biết nhiều về nhau
+Đêm đến ta lại ngắm sao, làm sao mở lòng? (Mở lòng)
+Chẳng phải em muốn được anh ghé tai? (Ghé tai)
+Thầm thì vài câu suốt bao đêm dài
+Trời cao có thấu nỗi lòng tận mây xanh?
+Nói em nghe bí mật của anh`,
+
+  "assets/artists/quanghungmasterd/audio/18 - SOS ft Rhyder & Captain & WEAN & Ali Hoàng Dương.mp3": `[Chorus: All, Wean]
+Giải cứu con tim thoát ra khỏi cô đơn, em giam cầm cô đơn
+Để lại trong nỗi nhớ, oh
+Và anh chẳng muốn khóe môi này khô hơn, con tim bị thâu tóm
+
+[Verse 1: Wean, RHYDER & Quang Hùng MasterD]
+Ay, Weantodale, oh
+Đưa bàn tay người mang mình ra từ hố đen
+HURRYKNG là ai? Và anh không nhớ tên
+Màn đêm nhá nhem, phone anh thì đang nhớ em baby (Pick up your phone)
+SOS, chạy đến giải cứu ngay
+Cứu anh thoát ra khỏi cảm xúc hãy để cho đôi môi có thể lại gần hơn
+Liệu rằng chuyện này có quá nhanh (Hey)
+Khi đã yêu lắm rồi
+Chỉ muốn đến mở lời-oh-oh-oh (Woah)
+Tình cờ là em cũng thích anh (Hey), mong có anh kề cạnh
+Giữ của riêng để dành anh-anh-ah-ah (Ooh-woah-woah-woah)
+
+
+[Pre-Chorus: Quang Hùng MasterD]
+Baby girl, tụi mình nhìn cũng hợp gu (Ah)
+Chỉ còn lại việc đốt cháy nhanh đến giai đoạn (Hah), vì anh muốn hơn mức làm bạn
+Yeah girl, lồng ngực chẳng muốn phải đau
+Mọi chuyện đều được anh tính hết cả rồi chỉ đợi em trả lời (Ooh)
+You might also like
+ĐÓA HỒNG CHƠI VƠI
+Anh Trai "Say Hi" & Anh Tú (1992)
+GOODBYE ROCKY
+Dangrangto
+Mantra
+JENNIE
+[Chorus: Ali Hoàng Dương & Rhyder, RHYDER & Quang Hùng MasterD]
+Giải cứu con tim thoát ra khỏi cô đơn (Ooh-woah-woah)
+Em giam cầm cô đơn, để lại trong nỗi nhớ
+Và anh chẳng muốn khóe môi này khô hơn con tim bị thâu tóm rồi (Bị thâu tóm)
+I would never leave you girl
+
+[Post-Chorus: All, Ali Hoàng Dương & RHYDER & Wean]
+Anh cần được giải
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh (Baby, I want you)
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh (Baby I want, I want)
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh (Baby, I want you)
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh
+
+[Verse 2: CAPTAIN BOY, RHYDER & Quang Hùng MasterD]
+(Captain Boy bay tới đây)
+Nốc cả đêm anh như là Doctor Strange
+Uống để mong mình quên cảm giác phải cô đơn thêm
+Nàng chợt lướt ngang qua (Để giải cứu anh ra)
+Và đó một trong ba lý do phải có được em
+Không cần make a blink bởi vì em đẹp xinh tự nhiên
+Anh là boy độc thân lớ ngớ lại vớ được bé cười duyên, yah
+SOS, SOS, giờ thì anh phải gọi thêm chai nữa (Ooh-woah-woah-woah-woah) ngồi đến hết một đêm
+
+[Pre-Chorus: Wean, RHYDER & Wean]
+Baby boo, tụi mình nhìn cũng hợp gu
+Chỉ còn lại việc đốt cháy nhanh đến giai đoạn (Yah)
+Vì anh muốn hơn mức làm bạn
+Yeah girl, lồng ngực chẳng muốn phải đau
+Mọi chuyện đều được anh tính hết cả rồi chỉ đợi em trả lời (Oh-oh)
+[Chorus: CAPTAIN BOY, Quang Hùng MasterD & RHYDER]
+Giải cứu con tim thoát ra khỏi cô đơn (Ooh-woah-woah)
+Em giam cầm cô đơn, để lại trong nỗi nhớ (Oh)
+Và anh chẳng muốn khóe môi này khô hơn (Hey)
+Con-con tim bị thâu tóm rồi (Bị thâu tóm)
+I would never leave you girl
+
+[Post-Chorus: All & CAPTAIN BOY]
+Anh cần được giải
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh
+
+[Bridge: Ali Hoàng Dương, Ali Hoàng Dương & Quang Hùng MasterD & Ali Hoàng Dương & CAPTAIN BOY]
+Anh đã từng hứa rằng mình sẽ chẳng còn yêu một ai nữa
+Nhưng cho đến ngày hôm bữa, anh biết anh đã sai từ đầu (Hah-oh)
+Có vẻ là hơi nóng và con tim ngày càng đập nhanh chóng
+Gọi cho anh cấp cứu trái tim này vội, em có thể trả lời
+
+[Break: Quang Hùng MasterD]
+(Ooh-woah-woah-woah)
+
+[Refrain: RHYDER]
+Trả lời, trả lời một câu thôi
+Nói với anh ngay lúc này để anh biết
+Tùy độ thân thiết chúng ta
+Làm ơn sự cô đơn (Ở trong anh) (Ah-ah-ah-ah-ah)
+Anh luôn giam giữ bấy lâu nay (Ah-ah-ah-ah-ah)
+Hãy chạy đến và cứu lấy trái tim này (Ah-ah-ah-ah-ah)
+[Chorus: CAPTAIN BOY, Ali Hoang Duong & RHYDER]
+Giải cứu con tim thoát ra khỏi cô đơn (Ooh-woah-oh) em giam cầm cô đơn (Oh-ah)
+Để lại trong nỗi nhớ (Để cho anh mãi)
+Và anh chẳng muốn khóe môi này khô hơn (Hey)
+Con tim anh bị thâu tóm rồi (Oh, thâu)
+I would never leave you girl (One, two, three, hey)
+
+[Outro: All, Ali Hoàng Dương & RHYDER]
+Anh cần được giải
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh (Oh-ah)
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh (Hey, ooh-ooh)
+Anh cần được giải
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh (Anh cần được giải cửu, oh-woah)
+Cứu-ooh-ooh-ooh-ooh-ooh-ooh (Hey, hey, hey, hey)
+Anh cần được giải (Cần được giải)`,
+
+  "assets/artists/quanghungmasterd/audio/19 - Thả Anh Ra (2.0).mp3": `[Verse 1]
+(Shh)
+Thả anh ra, thả-thả-thả anh ra
+Đừng mang thêm cơn suy
+Em quay lưng đi chẳng nói gì (Chẳng nói gì)
+
+Ngày hôm qua (Ah-ah)
+Tưởng rằng đẹp như hoa
+Ngờ đâu là vực sâu
+Tâm hồn rách nát úa màu (Ah-ah)
+
+[Pre-Chorus]
+Ân tình đã khâu
+Tơ trăng buông rèm cất nỗi đau
+Đưa tay chạm vào giấc mộng
+Giật mình chẳng còn ai ngóng trông
+
+Tâm hồn đánh rơi
+Rơi trong đêm say cạn tả tơi
+Mang theo tình yêu chết lặng
+Nơi con tim chẳng thể với (Tớ-ớ-ớ-ớ-i)
+
+[Chorus]
+Giọt lệ đắng, vắng em đi rồi
+Bóng dáng khuất sau lưng
+Đồi làn mây, đẩy trôi hững hờ
+Người đến rồi bước đi đâu ngờ
+You might also like
+TRỜI SAO
+52Hz
+CHẲNG PHẢI ANH ĐÂU
+Em Xinh "Say Hi", 52Hz, Châu Bùi, Orange, Phương Ly & Vũ Thảo My
+CHÂN THÀNH
+Anh Trai "Say Hi", RHYDER, Ali Hoàng Dương, Captain, Quang Hùng MasterD & WEAN
+Người đừng trói
+Trói cơn đau này
+Những trầy xước đã đủ đầy
+Em ơi, xin em hãy tự buông tha (Ah-ah)
+
+[Post-Chorus]
+Thả anh ra-a-a
+Thả anh ra-a-a-ra
+Thả anh ra-a-a
+Thả anh ra-a xa mà
+
+Thả anh ra-a-a
+Thả anh ra-a-a-ra
+Thả anh ra-a-ra
+Hah-ah-ah-ah
+
+[Verse 2]
+(Và đây là Quang Hùng MasterD)
+Tim anh đã tróc mái
+Như căn nhà cũ tan hoang phôi phai
+Đập nát hết những giấc mơ ta từng xây
+Chỉ còn bóng tối treo trên nơi làn mây
+
+Bay theo lối về đôi chân anh qua
+Sương phủ kín mờ màu đêm dối trá (Dối trá)
+Không còn ánh mắt ngây thơ hồn nhiên
+Người chiếm lấy thể xác khiến anh như thằng điên
+Từng lời yêu, giờ là điều cay đắng
+Từng lời thương, còn lại đường tay trắng
+Bức tranh anh vẽ lên không tên
+Chỉ muốn đốt cháy nhanh khiến tim mau quên (Quên)
+
+Một lần yêu bằng cả triệu lần đau
+Đành chôn giấu tình này không ai thấu
+Tình đã tắt cắt vỡ làm đôi cung trăng đêm sầu (Một-một-một)
+
+Một, hai, ba
+Lời mật ngọt buôn ra (Ah-ah)
+Rượu nồng cầm trên tay
+Ánh mắt đắm đuối uống đến say (Uống đến say)
+
+Từng đêm qua
+Chuyện mình đẹp như hoa (Hoa)
+Ngờ đâu chỉ là mơ
+Anh ôm hình bóng như gã khờ
+
+[Pre-Chorus]
+Ân tình đã khâu
+Tơ trăng buông rèm cất nỗi đau
+Đưa tay chạm vào giấc mộng
+Giật mình chẳng còn ai ngóng trông
+
+Tâm hồn đánh rơi
+Rơi trong đêm say cạn tả tơi
+Mang theo tình yêu chết lặng
+Nơi con tim chẳng thể với (Tớ-ớ-ớ-ớ-i)
+[Chorus]
+Giọt lệ đắng, vắng em đi rồi
+Bóng dáng khuất sau lưng
+Đồi làn mây, đẩy trôi hững hờ
+Người đến rồi bước đi đâu ngờ
+
+Người đừng trói
+Trói cơn đau này
+Những trầy xước đã đủ
+Đầy em ơi, xin em hãy tự buông tha (Ah-ah)
+
+[Coda]
+Giọt lệ đắng, vắng em đi rồi
+Bóng dáng khuất sau lưng
+Đồi làn mây, đẩy trôi hững hờ
+Người đến rồi bước đi đâu ngờ
+
+Người đừng trói
+Trói cơn đau này
+Những trầy xước đã đủ
+Đầy em ơi, xin em hãy tự buông tha
+
+[Outro]
+Thả anh ra-a-a
+Thả anh ra-a-a-ra
+Thả anh ra-a-a
+Thả anh ra-a xa mà
+
+Thả anh ra-a-a
+Thả anh a-a-a-ra
+Thả anh ra-a-ra
+Hah-ah-ah-ah
+
+Thả anh ra (Thả anh ra)
+A-a-a
+Thả anh ra (Thả anh ra)
+Thả anh ra-ra xa mà
+
+Thả anh ra (Thả anh ra)
+A-a-a-a
+Thả anh ra (Thả anh ra)`,
+
+  "assets/artists/quanghungmasterd/audio/20 - Thủy Triều (2.0).mp3": `[Verse 1]
+Nhắm mắt lại, hôn vào tai
+Nhớ em anh không thể nào cai
+Cuốn lấy nhau như sóng dập dìu
+Anh là gió em là Thủy Triều
+Bịt mắt em lại, ไม่มีได้
+Thế đêm nay em đang cần ai
+Uống hết ly rượu đầy trên tay
+Ta cứ như là người trên mây
+
+[Pre-Chorus]
+Oh, anh không muốn đâu, anh không muốn đó là cơn mộng
+(Đa-đa-đa) Trong đêm
+Oh, anh không muốn đâu, anh không muốn cứ phải ngóng trông
+(A-a) Dài thêm
+Tình yêu nung nấu phải đành chôn giấu bao lâu anh đang
+(Đa-đa-đa) Tìm kiếm
+Quyện vào lời ca quyến rũ lên ngôi
+
+[Chorus]
+Trao em tình yêu trao đi hết luôn cho nàng
+Chìm đắm say khung trời hai ta giữa chốn mơ màng
+Mắt nhắm tay đan tan trong nỗi nhớ vô vàn
+Nhớ em dù cho cạnh bên anh là càng yêu thêm, a-a-a
+You might also like
+Quang Hùng MasterD - Thủy Triều (English Translation)
+Genius English Translations
+แค่เรา (Thủy Triều) (Thai Version)
+Quang Hùng MasterD
+TRÓI EM LẠI
+Anh Trai "Say Hi" & Quang Hùng MasterD
+[Verse 2]
+M-m-m-m-m-màu mắt môi em, anh chìm sâu
+Lắng nghe thêm khi ta chạm nhau
+Vầng trăng ghé thăm, Thủy Triều lên
+Hai ta ước đêm nay khó quên
+รักนะเธอ, anh ngẩn ngơ
+Khiến anh Feeling như nhà thơ
+Môi của em mùi hương rất khác
+Anh lại muốn hôn người thêm chốc lát
+
+[Pre-Chorus]
+Anh không muốn đâu, anh không muốn đó là cơn mộng
+(Đa-đa-đa) Trong đêm
+Oh, anh không muốn đâu, anh không muốn cứ phải ngóng trông
+(A-a, a-a) Dài thêm
+Tình yêu nung nấu phải đành chôn giấu bao lâu anh đang
+(Đa-đa-đa) Tìm kiếm
+Quyện vào lời ca quyến rũ lên ngôi
+
+[Chorus]
+Trao em tình yêu trao đi hết luôn cho nàng
+Chìm đắm say khung trời hai ta giữa chốn mơ màng
+Mắt nhắm tay đan tan trong nỗi nhớ vô vàn
+Nhớ em dù cho cạnh bên anh là càng yêu thêm
+Trao em tình yêu trao đi hết luôn cho nàng
+Chìm đắm say khung trời hai ta giữa chốn mơ màng (A-a, a-a, a-a)
+Mắt nhắm tay đan tan trong nỗi nhớ vô vàn
+Nhớ em dù cho cạnh bên anh là càng yêu thêm, a-a-a`,
+
+  "assets/artists/quanghungmasterd/audio/21 - Trói Em Lại.mp3": `[Intro]
+Tr-tr-tr-tr-trói
+Tr-tr-tr-tr-tr-trói
+Tr-tr-tr-tr-trói
+Tr-tr-tr-tr-tr—
+
+[Verse 1]
+Trói em vào tim ta
+Dường như ta lại thấy tâm tình tuôn ra
+Ngày hôm qua nỗi nhớ lẻn vào tim ta
+Mà hôm nay đã lớn nên nhành, nên hoa (Oh-oh, oh-oh-oh)
+Có nỗi buồn không tên lạc vào nơi tâm trí, trú ngự bao đêm (Yeah-eh-eh)
+Tại vì si mê quá nên là anh quên
+Thì ra anh đang say, say một thoáng môi mềm
+
+[Refrain]
+Trói em lại (Trói, trói), anh phải trói em lại (Trói, trói)
+Không thì em bỏ đi, để lại anh giọt sầu trên mi
+Trói em lại (Trói, trói), yêu em, anh điên dại (Trói, trói)
+Trót lưỡi đầu môi, anh xin đơn côi một đờ-oh-ời
+
+[Pre-Chorus]
+Ooh-na-na-na-na-na-ah-ah-ah-ah-ah
+Biết nói sao khi, khi tâm tư em rối bời? (Ah-ah-ah)
+Oh-ooh-na-na-na-na-na-ah-ah-ah-ah
+Vậy đành thôi, em đã giết chết tấm thân tôi rồi!
+You might also like
+TÌNH ĐẦU QUÁ CHÉN
+Anh Trai "Say Hi", Quang Hùng MasterD, ERIK, Negav & Pháp Kiều
+뛰어 (JUMP)
+BLACKPINK
+Mưa Trên Phố Huế
+Nhà Chín Muồi
+[Chorus]
+Ừ thì anh đang nhớ em mà
+Đừng làm con tim anh xót xa
+Một lần yêu không thoát ra được nên xin người hãy thứ tha!
+Từng nhịp tim anh đánh liên hồi
+Đừng vội gieo tương tư thế rồi lại thả trôi anh giữa dòng đời
+Người ơi, xin đừng cố thoát ra khỏi tim tôi!
+
+[Breakdown]
+Uh, yeah
+La-ooh
+Bảy lăm Huế, mình lên show, dù bất kể là nơi mô
+Vẫn luôn tự hào về người cố đô, cố đô (La-la-ooh)
+Hello, Anh Trai "Say Hi", gặp rồi chẳng muốn say bye
+Và đây là Quang Hùng MasterD, oh
+
+[Verse 2]
+Nói-nói-nói-nói
+Nói em hoài không nghe
+Tình yêu chưa đủ lớn, xin đừng đem khoe
+Làm như anh còn bé, em thích là em quay xe (Uh)
+Em đùa cho vui, mà làm như rứa anh không vui
+(Nên là) Trói em vào tim ta thì ta phải trói luôn cả nỗi buồn em gây ra (Ah-ah-ah-ah)
+Vì em là đóa hoa mà ông trời ban cho ta
+Ừ thì là hoa, nhưng loài hoa này có gai
+[Refrain]
+Trói em lại (Lại), anh phải trói em lại (Lại)
+Không thì em bỏ đi, để lại anh giọt sầu trên mi
+Trói em lại (Lại), yêu em, anh điên dại (Dại)
+Trót lưỡi đầu môi, anh xin đơn côi một đờ-oh-ời
+
+[Pre-Chorus]
+Ooh-na-na-na-na-na-ah-ah-ah-ah-ah
+Biết nói sao khi, khi tâm tư em rối bời?
+Oh-ooh-na-na-na-na-na-ah-ah-ah-ah
+Vậy đành thôi, em đã giết chết tấm thân tôi rồi!
+
+[Chorus]
+Ừ thì anh đang nhớ em mà
+Đừng làm con tim anh xót xa
+Một lần yêu không thoát ra được nên xin người hãy thứ tha!
+Từng nhịp tim anh đánh liên hồi
+Đừng vội gieo tương tư thế rồi lại thả trôi anh giữa dòng đời
+Người ơi, xin đừng cố thoát ra khỏi tim tôi!
+
+[Breakdown]
+(Xin đừng cố thoát ra khỏi tim tôi)
+(สวัสดีครับ)
+(สวัสดีครับ)
+(สวัสดีครับ)
+(สวัสดีครับ)`,
+
+  "assets/artists/quanghungmasterd/audio/22 - Tình Đầu Quá Chén ft Negav & Erik & Pháp Kiều.mp3": `[Part I]
+
+[Verse 1: Quang Hùng MasterD & Negav]
+Tình đầu trong anh như chén rượu sầu, dẫu có lúc nhạt màu
+Vẫn khắc sâu, biết chắc là đau (Là đau)
+Dẫu có lúc đậm sâu
+Đến mức nghi ngờ (Ah) tỉnh giấc lúc hai giờ (Ah)
+Nhớ em, nhớ trong giấc mơ, đến khi xác xơ
+Tình đầu ai cũng có lỗi lầm mà
+Cũng phải có lần đầu vấp ngã thế nó mới nhận ra
+Những khúc mắc ngày qua
+Dối trá ta mà, mịt mờ khắp cõi ta bà
+Hãy nhìn nơi đôi mắt sâu này em có tin rằng chúng ta hợp nhau?
+
+[Pre-Chorus: Pháp Kiều]
+Thế nên đừng làm quá trớn, đừng làm quá trớn chuyện gì
+Từng lời nói nên nhẹ nhàng, thấm thía chuyện buồn dễ đến rồi đi
+Đừng hoang mang, thêm u sầu nhức hết cả đầu
+Thay vì ngồi đó hứng buồn rầu
+Hãy mang câu ca này xóa hết đi
+
+[Chorus: Erik & Quang Hùng MasterD]
+Mối tình đầu quá trớn, ta nên dừng
+Từng ngàn câu hứa phôi phai, giờ này người đang nhấp môi ai? (Ah-ah-ah)
+Nỗi đau này quá lớn, anh chưa từng
+Vậy thì tại sao? (Ah-ah-ah-ah)
+Mối tình đầu quá trớn, ai cũng từng
+Từng là từng ôm gối bên nhau giờ lại tặng nhau vết thương sâu (Ooh-ah-ah-ah)
+Nỗi nhớ này quá lớn, xin em đừng dằn vặt tim anh
+Vậy thôi kết thúc cho nhanh!
+You might also like
+Thick Of It
+KSI
+Rah Tah Tah
+Tyler, The Creator
+BAD NIGHT
+Tinh Hà "Say Hi", Dương Domic, Ali Hoàng Dương, DANG HONG HAI & Pháp Kiều
+[Post-Chorus: All & Quang Hùng MasterD]
+Một, hai bước, nhìn về phía trước
+Một, hai bước, chuyện buồn ta lướt (Vậy thôi, kết thúc cho nhanh)
+Một, hai bước, nhìn về phía trước
+Một, hai bước, chuyện buồn ta lướt (Vậy thôi, kết thúc cho nhanh)
+
+[Verse 2: Negav & Pháp Kiều]
+Ngây thơ mà, anh đã nghĩ từng đẹp y như là mơ mà (Mơ mà)
+Đau vạn lần nhưng anh vẫn muốn là nạn nhân (What?) không ai có thể níu chân vì em, anh thành ngáo ngơ mà, baby (Drama)
+Yêu nhưng đôi lúc lại không cần ghen, không cần biết
+Và cho em tâm thế đúng là mối tình đầu tiên
+Yêu không phanh, cùng em đi chung bước
+Nhưng mà sao cứ nhắc lại là xót ở trong anh?
+
+[Verse 3: Erik]
+Tình đầu mong manh như lá lìa cành
+Như trăng giữa mặt hồ, sóng đánh, xô nghiêng, chẳng thể vẹn nguyên (Vẹn nguyên)
+Cắt đứt đôi tình duyên dưới ánh trăng tàn (Ah)
+Chẳng còn những tiếng thở than (Ah), yeah
+Nhìn vào đôi mắt sâu này, em có tin rằng chúng ta hợp nhau?
+
+[Pre-Chorus: Negav & Pháp Kiều]
+Thế nên đừng làm quá trớn, đừng làm quá trớn chuyện gì
+Từng lời nói nên nhẹ nhàng, thấm thía chuyện buồn dễ đến rồi đi
+Đừng hoang mang, thêm u sầu nhức hết cả đầu
+Thay vì ngồi đó hứng buồn rầu
+Hãy mang câu ca này xóa hết (đi)
+[Chorus: Quang Hùng MasterD & Negav]
+Mối tình đầu quá trớn, ta nên dừng
+Từng ngàn câu hứa phôi phai, giờ này người đang nhấp môi ai? (Ah-ah-ah)
+Nỗi đau này quá lớn, anh chưa từng
+Vậy thì tại sao?
+Mối tình đầu quá trớn, ai cũng từng
+Từng là từng ôm gối bên nhau, giờ lại tặng nhau vết thương sâu
+Nỗi nhớ này quá lớn, xin em đừng dằn vặt tim anh
+Vậy thôi kết thúc cho nhanh!
+
+[Chorus: Erik & Pháp Kiều]
+Mối tình đầu quá trớn, ta nên dừng
+Từng ngàn câu hứa phôi phai, giờ này người đang nhấp môi ai?
+Nỗi đau này quá lớn, anh chưa từng
+Vậy thì tại sao? (Oh-oh-oh-oh-oh)
+Mối tình đầu quá trớn, ai cũng từng
+Từng là từng ôm gối bên nhau, giờ lại tặng nhau vết thương sâu (Ooh-oh-ooh-woah)
+Nỗi nhớ này quá lớn, xin em đừng dằn vặt tim anh
+Vậy thôi kết thúc cho nhanh!
+
+[Interlude: Quang Hùng MasterD]
+(Thôi kết thúc cho nhanh)
+
+[Part II]
+
+[Coda: Quang Hùng MasterD, All]
+(Vậy thôi kết thúc cho nhanh)
+Một, hai bước, nhìn về phía trước
+Một, hai bước, chuyện buồn ta lướt (Vậy thôi, kết thúc cho nhanh)
+Một, hai bước, nhìn về phía trước
+Một, hai bước, chuyện buồn ta lướt (Vậy thôi, kết thúc cho nhanh)
+Một, hai bước, nhìn về phía trước
+Một, hai bước, chuyện buồn ta lướt (Vậy thôi, kết thúc cho nhanh)
+Một, hai bước, nhìn về phía trước
+Một, hai bước, chuyện buồn ta lướt (Vậy thôi, kết thúc cho nhanh)`,
+
+  "assets/artists/quanghungmasterd/audio/23 - Đầu Tư Cho Trái Tim.mp3": `[Intro]
+Ooh-ah
+Ooh-ah
+Ooh-ah
+
+[Verse 1]
+Cùng em đi trên đoạn đường tương lai
+Yêu em, chẳng cần thêm ai
+Nàng là duy nhất trong trái tim của anh
+Dù là trăm năm sau, tình này không vơi
+Nguyện yêu em suốt đời (Suốt đời)
+Dẫu có nắng hay mưa giông, anh luôn bên em, cầm tay
+Yêu em như nhịp đập trái tim, anh chưa bao giờ nghỉ ngơi
+Người là tia nắng xua tan đi ngày bão giông
+Có lúc thấy cuộc sống chênh vênh, đôi chân này bấp bênh (Bấp bênh)
+Một nụ cười của em cũng khiến trái tim anh bình yên
+
+[Pre-Chorus]
+Anh sẽ bên cạnh em những lúc vui, bờ vai của em mỗi khi buồn (Mỗi khi buồn)
+Dành tặng cho em con tim anh bấy lâu gìn giữ
+Anh mong một ngày chẳng xa, hai ta về chung một mái nhà (Một mái nhà)
+Giờ thì anh muốn được —
+
+[Chorus 1]
+Đầu tư cho trái tim, em là người mà anh kiếm tìm
+Ngàn lời yêu thương có nói ra cũng chẳng nói hết lòng anh
+Bầu trời kia có thay màu, tình này vẹn nguyên phút ban đầu
+Cuộc đời anh từ nay gọi tắt là em
+Woah-oh-oh, ooh-woah
+You might also like
+CHÂN THÀNH
+Anh Trai "Say Hi", RHYDER, Ali Hoàng Dương, Captain, Quang Hùng MasterD & WEAN
+NGÁO NGƠ
+Anh Trai "Say Hi", HIEUTHUHAI, Anh Tú Atus, ERIK & JSOL
+NGẠO NGHỄ
+Anh Trai "Say Hi", Anh Tú Atus, HURRYKNG, Isaac & RHYDER
+[Post-Chorus]
+(Là em)
+Eh-yeah, ah-ah
+Ooh, no-oh-oh, ooh-woah (Là em)
+La-la-la, la-la-la-la, no-oh-oh, ooh-woah (Là em)
+Eh-yeah, eh-yeah
+Nah-ah-ah-ah
+Ooh, la-la-la-la-la-la-ah
+
+[Verse 2]
+Đừng làm anh bối rối (Bối rối), khi ánh mắt đắm đuối ngập ngừng trên đôi môi (Đôi môi)
+Người làm anh xao xuyến lòng, chẳng phải là một giấc mộng
+Người ơi, em biết không? Điều bấy lâu anh mong chờ (Ah-ah)
+Từ quá khứ hay cho tới tương lai (Ah-ah)
+Tình yêu trao em, trao đến lâu dài
+Chẳng cần đúng hay sai, chẳng muốn thêm ai
+Khẽ nói bên tai rằng con tim anh nhớ đến em không hề cai
+Nhịp tay đan tay, điệu nhạc cứ mê say
+Mình vui hết đêm nay, chẳng nghĩ suy sau này (Ah-ah)
+Nhịp tim rung lên, tình yêu đã kêu tên
+Điều anh muốn bao lâu nay tìm đến
+
+[Pre-Chorus]
+Anh sẽ bên cạnh em những lúc vui, bờ vai của em mỗi khi buồn (Mỗi khi buồn)
+Dành tặng cho em con tim anh bấy lâu gìn giữ
+Anh mong một ngày chẳng xa, hai ta về chung một mái nhà (Một mái nhà)
+Giờ thì anh muốn được —
+[Chorus 2]
+Đầu tư cho trái tim, em là người mà anh kiếm tìm
+Ngàn lời yêu thương có nói ra cũng chẳng nói hết lòng anh
+Bầu trời kia có thay màu, tình này vẹn nguyên phút ban đầu
+Cuộc đời anh từ nay gọi tắt là em
+Cầm tay em chẳng xa rời, một lòng yêu em suốt đời
+Mình kề bên nhau cứ thế rong chơi, tìm những chân trời mới
+Chìm trong đôi mắt của người, chẳng cần men, anh cũng say rồi (Say rồi)
+Yêu em nhưng anh lại thành nhà đầu tư
+
+[Breakdown]
+Đầu tư cho trái tim! (Trái tim)
+Ooh-nah-ah-ah-ah-ah-ah-ah
+No-oh-oh-oh, oh-oh-oh, oh-oh-oh, oh-oh-oh-oh, yeah
+Ooh-nah-ah-ah-ah
+La-la-ah
+
+[Outro]
+Đầu tư cho trái tim, em là người mà anh kiếm tìm
+Ngàn lời yêu thương có nói ra cũng chẳng nói hết lòng anh
+Bầu trời kia có thay màu, tình này vẹn nguyên phút ban đầu
+Cuộc đời anh từ nay gọi tắt là em
+Là em`,
+
+  "assets/artists/quanghungmasterd/audio/24 - Đừng Khóc Một Mình.mp3": `[Verse 1]
+Lại là câu chia tay
+Ta có mệt không?
+Vỡ nát bao nhiêu lần rồi
+Trái tim chẳng còn thể ngăn nước mắt lại rơi
+Lại thêm đớn đau
+
+Ngập ngừng ta chẳng nói
+Cứ thế rời đi
+Đôi chân chẳng còn mạnh mẽ
+Lý do chia tay ai còn biết đâu
+
+Về sau chẳng thấy
+Để mất đi người mình yêu
+
+[Chorus]
+Đừng khóc một mình em ơi
+Vì những câu chuyện đâu ai hiểu được
+Là do ta đã quá yêu thôi mà
+Là do ta đã chấp nhận tổn thương
+
+Vì thế gian đầy ưu tư
+Vì thế ta lạc mất nhau thật rồi
+You might also like
+MỘNG DUYÊN
+Tinh Hà "Say Hi", Quang Hùng MasterD, JSOL, Song Luân & Sơn K (VNM)
+CHÂN THÀNH
+Anh Trai "Say Hi", RHYDER, Ali Hoàng Dương, Captain, Quang Hùng MasterD & WEAN
+Đừng Vì Anh Mà Khóc
+Quang Hùng MasterD
+Anh chẳng thể níu giữ
+Anh chẳng thể lau những nỗi đau còn giấu
+Từ sâu trong đôi mắt em
+
+[Verse 2]
+Ngày mai kia sẽ khác
+Sẽ chẳng buồn đau
+Sẽ chẳng là gì của nhau
+Dẫu trên đường đời
+Sau này có thêm một ai thì ta vẫn cười
+
+Đừng để dành suy tư
+Cho những ngày sau
+Em phải thật sự hạnh phúc
+Biết đâu chia tay em lại tốt hơn là
+Khi bên anh
+Em hãy buông tay rời xa
+
+[Chorus]
+Đừng khóc một mình em ơi
+Vì những câu chuyện đâu ai hiểu được
+Là do ta đã quá yêu thôi mà
+Là do ta đã chấp nhận tổn thương
+
+Vì thế gian đầy ưu tư
+Vì thế ta lạc mất nhau thật rồi
+Anh chẳng thể níu giữ
+Anh chẳng thể lau những nỗi đau còn giấu
+Từ sâu trong đôi mắt em
+
+[Bridge]
+(Đừng khóc một mình em ơi
+Vì những câu chuyện đâu ai hiểu được
+Là do ta đã quá yêu thôi mà)
+Là do ta đã chấp nhận tổn thương
+
+[Outro]
+Vì thế gian đầy ưu tư (oh-oh-oh)
+Vì thế ta lạc mất nhau thật rồi
+Anh chẳng thể níu giữ
+Anh chẳng thể lau những nỗi đau còn giấu
+Từ sâu trong đôi mắt em`,
+
   // -------------------------------------TINH HÀ SAY HI-----------------------------------------
   // --------------------------------------------------------------------------------------------
   "assets/artists/tinhhasayhi/audio/1 - THẾ GIỚI CỦA ANH ft Dương Domic & buitruonglinh & CONGB & WEAN & Vận Toàn.mp3": `[Verse 1: buitruonglinh]
